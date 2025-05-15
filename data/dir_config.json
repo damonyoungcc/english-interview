@@ -1,0 +1,9 @@
+{
+  "day01": {
+    "01": {
+      "audio_file": "1.m4a",
+      "path": "data/day01/01",
+      "word_corrected_json": "1.corrected.word.json"
+    }
+  }
+}
