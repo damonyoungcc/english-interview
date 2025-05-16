@@ -131,7 +131,6 @@ html, body {
 .highlight {
   background-color: #fffb00;
   color: black;
-  font-weight: bold;
   transition: background 0.2s ease;
 }
 
