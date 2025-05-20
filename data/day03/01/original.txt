@@ -1,0 +1,109 @@
+1.advantage – One big advantage of working from home is that you can save time on commuting.
+2.apology – He gave a sincere apology after arriving late to the meeting.
+3.attempt – She made an attempt to climb the mountain, but had to stop halfway.
+4.base – This information forms the base of our report.
+5.care – Parents always take great care of their children.
+6.choice – It was a difficult choice, but I had to pick just one.
+7.comfort – This chair gives me a lot of comfort after a long day.
+8.comparison – In comparison to last year, our sales have improved.
+9.complaint – He made a complaint about the noise from the neighbor’s party.
+10.conclusion – After hours of discussion, they finally reached a conclusion.
+11.connection – There’s a strong connection between sleep and health.
+12.consequence – He didn’t study, and the consequence was a poor grade.
+13.conversation – We had a deep conversation about our future plans.
+14.cost – The total cost of the trip was higher than expected.
+15.custom – It’s a local custom to take off shoes before entering.
+16.degree – She earned a degree in engineering from a top university.
+17.delay – There was a short delay because of the heavy traffic.
+18.desire – He has a strong desire to learn new languages.
+19.distance – The distance between the two cities is about 300 kilometers.
+20.dream – Her dream is to travel around the world one day.
+21.entry – He was denied entry because he forgot his ID.
+22.event – The event was so popular that all the tickets were sold out.
+23.failure – Failure is often the first step toward success.
+24.focus – Try to keep your focus during the meeting.
+25.hope – I still have hope that things will get better.
+
+## Verbs (25)
+
+1.accept – She finally accepted the invitation after thinking about it for days.
+2.avoid – I try to avoid junk food as much as possible.
+3.believe – Many people believe that hard work brings success.
+4.borrow – Can I borrow your umbrella for a few minutes?
+5.cancel – We had to cancel our trip due to bad weather.
+6.compare – Let’s compare the two options before we decide.
+7.complain – He often complains when things don’t go his way.
+8.deliver – The package was delivered to the wrong address.
+9.describe – Can you describe what happened in more detail?
+10.discover – They discovered a new café near the station.
+11.doubt – I doubt he will finish the task on time.
+12.enjoy – I really enjoyed the movie we watched last night.
+13.escape – The bird escaped through the open window.
+14.explain – Could you explain this rule again more clearly?
+15.guess – I can’t guess the answer without more information.
+16.happen – What happened during the meeting this morning?
+17.hope – I hope everything goes well with your interview.
+18.imagine – Imagine living by the sea every day.
+19.invite – Did you invite Sarah to your birthday party?
+20.lie – He lied about finishing his homework.
+21.miss – I miss my hometown when I’m away.
+22.prepare – I need to prepare for tomorrow’s test.
+23.realize – I didn’t realize the shop was closed today.
+24.remember – Please remember to bring your ID.
+25.win – Our team worked hard and finally won the game.
+
+## Adverbs (25)
+
+1.actually – I actually liked the book more than I expected.
+2.badly – He wanted the job so badly that he couldn’t sleep.
+3.carefully – Please read the instructions carefully before you begin.
+4.daily – I go for a walk daily to stay healthy.
+5.easily – This app lets you edit photos easily.
+6.finally – We finally reached the top of the hill after a long hike.
+7.generally – People generally agree that kindness matters.
+8.happily – The children played happily in the park.
+9.honestly – Honestly, I think this could have been done better.
+10.immediately – You should wash the wound immediately.
+11.kindly – She kindly offered to help me with my bags.
+12.lately – I haven’t seen him much lately.
+13.neatly – She wrote her essay very neatly.
+14.officially – The store officially opens next week.
+15.openly – They spoke openly about their opinions.
+16.personally – Personally, I prefer tea over coffee.
+17.quickly – Let’s finish this quickly so we can relax.
+18.rarely – I rarely eat out on weekdays.
+19.roughly – The repair will cost roughly \$100.
+20.seriously – You need to take your health seriously.
+21.slowly – Please drive slowly on this road.
+22.strongly – I strongly disagree with that idea.
+23.suddenly – Suddenly, the lights went out.
+24.together – Let’s do this project together.
+25.usually – I usually wake up around 7 a.m.
+
+## Adjectives (25)
+
+1.afraid – I’m afraid of dogs, especially large ones.
+2.alive – The rescued kitten was still alive and warm.
+3.available – This seat is available if you want to sit down.
+4.beautiful – The sunset last night was absolutely beautiful.
+5.careful – Be careful when you cross the street.
+6.clean – The kitchen looks clean and fresh now.
+7.confident – She sounded confident during the interview.
+8.crowded – The train was so crowded I couldn’t find a seat.
+9.different – This place feels different from the last time I visited.
+10.early – It’s good to arrive early for an interview.
+11.familiar – His voice sounded very familiar to me.
+12.friendly – Everyone in the office is really friendly.
+13.helpful – That guidebook was very helpful during our trip.
+14.honest – He’s always honest, even when the truth is hard to say.
+15.hungry – I’m really hungry after all that walking.
+16.important – It’s important to get enough rest.
+17.kind – It was kind of you to wait for me.
+18.lonely – She felt lonely in the big city at first.
+19.loud – The music is too loud in this room.
+20.nervous – I was nervous before giving my speech.
+21.polite – He is always polite to older people.
+22.quiet – The library was quiet and peaceful.
+23.safe – This area is usually very safe at night.
+24.serious – That’s a serious problem we need to solve.
+25.tired – I’m tired after studying all night.
