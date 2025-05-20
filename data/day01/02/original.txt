@@ -1,0 +1,19 @@
+1.encounter - We encountered some problems during the meeting.
+2.maintenance - This machine requires regular maintenance to function properly.
+3.exemplary - She is an exemplary student who always does her best.
+4.instruction - Please read the instructions before using the product.
+5.extensive - The storm caused extensive damage to the area.
+6.evidence - There is no clear evidence to support that claim.
+7.scene - The police arrived quickly at the scene of the accident.
+8.maintain - She tries to maintain a positive attitude no matter what.
+9.tax - Everyone is required to pay income tax every year.
+10.shipping - Your order is packed and ready for shipping.
+11.relate - I can really relate to what you’re going through.
+12.eventually - He studied hard and eventually passed the exam.
+13.occasionally - I occasionally go out for dinner with friends.
+14.merely - It’s merely a suggestion, not a rule.
+15.significantly - Her health has improved significantly in the past week.
+16.relevant - His experience is highly relevant to the job.
+17.significant - This is a significant step forward for the project.
+18.effective - This medicine is very effective for headaches.
+19.original - Please keep the original receipt for reference.

@@ -1,0 +1,1121 @@
+[
+  {
+    "word": "1."
+  },
+  {
+    "word": "We",
+    "start": 1.011,
+    "end": 1.112,
+    "score": 0.863
+  },
+  {
+    "word": "encountered",
+    "start": 1.152,
+    "end": 1.612,
+    "score": 0.816
+  },
+  {
+    "word": "some",
+    "start": 1.652,
+    "end": 1.792,
+    "score": 0.879
+  },
+  {
+    "word": "problems",
+    "start": 1.852,
+    "end": 2.332,
+    "score": 0.758
+  },
+  {
+    "word": "during",
+    "start": 2.392,
+    "end": 2.652,
+    "score": 0.727
+  },
+  {
+    "word": "the",
+    "start": 2.672,
+    "end": 2.752,
+    "score": 0.813
+  },
+  {
+    "word": "meeting.",
+    "start": 2.772,
+    "end": 3.072,
+    "score": 0.745
+  },
+  {
+    "word": "2."
+  },
+  {
+    "word": "Maintenance",
+    "start": 4.493,
+    "end": 4.993,
+    "score": 0.893
+  },
+  {
+    "word": "This",
+    "start": 5.214,
+    "end": 5.354,
+    "score": 0.872
+  },
+  {
+    "word": "machine",
+    "start": 5.414,
+    "end": 5.674,
+    "score": 0.851
+  },
+  {
+    "word": "requires",
+    "start": 5.714,
+    "end": 6.054,
+    "score": 0.815
+  },
+  {
+    "word": "regular",
+    "start": 6.134,
+    "end": 6.454,
+    "score": 0.962
+  },
+  {
+    "word": "maintenance",
+    "start": 6.514,
+    "end": 6.974,
+    "score": 0.905
+  },
+  {
+    "word": "to",
+    "start": 7.014,
+    "end": 7.114,
+    "score": 0.657
+  },
+  {
+    "word": "function",
+    "start": 7.154,
+    "end": 7.475,
+    "score": 0.728
+  },
+  {
+    "word": "properly.",
+    "start": 7.495,
+    "end": 7.935,
+    "score": 0.77
+  },
+  {
+    "word": "3."
+  },
+  {
+    "word": "Exemplary",
+    "start": 9.035,
+    "end": 9.736,
+    "score": 0.799
+  },
+  {
+    "word": "She",
+    "start": 10.216,
+    "end": 10.316,
+    "score": 0.695
+  },
+  {
+    "word": "is",
+    "start": 10.356,
+    "end": 10.416,
+    "score": 0.827
+  },
+  {
+    "word": "an",
+    "start": 10.436,
+    "end": 10.496,
+    "score": 0.73
+  },
+  {
+    "word": "exemplary",
+    "start": 10.536,
+    "end": 10.996,
+    "score": 0.862
+  },
+  {
+    "word": "student",
+    "start": 11.036,
+    "end": 11.317,
+    "score": 0.924
+  },
+  {
+    "word": "who",
+    "start": 11.357,
+    "end": 11.457,
+    "score": 0.821
+  },
+  {
+    "word": "always",
+    "start": 11.537,
+    "end": 11.777,
+    "score": 0.667
+  },
+  {
+    "word": "does",
+    "start": 11.817,
+    "end": 11.957,
+    "score": 0.761
+  },
+  {
+    "word": "her",
+    "start": 11.997,
+    "end": 12.097,
+    "score": 0.859
+  },
+  {
+    "word": "best.",
+    "start": 12.137,
+    "end": 12.417,
+    "score": 0.847
+  },
+  {
+    "word": "4."
+  },
+  {
+    "word": "Instruction",
+    "start": 13.438,
+    "end": 14.078,
+    "score": 0.764
+  },
+  {
+    "word": "Please",
+    "start": 14.458,
+    "end": 14.838,
+    "score": 0.788
+  },
+  {
+    "word": "read",
+    "start": 14.978,
+    "end": 15.238,
+    "score": 0.846
+  },
+  {
+    "word": "the",
+    "start": 15.278,
+    "end": 15.399,
+    "score": 0.664
+  },
+  {
+    "word": "instructions",
+    "start": 15.459,
+    "end": 16.059,
+    "score": 0.787
+  },
+  {
+    "word": "before",
+    "start": 16.119,
+    "end": 16.399,
+    "score": 0.866
+  },
+  {
+    "word": "using",
+    "start": 16.499,
+    "end": 16.679,
+    "score": 0.9
+  },
+  {
+    "word": "the",
+    "start": 16.719,
+    "end": 16.779,
+    "score": 0.999
+  },
+  {
+    "word": "product.",
+    "start": 16.819,
+    "end": 17.199,
+    "score": 0.809
+  },
+  {
+    "word": "5."
+  },
+  {
+    "word": "Extensive",
+    "start": 18.72,
+    "end": 19.3,
+    "score": 0.863
+  },
+  {
+    "word": "The",
+    "start": 19.561,
+    "end": 19.661,
+    "score": 0.839
+  },
+  {
+    "word": "storm",
+    "start": 19.721,
+    "end": 20.141,
+    "score": 0.748
+  },
+  {
+    "word": "caused",
+    "start": 20.221,
+    "end": 20.621,
+    "score": 0.912
+  },
+  {
+    "word": "extensive",
+    "start": 20.781,
+    "end": 21.341,
+    "score": 0.941
+  },
+  {
+    "word": "damage",
+    "start": 21.361,
+    "end": 21.702,
+    "score": 0.88
+  },
+  {
+    "word": "to",
+    "start": 21.762,
+    "end": 21.842,
+    "score": 0.977
+  },
+  {
+    "word": "the",
+    "start": 21.882,
+    "end": 21.982,
+    "score": 0.668
+  },
+  {
+    "word": "area.",
+    "start": 22.082,
+    "end": 22.302,
+    "score": 0.786
+  },
+  {
+    "word": "6."
+  },
+  {
+    "word": "Evidence.",
+    "start": 24.709,
+    "end": 25.109,
+    "score": 0.86
+  },
+  {
+    "word": "There",
+    "start": 25.889,
+    "end": 26.029,
+    "score": 0.802
+  },
+  {
+    "word": "is",
+    "start": 26.09,
+    "end": 26.17,
+    "score": 0.666
+  },
+  {
+    "word": "no",
+    "start": 26.21,
+    "end": 26.37,
+    "score": 0.752
+  },
+  {
+    "word": "clear",
+    "start": 26.43,
+    "end": 26.67,
+    "score": 0.776
+  },
+  {
+    "word": "evidence",
+    "start": 26.77,
+    "end": 27.13,
+    "score": 0.937
+  },
+  {
+    "word": "to",
+    "start": 27.23,
+    "end": 27.33,
+    "score": 0.635
+  },
+  {
+    "word": "support",
+    "start": 27.37,
+    "end": 27.71,
+    "score": 0.857
+  },
+  {
+    "word": "that",
+    "start": 27.75,
+    "end": 27.91,
+    "score": 0.754
+  },
+  {
+    "word": "claim.",
+    "start": 27.95,
+    "end": 28.23,
+    "score": 0.871
+  },
+  {
+    "word": "7."
+  },
+  {
+    "word": "Scene.",
+    "start": 28.97,
+    "end": 29.71,
+    "score": 0.724
+  },
+  {
+    "word": "The",
+    "start": 30.03,
+    "end": 30.11,
+    "score": 0.996
+  },
+  {
+    "word": "police",
+    "start": 30.15,
+    "end": 30.41,
+    "score": 0.848
+  },
+  {
+    "word": "arrived",
+    "start": 30.451,
+    "end": 30.771,
+    "score": 0.833
+  },
+  {
+    "word": "quickly",
+    "start": 30.851,
+    "end": 31.131,
+    "score": 0.896
+  },
+  {
+    "word": "at",
+    "start": 31.171,
+    "end": 31.231,
+    "score": 0.752
+  },
+  {
+    "word": "the",
+    "start": 31.271,
+    "end": 31.331,
+    "score": 1.0
+  },
+  {
+    "word": "scene",
+    "start": 31.371,
+    "end": 31.531,
+    "score": 0.944
+  },
+  {
+    "word": "of",
+    "start": 31.551,
+    "end": 31.611,
+    "score": 0.754
+  },
+  {
+    "word": "the",
+    "start": 31.631,
+    "end": 31.711,
+    "score": 0.833
+  },
+  {
+    "word": "accident.",
+    "start": 31.791,
+    "end": 32.191,
+    "score": 0.862
+  },
+  {
+    "word": "8."
+  },
+  {
+    "word": "Maintain.",
+    "start": 33.411,
+    "end": 33.871,
+    "score": 0.782
+  },
+  {
+    "word": "She",
+    "start": 34.151,
+    "end": 34.271,
+    "score": 0.683
+  },
+  {
+    "word": "tries",
+    "start": 34.291,
+    "end": 34.511,
+    "score": 0.792
+  },
+  {
+    "word": "to",
+    "start": 34.551,
+    "end": 34.631,
+    "score": 0.777
+  },
+  {
+    "word": "maintain",
+    "start": 34.731,
+    "end": 35.192,
+    "score": 0.748
+  },
+  {
+    "word": "a",
+    "start": 35.252,
+    "end": 35.292,
+    "score": 0.5
+  },
+  {
+    "word": "positive",
+    "start": 35.332,
+    "end": 35.712,
+    "score": 0.856
+  },
+  {
+    "word": "attitude",
+    "start": 35.772,
+    "end": 36.152,
+    "score": 0.855
+  },
+  {
+    "word": "no",
+    "start": 36.212,
+    "end": 36.312,
+    "score": 0.666
+  },
+  {
+    "word": "matter",
+    "start": 36.332,
+    "end": 36.552,
+    "score": 0.812
+  },
+  {
+    "word": "what.",
+    "start": 36.592,
+    "end": 36.792,
+    "score": 0.764
+  },
+  {
+    "word": "9."
+  },
+  {
+    "word": "Tax.",
+    "start": 37.912,
+    "end": 38.312,
+    "score": 0.952
+  },
+  {
+    "word": "Everyone",
+    "start": 38.932,
+    "end": 39.233,
+    "score": 0.897
+  },
+  {
+    "word": "is",
+    "start": 39.293,
+    "end": 39.353,
+    "score": 0.73
+  },
+  {
+    "word": "required",
+    "start": 39.393,
+    "end": 39.793,
+    "score": 0.795
+  },
+  {
+    "word": "to",
+    "start": 39.813,
+    "end": 39.893,
+    "score": 0.501
+  },
+  {
+    "word": "pay",
+    "start": 39.933,
+    "end": 40.093,
+    "score": 0.776
+  },
+  {
+    "word": "income",
+    "start": 40.173,
+    "end": 40.413,
+    "score": 0.914
+  },
+  {
+    "word": "tax",
+    "start": 40.453,
+    "end": 40.733,
+    "score": 0.921
+  },
+  {
+    "word": "every",
+    "start": 40.833,
+    "end": 41.033,
+    "score": 0.826
+  },
+  {
+    "word": "year.",
+    "start": 41.073,
+    "end": 41.273,
+    "score": 0.592
+  },
+  {
+    "word": "10."
+  },
+  {
+    "word": "Shipping.",
+    "start": 42.553,
+    "end": 42.913,
+    "score": 0.787
+  },
+  {
+    "word": "Your",
+    "start": 43.413,
+    "end": 43.574,
+    "score": 0.59
+  },
+  {
+    "word": "order",
+    "start": 43.654,
+    "end": 43.874,
+    "score": 0.806
+  },
+  {
+    "word": "is",
+    "start": 43.914,
+    "end": 43.994,
+    "score": 0.715
+  },
+  {
+    "word": "packed",
+    "start": 44.074,
+    "end": 44.434,
+    "score": 0.83
+  },
+  {
+    "word": "and",
+    "start": 44.514,
+    "end": 44.594,
+    "score": 0.836
+  },
+  {
+    "word": "ready",
+    "start": 44.634,
+    "end": 44.834,
+    "score": 0.821
+  },
+  {
+    "word": "for",
+    "start": 44.874,
+    "end": 44.994,
+    "score": 0.895
+  },
+  {
+    "word": "shipping.",
+    "start": 45.074,
+    "end": 45.434,
+    "score": 0.699
+  },
+  {
+    "word": "11."
+  },
+  {
+    "word": "Relate.",
+    "start": 46.714,
+    "end": 47.094,
+    "score": 0.796
+  },
+  {
+    "word": "I",
+    "start": 47.594,
+    "end": 47.634,
+    "score": 0.998
+  },
+  {
+    "word": "can",
+    "start": 47.674,
+    "end": 47.834,
+    "score": 0.915
+  },
+  {
+    "word": "really",
+    "start": 47.915,
+    "end": 48.175,
+    "score": 0.703
+  },
+  {
+    "word": "relate",
+    "start": 48.235,
+    "end": 48.555,
+    "score": 0.804
+  },
+  {
+    "word": "to",
+    "start": 48.575,
+    "end": 48.635,
+    "score": 0.748
+  },
+  {
+    "word": "what",
+    "start": 48.675,
+    "end": 48.755,
+    "score": 1.0
+  },
+  {
+    "word": "you're",
+    "start": 48.775,
+    "end": 48.915,
+    "score": 0.817
+  },
+  {
+    "word": "going",
+    "start": 48.935,
+    "end": 49.115,
+    "score": 0.784
+  },
+  {
+    "word": "through.",
+    "start": 49.155,
+    "end": 49.355,
+    "score": 0.828
+  },
+  {
+    "word": "12."
+  },
+  {
+    "word": "Eventually,",
+    "start": 50.818,
+    "end": 51.54,
+    "score": 0.85
+  },
+  {
+    "word": "he",
+    "start": 51.841,
+    "end": 51.942,
+    "score": 0.924
+  },
+  {
+    "word": "studied",
+    "start": 52.002,
+    "end": 52.323,
+    "score": 0.871
+  },
+  {
+    "word": "hard",
+    "start": 52.383,
+    "end": 52.644,
+    "score": 0.787
+  },
+  {
+    "word": "and",
+    "start": 52.724,
+    "end": 52.825,
+    "score": 0.91
+  },
+  {
+    "word": "eventually",
+    "start": 52.885,
+    "end": 53.447,
+    "score": 0.954
+  },
+  {
+    "word": "passed",
+    "start": 53.507,
+    "end": 53.808,
+    "score": 0.982
+  },
+  {
+    "word": "the",
+    "start": 53.848,
+    "end": 53.949,
+    "score": 0.941
+  },
+  {
+    "word": "exam.",
+    "start": 54.009,
+    "end": 54.29,
+    "score": 0.963
+  },
+  {
+    "word": "13."
+  },
+  {
+    "word": "Occasionally,",
+    "start": 56.175,
+    "end": 56.955,
+    "score": 0.757
+  },
+  {
+    "word": "I",
+    "start": 56.976,
+    "end": 56.996,
+    "score": 0.0
+  },
+  {
+    "word": "occasionally",
+    "start": 57.376,
+    "end": 57.876,
+    "score": 0.88
+  },
+  {
+    "word": "go",
+    "start": 57.916,
+    "end": 58.036,
+    "score": 0.843
+  },
+  {
+    "word": "out",
+    "start": 58.076,
+    "end": 58.176,
+    "score": 0.844
+  },
+  {
+    "word": "for",
+    "start": 58.216,
+    "end": 58.317,
+    "score": 0.906
+  },
+  {
+    "word": "dinner",
+    "start": 58.357,
+    "end": 58.557,
+    "score": 0.885
+  },
+  {
+    "word": "with",
+    "start": 58.577,
+    "end": 58.697,
+    "score": 0.873
+  },
+  {
+    "word": "friends.",
+    "start": 58.737,
+    "end": 59.938,
+    "score": 0.651
+  },
+  {
+    "word": "14."
+  },
+  {
+    "word": "Merely.",
+    "start": 60.258,
+    "end": 60.638,
+    "score": 0.82
+  },
+  {
+    "word": "It's",
+    "start": 60.919,
+    "end": 61.059,
+    "score": 0.714
+  },
+  {
+    "word": "merely",
+    "start": 61.099,
+    "end": 61.399,
+    "score": 0.789
+  },
+  {
+    "word": "a",
+    "start": 61.439,
+    "end": 61.459,
+    "score": 0.999
+  },
+  {
+    "word": "suggestion,",
+    "start": 61.519,
+    "end": 62.16,
+    "score": 0.719
+  },
+  {
+    "word": "not",
+    "start": 62.4,
+    "end": 62.56,
+    "score": 0.812
+  },
+  {
+    "word": "a",
+    "start": 62.6,
+    "end": 62.64,
+    "score": 0.5
+  },
+  {
+    "word": "rule.",
+    "start": 62.68,
+    "end": 63.801,
+    "score": 0.737
+  },
+  {
+    "word": "15."
+  },
+  {
+    "word": "Significantly.",
+    "start": 63.941,
+    "end": 64.722,
+    "score": 0.767
+  },
+  {
+    "word": "Her",
+    "start": 64.882,
+    "end": 65.002,
+    "score": 0.723
+  },
+  {
+    "word": "health",
+    "start": 65.062,
+    "end": 65.282,
+    "score": 0.831
+  },
+  {
+    "word": "has",
+    "start": 65.322,
+    "end": 65.462,
+    "score": 0.888
+  },
+  {
+    "word": "improved",
+    "start": 65.522,
+    "end": 65.903,
+    "score": 0.873
+  },
+  {
+    "word": "significantly",
+    "start": 65.963,
+    "end": 66.603,
+    "score": 0.79
+  },
+  {
+    "word": "in",
+    "start": 66.643,
+    "end": 66.703,
+    "score": 0.75
+  },
+  {
+    "word": "the",
+    "start": 66.723,
+    "end": 66.803,
+    "score": 0.833
+  },
+  {
+    "word": "past",
+    "start": 66.823,
+    "end": 67.084,
+    "score": 0.844
+  },
+  {
+    "word": "week.",
+    "start": 67.124,
+    "end": 68.265,
+    "score": 0.927
+  },
+  {
+    "word": "16."
+  },
+  {
+    "word": "Relevant.",
+    "start": 68.385,
+    "end": 68.845,
+    "score": 0.841
+  },
+  {
+    "word": "His",
+    "start": 69.205,
+    "end": 69.325,
+    "score": 0.784
+  },
+  {
+    "word": "experience",
+    "start": 69.385,
+    "end": 69.946,
+    "score": 0.802
+  },
+  {
+    "word": "is",
+    "start": 70.006,
+    "end": 70.086,
+    "score": 0.668
+  },
+  {
+    "word": "highly",
+    "start": 70.186,
+    "end": 70.546,
+    "score": 0.711
+  },
+  {
+    "word": "relevant",
+    "start": 70.606,
+    "end": 70.987,
+    "score": 0.854
+  },
+  {
+    "word": "to",
+    "start": 71.027,
+    "end": 71.107,
+    "score": 0.833
+  },
+  {
+    "word": "the",
+    "start": 71.127,
+    "end": 71.207,
+    "score": 0.835
+  },
+  {
+    "word": "job.",
+    "start": 71.227,
+    "end": 71.527,
+    "score": 0.966
+  },
+  {
+    "word": "17."
+  },
+  {
+    "word": "Significant.",
+    "start": 72.628,
+    "end": 73.309,
+    "score": 0.781
+  },
+  {
+    "word": "This",
+    "start": 73.669,
+    "end": 73.809,
+    "score": 0.993
+  },
+  {
+    "word": "is",
+    "start": 73.869,
+    "end": 73.969,
+    "score": 0.459
+  },
+  {
+    "word": "a",
+    "start": 74.009,
+    "end": 74.029,
+    "score": 0.999
+  },
+  {
+    "word": "significant",
+    "start": 74.109,
+    "end": 74.69,
+    "score": 0.844
+  },
+  {
+    "word": "step",
+    "start": 74.73,
+    "end": 74.95,
+    "score": 0.975
+  },
+  {
+    "word": "forward",
+    "start": 74.99,
+    "end": 75.29,
+    "score": 0.857
+  },
+  {
+    "word": "for",
+    "start": 75.31,
+    "end": 75.41,
+    "score": 0.795
+  },
+  {
+    "word": "the",
+    "start": 75.43,
+    "end": 75.51,
+    "score": 0.834
+  },
+  {
+    "word": "project.",
+    "start": 75.53,
+    "end": 77.072,
+    "score": 0.802
+  },
+  {
+    "word": "18."
+  },
+  {
+    "word": "Effective.",
+    "start": 77.492,
+    "end": 78.273,
+    "score": 0.889
+  },
+  {
+    "word": "This",
+    "start": 78.713,
+    "end": 78.873,
+    "score": 0.87
+  },
+  {
+    "word": "medicine",
+    "start": 78.953,
+    "end": 79.313,
+    "score": 0.882
+  },
+  {
+    "word": "is",
+    "start": 79.373,
+    "end": 79.433,
+    "score": 0.922
+  },
+  {
+    "word": "very",
+    "start": 79.574,
+    "end": 79.834,
+    "score": 0.802
+  },
+  {
+    "word": "effective",
+    "start": 79.894,
+    "end": 80.354,
+    "score": 0.837
+  },
+  {
+    "word": "for",
+    "start": 80.394,
+    "end": 80.494,
+    "score": 0.677
+  },
+  {
+    "word": "headaches.",
+    "start": 80.534,
+    "end": 80.895,
+    "score": 0.807
+  },
+  {
+    "word": "19."
+  },
+  {
+    "word": "Original.",
+    "start": 82.272,
+    "end": 82.695,
+    "score": 0.844
+  },
+  {
+    "word": "Please",
+    "start": 83.158,
+    "end": 83.399,
+    "score": 0.831
+  },
+  {
+    "word": "keep",
+    "start": 83.439,
+    "end": 83.62,
+    "score": 0.998
+  },
+  {
+    "word": "the",
+    "start": 83.661,
+    "end": 83.741,
+    "score": 0.901
+  },
+  {
+    "word": "original",
+    "start": 83.801,
+    "end": 84.164,
+    "score": 0.868
+  },
+  {
+    "word": "receipt",
+    "start": 84.204,
+    "end": 84.526,
+    "score": 0.794
+  },
+  {
+    "word": "for",
+    "start": 84.566,
+    "end": 84.667,
+    "score": 0.998
+  },
+  {
+    "word": "reference.",
+    "start": 84.727,
+    "end": 85.109,
+    "score": 0.939
+  }
+]

@@ -1,0 +1,109 @@
+1.balance – She struggled to keep her balance when walking across the narrow bridge.
+2.conflict – There was a serious conflict between the two friends, and they stopped talking.
+3.direction – He gave me the wrong direction, so I got lost on the way.
+4.growth – The plant showed fast growth after we put it in sunlight.
+5.habit – He has a habit of checking his phone every five minutes.
+6.influence – Her mother had a big influence on her career choice.
+7.limit – There is a limit to how many people can enter the room.
+8.movement – The sudden movement of the animal scared the children.
+9.network – She joined a new business network to meet more clients.
+10.object – The small shiny object on the ground was a lost earring.
+11.passion – He speaks with great passion when talking about art.
+12.reaction – Her reaction to the news was very emotional.
+13.role – He plays an important role in the success of the company.
+14.signal – The loud bell was the signal for the students to go inside.
+15.task – I finished the cleaning task before dinner time.
+16.topic – This topic is too difficult for young students to understand.
+17.unit – Each unit in this textbook has a short quiz at the end.
+18.value – I really admire the value of honesty in a person.
+19.view – The view from the top of the hill was beautiful.
+20.warning – The dark clouds were a warning of a coming storm.
+21.youth – He often talks about the fun he had during his youth.
+22.detail – Please check every detail before submitting the form.
+23.effect – The medicine had a strong effect and made me sleepy.
+24.feature – The best feature of this phone is its long battery life.
+25.goal – My goal is to learn 2000 English words in 20 days.
+
+### Verbs (25)
+
+1.act – He acted fast when he saw the child fall.
+2.argue – They often argue about what movie to watch.
+3.collect – She collects coins from different countries.
+4.connect – Please connect the charger to the phone.
+5.divide – Divide the pizza into six equal pieces.
+6.earn – He earns extra money by teaching at night.
+7.encourage – The coach encouraged the players to try their best.
+8.express – He couldn’t express how happy he was.
+9.fail – I failed the test because I didn’t study.
+10.handle – Don’t worry, I’ll handle the situation.
+11.identify – She quickly identified the problem and fixed it.
+12.join – Would you like to join our study group?
+13.mark – Mark your answers clearly on the sheet.
+14.notice – I didn’t notice her new haircut at first.
+15.offer – He offered me a ride home after the party.
+16.prefer – I prefer tea in the morning and coffee at night.
+17.react – She reacted calmly when the fire alarm went off.
+18.save – Don’t forget to save your work before exiting.
+19.share – Let’s share this dessert—it looks too big for one person.
+20.shout – Please don’t shout in the library.
+21.smile – She smiled when she saw the surprise gift.
+22.suggest – I suggest taking a break and going for a walk.
+23.throw – He threw the ball so far it went over the fence.
+24.visit – We visited a museum during our trip to Tokyo.
+25.wait – Please wait here while I get the tickets.
+
+### Adverbs (25)
+
+1.almost – I almost forgot to bring my phone today.
+2.anyway – It started raining, but we went hiking anyway.
+3.clearly – She clearly said she didn’t want to go.
+4.deeply – He was deeply touched by the kind words.
+5.enough – This soup is warm enough to eat now.
+6.exactly – That’s exactly what I was thinking too.
+7.fairly – The exam was fairly easy, but some questions were tricky.
+8.highly – I highly recommend trying this restaurant.
+9.just – I just finished watching the movie.
+10.loudly – He laughed loudly during the comedy show.
+11.naturally – She dances so naturally, like a professional.
+12.nearly – I nearly dropped the glass, but I caught it in time.
+13.often – I often walk to school instead of taking the bus.
+14.once – I met her once at a party last year.
+15.perfectly – You did the job perfectly without any help.
+16.quickly – Please finish the report quickly.
+17.really – I really enjoyed our trip to the mountains.
+18.safely – We arrived safely after a long journey.
+19.seldom – He seldom goes out on weekends.
+20.silently – They silently left the room without a word.
+21.sometimes – Sometimes I eat breakfast at a café.
+22.still – He still works at the same company.
+23.suddenly – Suddenly, the lights went out.
+24.too – This bag is too heavy for me to carry.
+25.well – She sings very well for a beginner.
+
+### Adjectives (25)
+
+1.angry – He looked very angry after hearing the bad news.
+2.basic – Let’s start with some basic grammar rules.
+3.bright – The room became bright when she opened the curtains.
+4.calm – Try to stay calm during the interview.
+5.cool – That’s a cool new watch you’re wearing!
+6.crazy – This weather is crazy; it’s sunny and raining at the same time!
+7.curious – The child was curious about everything he saw.
+8.dangerous – It’s dangerous to drive so fast in the rain.
+9.difficult – This homework is difficult, but I’ll try my best.
+10.dry – The clothes are finally dry after hanging all day.
+11.easy – This app is really easy to use.
+12.empty – The classroom was empty when I arrived.
+13.famous – She is a famous singer in her country.
+14.friendly – Everyone at the new office is very friendly.
+15.funny – That was the funniest movie I’ve ever seen.
+16.great – You did a great job on this project.
+17.happy – I felt so happy when I got your message.
+18.important – It’s important to drink enough water every day.
+19.kind – He is very kind to animals and children.
+20.large – That’s a large pizza, perfect for a group.
+21.late – We’re late for the meeting—let’s hurry!
+22.lucky – I was lucky to catch the last train.
+23.new – I got a new phone for my birthday.
+24.nice – It’s a nice day to go for a walk.
+25.strong – She is strong enough to carry both bags.
