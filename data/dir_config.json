@@ -30,6 +30,11 @@
       "audio_file": "01.m4a",
       "path": "data/day03/01",
       "word_corrected_json": "01.corrected.word.json"
+    },
+    "02": {
+      "audio_file": "3.m4a",
+      "path": "data/day03/02",
+      "word_corrected_json": "3.corrected.word.json"
     }
   }
 }
