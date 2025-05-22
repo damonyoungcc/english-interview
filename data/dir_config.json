@@ -16,6 +16,11 @@
       "audio_file": "2.m4a",
       "path": "data/day02/01",
       "word_corrected_json": "2.corrected.word.json"
+    },
+    "02": {
+      "audio_file": "2.m4a",
+      "path": "data/day02/02",
+      "word_corrected_json": "2.corrected.word.json"
     }
   },
   "day02-1": {
@@ -35,6 +40,13 @@
       "audio_file": "3.m4a",
       "path": "data/day03/02",
       "word_corrected_json": "3.corrected.word.json"
+    }
+  },
+  "day04": {
+    "01": {
+      "audio_file": "4.m4a",
+      "path": "data/day04/01",
+      "word_corrected_json": "4.corrected.word.json"
     }
   }
 }

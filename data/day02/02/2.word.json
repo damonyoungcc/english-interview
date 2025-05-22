@@ -1,0 +1,620 @@
+[
+  {
+    "word": "One,",
+    "start": 1.369,
+    "end": 1.569,
+    "score": 0.631
+  },
+  {
+    "word": "we",
+    "start": 1.869,
+    "end": 1.989,
+    "score": 0.832
+  },
+  {
+    "word": "had",
+    "start": 2.029,
+    "end": 2.169,
+    "score": 0.867
+  },
+  {
+    "word": "a",
+    "start": 2.209,
+    "end": 2.249,
+    "score": 0.499
+  },
+  {
+    "word": "short",
+    "start": 2.329,
+    "end": 2.569,
+    "score": 0.786
+  },
+  {
+    "word": "quiz",
+    "start": 2.629,
+    "end": 2.87,
+    "score": 0.935
+  },
+  {
+    "word": "in",
+    "start": 2.89,
+    "end": 2.97,
+    "score": 0.542
+  },
+  {
+    "word": "class",
+    "start": 2.99,
+    "end": 3.23,
+    "score": 0.957
+  },
+  {
+    "word": "today,",
+    "start": 3.27,
+    "end": 3.55,
+    "score": 0.696
+  },
+  {
+    "word": "and",
+    "start": 3.99,
+    "end": 4.09,
+    "score": 0.875
+  },
+  {
+    "word": "luckily",
+    "start": 4.17,
+    "end": 4.57,
+    "score": 0.781
+  },
+  {
+    "word": "I",
+    "start": 4.69,
+    "end": 4.75,
+    "score": 0.669
+  },
+  {
+    "word": "knew",
+    "start": 4.83,
+    "end": 4.99,
+    "score": 0.751
+  },
+  {
+    "word": "all",
+    "start": 5.09,
+    "end": 5.21,
+    "score": 0.864
+  },
+  {
+    "word": "the",
+    "start": 5.25,
+    "end": 5.31,
+    "score": 1.0
+  },
+  {
+    "word": "answers",
+    "start": 5.41,
+    "end": 5.73,
+    "score": 0.823
+  },
+  {
+    "word": "because",
+    "start": 5.79,
+    "end": 6.07,
+    "score": 0.855
+  },
+  {
+    "word": "I",
+    "start": 6.11,
+    "end": 6.191,
+    "score": 0.726
+  },
+  {
+    "word": "studied",
+    "start": 6.251,
+    "end": 6.551,
+    "score": 0.917
+  },
+  {
+    "word": "last",
+    "start": 6.591,
+    "end": 6.791,
+    "score": 0.966
+  },
+  {
+    "word": "night.",
+    "start": 6.851,
+    "end": 7.071,
+    "score": 0.806
+  },
+  {
+    "word": "Her,",
+    "start": 8.091,
+    "end": 8.371,
+    "score": 0.672
+  },
+  {
+    "word": "fence.",
+    "start": 9.151,
+    "end": 9.472,
+    "score": 0.859
+  },
+  {
+    "word": "He",
+    "start": 9.972,
+    "end": 10.072,
+    "score": 0.932
+  },
+  {
+    "word": "built",
+    "start": 10.112,
+    "end": 10.292,
+    "score": 0.799
+  },
+  {
+    "word": "a",
+    "start": 10.332,
+    "end": 10.372,
+    "score": 0.5
+  },
+  {
+    "word": "wooden",
+    "start": 10.412,
+    "end": 10.672,
+    "score": 0.845
+  },
+  {
+    "word": "fence",
+    "start": 10.752,
+    "end": 10.992,
+    "score": 0.905
+  },
+  {
+    "word": "around",
+    "start": 11.072,
+    "end": 11.292,
+    "score": 0.879
+  },
+  {
+    "word": "the",
+    "start": 11.312,
+    "end": 11.392,
+    "score": 0.833
+  },
+  {
+    "word": "garden",
+    "start": 11.432,
+    "end": 11.752,
+    "score": 0.929
+  },
+  {
+    "word": "to",
+    "start": 11.832,
+    "end": 11.932,
+    "score": 0.826
+  },
+  {
+    "word": "keep",
+    "start": 11.992,
+    "end": 12.192,
+    "score": 0.776
+  },
+  {
+    "word": "the",
+    "start": 12.212,
+    "end": 12.312,
+    "score": 0.669
+  },
+  {
+    "word": "animals",
+    "start": 12.372,
+    "end": 12.672,
+    "score": 0.848
+  },
+  {
+    "word": "out",
+    "start": 12.813,
+    "end": 12.953,
+    "score": 0.889
+  },
+  {
+    "word": "and",
+    "start": 13.193,
+    "end": 13.313,
+    "score": 0.621
+  },
+  {
+    "word": "make",
+    "start": 13.433,
+    "end": 13.613,
+    "score": 0.944
+  },
+  {
+    "word": "it",
+    "start": 13.653,
+    "end": 13.713,
+    "score": 0.75
+  },
+  {
+    "word": "look",
+    "start": 13.753,
+    "end": 13.933,
+    "score": 0.792
+  },
+  {
+    "word": "nicer.",
+    "start": 13.973,
+    "end": 14.293,
+    "score": 0.842
+  },
+  {
+    "word": "Three,",
+    "start": 15.973,
+    "end": 16.274,
+    "score": 0.729
+  },
+  {
+    "word": "fairly.",
+    "start": 17.214,
+    "end": 17.714,
+    "score": 0.875
+  },
+  {
+    "word": "The",
+    "start": 18.534,
+    "end": 18.634,
+    "score": 0.861
+  },
+  {
+    "word": "movie",
+    "start": 18.674,
+    "end": 18.974,
+    "score": 0.806
+  },
+  {
+    "word": "was",
+    "start": 19.014,
+    "end": 19.154,
+    "score": 0.744
+  },
+  {
+    "word": "fairly",
+    "start": 19.295,
+    "end": 19.655,
+    "score": 0.833
+  },
+  {
+    "word": "interesting,",
+    "start": 19.715,
+    "end": 20.215,
+    "score": 0.784
+  },
+  {
+    "word": "and",
+    "start": 20.395,
+    "end": 20.475,
+    "score": 0.968
+  },
+  {
+    "word": "although",
+    "start": 20.515,
+    "end": 20.775,
+    "score": 0.824
+  },
+  {
+    "word": "it",
+    "start": 20.795,
+    "end": 20.835,
+    "score": 1.0
+  },
+  {
+    "word": "wasn't",
+    "start": 20.875,
+    "end": 21.095,
+    "score": 0.834
+  },
+  {
+    "word": "the",
+    "start": 21.115,
+    "end": 21.195,
+    "score": 0.833
+  },
+  {
+    "word": "best,",
+    "start": 21.215,
+    "end": 21.475,
+    "score": 0.91
+  },
+  {
+    "word": "I",
+    "start": 21.875,
+    "end": 21.935,
+    "score": 0.695
+  },
+  {
+    "word": "still",
+    "start": 22.015,
+    "end": 22.255,
+    "score": 0.807
+  },
+  {
+    "word": "enjoyed",
+    "start": 22.315,
+    "end": 22.656,
+    "score": 0.856
+  },
+  {
+    "word": "watching",
+    "start": 22.696,
+    "end": 23.036,
+    "score": 0.813
+  },
+  {
+    "word": "it",
+    "start": 23.076,
+    "end": 23.156,
+    "score": 0.718
+  },
+  {
+    "word": "with",
+    "start": 23.196,
+    "end": 23.336,
+    "score": 0.638
+  },
+  {
+    "word": "my",
+    "start": 23.376,
+    "end": 23.476,
+    "score": 0.73
+  },
+  {
+    "word": "friends.",
+    "start": 23.516,
+    "end": 23.816,
+    "score": 0.797
+  },
+  {
+    "word": "4."
+  },
+  {
+    "word": "Seldom.",
+    "start": 26.009,
+    "end": 26.57,
+    "score": 0.853
+  },
+  {
+    "word": "I",
+    "start": 27.312,
+    "end": 27.392,
+    "score": 0.729
+  },
+  {
+    "word": "seldom",
+    "start": 27.472,
+    "end": 27.793,
+    "score": 0.846
+  },
+  {
+    "word": "eat",
+    "start": 27.853,
+    "end": 27.973,
+    "score": 0.701
+  },
+  {
+    "word": "fast",
+    "start": 28.013,
+    "end": 28.314,
+    "score": 0.825
+  },
+  {
+    "word": "food",
+    "start": 28.394,
+    "end": 28.655,
+    "score": 0.783
+  },
+  {
+    "word": "these",
+    "start": 28.715,
+    "end": 28.895,
+    "score": 0.706
+  },
+  {
+    "word": "days",
+    "start": 28.935,
+    "end": 29.196,
+    "score": 0.81
+  },
+  {
+    "word": "because",
+    "start": 29.296,
+    "end": 29.517,
+    "score": 0.928
+  },
+  {
+    "word": "I'm",
+    "start": 29.557,
+    "end": 29.697,
+    "score": 0.849
+  },
+  {
+    "word": "trying",
+    "start": 29.777,
+    "end": 30.078,
+    "score": 0.924
+  },
+  {
+    "word": "to",
+    "start": 30.118,
+    "end": 30.178,
+    "score": 0.808
+  },
+  {
+    "word": "stay",
+    "start": 30.238,
+    "end": 30.419,
+    "score": 0.908
+  },
+  {
+    "word": "healthy",
+    "start": 30.459,
+    "end": 30.8,
+    "score": 0.901
+  },
+  {
+    "word": "and",
+    "start": 30.86,
+    "end": 30.96,
+    "score": 0.676
+  },
+  {
+    "word": "cook",
+    "start": 31.02,
+    "end": 31.221,
+    "score": 0.674
+  },
+  {
+    "word": "more",
+    "start": 31.401,
+    "end": 31.662,
+    "score": 0.68
+  },
+  {
+    "word": "at",
+    "start": 31.702,
+    "end": 31.762,
+    "score": 0.75
+  },
+  {
+    "word": "home.",
+    "start": 31.802,
+    "end": 33.967,
+    "score": 0.824
+  },
+  {
+    "word": "5."
+  },
+  {
+    "word": "Curtains.",
+    "start": 34.548,
+    "end": 35.109,
+    "score": 0.783
+  },
+  {
+    "word": "She",
+    "start": 36.172,
+    "end": 36.332,
+    "score": 0.84
+  },
+  {
+    "word": "bought",
+    "start": 36.392,
+    "end": 36.592,
+    "score": 0.872
+  },
+  {
+    "word": "new",
+    "start": 36.673,
+    "end": 36.813,
+    "score": 0.851
+  },
+  {
+    "word": "blue",
+    "start": 36.873,
+    "end": 37.074,
+    "score": 0.853
+  },
+  {
+    "word": "curtains",
+    "start": 37.174,
+    "end": 37.575,
+    "score": 0.842
+  },
+  {
+    "word": "for",
+    "start": 37.635,
+    "end": 37.755,
+    "score": 0.906
+  },
+  {
+    "word": "her",
+    "start": 37.795,
+    "end": 37.895,
+    "score": 0.844
+  },
+  {
+    "word": "bedroom",
+    "start": 37.955,
+    "end": 38.376,
+    "score": 0.783
+  },
+  {
+    "word": "because",
+    "start": 38.677,
+    "end": 38.918,
+    "score": 0.647
+  },
+  {
+    "word": "the",
+    "start": 38.978,
+    "end": 39.078,
+    "score": 0.711
+  },
+  {
+    "word": "old",
+    "start": 39.258,
+    "end": 39.379,
+    "score": 0.833
+  },
+  {
+    "word": "ones",
+    "start": 39.479,
+    "end": 39.599,
+    "score": 0.844
+  },
+  {
+    "word": "were",
+    "start": 39.659,
+    "end": 39.8,
+    "score": 0.75
+  },
+  {
+    "word": "too",
+    "start": 39.88,
+    "end": 40.1,
+    "score": 0.981
+  },
+  {
+    "word": "dark",
+    "start": 40.18,
+    "end": 40.521,
+    "score": 0.845
+  },
+  {
+    "word": "and",
+    "start": 41.022,
+    "end": 41.123,
+    "score": 0.773
+  },
+  {
+    "word": "didn't",
+    "start": 41.223,
+    "end": 41.483,
+    "score": 0.913
+  },
+  {
+    "word": "match",
+    "start": 41.563,
+    "end": 41.824,
+    "score": 0.894
+  },
+  {
+    "word": "the",
+    "start": 41.904,
+    "end": 42.004,
+    "score": 0.809
+  },
+  {
+    "word": "room.",
+    "start": 42.045,
+    "end": 42.245,
+    "score": 0.822
+  }
+]

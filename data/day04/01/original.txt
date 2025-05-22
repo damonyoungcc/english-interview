@@ -1,0 +1,118 @@
+### 🟦 Nouns (25)
+
+1.browser – Make sure your browser is up to date before testing the new feature.
+2.feature – We just released a new feature that allows users to reset their password easily.
+3.feedback – She gave detailed feedback on the design, which helped us make improvements.
+4.deadline – The deadline is strict, so we need to stay focused this week.
+5.error – There was a small error in the code that caused the page to crash.
+6.functionality – We want to test the core functionality before launching to the public.
+7.framework – React is a popular framework used for building user interfaces.
+8.version – I’m using the latest version of the app on my phone.
+9.environment – The app works well in the development environment but crashes in production.
+10.deployment – Our deployment process is automated using GitHub Actions.
+11.confidence – In interviews, it’s important to show confidence but not arrogance.
+12.habit – He has a habit of double-checking his code before every commit.
+13.strength – One of my strengths is the ability to stay calm during pressure.
+14.weakness – When asked about weaknesses, I usually mention my tendency to overcheck details.
+15.opportunity – This internship is a great opportunity to grow as a frontend engineer.
+16.discussion – We had a long discussion about how to improve the UI.
+17.tool – Figma is a great tool for designing components quickly.
+18.component – I reused the same component across several pages to keep things consistent.
+19.codebase – Our codebase is large but well-organized, which helps new developers.
+20.workflow – We improved our workflow by automating code review checks.
+21.priority – Fixing bugs in production should always be the top priority.
+22.strategy – Our testing strategy includes both unit and integration tests.
+23.teamwork – Good teamwork helps finish projects faster and with fewer mistakes.
+24.communication – Clear communication with designers makes development smoother.
+25.performance – We optimized image sizes to improve page performance.
+
+---
+
+### 🟨 Verbs (25)
+
+1.debug – I stayed up late trying to debug the layout issue in Safari.
+2.collaborate – I love to collaborate with designers and back-end developers on new features.
+3.improve – We’re always looking for ways to improve the user experience.
+4.focus – Let’s focus on the core features before adding extras.
+5.demonstrate – In the interview, I had to demonstrate how I solved a performance problem.
+6.achieve – We achieved a 30% faster load time by reducing bundle size.
+7.highlight – Can you highlight the changes you made in this pull request?
+8.measure – We measure performance using Lighthouse and Web Vitals.
+9.refactor – I refactored the component to make it easier to test.
+10.iterate – We iterated on the design several times before final approval.
+11.explain – I explained the benefits of using a responsive layout.
+12.adjust – We adjusted the spacing between elements to improve readability.
+13.share – He shared a helpful article about writing clean code.
+14.receive – I received great feedback from the last design review.
+15.practice – I practiced answering common behavioral interview questions out loud.
+16.manage – I managed both development and communication during the sprint.
+17.deploy – We deployed the fix to production after passing all tests.
+18.support – The library supports multiple languages out of the box.
+19.monitor – We monitor page speed regularly to catch regressions.
+20.solve – I solved the layout issue by using flexbox instead of floats.
+21.present – I had to present my project to the whole team.
+22.update – I updated the README to include installation steps.
+23.reduce – We reduced bundle size by removing unused dependencies.
+24.connect – You need to connect the frontend with the backend API.
+25.test – I always test every component after making a change.
+
+---
+
+### 🟩 Adverbs (25)
+
+1.carefully – We carefully reviewed each pull request to avoid breaking anything.
+2.effectively – She communicates effectively with both technical and non-technical teammates.
+3.clearly – He clearly explained the reason behind using context instead of Redux.
+4.quickly – The page loads quickly after we optimized the images.
+5.honestly – Honestly, I think the old design was more user-friendly.
+6.usually – I usually write tests right after I finish a feature.
+7.finally – We finally fixed the bug that caused the app to crash on login.
+8.simply – You can simply pass the data as props to the child component.
+9.naturally – The transition between screens should feel naturally smooth.
+10.frequently – I frequently use devtools to inspect network activity.
+11.especially – I enjoy frontend work, especially when it involves animations.
+12.immediately – You should immediately report any production bug.
+13.manually – Sometimes I test edge cases manually just to be sure.
+14.rarely – We rarely use jQuery anymore since React is more powerful.
+15.recently – I recently started using TypeScript in my side projects.
+16.cleverly – He cleverly used CSS grid to align everything perfectly.
+17.slightly – I slightly adjusted the padding to match the design.
+18.eventually – We eventually agreed on a better folder structure.
+19.politely – She politely asked for help reviewing her code.
+20.technically – Technically, the feature works, but it needs a better UI.
+21.truly – I truly enjoyed working with such a motivated team.
+22.barely – The button was barely visible on dark mode before we fixed it.
+23.visually – The update makes the homepage visually cleaner and easier to read.
+24.automatically – The site automatically reloads when you save changes.
+25.consistently – He consistently writes clean and readable code.
+
+---
+
+### 🟥 Adjectives (25)
+
+1.responsive – We built a responsive layout that works well on all screen sizes.
+2.clean – I prefer a clean design without too many elements.
+3.scalable – The app is scalable enough to handle more users in the future.
+4.technical – I gave a technical explanation of the rendering issue.
+5.logical – He gave a logical reason for choosing that framework.
+6.friendly – It’s a very friendly UI, even for first-time users.
+7.accurate – Make sure your estimates are accurate before committing.
+8.open-minded – She’s open-minded and accepts feedback well.
+9.proactive – Being proactive in solving problems is a key trait in our team.
+10.productive – We had a really productive sprint this week.
+11.complex – That was a complex bug involving multiple components.
+12.flexible – The layout needs to be flexible enough to support different content lengths.
+13.robust – We wrote robust tests to ensure everything works under pressure.
+14.clear – His explanation was very clear and easy to follow.
+15.engaging – The animations made the site feel much more engaging.
+16.focused – I stayed focused during the interview and answered confidently.
+17.structured – The code was well-structured and easy to read.
+18.minimal – I prefer a minimal design that doesn’t distract users.
+19.dependable – He’s a dependable team member who always delivers on time.
+20.motivated – She’s highly motivated to learn and grow in her role.
+21.efficient – The new algorithm is much more efficient than the old one.
+22.detailed – He gave a detailed explanation of his solution.
+23.intentional – Every part of the layout was intentional and well-planned.
+24.inclusive – We aim to build inclusive products that everyone can use.
+25.independent – She’s an independent worker who doesn’t need constant supervision.
+
