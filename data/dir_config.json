@@ -47,6 +47,11 @@
       "audio_file": "4.m4a",
       "path": "data/day04/01",
       "word_corrected_json": "4.corrected.word.json"
+    },
+    "02": {
+      "audio_file": "4.m4a",
+      "path": "data/day04/02",
+      "word_corrected_json": "4.corrected.word.json"
     }
   }
 }

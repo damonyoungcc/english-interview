@@ -1,0 +1,32 @@
+1.intentional – This was an intentional design to improve UX. – done on purpose
+2.strict – We follow a strict code review process. – follows rules closely
+3.deployment – We automated the deployment using GitHub Actions. – putting something into use
+4.process – I improved the development process to speed up delivery. – steps to do something
+5.progress – We track progress with daily stand-ups and sprints. – moving forward or improving
+6.arrogance – I believe in collaboration, not arrogance. – thinking you're better than others
+7.tendency – I have a tendency to double-check every pull request. – something you often do
+8.consistent – I maintain consistent coding style across components. – always the same or steady
+9.constant – We faced constant API changes during the integration. – never stopping
+10.integration – I handled third-party API integration with error fallback. – combining things to work together
+11.priority – Improving performance was our top priority. – something more important than others
+12.strategy – We used a mobile-first strategy for responsive design. – a plan to reach a goal
+13.optimized – I optimized the bundle size by lazy loading components. – made better or faster
+14.performance – We improved page performance by caching API data. – how well something works
+15.collaborate – I collaborated with backend engineers to define the API contract. – work together
+16.demonstrate – I demonstrated the prototype to stakeholders using Storybook. – show how something works
+17.measure – We use Lighthouse to measure page speed. – find the size or amount of something
+18.iterate – We iterated the UI design based on user feedback. – improve something step by step
+19.monitor – We monitor frontend errors using Sentry. – watch carefully
+20.regression – We run tests to avoid regressions after updates. – something worked before, now it's broken
+21.efficient – My code is efficient and easy to maintain. – doing things well with little waste
+22.effectively – I effectively communicated blockers during the sprint. – in a way that works well
+23.slightly – We slightly adjusted the layout for better mobile view. – a little bit
+24.barely – The bug barely affected the user experience. – almost not at all
+25.rarely – This issue rarely happens in production. – not often
+26.scalable – We built a scalable component system with Storybook. – able to grow without problems
+27.estimates – I provided time estimates during sprint planning. – guess the number or amount
+28.accurate – The data shown in the dashboard is accurate and real-time. – correct and exact
+29.proactive – I’m proactive in identifying performance bottlenecks. – act before problems happen
+30.productive sprint – We had a productive sprint and delivered 5 features. – a short time of getting a lot done
+31.robust – We built a robust form with validation and error handling. – strong and works well even under stress
+32.inclusive – We followed inclusive design to support all users. – includes and welcomes everyone
