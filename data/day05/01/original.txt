@@ -1,0 +1,111 @@
+## 🟦 Nouns (25)
+
+1.insight – Her insight into user behavior helped improve the signup flow.
+2.layout – I changed the layout to make the page easier to navigate.
+3.requirement – The project had a strict accessibility requirement from the client.
+4.bug – I finally found the bug that was breaking the form submission.
+5.repository – You can find the code in our GitHub repository under `frontend-main`.
+6.iteration – We went through three iterations before finalizing the homepage design.
+7.variable – I used a global variable to control the loading state.
+8.commit – Please write a clear message for each commit so the history makes sense.
+9.merge – We had a merge conflict because two people edited the same file.
+10.state – This component’s state should reset when the user logs out.
+11.timeline – We discussed the project timeline during the sprint planning meeting.
+12.role – My role in the last project was to build the dashboard module.
+13.client – The client asked us to change the button color before launch.
+14.review – The code review helped me find a missing condition.
+15.theme – We applied a dark theme using CSS variables.
+16.storage – The form data is saved in local storage until submission.
+17.animation – The loading animation adds a nice touch to the UX.
+18.tooltip – A small tooltip appears when you hover over the icon.
+19.alert – We show a warning alert when the password is too weak.
+20.access – Only admins have access to this part of the app.
+21.energy – I didn’t sleep well, so I don’t have much energy today.
+22.traffic – Website traffic increased after the blog post went viral.
+23.noise – There was so much noise in the café that I couldn’t focus.
+24.weather – The weather is perfect for a walk this afternoon.
+25.language – I’m trying to improve my English language skills every day.
+
+## 🟨 Verbs (25)
+
+1.commit – I committed the changes after testing them locally.
+2.render – This chart doesn’t render correctly on mobile devices.
+3.optimize – We optimized the image loading by using lazy loading.
+4.interact – Users can interact with the chart by clicking on the bars.
+5.submit – Don’t forget to submit the form before closing the tab.
+6.apply – I applied a hover effect to all the navigation buttons.
+7.organize – We should organize our files into logical folders.
+8.import – I imported the header component into every page layout.
+9.export – This module exports a reusable form component.
+10.scroll – You can scroll to the top using this button.
+11.load – The page takes too long to load on slower networks.
+12.trigger – Clicking the icon will trigger the dropdown menu.
+13.log – We logged the error details for debugging purposes.
+14.assign – I assigned each task to the right developer.
+15.clarify – I asked the product manager to clarify the feature’s goal.
+16.compare – We compared the two designs and chose the simpler one.
+17.count – I need to count how many users signed up this week.
+18.hurry – I had to hurry to finish the feature before the deadline.
+19.drop – Be careful not to drop your phone while biking.
+20.join – You should join our team meeting this Friday.
+21.check – I always check the console for errors before committing.
+22.fill – Please fill out the survey if you have a minute.
+23.carry – He carried all the equipment up the stairs by himself.
+24.drive – We drove to the beach early in the morning.
+25.repeat – Can you repeat that part about async functions?
+
+## 🟩 Adverbs (25)
+
+1.gradually – The animation fades in gradually to look more natural.
+2.smoothly – The dropdown should open smoothly when you click the icon.
+3.locally – I tested the component locally before pushing it to GitHub.
+4.automatically – The form automatically saves your answers every few seconds.
+5.directly – You can directly edit the styles in the browser dev tools.
+6.currently – I’m currently working on the login and registration flow.
+7.initially – Initially, we thought it was a small bug, but it turned out more complex.
+8.generously – She generously offered to help me with the test prep.
+9.accidentally – I accidentally clicked the delete button and lost all the notes.
+10.barely – I could barely hear what he said over the noise.
+11.safely – You can safely close the app after saving your progress.
+12.mentally – I was mentally exhausted after three interviews in a row.
+13.naturally – The app should behave naturally even on edge cases.
+14.eagerly – She eagerly started the project after getting the green light.
+15.easily – This tool helps you create charts easily from JSON data.
+16.truly – I truly believe that accessibility matters.
+17.surprisingly – The fix was surprisingly simple once we understood the bug.
+18.nearly – We’re nearly done with the redesign, just a few tweaks left.
+19.loudly – Please don’t speak loudly during the video call.
+20.forward – I’m looking forward to working with you on this task.
+21.deeply – He was deeply moved by the team’s support during a tough week.
+22.together – Let’s build this page together to meet the deadline.
+23.daily – I check analytics data daily to track performance.
+24.sometimes – Sometimes the button doesn’t register the first click.
+25.quickly – Let’s quickly test this feature before merging the branch.
+
+## 🟥 Adjectives (25)
+
+1.interactive – We designed an interactive quiz to test users’ understanding.
+2.dynamic – The content is dynamic and updates based on user input.
+3.custom – We created a custom dropdown to match the client’s brand.
+4.nested – This component has multiple levels of nested elements.
+5.intuitive – The UI is intuitive enough for users to understand without a guide.
+6.broken – Something’s broken in the layout after the last update.
+7.helpful – That comment was really helpful in fixing the logic.
+8.available – This feature is now available on all devices.
+9.invisible – The modal was invisible due to a z-index issue.
+10.remote – I prefer remote work because it gives me more flexibility.
+11.visible – The button is only visible after logging in.
+12.lucky – We were lucky the bug didn’t affect production users.
+13.nervous – I was a bit nervous before my first technical interview.
+14.common – This is a common mistake when using setState too quickly.
+15.unexpected – The modal closed due to an unexpected event.
+16.comfortable – I’m comfortable speaking about both frontend and backend basics.
+17.patient – You need to be patient when debugging async issues.
+18.basic – We covered the basic concepts before jumping into code.
+19.useful – That blog post was really useful for learning about hooks.
+20.open – Our team has an open culture where feedback is welcome.
+21.simple – Let’s keep the layout simple and clean.
+22.correct – That’s the correct way to bind methods in React.
+23.curious – She’s always curious about how things work under the hood.
+24.fast – The site is fast even on 3G thanks to code splitting.
+25.clear – Your explanation was clear and easy to follow.
