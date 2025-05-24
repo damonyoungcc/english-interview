@@ -15,6 +15,7 @@ const audio = document.getElementById("audio");
 const transcriptDiv = document.getElementById("transcript");
 const fabBtn = document.getElementById("fabPlayToggle");
 const iconSpan = fabBtn.querySelector(".icon");
+const furiganaToggleBtn = document.getElementById("fabToggleFurigana");
 
 let showFurigana = localStorage.getItem("showFurigana") !== "false";
 
@@ -159,6 +160,8 @@ function renderTranscript(wordsArray) {
 
     transcriptDiv.appendChild(span);
   });
+  furiganaToggleBtn.classList.toggle("toggle-on", showFurigana);
+  furiganaToggleBtn.classList.toggle("toggle-off", !showFurigana);
 }
 
 // === 高亮逻辑 ===
@@ -233,6 +236,20 @@ fabBtn.addEventListener("click", () => {
 
 audio.addEventListener("play", updateFabIcon);
 audio.addEventListener("pause", updateFabIcon);
+
+// === 假名开关按钮逻辑 ===
+furiganaToggleBtn.addEventListener("click", () => {
+  showFurigana = !showFurigana;
+  localStorage.setItem("showFurigana", showFurigana.toString());
+
+  const rts = transcriptDiv.querySelectorAll("rt");
+  rts.forEach((rt) => {
+    rt.style.display = showFurigana ? "" : "none";
+  });
+
+  furiganaToggleBtn.classList.toggle("toggle-on", showFurigana);
+  furiganaToggleBtn.classList.toggle("toggle-off", !showFurigana);
+});
 
 function formatNumber(num) {
   return String(num).padStart(2, "0"); // 统一两位数显示
