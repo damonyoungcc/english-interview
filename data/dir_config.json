@@ -63,9 +63,9 @@
   },
   "日语": {
     "01": {
-      "audio_file": "日语1.m4a",
+      "audio_file": "日语.m4a",
       "path": "data/日语/01",
-      "word_corrected_json": "日语1.corrected.word.json"
+      "word_corrected_json": "日语.corrected.word.json"
     }
   }
 }
