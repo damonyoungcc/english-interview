@@ -1,0 +1,157 @@
+M: What project are you most proud of and why?
+F: Hey, everyone, I'm here today with Sophie Affirmation, and we're going to do a software engineering behavioral question today.
+M: But before we get into it, Sophie, can you introduce yourself a little bit?
+F: Yes, of course. Hello, everyone. I'm super excited to be here. My name is Sophie. I'm the CEO and founder of Formation. We are an adaptive learning platform for software engineers.
+M: Prior to Formation, I was an engineer myself. I was at Facebook and Nextdoor for many years.
+F: So one of the people that was super involved in thinking about our hiring, onboarding, training, practices for software engineers.
+M: I've done hundreds of interviews myself, done coding interviews, behavioral interviews, been part of many hiring panel discussions and just super excited to see if I can help all the engineers that are job hunting today.
+F: Well, we're really excited to have you, Sophie.
+M: And in today's video, we're going to turn the tables and I'll be asking you an interview question that a lot of engineering hiring managers ask.
+F: These often come up in the first few minutes of an interview and they sometimes segue into an interview, but they're more behavioral in nature.
+M: So the question that we're going to be asking today is what project are you most proud of and why?
+F: And before we get into it, just to set the stage for the viewers, a lot of people get this question wrong.
+M: And so what we're going to do is we're going to actually start off giving an answer that is actually bad, but seems good.
+F: And so Sophie, whenever you're ready, I'll re-ask the question and we can get into the roleplay if that sounds good.
+M: OK, great.
+F: All right. So Sophie, what project are you most proud of and why?
+M: So I recently worked on a project to reduce or improve the scroll performance of the newsfeed in our mobile application.
+F: So we instrumented the scroll speed and found that it was actually only about 20 to 30 frames per second, which just as context is not good.
+M: So when scrolling quickly, it just made it feel really glitchy.
+F: So I ended up splitting out the layout computation operations and removed it from the main thread so that it can run asynchronously in a background thread.
+M: And a lot of our layout operations turned out to be really computationally complex and time consuming.
+F: And especially because each of our kind of newsfeed stories came in very different shapes and sizes.
+M: And so by doing all of that work live while the user is scrolling through the feed led to these kind of layout complexities that caused glitches as people were scrolling.
+F: So we moved all of the layout operations to pre-process as much of it as possible into a background thread, which we could then run asynchronously.
+M: And that caused the main thread to eventually be able to run our layouts super smoothly.
+F: And I'm pretty proud of that work.
+M: Awesome, well, thank you for that. Normally I would ask you more follow-ups, but since this is the bad answer, I'll kind of skip over that.
+F: I'm really curious before I share, like, yeah, break it down for the audience and for me, like, what didn't work with that answer?
+M: I can at least just initially say, my eyes definitely glazed over a little bit as you were talking.
+F: I was like, struggling to pay attention to your words, you know, but it would be helpful, like, break it down, like, why was that?
+M: Well, yeah, it was. And again, for folks watching, this was a good example. This is an example of a bad answer.
+F: So we're going to talk a little bit about why and how we can improve it.
+M: And then we'll see an example of how Sophie does it better after this.
+F: But first, Sophie, break it down for us.
+M: The first thing that I would like to say about this, whether it was a good answer or not, I think it's always a trick question.
+F: You literally cannot answer this question like is this a good answer or not without understanding more of the context of where you are answering this question.
+F: We did not set up any context as to what company this is, what team this is, what problems, and even what role this person has, right?
+M: Depending on whether you're talking to a peer engineer versus if you're talking to a hiring manager, these may all be different.
+F: And so knowing the context of the interview is important in evaluating whether it's actually a good answer or not.
+M: I would say that this project as a selection was really about buttery, smooth front-end performance, which is a common technical challenge of mobile engineers, I would say.
+F: But I would say that that needs to be something that the team cares about for this to be relevant.
+M: So I would say the first thing is, if ever asked this question, you should ask back, well, what is the context of this interview?
+F: But yeah, I can also go into a little bit more of like the actual content of what I said as well.
+M: Well, I mean, yeah, I'd be curious, whatever you think would be helpful, but I would be curious, how would you have improved that answer and what else might be relevant for people watching about the better version of the answer?
+F: And one thing just to echo back that I really love that you're sharing is: good interview answers are all about empathy with the interviewer.
+M: Like, what is the interviewer looking for?
+F: And without understanding what the interviewer is looking for, how can you possibly give a good answer?
+M: And so sort of what you're suggesting here is like, hi, let's look at the context.
+F: Let's look at why they're asking this and what they're looking for so that you can not just answer the question as it is, but answer the question underneath the question that they're looking for.
+M: Yeah.
+F: Yeah. And, you know, the question oftentimes is like a bit of a what question, like what is a project that you're really proud of, right?
+M: And a lot of times, you know, engineers, super literal, just go ahead and answer that what question, right?
+F: Like exactly what did they do and what steps they followed to do it, but there's a lot of context to add to that.
+M: So one of the things that I would say is you have to take your interviewer on a journey.
+F: So it's not just what you did to solve the problem, but also the steps that you took to discover the solution in the first place.
+M: So this is, especially this type of project, sounds like it was a bit more of an infrastructure project where the engineer is really leading the decision on what to do to solve the problem.
+F: It is really important to clarify what role you played in discovering that solution for the project.
+M: Again, it can be super tempting to go straight to the solution, but that's actually less important than talking about what you did to debug and the alternatives potentially that may have been considered.
+F: As you get into more and more senior roles, it's the expectation that you were the decider in terms of what actually was done.
+M: And then another thing is like, you know, we're all kind of—you're in an interview to join an engineering team.
+F: And so it's not just about like what you did yourself, but it's also in the context of a greater team, right?
+M: Like it's important to kind of clarify the role that you played and kind of the impact that your work had on the product as well as other team members.
+F: And so I think in this case, if you play it back, I say a lot of “we,” which makes it very unclear exactly what specifically I did.
+M: And oftentimes, you know, it may be assumed that someone else maybe handed down a decision and maybe all I did was just implement like the separating of the different threads, etc., which is completely different scopes of work, right?
+F: And so, yeah, I would say, add context as to how the solution was discovered and clarify kind of the role that you played in the work that you did.
+M: I'll ask the question again and then so I'll set you up.
+F: We're going to see how Sophie might answer this with some of those tips and context that she had mentioned just recently.
+M: So hey, Sophie, what project are you most proud of and why?
+F: So thank you for the question. I actually, I read the blog post that you guys recently put up about PandaFeed being how you guys got it super buttery smooth and the approach of lazy loading feed stories makes a lot of sense.
+M: It's actually a project that I worked on recently over at LionFeed to improve our own scroll performance.
+F: So when I started the project, I used Xcode instrumentation tool to kind of benchmark our scroll performance under various conditions.
+M: And what I found was that the general frame FPS—frames per second—was around 40 to 50, which is not super terrible.
+F: It's not great, but then it would occasionally glitch at certain frames and was reading at about like 20 to 30, which is really, really bad.
+F: And what I learned was—what I figured out was—that we were kind of using this single view component that had really complex Auto Layout rules that was turning on and off depending on if certain, you know, some components of that story were visible.
+M: So for example, like some stories had a comment bar, some didn't.
+F: And so whenever the layout changed in significant ways, the Auto Layout computations were just taking up so many cycles and causing glitches when these new stories were coming out.
+M: And you could literally see in our instrumentation tool—if you turned that on—that there’s these private library function calls, and you could see a ton of calls going to the Auto Layout engine.
+F: And so what I ended up doing was—we completely turned off, decided to turn off Auto Layout for feed altogether.
+M: And I built an entire feed layout engine that essentially computed the layout of each feed story completely manually—like literally computing all of the XY coordinates, like individually, manually.
+F: And so by doing this, we were able to actually move all of the layout computations into an async background thread.
+M: And basically it was computing these coordinates and spitting out a view model struct for kind of the main thread.
+F: And so when the user is scrolling, the main thread just needs to copy over these XY coordinates.
+M: And this brought our frames per second up to close to 60 and completely eliminated all the glitches around these different feed components.
+F: It was pretty challenging because our entire feed was built on kind of the old layout model.
+M: So we needed to coordinate across all teams across the company that had these feed stories to migrate all of their components over to this new model.
+F: But if you now open up LineFeed, I think it's super buttery smooth and I am really proud of that.
+M: Awesome. Normally I'd ask more follow-up questions. I'll just ask one, which is: I'm curious, was there any cross-functional element or persuasion that you had to do to get this project across or to get your approach to the project across?
+F: Or can you tell me a little bit more about how you got the team around that idea?
+M: Yeah, so, well, the entire mobile team was motivated to want to create like a great feed experience.
+F: So the company across the board was bought into this project.
+M: One thing I will say though, is that other teams who weren't actively working on it had other priorities.
+F: And so the biggest thing I needed to do was make it such that the migration was as easy as possible.
+M: And so I actually built—I won't go too much into the details of it—but I essentially built this very simple layout structure such that anyone can just define a single file that laid out the structure of the feed component that they needed to do.
+F: So it was literally, I want to say, a single afternoon or maybe even like a 30-minute to like an hour-long task for each individual team to come in and just fill out their layout file.
+M: And I had this whole thing where it would live demo and preview kind of the output that they would create if they made this file.
+F: So essentially, making it as easy as possible for teams to migrate their files over eliminated any kind of excuses that they could have to not cooperate.
+M: So.
+F: Awesome. Well, okay. Thanks, Sophie, for jumping into that. You can take out the roleplay persona though.
+M: I thought that was much better.
+F: I actually—maybe I’ll share a couple of things that I noticed first.
+M: And I would love to hear your debrief of it and maybe even your thoughts of like how the hiring manager might have thought of that answer too.
+F: But first, like, what I love—a few things that I love just watching this—was like: one, it was obviously clear that you had read and researched the company you were applying for in the beginning.
+M: You were not just speaking into a void. You weren't just like saying an answer as if it could be anywhere.
+F: You're customizing your answer to the person asking it, which I think is really, really important in all interviewing.
+M: You're not supposed to just give the same answer to every question, but you customize it to the company you're working with and the person.
+F: And sort of, you know, maybe you had already researched me and you knew that I knew about some of the things or maybe I’d worked on that buttery smooth performance.
+M: So that was great. I thought a couple of things that you did and your tone of voice were really effective to show your passion more than the previous case.
+F: So one, it’s just—you’re obviously more passionate, probably because you were just doing a better example than like a bad example.
+M: But your tone of voice—you had more inflections. You’d use things like “there are so many issues” or “so many things.”
+F: And I think those kinds of words added a little bit more personality to your answer that had a little bit more of like an emotional tone that was easier to follow along.
+M: In particular, I really liked that you brought up like why it was so challenging, which I think is really important for this because interviews are curious.
+F: Like, how was this a hard project to launch?
+M: And then I saw—I loved how you brought that in and explained why it was really hard.
+F: And then I also love that you—the language that you're using was very easy to imagine.
+M: You were sort of like bringing it back to the end-user experience, or at one point you're like, “Oh yeah, and the dashboard, it looked like this.”
+F: And it sort of allowed me as a listener to be more attentive and understand what you were saying a little bit more.
+M: So those are just some of my initial observations.
+F: I would love to hear your take, especially from the hiring manager perspective, like what you thought of that answer.
+M: Those are just some of my initial thoughts. I thought it was a much better answer.
+F: Yeah, thanks for noticing, trying to customize the answer. In general, I always want to talk to the person almost as if we already are on a team together.
+M: It just feels natural. If you're able to talk about how you feel about this PandaFeed thing that the other person spends a lot of time on, you want to be able to imagine being able to work with this person.
+F: So it is definitely something that I feel can help, and I always do like to come into an interview with an idea of the general priorities of at least the company at a high level.
+M: Right, like a company with a product like Airbnb, for example, is very different in what they would care about compared to a different company like maybe like an Amazon.
+F: And like being able to have stories that highlight the types of values and working styles of that company can be super important.
+M: When I'm thinking about—if I were to summarize—what is a hiring manager looking for?
+F: They want to know that the person can solve the problems that they currently have on their team.
+M: Everyone's life is just all about problems. We're just trying to solve them as fast as we can.
+F: This person has probably a single slot to put a person in that seat to try to solve as many problems as they can.
+M: And they're just wanting to answer the simple question: is this person going to solve my problems?
+F: And so whatever problems I'm thinking about in my head, what I want to know is that this person has done work like it or has thought about similar problems before.
+M: And the more senior you are, the more true this is.
+F: I think it is a little bit less true for entry to mid-level roles. But as you progress in your career, it just gets more and more important.
+M: Which is kind of why my earlier point in terms of the context is important.
+F: I mentioned talking to a company that's published a blog post about feed scroll performance. That's clearly something that's important to them.
+M: If this answer was to a hiring manager really looking to elevate the app's front-end performance, then this answer would be fantastic.
+F: And kind of going back to: a hiring manager wants problems to be solved, not just implementing solutions.
+M: And that's why I think earlier I was talking about how it's important to demonstrate what you did to discover the solution, not just implement a particular solution that was handed down.
+F: So in the second answer, I mentioned a lot more about the instrumentation that I did and showed how I was able to isolate like a problem down to a specific cause.
+M: And then I think final thing is like—this is kind of a counterintuitive thing—but managers want to know that, especially more senior people, as you get more and more experienced, you should be able to independently discover and deliver a fully working solution without me having to do a lot of work as a hiring manager.
+F: And the counterintuitive part is that in order to do things independently, you actually need to demonstrate your ability to collaborate as a team.
+M: Because a lot of the work that needs to be done involves convincing other team members and collaborating with them to integrate various components.
+F: And so in the second example, I mentioned how teams were needing to migrate all of their stories and being able to tell a story around how I was able to drive that collaboration means that my manager then has to do a lot less work in handing me a problem and expecting it to be solved.
+M: And so yeah, those are some of the ways in which I think the second answer kind of addresses like, hey, I'm a person who can solve your problems a lot better than the first answer did.
+F: I love that. And yeah, like the crux of it is really just empathizing with the hiring manager.
+M: Like they're looking to find someone to solve their problems. And so you're anticipating that and solving that.
+F: So yeah, I love that. And yeah, thanks for showing us both the bad answer and the good answer. And I hope it's helpful for folks watching.
+M: So if you do have anything else that you'd love to close out with or any other takeaways or things you'd like to share before we end this video—
+F: I think maybe one thing that I would just add is—try not to, if anyone's watching this, don't model a story that sounds like mine.
+M: Every single person is such a different story, such different strengths to highlight.
+F: So really try to take the general takeaways but really make each story your own.
+M: Yeah, I love that.
+F: And it's really obvious to an interviewer when it's not your own story or it's not something you're passionate about.
+M: And I do really think like, you know, speaking from your experience, there's some groundedness there and some confidence in the answer.
+F: So, yeah, I really like that advice.
+M: Yeah. Well, awesome. Thank you for having me today.
+F: Yeah. Thanks for being on.
+M: And for those watching, good luck on your next interview.

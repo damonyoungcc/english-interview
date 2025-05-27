@@ -61,11 +61,16 @@
       "word_corrected_json": "5.corrected.word.json"
     }
   },
-  "日语": {
+  "interview": {
     "01": {
-      "audio_file": "日语.m4a",
-      "path": "data/日语/01",
-      "word_corrected_json": "日语.corrected.word.json"
+      "audio_file": "01.m4a",
+      "path": "data/interview/01",
+      "word_corrected_json": "01.corrected.word.json"
+    },
+    "02": {
+      "audio_file": "02.mp3",
+      "path": "data/interview/02",
+      "word_corrected_json": "02.corrected.word.json"
     }
   }
 }
