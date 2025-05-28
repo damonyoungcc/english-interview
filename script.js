@@ -8,6 +8,7 @@ let defaultQuestion;
 let lastScrollTime = 0;
 let scrollTimeout;
 let configData = {};
+let scrollLock = false; // ✅ 新增：用于 scroll 节流控制
 
 const yearSelect = document.getElementById("yearSelect");
 const questionSelect = document.getElementById("questionSelect");
@@ -22,6 +23,10 @@ let showFurigana = localStorage.getItem("showFurigana") !== "false";
 const targetDateStr = "2025-07-06";
 const targetDate = new Date(targetDateStr + "T00:00:00"); // 精确到日期，时间默认 00:00:00
 const countdownDisplay = document.getElementById("countdownDisplay");
+
+audio.addEventListener("seeked", () => {
+  updateHighlight(audio.currentTime); // ✅ 拖动播放条后立即更新高亮
+});
 
 // === 初始化逻辑 ===
 window.addEventListener("DOMContentLoaded", async () => {
@@ -193,8 +198,12 @@ function updateHighlight(currentTime) {
     const wordEl = words[indexToHighlight];
     wordEl.classList.add("highlight");
 
-    if (Date.now() - lastScrollTime > timeCountDown * 1000) {
+    if (!scrollLock && Date.now() - lastScrollTime > timeCountDown * 1000) {
+      scrollLock = true;
       wordEl.scrollIntoView({ block: "center", behavior: "smooth" });
+      setTimeout(() => {
+        scrollLock = false;
+      }, 600); // ✅ scroll 动画后解锁
     }
   }
 }
@@ -234,7 +243,10 @@ fabBtn.addEventListener("click", () => {
   updateFabIcon();
 });
 
-audio.addEventListener("play", updateFabIcon);
+audio.addEventListener("play", () => {
+  updateFabIcon();
+  updateHighlight(audio.currentTime); // 确保播放时高亮正确
+});
 audio.addEventListener("pause", updateFabIcon);
 
 // === 假名开关按钮逻辑 ===
