@@ -68,12 +68,12 @@
       "word_corrected_json": "01.corrected.word.json"
     },
     "02": {
-      "audio_file": "02.mp3",
+      "audio_file": "02.m4a",
       "path": "data/interview/02",
       "word_corrected_json": "02.corrected.word.json"
     },
     "03": {
-      "audio_file": "03.mp3",
+      "audio_file": "03.m4a",
       "path": "data/interview/03",
       "word_corrected_json": "03.corrected.word.json"
     }
