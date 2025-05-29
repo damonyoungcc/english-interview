@@ -19,22 +19,22 @@ And yeah, these kinds of questions often come up early in interviews, and they m
 At first, I was very literal in interviews—I’d just list out what I did. But later I learned to talk more about how I approach things, and how I think through alternatives, potentially better ones, before picking a direction.
 
 ### NO_ALIGN_BELOW
-所以当我加入公司时，我很快就注意到大家非常【adaptive 适应力强的、能灵活应对变化的】——特别是在像我们这样【fast-moving 快节奏的、迅速变化的】【product team 产品团队】中。
-在我【onboarding 入职培训、适应期】期间，我有机会参加了一些【panel interview 多人面试】。我们一起合作，根据一些关键的【metrics 指标、衡量标准】，比如【problem-solving 解决问题的能力】、【communication 沟通能力】和【system thinking 系统思维】来评估新的【candidates 候选人】。
+所以当我加入公司时，我很快就注意到大家非常<adaptive 适应力强的、能灵活应对变化的>——特别是在像我们这样快节奏的、迅速变化的产品团队中。
+在我<onboarding 入职培训、适应期>期间，我有机会参加了一些<panel interview 多人面试>。我们一起合作，根据一些关键的<metrics 指标、衡量标准>，比如解决问题的能力、沟通能力和系统思维来评估新的<candidates 候选人>。
 
-后来，我参与了一个我称之为更偏向【infrastructure 基础架构（支持系统运作的底层部分）】的项目。有些人【assumed 以为、假设】我只是来【implement 实施、执行】别人的计划，但实际上整个项目是我主导的。
-我们必须在多个团队之间【coordinate 协调】并确保每个团队能顺利地【migrate 迁移（从旧系统转移到新系统）】他们的【feed components 信息流组件】到新的【layout model 布局模型】中。
+后来，我参与了一个我称之为更偏向<infrastructure 基础架构（支持系统运作的底层部分）>的项目。有些人<assumed 以为、假设>我只是来<implement 实施、执行>别人的计划，但实际上整个项目是我主导的。
+我们必须在多个团队之间<coordinate 协调>并确保每个团队能顺利地<migrate 迁移（从旧系统转移到新系统）>他们的信息流组件到新的布局模型中。
 
-我们给 app 加了【instrumented 工具代码/埋点，监控用】来收集【scroll performance 滚动性能】数据——比如【coordinates 坐标】、【FPS 每秒帧数】和【render time 渲染时间】。之后，我们对【rendering 渲染】做了【profile 性能分析（记录其行为）】，并【traced 追踪】了布局中速度慢的部分。
-当时，滚动感觉非常【glitchy 卡顿、不流畅】，而且它【was consuming 消耗】了太多每秒的帧数。所以我们【rewrote 重写】了布局系统，并以【asynchronously 异步方式（不阻塞主线程）】加载 feed 内容。
+我们给 app 加了<instrumented 工具代码/埋点，监控用>来收集滚动性能数据——比如<coordinates 坐标>、每秒帧数和渲染时间。之后，我们对渲染做了<profile 性能分析（记录其行为）>，并<traced 追踪>了布局中速度慢的部分。
+当时，滚动感觉非常<glitchy 卡顿、不流畅>，而且它<was consuming 消耗>了太多每秒的帧数。所以我们重写了布局系统，并以<asynchronously 异步方式（不阻塞主线程）>加载 feed 内容。
 
-这个改动让整个系统变得【super buttery smooth 超级丝滑流畅】。
-我们在工具中确实看到那些【Auto Layout 自动布局】的调用都没了，完全【eliminated 消除了】滚动时的【lag 延迟、卡顿】。
+这个改动让整个系统变得<super buttery smooth 超级丝滑流畅>。
+我们在工具中确实看到那些自动布局的调用都没了，完全<eliminated 消除了>滚动时的<lag 延迟、卡顿>。
 
-我们想让【adoption 采纳、迁移过程】变得容易，所以简化了【migration steps 迁移步骤】，这基本上让人没有借口不【cooperate 合作】。
-尽管如此，一些团队还是需要一些【persuasion 说服】。而且因为这是一个【cross-functional 跨职能的（多个部门参与的）】项目，我必须付出努力，让大家接受【moving away from 远离、不再使用】Auto Layout 的想法。
+我们想让<adoption 采纳、迁移过程>变得容易，所以简化了<migration steps 迁移步骤>，这基本上让人<eliminated消除了找>借口不合作。
+尽管如此，一些团队还是需要一些<persuasion 说服>。而且因为这是一个<cross-functional 跨职能的（多个部门参与的）>项目，我必须付出努力，让大家接受<moving away from 远离、不再使用>Auto Layout 的想法。
 
-回头看，我觉得【crux 核心、本质】就在于要有【empathy 共情能力】——不仅是对用户，还包括对队友，甚至是那些在观察你如何解决问题的【hiring manager 招聘经理】。
+回头看，我觉得<crux 核心、本质>就在于要有<empathy 共情能力>——不仅是对用户，还包括对队友，甚至是那些在观察你如何解决问题的招聘经理。
 
-这些问题通常在面试早期就会出现，它们可能会【segue 自然转向】其他话题，但它们本质上更偏【behavioral 行为类的（考察你过去做事方式）】。
-一开始，我在面试中回答得非常【literal 字面化、只讲事实】，只是列出我做了什么但后来我学会了更多地谈论我【approach 应对、处理】问题的方法，以及我在做决策前如何【think through 仔细思考】各种【alternatives 备选方案】，包括那些可能更好的选项。
+这些问题通常在面试早期就会出现，它们可能会<segue 自然转向>其他话题，但它们本质上更偏行为类的面试。
+一开始，我在面试中回答得非常<literal 字面化、只讲事实>，只是列出我做了什么但后来我学会了更多地谈论我<approach 应对、处理>问题的方法，以及我在做决策前如何仔细思考各种<alternatives 备选方案>，包括那些<potentially 潜在的>可能更好的选项。

@@ -73,11 +73,20 @@ html, body {
   white-space: pre-wrap;
   font-size: 18px;
   line-height: 1.8;
+  color: #4c4c4e;
+  font-weight: 400;
+  text-transform: none;
+  text-decoration: none;
+  letter-spacing: -0.36px;
+  text-align: justify;
 }
 
 .word {
   cursor: pointer;
-  padding: 3px 1px;
+  padding: 1px 0.8px;
+
+
+
 }
 
 @media screen and (min-width: 1300px) {
