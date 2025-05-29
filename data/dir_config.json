@@ -76,6 +76,11 @@
       "audio_file": "03.m4a",
       "path": "data/interview/03",
       "word_corrected_json": "03.corrected.word.json"
+    },
+    "04": {
+      "audio_file": "04.m4a",
+      "path": "data/interview/04",
+      "word_corrected_json": "04.corrected.word.json"
     }
   }
 }

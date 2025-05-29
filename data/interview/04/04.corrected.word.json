@@ -1,0 +1,11384 @@
+[
+  {
+    "word": "So",
+    "start": 1.103,
+    "end": 1.203,
+    "score": 0.993
+  },
+  {
+    "word": " ",
+    "start": 1.203,
+    "end": 1.243
+  },
+  {
+    "word": "when",
+    "start": 1.243,
+    "end": 1.343,
+    "score": 0.92
+  },
+  {
+    "word": " ",
+    "start": 1.343,
+    "end": 1.403
+  },
+  {
+    "word": "I",
+    "start": 1.403,
+    "end": 1.463,
+    "score": 0.335
+  },
+  {
+    "word": " ",
+    "start": 1.463,
+    "end": 1.523
+  },
+  {
+    "word": "joined",
+    "start": 1.523,
+    "end": 1.743,
+    "score": 0.819
+  },
+  {
+    "word": " ",
+    "start": 1.743,
+    "end": 1.763
+  },
+  {
+    "word": "the",
+    "start": 1.763,
+    "end": 1.823,
+    "score": 1.0
+  },
+  {
+    "word": " ",
+    "start": 1.823,
+    "end": 1.863
+  },
+  {
+    "word": "company",
+    "start": 1.863,
+    "end": 2.204,
+    "score": 0.913
+  },
+  {
+    "word": ",",
+    "start": 2.204,
+    "end": 2.324
+  },
+  {
+    "word": " ",
+    "start": 2.324,
+    "end": 2.324
+  },
+  {
+    "word": "I",
+    "start": 2.324,
+    "end": 2.364,
+    "score": 0.511
+  },
+  {
+    "word": " ",
+    "start": 2.364,
+    "end": 2.444
+  },
+  {
+    "word": "noticed",
+    "start": 2.444,
+    "end": 2.804,
+    "score": 0.786
+  },
+  {
+    "word": " ",
+    "start": 2.804,
+    "end": 2.924
+  },
+  {
+    "word": "pretty",
+    "start": 2.924,
+    "end": 3.164,
+    "score": 0.813
+  },
+  {
+    "word": " ",
+    "start": 3.164,
+    "end": 3.224
+  },
+  {
+    "word": "quickly",
+    "start": 3.224,
+    "end": 3.564,
+    "score": 0.949
+  },
+  {
+    "word": " ",
+    "start": 3.564,
+    "end": 3.624
+  },
+  {
+    "word": "that",
+    "start": 3.624,
+    "end": 3.744,
+    "score": 0.79
+  },
+  {
+    "word": " ",
+    "start": 3.744,
+    "end": 3.784
+  },
+  {
+    "word": "people",
+    "start": 3.784,
+    "end": 4.045,
+    "score": 0.785
+  },
+  {
+    "word": " ",
+    "start": 4.045,
+    "end": 4.085
+  },
+  {
+    "word": "were",
+    "start": 4.085,
+    "end": 4.245,
+    "score": 0.709
+  },
+  {
+    "word": " ",
+    "start": 4.245,
+    "end": 4.385
+  },
+  {
+    "word": "super",
+    "start": 4.385,
+    "end": 4.685,
+    "score": 0.861
+  },
+  {
+    "word": " ",
+    "start": 4.685,
+    "end": 4.725
+  },
+  {
+    "word": "adaptive",
+    "start": 4.725,
+    "end": 5.225,
+    "score": 0.937
+  },
+  {
+    "word": "—",
+    "start": 5.225,
+    "end": 5.425
+  },
+  {
+    "word": "especially",
+    "start": 5.425,
+    "end": 6.246,
+    "score": 0.821
+  },
+  {
+    "word": " ",
+    "start": 6.246,
+    "end": 6.326
+  },
+  {
+    "word": "in",
+    "start": 6.326,
+    "end": 6.386,
+    "score": 0.916
+  },
+  {
+    "word": " ",
+    "start": 6.386,
+    "end": 6.426
+  },
+  {
+    "word": "a",
+    "start": 6.426,
+    "end": 6.466,
+    "score": 0.499
+  },
+  {
+    "word": " ",
+    "start": 6.466,
+    "end": 6.546
+  },
+  {
+    "word": "fast",
+    "start": 6.546,
+    "end": 6.826,
+    "score": 0.908
+  },
+  {
+    "word": "-",
+    "start": 6.826,
+    "end": 6.886
+  },
+  {
+    "word": "moving",
+    "start": 6.886,
+    "end": 7.126,
+    "score": 0.792
+  },
+  {
+    "word": " ",
+    "start": 7.126,
+    "end": 7.186
+  },
+  {
+    "word": "product",
+    "start": 7.186,
+    "end": 7.527,
+    "score": 0.766
+  },
+  {
+    "word": " ",
+    "start": 7.527,
+    "end": 7.547
+  },
+  {
+    "word": "team",
+    "start": 7.547,
+    "end": 7.767,
+    "score": 0.992
+  },
+  {
+    "word": " ",
+    "start": 7.767,
+    "end": 7.807
+  },
+  {
+    "word": "like",
+    "start": 7.807,
+    "end": 7.947,
+    "score": 0.795
+  },
+  {
+    "word": " ",
+    "start": 7.947,
+    "end": 8.047
+  },
+  {
+    "word": "ours",
+    "start": 8.047,
+    "end": 8.287,
+    "score": 0.695
+  },
+  {
+    "word": ".",
+    "start": 8.287,
+    "end": 9.308
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "During",
+    "start": 9.308,
+    "end": 9.568,
+    "score": 0.824
+  },
+  {
+    "word": " ",
+    "start": 9.568,
+    "end": 9.608
+  },
+  {
+    "word": "my",
+    "start": 9.608,
+    "end": 9.728,
+    "score": 0.828
+  },
+  {
+    "word": " ",
+    "start": 9.728,
+    "end": 9.828
+  },
+  {
+    "word": "onboarding",
+    "start": 9.828,
+    "end": 10.248,
+    "score": 0.825
+  },
+  {
+    "word": ",",
+    "start": 10.248,
+    "end": 10.448
+  },
+  {
+    "word": " ",
+    "start": 10.448,
+    "end": 10.448
+  },
+  {
+    "word": "I",
+    "start": 10.448,
+    "end": 10.508,
+    "score": 0.659
+  },
+  {
+    "word": " ",
+    "start": 10.508,
+    "end": 10.548
+  },
+  {
+    "word": "got",
+    "start": 10.548,
+    "end": 10.708,
+    "score": 0.807
+  },
+  {
+    "word": " ",
+    "start": 10.708,
+    "end": 10.728
+  },
+  {
+    "word": "to",
+    "start": 10.728,
+    "end": 10.808,
+    "score": 0.657
+  },
+  {
+    "word": " ",
+    "start": 10.808,
+    "end": 10.848
+  },
+  {
+    "word": "join",
+    "start": 10.848,
+    "end": 11.068,
+    "score": 0.897
+  },
+  {
+    "word": " ",
+    "start": 11.068,
+    "end": 11.108
+  },
+  {
+    "word": "some",
+    "start": 11.108,
+    "end": 11.249,
+    "score": 0.795
+  },
+  {
+    "word": " ",
+    "start": 11.249,
+    "end": 11.269
+  },
+  {
+    "word": "panel",
+    "start": 11.269,
+    "end": 11.589,
+    "score": 0.869
+  },
+  {
+    "word": " ",
+    "start": 11.589,
+    "end": 11.609
+  },
+  {
+    "word": "interviews",
+    "start": 11.609,
+    "end": 12.029,
+    "score": 0.81
+  },
+  {
+    "word": ",",
+    "start": 12.029,
+    "end": 12.409
+  },
+  {
+    "word": " ",
+    "start": 12.409,
+    "end": 12.409
+  },
+  {
+    "word": "where",
+    "start": 12.409,
+    "end": 12.589,
+    "score": 0.745
+  },
+  {
+    "word": " ",
+    "start": 12.589,
+    "end": 12.629
+  },
+  {
+    "word": "we",
+    "start": 12.629,
+    "end": 12.769,
+    "score": 0.802
+  },
+  {
+    "word": " ",
+    "start": 12.769,
+    "end": 12.869
+  },
+  {
+    "word": "worked",
+    "start": 12.869,
+    "end": 13.13,
+    "score": 0.812
+  },
+  {
+    "word": " ",
+    "start": 13.13,
+    "end": 13.17
+  },
+  {
+    "word": "together",
+    "start": 13.17,
+    "end": 13.61,
+    "score": 0.816
+  },
+  {
+    "word": " ",
+    "start": 13.61,
+    "end": 13.77
+  },
+  {
+    "word": "to",
+    "start": 13.77,
+    "end": 13.93,
+    "score": 0.649
+  },
+  {
+    "word": " ",
+    "start": 13.93,
+    "end": 14.01
+  },
+  {
+    "word": "evaluate",
+    "start": 14.01,
+    "end": 14.63,
+    "score": 0.862
+  },
+  {
+    "word": " ",
+    "start": 14.63,
+    "end": 14.791
+  },
+  {
+    "word": "new",
+    "start": 14.791,
+    "end": 14.951,
+    "score": 0.744
+  },
+  {
+    "word": " ",
+    "start": 14.951,
+    "end": 15.011
+  },
+  {
+    "word": "candidates",
+    "start": 15.011,
+    "end": 15.531,
+    "score": 0.833
+  },
+  {
+    "word": " ",
+    "start": 15.531,
+    "end": 15.671
+  },
+  {
+    "word": "based",
+    "start": 15.671,
+    "end": 15.911,
+    "score": 0.937
+  },
+  {
+    "word": " ",
+    "start": 15.911,
+    "end": 15.971
+  },
+  {
+    "word": "on",
+    "start": 15.971,
+    "end": 16.051,
+    "score": 0.832
+  },
+  {
+    "word": " ",
+    "start": 16.051,
+    "end": 16.091
+  },
+  {
+    "word": "a",
+    "start": 16.091,
+    "end": 16.111,
+    "score": 0.996
+  },
+  {
+    "word": " ",
+    "start": 16.111,
+    "end": 16.271
+  },
+  {
+    "word": "few",
+    "start": 16.271,
+    "end": 16.551,
+    "score": 0.836
+  },
+  {
+    "word": " ",
+    "start": 16.551,
+    "end": 16.692
+  },
+  {
+    "word": "key",
+    "start": 16.692,
+    "end": 16.892,
+    "score": 0.948
+  },
+  {
+    "word": " ",
+    "start": 16.892,
+    "end": 16.952
+  },
+  {
+    "word": "metrics",
+    "start": 16.952,
+    "end": 17.372,
+    "score": 0.906
+  },
+  {
+    "word": ",",
+    "start": 17.372,
+    "end": 17.932
+  },
+  {
+    "word": " ",
+    "start": 17.932,
+    "end": 17.932
+  },
+  {
+    "word": "like",
+    "start": 17.932,
+    "end": 18.092,
+    "score": 0.84
+  },
+  {
+    "word": " ",
+    "start": 18.092,
+    "end": 18.172
+  },
+  {
+    "word": "problem",
+    "start": 18.172,
+    "end": 18.493,
+    "score": 0.891
+  },
+  {
+    "word": "-",
+    "start": 18.493,
+    "end": 18.513
+  },
+  {
+    "word": "solving",
+    "start": 18.513,
+    "end": 18.873,
+    "score": 0.804
+  },
+  {
+    "word": ",",
+    "start": 18.873,
+    "end": 19.293
+  },
+  {
+    "word": " ",
+    "start": 19.293,
+    "end": 19.293
+  },
+  {
+    "word": "communication",
+    "start": 19.293,
+    "end": 20.113,
+    "score": 0.82
+  },
+  {
+    "word": ",",
+    "start": 20.113,
+    "end": 20.494
+  },
+  {
+    "word": " ",
+    "start": 20.494,
+    "end": 20.494
+  },
+  {
+    "word": "and",
+    "start": 20.494,
+    "end": 20.594,
+    "score": 0.825
+  },
+  {
+    "word": " ",
+    "start": 20.594,
+    "end": 20.714
+  },
+  {
+    "word": "system",
+    "start": 20.714,
+    "end": 21.174,
+    "score": 0.841
+  },
+  {
+    "word": " ",
+    "start": 21.174,
+    "end": 21.334
+  },
+  {
+    "word": "thinking",
+    "start": 21.334,
+    "end": 21.714,
+    "score": 0.836
+  },
+  {
+    "word": ".",
+    "start": 21.714,
+    "end": 22.395
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "Later",
+    "start": 22.395,
+    "end": 22.695,
+    "score": 0.786
+  },
+  {
+    "word": ",",
+    "start": 22.695,
+    "end": 22.995
+  },
+  {
+    "word": " ",
+    "start": 22.995,
+    "end": 22.995
+  },
+  {
+    "word": "I",
+    "start": 22.995,
+    "end": 23.035,
+    "score": 0.504
+  },
+  {
+    "word": " ",
+    "start": 23.035,
+    "end": 23.095
+  },
+  {
+    "word": "worked",
+    "start": 23.095,
+    "end": 23.315,
+    "score": 0.954
+  },
+  {
+    "word": " ",
+    "start": 23.315,
+    "end": 23.375
+  },
+  {
+    "word": "on",
+    "start": 23.375,
+    "end": 23.435,
+    "score": 0.756
+  },
+  {
+    "word": " ",
+    "start": 23.435,
+    "end": 23.455
+  },
+  {
+    "word": "what",
+    "start": 23.455,
+    "end": 23.555,
+    "score": 0.876
+  },
+  {
+    "word": " ",
+    "start": 23.555,
+    "end": 23.575
+  },
+  {
+    "start": 23.575,
+    "end": 23.575,
+    "word": "I"
+  },
+  {
+    "word": "’",
+    "start": 23.575,
+    "end": 23.575
+  },
+  {
+    "word": "d",
+    "start": 23.575,
+    "end": 23.695,
+    "score": 0.829
+  },
+  {
+    "word": " ",
+    "start": 23.695,
+    "end": 23.735
+  },
+  {
+    "word": "call",
+    "start": 23.735,
+    "end": 24.036,
+    "score": 0.796
+  },
+  {
+    "word": " ",
+    "start": 24.036,
+    "end": 24.296
+  },
+  {
+    "word": "more",
+    "start": 24.296,
+    "end": 24.596,
+    "score": 0.825
+  },
+  {
+    "word": " ",
+    "start": 24.596,
+    "end": 24.656
+  },
+  {
+    "word": "of",
+    "start": 24.656,
+    "end": 24.736,
+    "score": 0.5
+  },
+  {
+    "word": " ",
+    "start": 24.736,
+    "end": 24.776
+  },
+  {
+    "word": "an",
+    "start": 24.776,
+    "end": 24.836,
+    "score": 0.75
+  },
+  {
+    "word": " ",
+    "start": 24.836,
+    "end": 24.996
+  },
+  {
+    "word": "infrastructure",
+    "start": 24.996,
+    "end": 25.636,
+    "score": 0.748
+  },
+  {
+    "word": " ",
+    "start": 25.636,
+    "end": 25.676
+  },
+  {
+    "word": "project",
+    "start": 25.676,
+    "end": 26.077,
+    "score": 0.822
+  },
+  {
+    "word": ".",
+    "start": 26.077,
+    "end": 26.837
+  },
+  {
+    "word": " ",
+    "start": 26.837,
+    "end": 26.837
+  },
+  {
+    "word": "Some",
+    "start": 26.837,
+    "end": 26.977,
+    "score": 0.934
+  },
+  {
+    "word": " ",
+    "start": 26.977,
+    "end": 27.017
+  },
+  {
+    "word": "people",
+    "start": 27.017,
+    "end": 27.257,
+    "score": 0.854
+  },
+  {
+    "word": " ",
+    "start": 27.257,
+    "end": 27.317
+  },
+  {
+    "word": "assumed",
+    "start": 27.317,
+    "end": 27.638,
+    "score": 0.902
+  },
+  {
+    "word": " ",
+    "start": 27.638,
+    "end": 27.658
+  },
+  {
+    "word": "I",
+    "start": 27.658,
+    "end": 27.718,
+    "score": 0.346
+  },
+  {
+    "word": " ",
+    "start": 27.718,
+    "end": 27.758
+  },
+  {
+    "word": "was",
+    "start": 27.758,
+    "end": 27.858,
+    "score": 0.941
+  },
+  {
+    "word": " ",
+    "start": 27.858,
+    "end": 27.918
+  },
+  {
+    "word": "just",
+    "start": 27.918,
+    "end": 28.098,
+    "score": 0.75
+  },
+  {
+    "word": " ",
+    "start": 28.098,
+    "end": 28.158
+  },
+  {
+    "word": "there",
+    "start": 28.158,
+    "end": 28.338,
+    "score": 0.804
+  },
+  {
+    "word": " ",
+    "start": 28.338,
+    "end": 28.378
+  },
+  {
+    "word": "to",
+    "start": 28.378,
+    "end": 28.458,
+    "score": 0.748
+  },
+  {
+    "word": " ",
+    "start": 28.458,
+    "end": 28.538
+  },
+  {
+    "word": "implement",
+    "start": 28.538,
+    "end": 28.919,
+    "score": 0.851
+  },
+  {
+    "word": " ",
+    "start": 28.919,
+    "end": 28.939
+  },
+  {
+    "word": "someone",
+    "start": 28.939,
+    "end": 29.179,
+    "score": 0.903
+  },
+  {
+    "word": " ",
+    "start": 29.179,
+    "end": 29.199
+  },
+  {
+    "start": 29.199,
+    "end": 29.199,
+    "word": "else"
+  },
+  {
+    "word": "’",
+    "start": 29.199,
+    "end": 29.199
+  },
+  {
+    "word": "s",
+    "start": 29.199,
+    "end": 29.479,
+    "score": 0.739
+  },
+  {
+    "word": " ",
+    "start": 29.479,
+    "end": 29.539
+  },
+  {
+    "word": "plan",
+    "start": 29.539,
+    "end": 29.879,
+    "score": 0.69
+  },
+  {
+    "word": ",",
+    "start": 29.879,
+    "end": 30.58
+  },
+  {
+    "word": " ",
+    "start": 30.58,
+    "end": 30.58
+  },
+  {
+    "word": "but",
+    "start": 30.58,
+    "end": 30.68,
+    "score": 0.836
+  },
+  {
+    "word": " ",
+    "start": 30.68,
+    "end": 30.8
+  },
+  {
+    "word": "actually",
+    "start": 30.8,
+    "end": 31.16,
+    "score": 0.793
+  },
+  {
+    "word": " ",
+    "start": 31.16,
+    "end": 31.26
+  },
+  {
+    "word": "I",
+    "start": 31.26,
+    "end": 31.321,
+    "score": 0.839
+  },
+  {
+    "word": " ",
+    "start": 31.321,
+    "end": 31.381
+  },
+  {
+    "word": "led",
+    "start": 31.381,
+    "end": 31.541,
+    "score": 0.853
+  },
+  {
+    "word": " ",
+    "start": 31.541,
+    "end": 31.581
+  },
+  {
+    "word": "the",
+    "start": 31.581,
+    "end": 31.681,
+    "score": 0.918
+  },
+  {
+    "word": " ",
+    "start": 31.681,
+    "end": 31.721
+  },
+  {
+    "word": "whole",
+    "start": 31.721,
+    "end": 31.941,
+    "score": 0.73
+  },
+  {
+    "word": " ",
+    "start": 31.941,
+    "end": 32.001
+  },
+  {
+    "word": "thing",
+    "start": 32.001,
+    "end": 32.241,
+    "score": 0.838
+  },
+  {
+    "word": ".",
+    "start": 32.241,
+    "end": 32.802
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "We",
+    "start": 32.802,
+    "end": 32.902,
+    "score": 0.796
+  },
+  {
+    "word": " ",
+    "start": 32.902,
+    "end": 32.942
+  },
+  {
+    "word": "had",
+    "start": 32.942,
+    "end": 33.062,
+    "score": 0.881
+  },
+  {
+    "word": " ",
+    "start": 33.062,
+    "end": 33.082
+  },
+  {
+    "word": "to",
+    "start": 33.082,
+    "end": 33.162,
+    "score": 0.746
+  },
+  {
+    "word": " ",
+    "start": 33.162,
+    "end": 33.202
+  },
+  {
+    "word": "coordinate",
+    "start": 33.202,
+    "end": 33.642,
+    "score": 0.826
+  },
+  {
+    "word": " ",
+    "start": 33.642,
+    "end": 33.682
+  },
+  {
+    "word": "across",
+    "start": 33.682,
+    "end": 34.023,
+    "score": 0.91
+  },
+  {
+    "word": " ",
+    "start": 34.023,
+    "end": 34.083
+  },
+  {
+    "word": "teams",
+    "start": 34.083,
+    "end": 34.483,
+    "score": 0.736
+  },
+  {
+    "word": " ",
+    "start": 34.483,
+    "end": 34.763
+  },
+  {
+    "word": "and",
+    "start": 34.763,
+    "end": 34.843,
+    "score": 0.835
+  },
+  {
+    "word": " ",
+    "start": 34.843,
+    "end": 34.903
+  },
+  {
+    "word": "make",
+    "start": 34.903,
+    "end": 35.043,
+    "score": 0.985
+  },
+  {
+    "word": " ",
+    "start": 35.043,
+    "end": 35.083
+  },
+  {
+    "word": "sure",
+    "start": 35.083,
+    "end": 35.243,
+    "score": 0.75
+  },
+  {
+    "word": " ",
+    "start": 35.243,
+    "end": 35.404
+  },
+  {
+    "word": "each",
+    "start": 35.404,
+    "end": 35.584,
+    "score": 0.755
+  },
+  {
+    "word": " ",
+    "start": 35.584,
+    "end": 35.644
+  },
+  {
+    "word": "team",
+    "start": 35.644,
+    "end": 35.844,
+    "score": 0.891
+  },
+  {
+    "word": " ",
+    "start": 35.844,
+    "end": 35.884
+  },
+  {
+    "word": "could",
+    "start": 35.884,
+    "end": 36.064,
+    "score": 0.608
+  },
+  {
+    "word": " ",
+    "start": 36.064,
+    "end": 36.264
+  },
+  {
+    "word": "migrate",
+    "start": 36.264,
+    "end": 36.685,
+    "score": 0.928
+  },
+  {
+    "word": " ",
+    "start": 36.685,
+    "end": 36.725
+  },
+  {
+    "word": "their",
+    "start": 36.725,
+    "end": 36.905,
+    "score": 0.703
+  },
+  {
+    "word": " ",
+    "start": 36.905,
+    "end": 37.005
+  },
+  {
+    "word": "feed",
+    "start": 37.005,
+    "end": 37.245,
+    "score": 0.997
+  },
+  {
+    "word": " ",
+    "start": 37.245,
+    "end": 37.285
+  },
+  {
+    "word": "components",
+    "start": 37.285,
+    "end": 37.785,
+    "score": 0.853
+  },
+  {
+    "word": " ",
+    "start": 37.785,
+    "end": 37.986
+  },
+  {
+    "word": "smoothly",
+    "start": 37.986,
+    "end": 38.466,
+    "score": 0.845
+  },
+  {
+    "word": " ",
+    "start": 38.466,
+    "end": 38.586
+  },
+  {
+    "word": "to",
+    "start": 38.586,
+    "end": 38.686,
+    "score": 0.876
+  },
+  {
+    "word": " ",
+    "start": 38.686,
+    "end": 38.726
+  },
+  {
+    "word": "the",
+    "start": 38.726,
+    "end": 38.826,
+    "score": 0.843
+  },
+  {
+    "word": " ",
+    "start": 38.826,
+    "end": 38.946
+  },
+  {
+    "word": "new",
+    "start": 38.946,
+    "end": 39.146,
+    "score": 0.924
+  },
+  {
+    "word": " ",
+    "start": 39.146,
+    "end": 39.186
+  },
+  {
+    "word": "layout",
+    "start": 39.186,
+    "end": 39.487,
+    "score": 0.949
+  },
+  {
+    "word": " ",
+    "start": 39.487,
+    "end": 39.527
+  },
+  {
+    "word": "model",
+    "start": 39.527,
+    "end": 39.767,
+    "score": 0.988
+  },
+  {
+    "word": ".",
+    "start": 39.767,
+    "end": 40.622
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "We",
+    "start": 40.622,
+    "end": 40.742,
+    "score": 0.738
+  },
+  {
+    "word": " ",
+    "start": 40.742,
+    "end": 40.822
+  },
+  {
+    "word": "instrumented",
+    "start": 40.822,
+    "end": 41.302,
+    "score": 0.814
+  },
+  {
+    "word": " ",
+    "start": 41.302,
+    "end": 41.342
+  },
+  {
+    "word": "the",
+    "start": 41.342,
+    "end": 41.423,
+    "score": 0.834
+  },
+  {
+    "word": " ",
+    "start": 41.423,
+    "end": 41.563
+  },
+  {
+    "word": "app",
+    "start": 41.563,
+    "end": 41.723,
+    "score": 0.798
+  },
+  {
+    "word": " ",
+    "start": 41.723,
+    "end": 41.763
+  },
+  {
+    "word": "to",
+    "start": 41.763,
+    "end": 41.843,
+    "score": 0.89
+  },
+  {
+    "word": " ",
+    "start": 41.843,
+    "end": 41.883
+  },
+  {
+    "word": "collect",
+    "start": 41.883,
+    "end": 42.203,
+    "score": 0.849
+  },
+  {
+    "word": " ",
+    "start": 42.203,
+    "end": 42.343
+  },
+  {
+    "word": "scroll",
+    "start": 42.343,
+    "end": 42.703,
+    "score": 0.921
+  },
+  {
+    "word": " ",
+    "start": 42.703,
+    "end": 42.743
+  },
+  {
+    "word": "performance",
+    "start": 42.743,
+    "end": 43.204,
+    "score": 0.914
+  },
+  {
+    "word": " ",
+    "start": 43.204,
+    "end": 43.244
+  },
+  {
+    "word": "data",
+    "start": 43.244,
+    "end": 43.544,
+    "score": 0.938
+  },
+  {
+    "word": "—",
+    "start": 43.544,
+    "end": 43.964
+  },
+  {
+    "word": "things",
+    "start": 43.964,
+    "end": 44.184,
+    "score": 0.843
+  },
+  {
+    "word": " ",
+    "start": 44.184,
+    "end": 44.224
+  },
+  {
+    "word": "like",
+    "start": 44.224,
+    "end": 44.364,
+    "score": 0.88
+  },
+  {
+    "word": " ",
+    "start": 44.364,
+    "end": 44.465
+  },
+  {
+    "word": "coordinates",
+    "start": 44.465,
+    "end": 45.045,
+    "score": 0.797
+  },
+  {
+    "word": ",",
+    "start": 45.045,
+    "end": 45.545
+  },
+  {
+    "word": " ",
+    "start": 45.545,
+    "end": 45.545
+  },
+  {
+    "word": "FPS",
+    "start": 45.545,
+    "end": 46.066,
+    "score": 0.741
+  },
+  {
+    "word": ",",
+    "start": 46.066,
+    "end": 46.326
+  },
+  {
+    "word": " ",
+    "start": 46.326,
+    "end": 46.326
+  },
+  {
+    "word": "and",
+    "start": 46.326,
+    "end": 46.406,
+    "score": 0.944
+  },
+  {
+    "word": " ",
+    "start": 46.406,
+    "end": 46.466
+  },
+  {
+    "word": "render",
+    "start": 46.466,
+    "end": 46.706,
+    "score": 0.862
+  },
+  {
+    "word": " ",
+    "start": 46.706,
+    "end": 46.746
+  },
+  {
+    "word": "time",
+    "start": 46.746,
+    "end": 46.986,
+    "score": 0.832
+  },
+  {
+    "word": ".",
+    "start": 46.986,
+    "end": 47.807
+  },
+  {
+    "word": " ",
+    "start": 47.807,
+    "end": 47.807
+  },
+  {
+    "word": "After",
+    "start": 47.807,
+    "end": 48.007,
+    "score": 0.774
+  },
+  {
+    "word": " ",
+    "start": 48.007,
+    "end": 48.047
+  },
+  {
+    "word": "that",
+    "start": 48.047,
+    "end": 48.307,
+    "score": 0.736
+  },
+  {
+    "word": ",",
+    "start": 48.307,
+    "end": 48.407
+  },
+  {
+    "word": " ",
+    "start": 48.407,
+    "end": 48.407
+  },
+  {
+    "word": "we",
+    "start": 48.407,
+    "end": 48.527,
+    "score": 0.739
+  },
+  {
+    "word": " ",
+    "start": 48.527,
+    "end": 48.607
+  },
+  {
+    "word": "profiled",
+    "start": 48.607,
+    "end": 49.088,
+    "score": 0.862
+  },
+  {
+    "word": " ",
+    "start": 49.088,
+    "end": 49.148
+  },
+  {
+    "word": "rendering",
+    "start": 49.148,
+    "end": 49.568,
+    "score": 0.883
+  },
+  {
+    "word": " ",
+    "start": 49.568,
+    "end": 49.648
+  },
+  {
+    "word": "and",
+    "start": 49.648,
+    "end": 49.728,
+    "score": 0.861
+  },
+  {
+    "word": " ",
+    "start": 49.728,
+    "end": 49.808
+  },
+  {
+    "word": "traced",
+    "start": 49.808,
+    "end": 50.108,
+    "score": 0.841
+  },
+  {
+    "word": " ",
+    "start": 50.108,
+    "end": 50.228
+  },
+  {
+    "word": "slow",
+    "start": 50.228,
+    "end": 50.488,
+    "score": 0.824
+  },
+  {
+    "word": " ",
+    "start": 50.488,
+    "end": 50.549
+  },
+  {
+    "word": "parts",
+    "start": 50.549,
+    "end": 50.789,
+    "score": 0.815
+  },
+  {
+    "word": " ",
+    "start": 50.789,
+    "end": 50.829
+  },
+  {
+    "word": "of",
+    "start": 50.829,
+    "end": 50.889,
+    "score": 0.758
+  },
+  {
+    "word": " ",
+    "start": 50.889,
+    "end": 50.929
+  },
+  {
+    "word": "the",
+    "start": 50.929,
+    "end": 50.989,
+    "score": 1.0
+  },
+  {
+    "word": " ",
+    "start": 50.989,
+    "end": 51.029
+  },
+  {
+    "word": "layout",
+    "start": 51.029,
+    "end": 51.409,
+    "score": 0.851
+  },
+  {
+    "word": ".",
+    "start": 51.409,
+    "end": 52.29
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "At",
+    "start": 52.29,
+    "end": 52.35,
+    "score": 0.762
+  },
+  {
+    "word": " ",
+    "start": 52.35,
+    "end": 52.39
+  },
+  {
+    "word": "the",
+    "start": 52.39,
+    "end": 52.49,
+    "score": 0.832
+  },
+  {
+    "word": " ",
+    "start": 52.49,
+    "end": 52.53
+  },
+  {
+    "word": "time",
+    "start": 52.53,
+    "end": 52.87,
+    "score": 0.829
+  },
+  {
+    "word": ",",
+    "start": 52.87,
+    "end": 53.03
+  },
+  {
+    "word": " ",
+    "start": 53.03,
+    "end": 53.03
+  },
+  {
+    "word": "the",
+    "start": 53.03,
+    "end": 53.15,
+    "score": 0.805
+  },
+  {
+    "word": " ",
+    "start": 53.15,
+    "end": 53.23
+  },
+  {
+    "word": "scroll",
+    "start": 53.23,
+    "end": 53.591,
+    "score": 0.801
+  },
+  {
+    "word": " ",
+    "start": 53.591,
+    "end": 53.651
+  },
+  {
+    "word": "felt",
+    "start": 53.651,
+    "end": 53.851,
+    "score": 0.871
+  },
+  {
+    "word": " ",
+    "start": 53.851,
+    "end": 54.091
+  },
+  {
+    "word": "really",
+    "start": 54.091,
+    "end": 54.411,
+    "score": 0.648
+  },
+  {
+    "word": " ",
+    "start": 54.411,
+    "end": 54.491
+  },
+  {
+    "word": "glitchy",
+    "start": 54.491,
+    "end": 54.931,
+    "score": 0.929
+  },
+  {
+    "word": ",",
+    "start": 54.931,
+    "end": 55.132
+  },
+  {
+    "word": " ",
+    "start": 55.132,
+    "end": 55.132
+  },
+  {
+    "word": "and",
+    "start": 55.132,
+    "end": 55.212,
+    "score": 0.956
+  },
+  {
+    "word": " ",
+    "start": 55.212,
+    "end": 55.232
+  },
+  {
+    "word": "it",
+    "start": 55.232,
+    "end": 55.272,
+    "score": 0.998
+  },
+  {
+    "word": " ",
+    "start": 55.272,
+    "end": 55.312
+  },
+  {
+    "word": "was",
+    "start": 55.312,
+    "end": 55.412,
+    "score": 0.838
+  },
+  {
+    "word": " ",
+    "start": 55.412,
+    "end": 55.452
+  },
+  {
+    "word": "consuming",
+    "start": 55.452,
+    "end": 55.992,
+    "score": 0.891
+  },
+  {
+    "word": " ",
+    "start": 55.992,
+    "end": 56.132
+  },
+  {
+    "word": "too",
+    "start": 56.132,
+    "end": 56.332,
+    "score": 0.829
+  },
+  {
+    "word": " ",
+    "start": 56.332,
+    "end": 56.372
+  },
+  {
+    "word": "many",
+    "start": 56.372,
+    "end": 56.552,
+    "score": 0.812
+  },
+  {
+    "word": " ",
+    "start": 56.552,
+    "end": 56.612
+  },
+  {
+    "word": "frames",
+    "start": 56.612,
+    "end": 56.933,
+    "score": 0.835
+  },
+  {
+    "word": " ",
+    "start": 56.933,
+    "end": 56.993
+  },
+  {
+    "word": "per",
+    "start": 56.993,
+    "end": 57.133,
+    "score": 0.784
+  },
+  {
+    "word": " ",
+    "start": 57.133,
+    "end": 57.173
+  },
+  {
+    "word": "second",
+    "start": 57.173,
+    "end": 57.513,
+    "score": 0.927
+  },
+  {
+    "word": ".",
+    "start": 57.513,
+    "end": 57.753
+  },
+  {
+    "word": " ",
+    "start": 57.753,
+    "end": 57.753
+  },
+  {
+    "word": "So",
+    "start": 57.753,
+    "end": 57.893,
+    "score": 0.87
+  },
+  {
+    "word": " ",
+    "start": 57.893,
+    "end": 57.933
+  },
+  {
+    "word": "we",
+    "start": 57.933,
+    "end": 58.053,
+    "score": 0.668
+  },
+  {
+    "word": " ",
+    "start": 58.053,
+    "end": 58.153
+  },
+  {
+    "word": "rewrote",
+    "start": 58.153,
+    "end": 58.594,
+    "score": 0.755
+  },
+  {
+    "word": " ",
+    "start": 58.594,
+    "end": 58.634
+  },
+  {
+    "word": "the",
+    "start": 58.634,
+    "end": 58.714,
+    "score": 0.835
+  },
+  {
+    "word": " ",
+    "start": 58.714,
+    "end": 58.734
+  },
+  {
+    "word": "layout",
+    "start": 58.734,
+    "end": 59.034,
+    "score": 0.905
+  },
+  {
+    "word": " ",
+    "start": 59.034,
+    "end": 59.074
+  },
+  {
+    "word": "system",
+    "start": 59.074,
+    "end": 59.434,
+    "score": 0.886
+  },
+  {
+    "word": " ",
+    "start": 59.434,
+    "end": 59.574
+  },
+  {
+    "word": "and",
+    "start": 59.574,
+    "end": 59.694,
+    "score": 0.666
+  },
+  {
+    "word": " ",
+    "start": 59.694,
+    "end": 59.755
+  },
+  {
+    "word": "loaded",
+    "start": 59.755,
+    "end": 60.055,
+    "score": 0.875
+  },
+  {
+    "word": " ",
+    "start": 60.055,
+    "end": 60.135
+  },
+  {
+    "word": "feed",
+    "start": 60.135,
+    "end": 60.355,
+    "score": 0.856
+  },
+  {
+    "word": " ",
+    "start": 60.355,
+    "end": 60.395
+  },
+  {
+    "word": "stories",
+    "start": 60.395,
+    "end": 60.755,
+    "score": 0.8
+  },
+  {
+    "word": " ",
+    "start": 60.755,
+    "end": 60.895
+  },
+  {
+    "word": "asynchronously",
+    "start": 60.895,
+    "end": 61.576,
+    "score": 0.793
+  },
+  {
+    "word": ".",
+    "start": 61.576,
+    "end": 62.34
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "That",
+    "start": 62.34,
+    "end": 62.52,
+    "score": 0.898
+  },
+  {
+    "word": " ",
+    "start": 62.52,
+    "end": 62.6
+  },
+  {
+    "word": "change",
+    "start": 62.6,
+    "end": 62.941,
+    "score": 0.79
+  },
+  {
+    "word": " ",
+    "start": 62.941,
+    "end": 62.981
+  },
+  {
+    "word": "made",
+    "start": 62.981,
+    "end": 63.141,
+    "score": 0.862
+  },
+  {
+    "word": " ",
+    "start": 63.141,
+    "end": 63.181
+  },
+  {
+    "word": "the",
+    "start": 63.181,
+    "end": 63.261,
+    "score": 0.834
+  },
+  {
+    "word": " ",
+    "start": 63.261,
+    "end": 63.301
+  },
+  {
+    "word": "whole",
+    "start": 63.301,
+    "end": 63.501,
+    "score": 0.85
+  },
+  {
+    "word": " ",
+    "start": 63.501,
+    "end": 63.561
+  },
+  {
+    "word": "thing",
+    "start": 63.561,
+    "end": 63.801,
+    "score": 0.814
+  },
+  {
+    "word": " ",
+    "start": 63.801,
+    "end": 64.102
+  },
+  {
+    "word": "super",
+    "start": 64.102,
+    "end": 64.462,
+    "score": 0.889
+  },
+  {
+    "word": " ",
+    "start": 64.462,
+    "end": 64.502
+  },
+  {
+    "word": "buttery",
+    "start": 64.502,
+    "end": 64.822,
+    "score": 0.92
+  },
+  {
+    "word": " ",
+    "start": 64.822,
+    "end": 64.862
+  },
+  {
+    "word": "smooth",
+    "start": 64.862,
+    "end": 65.183,
+    "score": 0.842
+  },
+  {
+    "word": ".",
+    "start": 65.183,
+    "end": 65.863
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "We",
+    "start": 65.863,
+    "end": 65.984,
+    "score": 0.666
+  },
+  {
+    "word": " ",
+    "start": 65.984,
+    "end": 66.044
+  },
+  {
+    "word": "literally",
+    "start": 66.044,
+    "end": 66.424,
+    "score": 0.903
+  },
+  {
+    "word": " ",
+    "start": 66.424,
+    "end": 66.504
+  },
+  {
+    "word": "saw",
+    "start": 66.504,
+    "end": 66.724,
+    "score": 0.739
+  },
+  {
+    "word": " ",
+    "start": 66.724,
+    "end": 66.764
+  },
+  {
+    "word": "in",
+    "start": 66.764,
+    "end": 66.804,
+    "score": 1.0
+  },
+  {
+    "word": " ",
+    "start": 66.804,
+    "end": 66.844
+  },
+  {
+    "word": "the",
+    "start": 66.844,
+    "end": 66.924,
+    "score": 0.835
+  },
+  {
+    "word": " ",
+    "start": 66.924,
+    "end": 66.964
+  },
+  {
+    "word": "tool",
+    "start": 66.964,
+    "end": 67.205,
+    "score": 0.778
+  },
+  {
+    "word": " ",
+    "start": 67.205,
+    "end": 67.245
+  },
+  {
+    "word": "that",
+    "start": 67.245,
+    "end": 67.365,
+    "score": 0.811
+  },
+  {
+    "word": " ",
+    "start": 67.365,
+    "end": 67.505
+  },
+  {
+    "word": "all",
+    "start": 67.505,
+    "end": 67.645,
+    "score": 0.769
+  },
+  {
+    "word": " ",
+    "start": 67.645,
+    "end": 67.685
+  },
+  {
+    "word": "those",
+    "start": 67.685,
+    "end": 67.865,
+    "score": 0.841
+  },
+  {
+    "word": " ",
+    "start": 67.865,
+    "end": 68.005
+  },
+  {
+    "word": "Auto",
+    "start": 68.005,
+    "end": 68.186,
+    "score": 0.964
+  },
+  {
+    "word": " ",
+    "start": 68.186,
+    "end": 68.226
+  },
+  {
+    "word": "Layout",
+    "start": 68.226,
+    "end": 68.506,
+    "score": 0.876
+  },
+  {
+    "word": " ",
+    "start": 68.506,
+    "end": 68.526
+  },
+  {
+    "word": "calls",
+    "start": 68.526,
+    "end": 68.806,
+    "score": 0.767
+  },
+  {
+    "word": " ",
+    "start": 68.806,
+    "end": 68.826
+  },
+  {
+    "word": "were",
+    "start": 68.826,
+    "end": 68.986,
+    "score": 0.754
+  },
+  {
+    "word": " ",
+    "start": 68.986,
+    "end": 69.026
+  },
+  {
+    "word": "gone",
+    "start": 69.026,
+    "end": 69.367,
+    "score": 0.812
+  },
+  {
+    "word": ",",
+    "start": 69.367,
+    "end": 70.007
+  },
+  {
+    "word": " ",
+    "start": 70.007,
+    "end": 70.007
+  },
+  {
+    "word": "and",
+    "start": 70.007,
+    "end": 70.127,
+    "score": 0.639
+  },
+  {
+    "word": " ",
+    "start": 70.127,
+    "end": 70.168
+  },
+  {
+    "word": "it",
+    "start": 70.168,
+    "end": 70.228,
+    "score": 0.75
+  },
+  {
+    "word": " ",
+    "start": 70.228,
+    "end": 70.448
+  },
+  {
+    "word": "totally",
+    "start": 70.448,
+    "end": 70.908,
+    "score": 0.822
+  },
+  {
+    "word": " ",
+    "start": 70.908,
+    "end": 70.968
+  },
+  {
+    "word": "eliminated",
+    "start": 70.968,
+    "end": 71.469,
+    "score": 0.807
+  },
+  {
+    "word": " ",
+    "start": 71.469,
+    "end": 71.509
+  },
+  {
+    "word": "the",
+    "start": 71.509,
+    "end": 71.589,
+    "score": 0.855
+  },
+  {
+    "word": " ",
+    "start": 71.589,
+    "end": 71.629
+  },
+  {
+    "word": "scroll",
+    "start": 71.629,
+    "end": 71.869,
+    "score": 0.846
+  },
+  {
+    "word": " ",
+    "start": 71.869,
+    "end": 71.889
+  },
+  {
+    "word": "lag",
+    "start": 71.889,
+    "end": 72.149,
+    "score": 0.914
+  },
+  {
+    "word": ".",
+    "start": 72.149,
+    "end": 72.89
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "We",
+    "start": 72.89,
+    "end": 73.01,
+    "score": 0.685
+  },
+  {
+    "word": " ",
+    "start": 73.01,
+    "end": 73.07
+  },
+  {
+    "word": "wanted",
+    "start": 73.07,
+    "end": 73.351,
+    "score": 0.746
+  },
+  {
+    "word": " ",
+    "start": 73.351,
+    "end": 73.391
+  },
+  {
+    "word": "to",
+    "start": 73.391,
+    "end": 73.451,
+    "score": 0.76
+  },
+  {
+    "word": " ",
+    "start": 73.451,
+    "end": 73.491
+  },
+  {
+    "word": "keep",
+    "start": 73.491,
+    "end": 73.651,
+    "score": 0.963
+  },
+  {
+    "word": " ",
+    "start": 73.651,
+    "end": 73.691
+  },
+  {
+    "word": "adoption",
+    "start": 73.691,
+    "end": 74.131,
+    "score": 0.88
+  },
+  {
+    "word": " ",
+    "start": 74.131,
+    "end": 74.251
+  },
+  {
+    "word": "easy",
+    "start": 74.251,
+    "end": 74.552,
+    "score": 0.541
+  },
+  {
+    "word": ",",
+    "start": 74.552,
+    "end": 75.052
+  },
+  {
+    "word": " ",
+    "start": 75.052,
+    "end": 75.052
+  },
+  {
+    "word": "so",
+    "start": 75.052,
+    "end": 75.192,
+    "score": 0.778
+  },
+  {
+    "word": " ",
+    "start": 75.192,
+    "end": 75.212
+  },
+  {
+    "word": "we",
+    "start": 75.212,
+    "end": 75.332,
+    "score": 0.83
+  },
+  {
+    "word": " ",
+    "start": 75.332,
+    "end": 75.433
+  },
+  {
+    "word": "simplified",
+    "start": 75.433,
+    "end": 75.953,
+    "score": 0.831
+  },
+  {
+    "word": " ",
+    "start": 75.953,
+    "end": 75.973
+  },
+  {
+    "word": "the",
+    "start": 75.973,
+    "end": 76.033,
+    "score": 1.0
+  },
+  {
+    "word": " ",
+    "start": 76.033,
+    "end": 76.073
+  },
+  {
+    "word": "migration",
+    "start": 76.073,
+    "end": 76.534,
+    "score": 0.908
+  },
+  {
+    "word": " ",
+    "start": 76.534,
+    "end": 76.574
+  },
+  {
+    "word": "steps",
+    "start": 76.574,
+    "end": 76.894,
+    "score": 0.919
+  },
+  {
+    "word": ",",
+    "start": 76.894,
+    "end": 77.374
+  },
+  {
+    "word": " ",
+    "start": 77.374,
+    "end": 77.374
+  },
+  {
+    "word": "which",
+    "start": 77.374,
+    "end": 77.535,
+    "score": 0.868
+  },
+  {
+    "word": " ",
+    "start": 77.535,
+    "end": 77.635
+  },
+  {
+    "word": "basically",
+    "start": 77.635,
+    "end": 78.155,
+    "score": 0.894
+  },
+  {
+    "word": " ",
+    "start": 78.155,
+    "end": 78.255
+  },
+  {
+    "word": "eliminated",
+    "start": 78.255,
+    "end": 78.776,
+    "score": 0.711
+  },
+  {
+    "word": " ",
+    "start": 78.776,
+    "end": 78.956
+  },
+  {
+    "word": "any",
+    "start": 78.956,
+    "end": 79.096,
+    "score": 0.919
+  },
+  {
+    "word": " ",
+    "start": 79.096,
+    "end": 79.176
+  },
+  {
+    "word": "excuses",
+    "start": 79.176,
+    "end": 79.717,
+    "score": 0.869
+  },
+  {
+    "word": " ",
+    "start": 79.717,
+    "end": 79.797
+  },
+  {
+    "word": "not",
+    "start": 79.797,
+    "end": 79.957,
+    "score": 0.821
+  },
+  {
+    "word": " ",
+    "start": 79.957,
+    "end": 79.997
+  },
+  {
+    "word": "to",
+    "start": 79.997,
+    "end": 80.057,
+    "score": 0.906
+  },
+  {
+    "word": " ",
+    "start": 80.057,
+    "end": 80.097
+  },
+  {
+    "word": "cooperate",
+    "start": 80.097,
+    "end": 80.598,
+    "score": 0.811
+  },
+  {
+    "word": ".",
+    "start": 80.598,
+    "end": 81.485
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "Still",
+    "start": 81.485,
+    "end": 81.785,
+    "score": 0.85
+  },
+  {
+    "word": ",",
+    "start": 81.785,
+    "end": 82.125
+  },
+  {
+    "word": " ",
+    "start": 82.125,
+    "end": 82.125
+  },
+  {
+    "word": "some",
+    "start": 82.125,
+    "end": 82.325,
+    "score": 0.76
+  },
+  {
+    "word": " ",
+    "start": 82.325,
+    "end": 82.365
+  },
+  {
+    "word": "teams",
+    "start": 82.365,
+    "end": 82.625,
+    "score": 0.769
+  },
+  {
+    "word": " ",
+    "start": 82.625,
+    "end": 82.686
+  },
+  {
+    "word": "needed",
+    "start": 82.686,
+    "end": 82.926,
+    "score": 0.784
+  },
+  {
+    "word": " ",
+    "start": 82.926,
+    "end": 82.966
+  },
+  {
+    "word": "a",
+    "start": 82.966,
+    "end": 82.986,
+    "score": 0.999
+  },
+  {
+    "word": " ",
+    "start": 82.986,
+    "end": 83.026
+  },
+  {
+    "word": "bit",
+    "start": 83.026,
+    "end": 83.146,
+    "score": 0.853
+  },
+  {
+    "word": " ",
+    "start": 83.146,
+    "end": 83.186
+  },
+  {
+    "word": "of",
+    "start": 83.186,
+    "end": 83.226,
+    "score": 1.0
+  },
+  {
+    "word": " ",
+    "start": 83.226,
+    "end": 83.286
+  },
+  {
+    "word": "persuasion",
+    "start": 83.286,
+    "end": 83.806,
+    "score": 0.731
+  },
+  {
+    "word": ",",
+    "start": 83.806,
+    "end": 84.066
+  },
+  {
+    "word": " ",
+    "start": 84.066,
+    "end": 84.066
+  },
+  {
+    "word": "and",
+    "start": 84.066,
+    "end": 84.166,
+    "score": 0.823
+  },
+  {
+    "word": " ",
+    "start": 84.166,
+    "end": 84.226
+  },
+  {
+    "word": "since",
+    "start": 84.226,
+    "end": 84.426,
+    "score": 0.801
+  },
+  {
+    "word": " ",
+    "start": 84.426,
+    "end": 84.466
+  },
+  {
+    "word": "it",
+    "start": 84.466,
+    "end": 84.506,
+    "score": 1.0
+  },
+  {
+    "word": " ",
+    "start": 84.506,
+    "end": 84.546
+  },
+  {
+    "word": "was",
+    "start": 84.546,
+    "end": 84.646,
+    "score": 0.835
+  },
+  {
+    "word": " ",
+    "start": 84.646,
+    "end": 84.686
+  },
+  {
+    "word": "a",
+    "start": 84.686,
+    "end": 84.726,
+    "score": 0.5
+  },
+  {
+    "word": " ",
+    "start": 84.726,
+    "end": 84.786
+  },
+  {
+    "start": 84.786,
+    "end": 84.786,
+    "word": "cross"
+  },
+  {
+    "word": "-",
+    "start": 84.786,
+    "end": 84.786
+  },
+  {
+    "word": "functional",
+    "start": 84.786,
+    "end": 85.527,
+    "score": 0.771
+  },
+  {
+    "word": " ",
+    "start": 85.527,
+    "end": 85.567
+  },
+  {
+    "word": "project",
+    "start": 85.567,
+    "end": 86.007,
+    "score": 0.888
+  },
+  {
+    "word": ",",
+    "start": 86.007,
+    "end": 86.447
+  },
+  {
+    "word": " ",
+    "start": 86.447,
+    "end": 86.447
+  },
+  {
+    "word": "I",
+    "start": 86.447,
+    "end": 86.507,
+    "score": 0.677
+  },
+  {
+    "word": " ",
+    "start": 86.507,
+    "end": 86.547
+  },
+  {
+    "word": "had",
+    "start": 86.547,
+    "end": 86.687,
+    "score": 0.869
+  },
+  {
+    "word": " ",
+    "start": 86.687,
+    "end": 86.727
+  },
+  {
+    "word": "to",
+    "start": 86.727,
+    "end": 86.827,
+    "score": 0.916
+  },
+  {
+    "word": " ",
+    "start": 86.827,
+    "end": 86.887
+  },
+  {
+    "word": "really",
+    "start": 86.887,
+    "end": 87.147,
+    "score": 0.803
+  },
+  {
+    "word": " ",
+    "start": 87.147,
+    "end": 87.207
+  },
+  {
+    "word": "work",
+    "start": 87.207,
+    "end": 87.447,
+    "score": 0.885
+  },
+  {
+    "word": " ",
+    "start": 87.447,
+    "end": 87.507
+  },
+  {
+    "word": "to",
+    "start": 87.507,
+    "end": 87.587,
+    "score": 0.672
+  },
+  {
+    "word": " ",
+    "start": 87.587,
+    "end": 87.627
+  },
+  {
+    "word": "get",
+    "start": 87.627,
+    "end": 87.748,
+    "score": 0.834
+  },
+  {
+    "word": " ",
+    "start": 87.748,
+    "end": 87.788
+  },
+  {
+    "word": "the",
+    "start": 87.788,
+    "end": 87.868,
+    "score": 0.833
+  },
+  {
+    "word": " ",
+    "start": 87.868,
+    "end": 87.908
+  },
+  {
+    "word": "team",
+    "start": 87.908,
+    "end": 88.228,
+    "score": 0.761
+  },
+  {
+    "word": " ",
+    "start": 88.228,
+    "end": 88.348
+  },
+  {
+    "word": "around",
+    "start": 88.348,
+    "end": 88.688,
+    "score": 0.87
+  },
+  {
+    "word": " ",
+    "start": 88.688,
+    "end": 88.728
+  },
+  {
+    "word": "the",
+    "start": 88.728,
+    "end": 88.828,
+    "score": 0.704
+  },
+  {
+    "word": " ",
+    "start": 88.828,
+    "end": 88.888
+  },
+  {
+    "word": "idea",
+    "start": 88.888,
+    "end": 89.248,
+    "score": 0.824
+  },
+  {
+    "word": " ",
+    "start": 89.248,
+    "end": 89.308
+  },
+  {
+    "word": "of",
+    "start": 89.308,
+    "end": 89.388,
+    "score": 0.678
+  },
+  {
+    "word": " ",
+    "start": 89.388,
+    "end": 89.468
+  },
+  {
+    "word": "moving",
+    "start": 89.468,
+    "end": 89.748,
+    "score": 0.835
+  },
+  {
+    "word": " ",
+    "start": 89.748,
+    "end": 89.828
+  },
+  {
+    "word": "away",
+    "start": 89.828,
+    "end": 90.108,
+    "score": 0.774
+  },
+  {
+    "word": " ",
+    "start": 90.108,
+    "end": 90.169
+  },
+  {
+    "word": "from",
+    "start": 90.169,
+    "end": 90.309,
+    "score": 0.72
+  },
+  {
+    "word": " ",
+    "start": 90.309,
+    "end": 90.389
+  },
+  {
+    "word": "Auto",
+    "start": 90.389,
+    "end": 90.589,
+    "score": 0.799
+  },
+  {
+    "word": " ",
+    "start": 90.589,
+    "end": 90.609
+  },
+  {
+    "word": "Layout",
+    "start": 90.609,
+    "end": 90.949,
+    "score": 0.841
+  },
+  {
+    "word": ".",
+    "start": 90.949,
+    "end": 91.949
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "Looking",
+    "start": 91.949,
+    "end": 92.229,
+    "score": 0.862
+  },
+  {
+    "word": " ",
+    "start": 92.229,
+    "end": 92.289
+  },
+  {
+    "word": "back",
+    "start": 92.289,
+    "end": 92.529,
+    "score": 0.976
+  },
+  {
+    "word": ",",
+    "start": 92.529,
+    "end": 92.629
+  },
+  {
+    "word": " ",
+    "start": 92.629,
+    "end": 92.629
+  },
+  {
+    "start": 92.629,
+    "end": 92.629,
+    "word": "I"
+  },
+  {
+    "word": "’",
+    "start": 92.629,
+    "end": 92.629
+  },
+  {
+    "word": "d",
+    "start": 92.629,
+    "end": 92.77,
+    "score": 0.799
+  },
+  {
+    "word": " ",
+    "start": 92.77,
+    "end": 92.81
+  },
+  {
+    "word": "say",
+    "start": 92.81,
+    "end": 92.95,
+    "score": 0.903
+  },
+  {
+    "word": " ",
+    "start": 92.95,
+    "end": 92.99
+  },
+  {
+    "word": "the",
+    "start": 92.99,
+    "end": 93.07,
+    "score": 0.831
+  },
+  {
+    "word": " ",
+    "start": 93.07,
+    "end": 93.13
+  },
+  {
+    "word": "crux",
+    "start": 93.13,
+    "end": 93.43,
+    "score": 0.951
+  },
+  {
+    "word": " ",
+    "start": 93.43,
+    "end": 93.47
+  },
+  {
+    "word": "of",
+    "start": 93.47,
+    "end": 93.53,
+    "score": 0.818
+  },
+  {
+    "word": " ",
+    "start": 93.53,
+    "end": 93.59
+  },
+  {
+    "word": "it",
+    "start": 93.59,
+    "end": 93.65,
+    "score": 0.851
+  },
+  {
+    "word": " ",
+    "start": 93.65,
+    "end": 93.69
+  },
+  {
+    "word": "was",
+    "start": 93.69,
+    "end": 93.79,
+    "score": 0.833
+  },
+  {
+    "word": " ",
+    "start": 93.79,
+    "end": 93.83
+  },
+  {
+    "word": "just",
+    "start": 93.83,
+    "end": 93.99,
+    "score": 0.833
+  },
+  {
+    "word": " ",
+    "start": 93.99,
+    "end": 94.05
+  },
+  {
+    "word": "having",
+    "start": 94.05,
+    "end": 94.33,
+    "score": 0.815
+  },
+  {
+    "word": " ",
+    "start": 94.33,
+    "end": 94.45
+  },
+  {
+    "word": "empathy",
+    "start": 94.45,
+    "end": 94.83,
+    "score": 0.897
+  },
+  {
+    "word": "—",
+    "start": 94.83,
+    "end": 95.05
+  },
+  {
+    "word": "not",
+    "start": 95.05,
+    "end": 95.271,
+    "score": 0.734
+  },
+  {
+    "word": " ",
+    "start": 95.271,
+    "end": 95.391
+  },
+  {
+    "word": "just",
+    "start": 95.391,
+    "end": 95.631,
+    "score": 0.845
+  },
+  {
+    "word": " ",
+    "start": 95.631,
+    "end": 95.691
+  },
+  {
+    "word": "for",
+    "start": 95.691,
+    "end": 95.811,
+    "score": 0.886
+  },
+  {
+    "word": " ",
+    "start": 95.811,
+    "end": 95.931
+  },
+  {
+    "word": "users",
+    "start": 95.931,
+    "end": 96.251,
+    "score": 0.835
+  },
+  {
+    "word": ",",
+    "start": 96.251,
+    "end": 96.471
+  },
+  {
+    "word": " ",
+    "start": 96.471,
+    "end": 96.471
+  },
+  {
+    "word": "but",
+    "start": 96.471,
+    "end": 96.591,
+    "score": 0.846
+  },
+  {
+    "word": " ",
+    "start": 96.591,
+    "end": 96.631
+  },
+  {
+    "word": "for",
+    "start": 96.631,
+    "end": 96.751,
+    "score": 0.833
+  },
+  {
+    "word": " ",
+    "start": 96.751,
+    "end": 96.811
+  },
+  {
+    "word": "teammates",
+    "start": 96.811,
+    "end": 97.311,
+    "score": 0.744
+  },
+  {
+    "word": " ",
+    "start": 97.311,
+    "end": 97.772
+  },
+  {
+    "word": "and",
+    "start": 97.772,
+    "end": 97.872,
+    "score": 0.851
+  },
+  {
+    "word": " ",
+    "start": 97.872,
+    "end": 97.952
+  },
+  {
+    "word": "even",
+    "start": 97.952,
+    "end": 98.112,
+    "score": 0.748
+  },
+  {
+    "word": " ",
+    "start": 98.112,
+    "end": 98.132
+  },
+  {
+    "word": "the",
+    "start": 98.132,
+    "end": 98.232,
+    "score": 0.673
+  },
+  {
+    "word": " ",
+    "start": 98.232,
+    "end": 98.252
+  },
+  {
+    "word": "hiring",
+    "start": 98.252,
+    "end": 98.592,
+    "score": 0.849
+  },
+  {
+    "word": " ",
+    "start": 98.592,
+    "end": 98.632
+  },
+  {
+    "word": "manager",
+    "start": 98.632,
+    "end": 98.972,
+    "score": 0.981
+  },
+  {
+    "word": " ",
+    "start": 98.972,
+    "end": 99.012
+  },
+  {
+    "start": 99.012,
+    "end": 99.012,
+    "word": "who"
+  },
+  {
+    "word": "’",
+    "start": 99.012,
+    "end": 99.012
+  },
+  {
+    "word": "s",
+    "start": 99.012,
+    "end": 99.192,
+    "score": 0.766
+  },
+  {
+    "word": " ",
+    "start": 99.192,
+    "end": 99.232
+  },
+  {
+    "word": "looking",
+    "start": 99.232,
+    "end": 99.532,
+    "score": 0.788
+  },
+  {
+    "word": " ",
+    "start": 99.532,
+    "end": 99.592
+  },
+  {
+    "word": "at",
+    "start": 99.592,
+    "end": 99.672,
+    "score": 0.8
+  },
+  {
+    "word": " ",
+    "start": 99.672,
+    "end": 99.732
+  },
+  {
+    "word": "how",
+    "start": 99.732,
+    "end": 99.932,
+    "score": 0.98
+  },
+  {
+    "word": " ",
+    "start": 99.932,
+    "end": 99.952
+  },
+  {
+    "word": "you",
+    "start": 99.952,
+    "end": 100.072,
+    "score": 0.99
+  },
+  {
+    "word": " ",
+    "start": 100.072,
+    "end": 100.112
+  },
+  {
+    "word": "solve",
+    "start": 100.112,
+    "end": 100.353,
+    "score": 0.836
+  },
+  {
+    "word": " ",
+    "start": 100.353,
+    "end": 100.393
+  },
+  {
+    "word": "problems",
+    "start": 100.393,
+    "end": 100.833,
+    "score": 0.892
+  },
+  {
+    "word": ".",
+    "start": 100.833,
+    "end": 101.653
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "And",
+    "start": 101.653,
+    "end": 101.833,
+    "score": 0.576
+  },
+  {
+    "word": " ",
+    "start": 101.833,
+    "end": 102.453
+  },
+  {
+    "word": "yeah",
+    "start": 102.453,
+    "end": 102.733,
+    "score": 0.594
+  },
+  {
+    "word": ",",
+    "start": 102.733,
+    "end": 102.954
+  },
+  {
+    "word": " ",
+    "start": 102.954,
+    "end": 102.954
+  },
+  {
+    "word": "these",
+    "start": 102.954,
+    "end": 103.114,
+    "score": 0.873
+  },
+  {
+    "word": " ",
+    "start": 103.114,
+    "end": 103.174
+  },
+  {
+    "word": "kinds",
+    "start": 103.174,
+    "end": 103.374,
+    "score": 0.808
+  },
+  {
+    "word": " ",
+    "start": 103.374,
+    "end": 103.414
+  },
+  {
+    "word": "of",
+    "start": 103.414,
+    "end": 103.474,
+    "score": 0.75
+  },
+  {
+    "word": " ",
+    "start": 103.474,
+    "end": 103.534
+  },
+  {
+    "word": "questions",
+    "start": 103.534,
+    "end": 104.074,
+    "score": 0.82
+  },
+  {
+    "word": " ",
+    "start": 104.074,
+    "end": 104.534
+  },
+  {
+    "word": "often",
+    "start": 104.534,
+    "end": 104.774,
+    "score": 0.892
+  },
+  {
+    "word": " ",
+    "start": 104.774,
+    "end": 104.834
+  },
+  {
+    "word": "come",
+    "start": 104.834,
+    "end": 104.994,
+    "score": 0.864
+  },
+  {
+    "word": " ",
+    "start": 104.994,
+    "end": 105.074
+  },
+  {
+    "word": "up",
+    "start": 105.074,
+    "end": 105.154,
+    "score": 0.86
+  },
+  {
+    "word": " ",
+    "start": 105.154,
+    "end": 105.354
+  },
+  {
+    "word": "early",
+    "start": 105.354,
+    "end": 105.655,
+    "score": 0.657
+  },
+  {
+    "word": " ",
+    "start": 105.655,
+    "end": 105.695
+  },
+  {
+    "word": "in",
+    "start": 105.695,
+    "end": 105.755,
+    "score": 0.748
+  },
+  {
+    "word": " ",
+    "start": 105.755,
+    "end": 105.815
+  },
+  {
+    "word": "interviews",
+    "start": 105.815,
+    "end": 106.235,
+    "score": 0.876
+  },
+  {
+    "word": ",",
+    "start": 106.235,
+    "end": 106.735
+  },
+  {
+    "word": " ",
+    "start": 106.735,
+    "end": 106.735
+  },
+  {
+    "word": "and",
+    "start": 106.735,
+    "end": 106.815,
+    "score": 0.926
+  },
+  {
+    "word": " ",
+    "start": 106.815,
+    "end": 106.855
+  },
+  {
+    "word": "they",
+    "start": 106.855,
+    "end": 106.995,
+    "score": 0.915
+  },
+  {
+    "word": " ",
+    "start": 106.995,
+    "end": 107.055
+  },
+  {
+    "word": "might",
+    "start": 107.055,
+    "end": 107.255,
+    "score": 0.819
+  },
+  {
+    "word": " ",
+    "start": 107.255,
+    "end": 107.595
+  },
+  {
+    "word": "segue",
+    "start": 107.595,
+    "end": 108.075,
+    "score": 0.853
+  },
+  {
+    "word": " ",
+    "start": 108.075,
+    "end": 108.136
+  },
+  {
+    "word": "into",
+    "start": 108.136,
+    "end": 108.336,
+    "score": 0.83
+  },
+  {
+    "word": " ",
+    "start": 108.336,
+    "end": 108.416
+  },
+  {
+    "word": "other",
+    "start": 108.416,
+    "end": 108.596,
+    "score": 0.651
+  },
+  {
+    "word": " ",
+    "start": 108.596,
+    "end": 108.636
+  },
+  {
+    "word": "topics",
+    "start": 108.636,
+    "end": 109.056,
+    "score": 0.856
+  },
+  {
+    "word": ",",
+    "start": 109.056,
+    "end": 109.636
+  },
+  {
+    "word": " ",
+    "start": 109.636,
+    "end": 109.636
+  },
+  {
+    "word": "but",
+    "start": 109.636,
+    "end": 109.756,
+    "score": 0.886
+  },
+  {
+    "word": " ",
+    "start": 109.756,
+    "end": 109.796
+  },
+  {
+    "start": 109.796,
+    "end": 109.796,
+    "word": "they"
+  },
+  {
+    "word": "’",
+    "start": 109.796,
+    "end": 109.796
+  },
+  {
+    "word": "re",
+    "start": 109.796,
+    "end": 110.056,
+    "score": 0.717
+  },
+  {
+    "word": " ",
+    "start": 110.056,
+    "end": 110.116
+  },
+  {
+    "word": "more",
+    "start": 110.116,
+    "end": 110.336,
+    "score": 0.709
+  },
+  {
+    "word": " ",
+    "start": 110.336,
+    "end": 110.416
+  },
+  {
+    "word": "behavioral",
+    "start": 110.416,
+    "end": 111.057,
+    "score": 0.804
+  },
+  {
+    "word": " ",
+    "start": 111.057,
+    "end": 111.117
+  },
+  {
+    "word": "in",
+    "start": 111.117,
+    "end": 111.177,
+    "score": 0.75
+  },
+  {
+    "word": " ",
+    "start": 111.177,
+    "end": 111.217
+  },
+  {
+    "word": "nature",
+    "start": 111.217,
+    "end": 111.537,
+    "score": 0.845
+  },
+  {
+    "word": ".",
+    "start": 111.537,
+    "end": 112.057
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "At",
+    "start": 112.057,
+    "end": 112.117,
+    "score": 0.758
+  },
+  {
+    "word": " ",
+    "start": 112.117,
+    "end": 112.177
+  },
+  {
+    "word": "first",
+    "start": 112.177,
+    "end": 112.417,
+    "score": 0.844
+  },
+  {
+    "word": ",",
+    "start": 112.417,
+    "end": 112.477
+  },
+  {
+    "word": " ",
+    "start": 112.477,
+    "end": 112.477
+  },
+  {
+    "word": "I",
+    "start": 112.477,
+    "end": 112.517,
+    "score": 0.986
+  },
+  {
+    "word": " ",
+    "start": 112.517,
+    "end": 112.557
+  },
+  {
+    "word": "was",
+    "start": 112.557,
+    "end": 112.677,
+    "score": 0.711
+  },
+  {
+    "word": " ",
+    "start": 112.677,
+    "end": 112.777
+  },
+  {
+    "word": "very",
+    "start": 112.777,
+    "end": 113.017,
+    "score": 0.732
+  },
+  {
+    "word": " ",
+    "start": 113.017,
+    "end": 113.197
+  },
+  {
+    "word": "literal",
+    "start": 113.197,
+    "end": 113.598,
+    "score": 0.856
+  },
+  {
+    "word": " ",
+    "start": 113.598,
+    "end": 113.658
+  },
+  {
+    "word": "in",
+    "start": 113.658,
+    "end": 113.738,
+    "score": 0.672
+  },
+  {
+    "word": " ",
+    "start": 113.738,
+    "end": 113.778
+  },
+  {
+    "word": "interviews",
+    "start": 113.778,
+    "end": 114.238,
+    "score": 0.801
+  },
+  {
+    "word": "—",
+    "start": 114.238,
+    "end": 114.598
+  },
+  {
+    "start": 114.598,
+    "end": 114.598,
+    "word": "I"
+  },
+  {
+    "word": "’",
+    "start": 114.598,
+    "end": 114.598
+  },
+  {
+    "word": "d",
+    "start": 114.598,
+    "end": 114.678,
+    "score": 0.819
+  },
+  {
+    "word": " ",
+    "start": 114.678,
+    "end": 114.718
+  },
+  {
+    "word": "just",
+    "start": 114.718,
+    "end": 114.858,
+    "score": 0.868
+  },
+  {
+    "word": " ",
+    "start": 114.858,
+    "end": 114.918
+  },
+  {
+    "word": "list",
+    "start": 114.918,
+    "end": 115.138,
+    "score": 0.842
+  },
+  {
+    "word": " ",
+    "start": 115.138,
+    "end": 115.178
+  },
+  {
+    "word": "out",
+    "start": 115.178,
+    "end": 115.258,
+    "score": 1.0
+  },
+  {
+    "word": " ",
+    "start": 115.258,
+    "end": 115.298
+  },
+  {
+    "word": "what",
+    "start": 115.298,
+    "end": 115.398,
+    "score": 0.914
+  },
+  {
+    "word": " ",
+    "start": 115.398,
+    "end": 115.438
+  },
+  {
+    "word": "I",
+    "start": 115.438,
+    "end": 115.478,
+    "score": 0.501
+  },
+  {
+    "word": " ",
+    "start": 115.478,
+    "end": 115.518
+  },
+  {
+    "word": "did",
+    "start": 115.518,
+    "end": 115.738,
+    "score": 0.798
+  },
+  {
+    "word": ".",
+    "start": 115.738,
+    "end": 116.079
+  },
+  {
+    "word": " ",
+    "start": 116.079,
+    "end": 116.079
+  },
+  {
+    "word": "But",
+    "start": 116.079,
+    "end": 116.219,
+    "score": 0.778
+  },
+  {
+    "word": " ",
+    "start": 116.219,
+    "end": 116.299
+  },
+  {
+    "word": "later",
+    "start": 116.299,
+    "end": 116.639,
+    "score": 0.811
+  },
+  {
+    "word": " ",
+    "start": 116.639,
+    "end": 116.739
+  },
+  {
+    "word": "I",
+    "start": 116.739,
+    "end": 116.799,
+    "score": 0.653
+  },
+  {
+    "word": " ",
+    "start": 116.799,
+    "end": 116.859
+  },
+  {
+    "word": "learned",
+    "start": 116.859,
+    "end": 117.159,
+    "score": 0.671
+  },
+  {
+    "word": " ",
+    "start": 117.159,
+    "end": 117.299
+  },
+  {
+    "word": "to",
+    "start": 117.299,
+    "end": 117.399,
+    "score": 0.882
+  },
+  {
+    "word": " ",
+    "start": 117.399,
+    "end": 117.519
+  },
+  {
+    "word": "talk",
+    "start": 117.519,
+    "end": 117.859,
+    "score": 0.894
+  },
+  {
+    "word": " ",
+    "start": 117.859,
+    "end": 117.979
+  },
+  {
+    "word": "more",
+    "start": 117.979,
+    "end": 118.219,
+    "score": 0.713
+  },
+  {
+    "word": " ",
+    "start": 118.219,
+    "end": 118.259
+  },
+  {
+    "word": "about",
+    "start": 118.259,
+    "end": 118.479,
+    "score": 0.823
+  },
+  {
+    "word": " ",
+    "start": 118.479,
+    "end": 118.579
+  },
+  {
+    "word": "how",
+    "start": 118.579,
+    "end": 118.76,
+    "score": 0.944
+  },
+  {
+    "word": " ",
+    "start": 118.76,
+    "end": 118.82
+  },
+  {
+    "word": "I",
+    "start": 118.82,
+    "end": 118.9,
+    "score": 0.677
+  },
+  {
+    "word": " ",
+    "start": 118.9,
+    "end": 118.94
+  },
+  {
+    "word": "approach",
+    "start": 118.94,
+    "end": 119.36,
+    "score": 0.897
+  },
+  {
+    "word": " ",
+    "start": 119.36,
+    "end": 119.4
+  },
+  {
+    "word": "things",
+    "start": 119.4,
+    "end": 119.7,
+    "score": 0.731
+  },
+  {
+    "word": ",",
+    "start": 119.7,
+    "end": 119.76
+  },
+  {
+    "word": " ",
+    "start": 119.76,
+    "end": 119.76
+  },
+  {
+    "word": "and",
+    "start": 119.76,
+    "end": 119.84,
+    "score": 0.862
+  },
+  {
+    "word": " ",
+    "start": 119.84,
+    "end": 119.88
+  },
+  {
+    "word": "how",
+    "start": 119.88,
+    "end": 120.0,
+    "score": 0.889
+  },
+  {
+    "word": " ",
+    "start": 120.0,
+    "end": 120.04
+  },
+  {
+    "word": "I",
+    "start": 120.04,
+    "end": 120.1,
+    "score": 0.666
+  },
+  {
+    "word": " ",
+    "start": 120.1,
+    "end": 120.22
+  },
+  {
+    "word": "think",
+    "start": 120.22,
+    "end": 120.44,
+    "score": 0.972
+  },
+  {
+    "word": " ",
+    "start": 120.44,
+    "end": 120.62
+  },
+  {
+    "word": "through",
+    "start": 120.62,
+    "end": 121.08,
+    "score": 0.638
+  },
+  {
+    "word": " ",
+    "start": 121.08,
+    "end": 121.22
+  },
+  {
+    "word": "alternatives",
+    "start": 121.22,
+    "end": 121.921,
+    "score": 0.809
+  },
+  {
+    "word": ",",
+    "start": 121.921,
+    "end": 122.281
+  },
+  {
+    "word": " ",
+    "start": 122.281,
+    "end": 122.281
+  },
+  {
+    "word": "potentially",
+    "start": 122.281,
+    "end": 122.721,
+    "score": 0.936
+  },
+  {
+    "word": " ",
+    "start": 122.721,
+    "end": 122.821
+  },
+  {
+    "word": "better",
+    "start": 122.821,
+    "end": 123.101,
+    "score": 0.887
+  },
+  {
+    "word": " ",
+    "start": 123.101,
+    "end": 123.221
+  },
+  {
+    "word": "ones",
+    "start": 123.221,
+    "end": 123.421,
+    "score": 0.75
+  },
+  {
+    "word": ",",
+    "start": 123.421,
+    "end": 123.921
+  },
+  {
+    "word": " ",
+    "start": 123.921,
+    "end": 123.921
+  },
+  {
+    "word": "before",
+    "start": 123.921,
+    "end": 124.302,
+    "score": 0.784
+  },
+  {
+    "word": " ",
+    "start": 124.302,
+    "end": 124.382
+  },
+  {
+    "word": "picking",
+    "start": 124.382,
+    "end": 124.682,
+    "score": 0.858
+  },
+  {
+    "word": " ",
+    "start": 124.682,
+    "end": 124.722
+  },
+  {
+    "word": "a",
+    "start": 124.722,
+    "end": 124.762,
+    "score": 0.548
+  },
+  {
+    "word": " ",
+    "start": 124.762,
+    "end": 124.782
+  },
+  {
+    "word": "direction",
+    "start": 124.782,
+    "end": 125.162,
+    "score": 0.928
+  },
+  {
+    "word": ".",
+    "start": 125.162,
+    "end": 125.17200000000001
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "copy-marker",
+    "word": "### NO_ALIGN_BELOW"
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "所",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "以",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "当",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "我",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "加",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "入",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "公",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "司",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "时",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "我",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "很",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "快",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "就",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "注",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "意",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "到",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "大",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "家",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "非",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "常",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "d",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "p",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "v",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "适",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "应",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "力",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "强",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "、",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "能",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "灵",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "活",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "应",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "对",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "变",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "化",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "—",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "—",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "特",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "别",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "是",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "在",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "像",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "我",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "们",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "这",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "样",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "f",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "-",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "m",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "v",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "g",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "快",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "节",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "奏",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "、",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "迅",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "速",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "变",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "化",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "p",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "d",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "u",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "c",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "m",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "产",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "品",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "团",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "队",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "中",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "。",
+    "start": null,
+    "end": null
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "在",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "我",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "b",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "d",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "g",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "入",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "职",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "培",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "训",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "、",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "适",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "应",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "期",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "期",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "间",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "我",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "有",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "机",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "会",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "参",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "加",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "了",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "一",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "些",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "p",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "l",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "v",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "w",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "多",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "人",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "面",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "试",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "。",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "我",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "们",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "一",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "起",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "合",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "作",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "根",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "据",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "一",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "些",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "关",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "键",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "m",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "c",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "指",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "标",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "、",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "衡",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "量",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "标",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "准",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "比",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "如",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "p",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "b",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "l",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "m",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "-",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "l",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "v",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "g",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "解",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "决",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "问",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "题",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "能",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "力",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "、",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "c",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "m",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "m",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "u",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "c",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "沟",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "通",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "能",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "力",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "和",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "y",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "m",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "h",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "k",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "g",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "系",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "统",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "思",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "维",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "来",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "评",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "估",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "新",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "c",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "d",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "d",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "候",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "选",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "人",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "。",
+    "start": null,
+    "end": null
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "后",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "来",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "我",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "参",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "与",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "了",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "一",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "个",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "我",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "称",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "之",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "为",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "更",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "偏",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "向",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "f",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "u",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "c",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "u",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "基",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "础",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "架",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "构",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "（",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "支",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "持",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "系",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "统",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "运",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "作",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "底",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "层",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "部",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "分",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "）",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "项",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "目",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "。",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "有",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "些",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "人",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "u",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "m",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "d",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "以",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "为",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "、",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "假",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "设",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "我",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "只",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "是",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "来",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "m",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "p",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "l",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "m",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "实",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "施",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "、",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "执",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "行",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "别",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "人",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "计",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "划",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "但",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "实",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "际",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "上",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "整",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "个",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "项",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "目",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "是",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "我",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "主",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "导",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "。",
+    "start": null,
+    "end": null
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "我",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "们",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "必",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "须",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "在",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "多",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "个",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "团",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "队",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "之",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "间",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "c",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "d",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "协",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "调",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "并",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "确",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "保",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "每",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "个",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "团",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "队",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "能",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "顺",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "利",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "地",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "m",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "g",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "迁",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "移",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "（",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "从",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "旧",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "系",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "统",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "转",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "移",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "到",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "新",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "系",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "统",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "）",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "他",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "们",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "f",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "d",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "c",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "m",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "p",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "信",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "息",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "流",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "组",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "件",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "到",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "新",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "l",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "y",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "u",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "m",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "d",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "l",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "布",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "局",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "模",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "型",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "中",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "。",
+    "start": null,
+    "end": null
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "我",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "们",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "给",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "p",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "p",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "加",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "了",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "u",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "m",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "d",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "工",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "具",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "代",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "码",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "/",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "埋",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "点",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "监",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "控",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "用",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "来",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "收",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "集",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "c",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "l",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "l",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "p",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "f",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "m",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "c",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "滚",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "动",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "性",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "能",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "数",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "据",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "—",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "—",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "比",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "如",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "c",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "d",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "坐",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "标",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "、",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "F",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "P",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "S",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "每",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "秒",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "帧",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "数",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "和",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "d",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "m",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "渲",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "染",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "时",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "间",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "。",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "之",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "后",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "我",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "们",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "对",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "d",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "g",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "渲",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "染",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "做",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "了",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "p",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "f",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "l",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "性",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "能",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "分",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "析",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "（",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "记",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "录",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "其",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "行",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "为",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "）",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "并",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "c",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "d",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "追",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "踪",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "了",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "布",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "局",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "中",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "速",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "度",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "慢",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "部",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "分",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "。",
+    "start": null,
+    "end": null
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "当",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "时",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "滚",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "动",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "感",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "觉",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "非",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "常",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "g",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "l",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "c",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "h",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "y",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "卡",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "顿",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "、",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "不",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "流",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "畅",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "而",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "且",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "它",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "w",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "c",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "u",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "m",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "g",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "消",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "耗",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "了",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "太",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "多",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "每",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "秒",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "帧",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "数",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "。",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "所",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "以",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "我",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "们",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "w",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "重",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "写",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "了",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "布",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "局",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "系",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "统",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "并",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "以",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "y",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "c",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "h",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "u",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "l",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "y",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "异",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "步",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "方",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "式",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "（",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "不",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "阻",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "塞",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "主",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "线",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "程",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "）",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "加",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "载",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "f",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "d",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "内",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "容",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "。",
+    "start": null,
+    "end": null
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "这",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "个",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "改",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "动",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "让",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "整",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "个",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "系",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "统",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "变",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "得",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "u",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "p",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "b",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "u",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "y",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "m",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "h",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "超",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "级",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "丝",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "滑",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "流",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "畅",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "。",
+    "start": null,
+    "end": null
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "我",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "们",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "在",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "工",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "具",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "中",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "确",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "实",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "看",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "到",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "那",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "些",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "A",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "u",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "L",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "y",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "u",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "自",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "动",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "布",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "局",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "调",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "用",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "都",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "没",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "了",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "完",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "全",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "l",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "m",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "d",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "消",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "除",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "了",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "滚",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "动",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "时",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "l",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "g",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "延",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "迟",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "、",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "卡",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "顿",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "。",
+    "start": null,
+    "end": null
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "我",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "们",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "想",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "让",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "d",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "p",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "采",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "纳",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "、",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "迁",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "移",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "过",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "程",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "变",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "得",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "容",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "易",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "所",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "以",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "简",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "化",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "了",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "m",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "g",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "p",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "迁",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "移",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "步",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "骤",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "这",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "基",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "本",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "上",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "让",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "人",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "没",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "有",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "借",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "口",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "不",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "c",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "p",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "合",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "作",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "。",
+    "start": null,
+    "end": null
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "尽",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "管",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "如",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "此",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "一",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "些",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "团",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "队",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "还",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "是",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "需",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "要",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "一",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "些",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "p",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "u",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "说",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "服",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "。",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "而",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "且",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "因",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "为",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "这",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "是",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "一",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "个",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "c",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "-",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "f",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "u",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "c",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "l",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "跨",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "职",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "能",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "（",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "多",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "个",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "部",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "门",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "参",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "与",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "）",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "项",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "目",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "我",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "必",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "须",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "付",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "出",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "努",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "力",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "让",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "大",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "家",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "接",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "受",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "m",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "v",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "g",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "w",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "y",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "f",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "m",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "远",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "离",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "、",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "不",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "再",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "使",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "用",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "A",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "u",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "L",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "y",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "u",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "想",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "法",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "。",
+    "start": null,
+    "end": null
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "回",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "头",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "看",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "我",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "觉",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "得",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "c",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "u",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "x",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "核",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "心",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "、",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "本",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "质",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "就",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "在",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "于",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "要",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "有",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "m",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "p",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "h",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "y",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "共",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "情",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "能",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "力",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "—",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "—",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "不",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "仅",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "是",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "对",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "用",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "户",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "还",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "包",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "括",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "对",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "队",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "友",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "甚",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "至",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "是",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "那",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "些",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "在",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "观",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "察",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "你",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "如",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "何",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "解",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "决",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "问",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "题",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "h",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "g",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "m",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "g",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "招",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "聘",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "经",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "理",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "。",
+    "start": null,
+    "end": null
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "这",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "些",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "问",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "题",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "通",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "常",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "在",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "面",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "试",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "早",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "期",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "就",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "会",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "出",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "现",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "它",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "们",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "可",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "能",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "会",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "g",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "u",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "自",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "然",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "转",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "向",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "其",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "他",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "话",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "题",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "但",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "它",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "们",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "本",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "质",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "上",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "更",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "偏",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "b",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "h",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "v",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "l",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "行",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "为",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "类",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "（",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "考",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "察",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "你",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "过",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "去",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "做",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "事",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "方",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "式",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "）",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "。",
+    "start": null,
+    "end": null
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "一",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "开",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "始",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "我",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "在",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "面",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "试",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "中",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "回",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "答",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "得",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "非",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "常",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "l",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "l",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "字",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "面",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "化",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "、",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "只",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "讲",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "事",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "实",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "只",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "是",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "列",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "出",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "我",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "做",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "了",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "什",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "么",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "但",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "后",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "来",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "我",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "学",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "会",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "了",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "更",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "多",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "地",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "谈",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "论",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "我",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "p",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "p",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "c",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "h",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "应",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "对",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "、",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "处",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "理",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "问",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "题",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "方",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "法",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "以",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "及",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "我",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "在",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "做",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "决",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "策",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "前",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "如",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "何",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "h",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "k",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "h",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "o",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "u",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "g",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "h",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "仔",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "细",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "思",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "考",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "各",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "种",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "【",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "l",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "r",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "n",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "a",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "t",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "i",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "v",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "e",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "s",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": " ",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "备",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "选",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "方",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "案",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "】",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "，",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "包",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "括",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "那",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "些",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "可",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "能",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "更",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "好",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "选",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "项",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "。",
+    "start": null,
+    "end": null
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  }
+]

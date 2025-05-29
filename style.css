@@ -4,7 +4,6 @@ html, body {
   height: 100%;
   overflow: hidden;
   /* 禁止整页上下滚动 */
-  font-family: "Hiragino Kaku Gothic Pro", Meiryo, "Yu Gothic", "Helvetica Neue", sans-serif;
   background-color: #fffefc;
   -webkit-overflow-scrolling: touch;
   touch-action: manipulation;
