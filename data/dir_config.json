@@ -82,5 +82,12 @@
       "path": "data/interview/04",
       "word_corrected_json": "04.corrected.word.json"
     }
+  },
+  "real-interview": {
+    "challenge-proud-leadership-proactive": {
+      "audio_file": "01.m4a",
+      "path": "data/real-interview/challenge-proud-leadership-proactive",
+      "word_corrected_json": "01.corrected.word.json"
+    }
   }
 }
