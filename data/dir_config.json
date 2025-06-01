@@ -84,10 +84,10 @@
     }
   },
   "real-interview": {
-    "challenge-proud-leadership-proactive": {
-      "audio_file": "01.m4a",
-      "path": "data/real-interview/challenge-proud-leadership-proactive",
-      "word_corrected_json": "01.corrected.word.json"
+    "01-challenge-proud": {
+      "audio_file": "001.m4a",
+      "path": "data/real-interview/01-challenge-proud",
+      "word_corrected_json": "001.corrected.word.json"
     }
   }
 }
