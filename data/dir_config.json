@@ -88,6 +88,11 @@
       "audio_file": "001.m4a",
       "path": "data/real-interview/01-challenge-proud",
       "word_corrected_json": "001.corrected.word.json"
+    },
+    "02-conflict": {
+      "audio_file": "02.m4a",
+      "path": "data/real-interview/02-conflict",
+      "word_corrected_json": "02.corrected.word.json"
     }
   }
 }
