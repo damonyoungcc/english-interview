@@ -19,8 +19,8 @@ made it frustrating to use and slowed them down a lot.
 made it frustrating to use and slowed them down a lot.
 
 在日常合作中，我开始注意到越来越多的问题，
-I started noticing more and more issues during day-to-day collaboration,
-I started noticing more and more issues during day-to-day collaboration,
+I gradually realized there were more and more issues in our daily collaboration.
+I gradually realized there were more and more issues in our daily collaboration.
 
 于是我主动花时间去了解大家的痛点。
 so I proactively took the time to understand everyone’s pain points.
@@ -87,20 +87,20 @@ I’m really proud of that work.
 那时，公司里的每个团队都在各自独立构建自己的内部管理系统，缺乏统一标准。
 结果，用户体验非常不统一，而且令人困惑。
 运营团队经常指出，不统一的交互方式贯穿整个项目，
-这很痛苦去用，并且拖慢了工作效率。
+这造成使用很痛苦，并且拖慢了工作效率。
 我开始注意到越来越多的问题在日常的合作中，
-于是我主动花时间去了解大家的痛点。
+于是我花时间去了解大家的痛点。
 我去聊了运营、产品、开发团队，发现很多他们有相同的抱怨——
 比如导航让人疑惑，表格工作不一样在每个系统里，设置权限是很痛苦。
 于是我尝试找出大家真正共有的需求。
 然后我主导设计并开发了一个共享的内部管理系统模板。
 目标很简单：
 让它很简单新项目可以一键使用，立刻专注于业务开发，
-也能帮助老项目轻松地渐进式升级。
+也能帮助老项目渐进式升级用很少的代价。
 有一点我要说的是，一些团队并不太愿意迁移一开始，
 因为他们有自己的优先事项和定制配置。
 于是我做了一个演示，写了文档，还提供了迁移指南，
-尽量让过程变得简单
+让过程变得尽量简单
 所以最后，真的没有理由不配合了。
 随着时间推移，越来越多的团队开始使用这个模板，效果非常好。
 我对这项工作感到非常自豪。

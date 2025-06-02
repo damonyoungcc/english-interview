@@ -1864,7 +1864,27 @@
     "word": ""
   },
   {
-    "word": "I",
+    "start": 84.044,
+    "end": 84.044,
+    "word": "I"
+  },
+  {
+    "word": " ",
+    "start": 84.044,
+    "end": 84.044
+  },
+  {
+    "start": 84.044,
+    "end": 84.044,
+    "word": "gradually"
+  },
+  {
+    "word": " ",
+    "start": 84.044,
+    "end": 84.044
+  },
+  {
+    "word": "realized",
     "start": 84.044,
     "end": 84.064,
     "score": 0.0
@@ -1875,7 +1895,7 @@
     "end": 89.809
   },
   {
-    "word": "started",
+    "word": "there",
     "start": 89.809,
     "end": 89.97,
     "score": 0.211
@@ -1886,7 +1906,7 @@
     "end": 89.99
   },
   {
-    "word": "noticing",
+    "word": "were",
     "start": 89.99,
     "end": 90.25,
     "score": 0.313
@@ -1938,43 +1958,32 @@
   {
     "word": " ",
     "start": 91.031,
-    "end": 91.051
-  },
-  {
-    "word": "during",
-    "start": 91.051,
-    "end": 91.231,
-    "score": 0.269
-  },
-  {
-    "word": " ",
-    "start": 91.231,
     "end": 91.251
   },
   {
-    "word": "day",
+    "word": "in",
     "start": 91.251,
     "end": 91.371,
     "score": 0.482
   },
   {
-    "word": "-",
+    "word": " ",
     "start": 91.371,
     "end": 91.411
   },
   {
-    "word": "to",
+    "word": "our",
     "start": 91.411,
     "end": 91.471,
     "score": 0.279
   },
   {
-    "word": "-",
+    "word": " ",
     "start": 91.471,
     "end": 91.511
   },
   {
-    "word": "day",
+    "word": "daily",
     "start": 91.511,
     "end": 91.571,
     "score": 0.03
@@ -1991,7 +2000,7 @@
     "score": 0.292
   },
   {
-    "word": ",",
+    "word": ".",
     "start": 91.991,
     "end": 96.748
   },
@@ -2000,7 +2009,27 @@
     "word": ""
   },
   {
-    "word": "I",
+    "start": 96.748,
+    "end": 96.748,
+    "word": "I"
+  },
+  {
+    "word": " ",
+    "start": 96.748,
+    "end": 96.748
+  },
+  {
+    "start": 96.748,
+    "end": 96.748,
+    "word": "gradually"
+  },
+  {
+    "word": " ",
+    "start": 96.748,
+    "end": 96.748
+  },
+  {
+    "word": "realized",
     "start": 96.748,
     "end": 96.848,
     "score": 0.958
@@ -2011,7 +2040,7 @@
     "end": 96.888
   },
   {
-    "word": "started",
+    "word": "there",
     "start": 96.888,
     "end": 97.148,
     "score": 0.922
@@ -2022,7 +2051,7 @@
     "end": 97.209
   },
   {
-    "word": "noticing",
+    "word": "were",
     "start": 97.209,
     "end": 97.549,
     "score": 0.861
@@ -2077,7 +2106,17 @@
     "end": 98.649
   },
   {
-    "word": "during",
+    "start": 98.649,
+    "end": 98.649,
+    "word": "in"
+  },
+  {
+    "word": " ",
+    "start": 98.649,
+    "end": 98.649
+  },
+  {
+    "word": "our",
     "start": 98.649,
     "end": 98.849,
     "score": 0.876
@@ -2088,27 +2127,7 @@
     "end": 98.889
   },
   {
-    "start": 98.889,
-    "end": 98.889,
-    "word": "day"
-  },
-  {
-    "word": "-",
-    "start": 98.889,
-    "end": 98.889
-  },
-  {
-    "start": 98.889,
-    "end": 98.889,
-    "word": "to"
-  },
-  {
-    "word": "-",
-    "start": 98.889,
-    "end": 98.889
-  },
-  {
-    "word": "day",
+    "word": "daily",
     "start": 98.889,
     "end": 99.25,
     "score": 0.778
@@ -2125,7 +2144,7 @@
     "score": 0.906
   },
   {
-    "word": ",",
+    "word": ".",
     "start": 104.352,
     "end": 105.513
   },
@@ -7391,6 +7410,26 @@
     "end": null
   },
   {
+    "word": "造",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "成",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "使",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "用",
+    "start": null,
+    "end": null
+  },
+  {
     "word": "很",
     "start": null,
     "end": null
@@ -7402,16 +7441,6 @@
   },
   {
     "word": "苦",
-    "start": null,
-    "end": null
-  },
-  {
-    "word": "去",
-    "start": null,
-    "end": null
-  },
-  {
-    "word": "用",
     "start": null,
     "end": null
   },
@@ -7595,16 +7624,6 @@
   },
   {
     "word": "我",
-    "start": null,
-    "end": null
-  },
-  {
-    "word": "主",
-    "start": null,
-    "end": null
-  },
-  {
-    "word": "动",
     "start": null,
     "end": null
   },
@@ -8402,21 +8421,6 @@
     "end": null
   },
   {
-    "word": "轻",
-    "start": null,
-    "end": null
-  },
-  {
-    "word": "松",
-    "start": null,
-    "end": null
-  },
-  {
-    "word": "地",
-    "start": null,
-    "end": null
-  },
-  {
     "word": "渐",
     "start": null,
     "end": null
@@ -8438,6 +8442,36 @@
   },
   {
     "word": "级",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "用",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "很",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "少",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "的",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "代",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "价",
     "start": null,
     "end": null
   },
@@ -8793,16 +8827,6 @@
     "word": ""
   },
   {
-    "word": "尽",
-    "start": null,
-    "end": null
-  },
-  {
-    "word": "量",
-    "start": null,
-    "end": null
-  },
-  {
     "word": "让",
     "start": null,
     "end": null
@@ -8824,6 +8848,16 @@
   },
   {
     "word": "得",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "尽",
+    "start": null,
+    "end": null
+  },
+  {
+    "word": "量",
     "start": null,
     "end": null
   },
