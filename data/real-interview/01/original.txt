@@ -1,0 +1,54 @@
+1. Can you tell me about a situation in your company?
+When I joined my previous company, I proactively led the effort to build a shared internal admin system template.
+At the time, each team in the company was building their own internal admin systems separately without a shared standard.
+As a result, the user experience was really inconsistent and confusing.
+
+2.How did you realize the problem was serious?
+The ops team often pointed out that the inconsistent interaction patterns across systems
+and made it frustrating to use and slowed them down a lot.
+I gradually realized there were more and more issues in our daily collaboration.
+
+3.What steps did you take to understand the root cause of the issue?
+First, I took the time to understand everyone’s pain points.
+and Then I talked to people from ops, product, and dev teams, and found that a lot of them had the same complaints —
+like the navigation was confusing, tables worked differently in each system, and setting permissions was a pain.
+In the end I tried to find what everyone really needed in common.
+
+4. What actions did you take to solve the problem?
+Then I led the design and development of a shared internal admin system template.
+The goal was simple:
+One is make it easy for new projects to use with Just one click and immediately focus on business development,
+and two is help old ones upgrade with minimal effort.
+
+5.Did you face any challenges or resistance? How did you handle it?
+One thing I will say though, is that some teams weren’t that willing to migrate at first.
+They had their own priorities and custom setups.
+I created a demo, wrote documentation, and provided a migration guide
+I try to make the process as easy as possible
+so in the end, there was really no excuse not to cooperate.
+
+6. Can you describe a reusable system or template you built?
+This project provides two things.
+First, a demo with a login page, routing setup, layout, and best practices for tables and forms.
+Second, I wrapped components like layout and form based on Ant Design and published them to our internal npm.
+So old projects can install these packages step by step to update their UI.
+After a few updates, we were able to unify the user experience across all internal admin systems.
+
+
+7. How do you usually communicate with other teams?
+How do you manage communication with different stakeholders?
+
+First thing, I think should try to understand who I’m talking to.
+If it’s a product manager, I focus on business impact.
+If it’s an engineer, I explain technical details clearly.
+I try to speak in their language.
+
+The second I also try to see things from their side.
+I ask what’s their pain point, or what they care about the most.
+That helps me adjust my message to make it more relevant.
+
+When I was promoting the new admin system template,
+I knew some teams had different needs and thier priorities.
+So I create a demo, wrote docs, and provided a clearly guide.
+show them the process as easy as possible.
+That can helped them accept the changes more easily.

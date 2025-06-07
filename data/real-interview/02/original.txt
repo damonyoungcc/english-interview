@@ -1,0 +1,28 @@
+1. What started the problem?
+One time, my teammate and I were building a new feature.
+We had a shared modal component.
+But to fit his own page, he just copied it and made some custom changes.
+It saved time at first, but created duplicated code.
+I felt this wasn’t a long-term solution.
+
+2. Why was it risky?
+I realized if the business changed later, we’d need to update every copy.
+That would be hard to maintain, easy to break, and waste time.
+
+3. How did you talk to him?
+I didn’t say no right away.
+Instead, I pointed out the risks.
+I gave examples like needing to fix the same bug in multiple places.
+That helped him understand the problem better.
+
+4. What was your solution?
+Then I suggested a solution.
+I said, let’s make the modal configuration-driven.
+We can use props to control the content, actions, and buttons.
+That way, no need to copy the whole code again.
+He liked the idea, and we refactored it together.
+
+5. Did you do anything extra?
+While doing that, I noticed we had no unit tests for this modal.
+So I added some basic tests.
+That way, we could catch problems early in the future.
