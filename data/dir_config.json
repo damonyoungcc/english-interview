@@ -84,10 +84,20 @@
     }
   },
   "real-interview": {
+    "01": {
+      "audio_file": "111.m4a",
+      "path": "data/real-interview/01",
+      "word_corrected_json": "111.corrected.word.json"
+    },
     "01-challenge-proud": {
       "audio_file": "001.m4a",
       "path": "data/real-interview/01-challenge-proud",
       "word_corrected_json": "001.corrected.word.json"
+    },
+    "02": {
+      "audio_file": "222.m4a",
+      "path": "data/real-interview/02",
+      "word_corrected_json": "222.corrected.word.json"
     },
     "02-conflict": {
       "audio_file": "02.m4a",
