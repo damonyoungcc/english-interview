@@ -1,69 +1,58 @@
 1. 首先描述背景
-有次和同事一起开发一个新功能，我们有一个公用的弹窗组件，
-为了适配他的页面，他直接复制了一份做修改，刚开始节省了时间，但是创造了重复代码，我觉得不是一个长久的方案。
 One time, my teammate and I were building a new feature.
 We had a shared modal component.
 But to fit his own page, he just copied it and made some custom changes.
-It saved time at first, but created duplicated code.
-I felt this wasn’t a long-term solution.
+It saved time at first, but create the duplicated code.
+I think this wasn’t a long-term solution.
 
 One time, my teammate and I were building a new feature.
 We had a shared modal component.
 But to fit his own page, he just copied it and made some custom changes.
-It saved time at first, but created duplicated code.
-I felt this wasn’t a long-term solution.
-
+It saved time at first, but create the duplicated code.
+I think this wasn’t a long-term solution.
 
 2. 识别出风险和问题
-我意识到如果后续业务变化，我们需要升级每一份复制，这会很难维护，容易出错，浪费时间
-I realized if the business changed later, we’d need to update every copy.
+I realized if the business changed later, we have to update every copy.
 That would be hard to maintain, easy to break, and waste time.
 
-I realized if the business changed later, we’d need to update every copy.
+I realized if the business changed later, we have to update every copy.
 That would be hard to maintain, easy to break, and waste time.
 
 3. 进行沟通，说明问题
-我没有直接说不行，一开始我们有不同的处理意见，而我指出了风险，我举例说需要在多处修改同一个bug，这使他更好的明白了问题
-I didn’t say no right away.
 At first, we had different opinions on how to handle it.
+But I didn’t say no right away.
 Instead, I pointed out the risks.
-I gave examples like needing to fix the same bug in multiple places.
+I gave examples like needing to fix the same code in multiple places if the business changed later.
 That helped him understand the problem better.
 
-I didn’t say no right away.
 At first, we had different opinions on how to handle it.
+But I didn’t say no right away.
 Instead, I pointed out the risks.
-I gave examples like needing to fix the same bug in multiple places.
+I gave examples like needing to fix the same code in multiple places if the business changed later.
 That helped him understand the problem better.
 
 4. 提出解决方案
-我建议了一个方案，我说把弹窗变成配置驱动，我们使用prop去控制内容，行为，和按钮等
-这个方式就不用去复制所有代码了，她喜欢这个主意，我们一起重构了组件
 Then I suggested a solution.
 I said, let’s make the modal configuration-driven.
 We can use props to control the content, actions, and buttons.
-That way, no need to copy the whole code again.
+That way, no need to copy the whole component again.
 He liked the idea, and we refactored it together.
 
 Then I suggested a solution.
 I said, let’s make the modal configuration-driven.
 We can use props to control the content, actions, and buttons.
-That way, no need to copy the whole code again.
+That way, no need to copy the whole component again.
 He liked the idea, and we refactored it together.
 
 5. 总结思考
-这次冲突让我意识到，我们需要为测试保证后续升级不出bug
-我添加了完整的测试覆盖
-现在我们修改Modal组件的时候，只需要跑一下测试就可以确定所有的功能都正常，帮我们避免了回归性bug
-回过头来看，我想冲突不是坏事，而是会推动我们变得更好。
-That conflict with my teammate made me realize—we needed tests to avoid bugs when updating it later.
-So I wrote full test coverage.
-Now, whenever we change the modal, we just run the tests to make sure everything still works.
+That conflict with my teammate made me realize—we needed unit test to avoid bugs when updating it later.
+So I add the full test coverage.
+Now, whenever we change the modal, we just run the test to make sure everything still works.
 It helps prevent regressions.
 Looking back, I think the conflict wasn’t a bad thing—it pushed us to do better.
 
-That conflict with my teammate made me realize—we needed tests to avoid bugs when updating it later.
-So I wrote full test coverage.
-Now, whenever we change the modal, we just run the tests to make sure everything still works.
+That conflict with my teammate made me realize—we needed unit test to avoid bugs when updating it later.
+So I add the full test coverage.
+Now, whenever we change the modal, we just run the test to make sure everything still works.
 It helps prevent regressions.
 Looking back, I think the conflict wasn’t a bad thing—it pushed us to do better.

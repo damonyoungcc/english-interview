@@ -1,0 +1,2828 @@
+[
+  {
+    "word": "One.",
+    "start": 1.369,
+    "end": 1.509,
+    "score": 0.411
+  },
+  {
+    "word": "One",
+    "start": 4.734,
+    "end": 4.834,
+    "score": 0.689
+  },
+  {
+    "word": "time,",
+    "start": 4.894,
+    "end": 5.174,
+    "score": 0.802
+  },
+  {
+    "word": "my",
+    "start": 5.374,
+    "end": 5.495,
+    "score": 0.834
+  },
+  {
+    "word": "teammate",
+    "start": 5.535,
+    "end": 5.875,
+    "score": 0.804
+  },
+  {
+    "word": "and",
+    "start": 5.915,
+    "end": 5.995,
+    "score": 0.938
+  },
+  {
+    "word": "I",
+    "start": 6.095,
+    "end": 6.156,
+    "score": 0.664
+  },
+  {
+    "word": "were",
+    "start": 6.196,
+    "end": 6.316,
+    "score": 0.963
+  },
+  {
+    "word": "building",
+    "start": 6.356,
+    "end": 6.616,
+    "score": 0.865
+  },
+  {
+    "word": "a",
+    "start": 6.656,
+    "end": 6.696,
+    "score": 0.532
+  },
+  {
+    "word": "new",
+    "start": 6.736,
+    "end": 6.836,
+    "score": 0.999
+  },
+  {
+    "word": "feature.",
+    "start": 6.876,
+    "end": 7.197,
+    "score": 0.808
+  },
+  {
+    "word": "We",
+    "start": 7.657,
+    "end": 7.758,
+    "score": 0.928
+  },
+  {
+    "word": "had",
+    "start": 7.798,
+    "end": 7.938,
+    "score": 0.878
+  },
+  {
+    "word": "a",
+    "start": 7.958,
+    "end": 7.998,
+    "score": 0.499
+  },
+  {
+    "word": "shared",
+    "start": 8.058,
+    "end": 8.338,
+    "score": 0.824
+  },
+  {
+    "word": "modal",
+    "start": 8.378,
+    "end": 8.619,
+    "score": 0.854
+  },
+  {
+    "word": "component,",
+    "start": 8.659,
+    "end": 9.119,
+    "score": 0.953
+  },
+  {
+    "word": "but",
+    "start": 9.56,
+    "end": 9.66,
+    "score": 0.991
+  },
+  {
+    "word": "to",
+    "start": 9.7,
+    "end": 9.78,
+    "score": 0.889
+  },
+  {
+    "word": "fit",
+    "start": 9.82,
+    "end": 9.981,
+    "score": 0.961
+  },
+  {
+    "word": "his",
+    "start": 10.021,
+    "end": 10.101,
+    "score": 0.847
+  },
+  {
+    "word": "own",
+    "start": 10.201,
+    "end": 10.321,
+    "score": 0.852
+  },
+  {
+    "word": "page,",
+    "start": 10.361,
+    "end": 10.681,
+    "score": 0.88
+  },
+  {
+    "word": "he",
+    "start": 10.982,
+    "end": 11.062,
+    "score": 0.671
+  },
+  {
+    "word": "just",
+    "start": 11.102,
+    "end": 11.242,
+    "score": 0.999
+  },
+  {
+    "word": "copied",
+    "start": 11.302,
+    "end": 11.623,
+    "score": 0.877
+  },
+  {
+    "word": "it",
+    "start": 11.663,
+    "end": 11.723,
+    "score": 0.75
+  },
+  {
+    "word": "and",
+    "start": 11.803,
+    "end": 11.883,
+    "score": 0.851
+  },
+  {
+    "word": "made",
+    "start": 11.923,
+    "end": 12.083,
+    "score": 0.861
+  },
+  {
+    "word": "some",
+    "start": 12.123,
+    "end": 12.244,
+    "score": 0.88
+  },
+  {
+    "word": "custom",
+    "start": 12.304,
+    "end": 12.624,
+    "score": 0.873
+  },
+  {
+    "word": "changes.",
+    "start": 12.664,
+    "end": 13.045,
+    "score": 0.868
+  },
+  {
+    "word": "It",
+    "start": 13.864,
+    "end": 13.964,
+    "score": 0.882
+  },
+  {
+    "word": "saved",
+    "start": 14.004,
+    "end": 14.244,
+    "score": 0.803
+  },
+  {
+    "word": "time",
+    "start": 14.284,
+    "end": 14.504,
+    "score": 0.8
+  },
+  {
+    "word": "at",
+    "start": 14.544,
+    "end": 14.625,
+    "score": 0.514
+  },
+  {
+    "word": "first,",
+    "start": 14.665,
+    "end": 14.965,
+    "score": 0.731
+  },
+  {
+    "word": "but",
+    "start": 15.265,
+    "end": 15.385,
+    "score": 0.84
+  },
+  {
+    "word": "create",
+    "start": 15.445,
+    "end": 15.725,
+    "score": 0.77
+  },
+  {
+    "word": "the",
+    "start": 15.745,
+    "end": 15.845,
+    "score": 0.673
+  },
+  {
+    "word": "duplicated",
+    "start": 15.885,
+    "end": 16.386,
+    "score": 0.926
+  },
+  {
+    "word": "code.",
+    "start": 16.446,
+    "end": 16.686,
+    "score": 0.867
+  },
+  {
+    "word": "I",
+    "start": 17.206,
+    "end": 17.266,
+    "score": 0.674
+  },
+  {
+    "word": "think",
+    "start": 17.306,
+    "end": 17.466,
+    "score": 0.886
+  },
+  {
+    "word": "this",
+    "start": 17.486,
+    "end": 17.626,
+    "score": 0.744
+  },
+  {
+    "word": "wasn't",
+    "start": 17.667,
+    "end": 17.867,
+    "score": 0.866
+  },
+  {
+    "word": "a",
+    "start": 17.907,
+    "end": 17.927,
+    "score": 0.997
+  },
+  {
+    "word": "long-term",
+    "start": 17.967,
+    "end": 18.427,
+    "score": 0.834
+  },
+  {
+    "word": "solution.",
+    "start": 18.447,
+    "end": 18.867,
+    "score": 0.846
+  },
+  {
+    "word": "One",
+    "start": 19.848,
+    "end": 19.948,
+    "score": 0.964
+  },
+  {
+    "word": "time,",
+    "start": 20.008,
+    "end": 20.308,
+    "score": 0.687
+  },
+  {
+    "word": "my",
+    "start": 20.728,
+    "end": 20.849,
+    "score": 0.834
+  },
+  {
+    "word": "teammate",
+    "start": 20.889,
+    "end": 21.229,
+    "score": 0.963
+  },
+  {
+    "word": "and",
+    "start": 21.269,
+    "end": 21.349,
+    "score": 0.842
+  },
+  {
+    "word": "I",
+    "start": 21.449,
+    "end": 21.509,
+    "score": 0.648
+  },
+  {
+    "word": "were",
+    "start": 21.569,
+    "end": 21.689,
+    "score": 0.883
+  },
+  {
+    "word": "building",
+    "start": 21.709,
+    "end": 21.989,
+    "score": 0.82
+  },
+  {
+    "word": "a",
+    "start": 22.029,
+    "end": 22.069,
+    "score": 0.516
+  },
+  {
+    "word": "new",
+    "start": 22.109,
+    "end": 22.249,
+    "score": 0.782
+  },
+  {
+    "word": "feature.",
+    "start": 22.29,
+    "end": 22.65,
+    "score": 0.831
+  },
+  {
+    "word": "We",
+    "start": 23.07,
+    "end": 23.15,
+    "score": 0.934
+  },
+  {
+    "word": "had",
+    "start": 23.19,
+    "end": 23.31,
+    "score": 0.829
+  },
+  {
+    "word": "a",
+    "start": 23.33,
+    "end": 23.37,
+    "score": 0.5
+  },
+  {
+    "word": "shared",
+    "start": 23.45,
+    "end": 23.73,
+    "score": 0.79
+  },
+  {
+    "word": "modal",
+    "start": 23.79,
+    "end": 24.031,
+    "score": 0.803
+  },
+  {
+    "word": "component,",
+    "start": 24.071,
+    "end": 24.571,
+    "score": 0.884
+  },
+  {
+    "word": "but",
+    "start": 24.971,
+    "end": 25.071,
+    "score": 0.833
+  },
+  {
+    "word": "to",
+    "start": 25.111,
+    "end": 25.191,
+    "score": 0.819
+  },
+  {
+    "word": "fit",
+    "start": 25.231,
+    "end": 25.392,
+    "score": 0.864
+  },
+  {
+    "word": "his",
+    "start": 25.432,
+    "end": 25.512,
+    "score": 0.844
+  },
+  {
+    "word": "own",
+    "start": 25.612,
+    "end": 25.732,
+    "score": 0.796
+  },
+  {
+    "word": "page,",
+    "start": 25.772,
+    "end": 26.092,
+    "score": 0.807
+  },
+  {
+    "word": "he",
+    "start": 26.332,
+    "end": 26.412,
+    "score": 0.992
+  },
+  {
+    "word": "just",
+    "start": 26.472,
+    "end": 26.632,
+    "score": 0.798
+  },
+  {
+    "word": "copied",
+    "start": 26.692,
+    "end": 27.053,
+    "score": 0.831
+  },
+  {
+    "word": "it",
+    "start": 27.093,
+    "end": 27.153,
+    "score": 0.75
+  },
+  {
+    "word": "and",
+    "start": 27.253,
+    "end": 27.333,
+    "score": 0.833
+  },
+  {
+    "word": "made",
+    "start": 27.373,
+    "end": 27.553,
+    "score": 0.828
+  },
+  {
+    "word": "some",
+    "start": 27.593,
+    "end": 27.753,
+    "score": 0.676
+  },
+  {
+    "word": "custom",
+    "start": 27.793,
+    "end": 28.113,
+    "score": 0.906
+  },
+  {
+    "word": "changes.",
+    "start": 28.153,
+    "end": 28.554,
+    "score": 0.826
+  },
+  {
+    "word": "It",
+    "start": 29.494,
+    "end": 29.574,
+    "score": 0.999
+  },
+  {
+    "word": "saved",
+    "start": 29.614,
+    "end": 29.834,
+    "score": 0.877
+  },
+  {
+    "word": "time",
+    "start": 29.854,
+    "end": 30.055,
+    "score": 0.837
+  },
+  {
+    "word": "at",
+    "start": 30.115,
+    "end": 30.175,
+    "score": 0.752
+  },
+  {
+    "word": "first,",
+    "start": 30.215,
+    "end": 30.535,
+    "score": 0.794
+  },
+  {
+    "word": "but",
+    "start": 30.615,
+    "end": 30.735,
+    "score": 0.789
+  },
+  {
+    "word": "create",
+    "start": 30.795,
+    "end": 31.055,
+    "score": 0.806
+  },
+  {
+    "word": "the",
+    "start": 31.075,
+    "end": 31.155,
+    "score": 0.86
+  },
+  {
+    "word": "duplicated",
+    "start": 31.195,
+    "end": 31.676,
+    "score": 0.913
+  },
+  {
+    "word": "code.",
+    "start": 31.736,
+    "end": 31.996,
+    "score": 0.703
+  },
+  {
+    "word": "I",
+    "start": 33.297,
+    "end": 33.357,
+    "score": 0.741
+  },
+  {
+    "word": "think",
+    "start": 33.397,
+    "end": 33.557,
+    "score": 0.852
+  },
+  {
+    "word": "this",
+    "start": 33.597,
+    "end": 33.717,
+    "score": 0.964
+  },
+  {
+    "word": "wasn't",
+    "start": 33.777,
+    "end": 34.017,
+    "score": 0.901
+  },
+  {
+    "word": "a",
+    "start": 34.057,
+    "end": 34.077,
+    "score": 0.997
+  },
+  {
+    "word": "long-term",
+    "start": 34.117,
+    "end": 34.577,
+    "score": 0.88
+  },
+  {
+    "word": "solution.",
+    "start": 34.617,
+    "end": 34.978,
+    "score": 0.885
+  },
+  {
+    "word": "Two,",
+    "start": 36.156,
+    "end": 36.376,
+    "score": 0.874
+  },
+  {
+    "word": "Shibiru",
+    "start": 36.877,
+    "end": 37.277,
+    "score": 0.638
+  },
+  {
+    "word": "Fungshen,",
+    "start": 37.317,
+    "end": 37.697,
+    "score": 0.59
+  },
+  {
+    "word": "Hwenti.",
+    "start": 37.717,
+    "end": 38.198,
+    "score": 0.805
+  },
+  {
+    "word": "I",
+    "start": 38.738,
+    "end": 38.818,
+    "score": 0.721
+  },
+  {
+    "word": "realized",
+    "start": 38.858,
+    "end": 39.278,
+    "score": 0.824
+  },
+  {
+    "word": "if",
+    "start": 39.318,
+    "end": 39.398,
+    "score": 0.686
+  },
+  {
+    "word": "the",
+    "start": 39.418,
+    "end": 39.499,
+    "score": 0.887
+  },
+  {
+    "word": "business",
+    "start": 39.539,
+    "end": 39.879,
+    "score": 0.838
+  },
+  {
+    "word": "changed",
+    "start": 39.959,
+    "end": 40.299,
+    "score": 0.831
+  },
+  {
+    "word": "later,",
+    "start": 40.359,
+    "end": 40.619,
+    "score": 0.864
+  },
+  {
+    "word": "we",
+    "start": 40.779,
+    "end": 40.9,
+    "score": 0.952
+  },
+  {
+    "word": "have",
+    "start": 40.94,
+    "end": 41.08,
+    "score": 0.759
+  },
+  {
+    "word": "to",
+    "start": 41.1,
+    "end": 41.16,
+    "score": 0.754
+  },
+  {
+    "word": "update",
+    "start": 41.22,
+    "end": 41.5,
+    "score": 0.91
+  },
+  {
+    "word": "every",
+    "start": 41.58,
+    "end": 41.76,
+    "score": 0.837
+  },
+  {
+    "word": "copy.",
+    "start": 41.78,
+    "end": 42.12,
+    "score": 0.857
+  },
+  {
+    "word": "That",
+    "start": 42.701,
+    "end": 42.821,
+    "score": 0.878
+  },
+  {
+    "word": "would",
+    "start": 42.841,
+    "end": 42.981,
+    "score": 0.81
+  },
+  {
+    "word": "be",
+    "start": 43.001,
+    "end": 43.081,
+    "score": 0.803
+  },
+  {
+    "word": "hard",
+    "start": 43.141,
+    "end": 43.321,
+    "score": 0.757
+  },
+  {
+    "word": "to",
+    "start": 43.361,
+    "end": 43.421,
+    "score": 0.752
+  },
+  {
+    "word": "maintain.",
+    "start": 43.461,
+    "end": 43.902,
+    "score": 0.764
+  },
+  {
+    "word": "Easy",
+    "start": 44.382,
+    "end": 44.602,
+    "score": 0.887
+  },
+  {
+    "word": "to",
+    "start": 44.642,
+    "end": 44.722,
+    "score": 0.837
+  },
+  {
+    "word": "break",
+    "start": 44.782,
+    "end": 45.063,
+    "score": 0.898
+  },
+  {
+    "word": "and",
+    "start": 45.283,
+    "end": 45.363,
+    "score": 0.833
+  },
+  {
+    "word": "waste",
+    "start": 45.403,
+    "end": 45.643,
+    "score": 0.757
+  },
+  {
+    "word": "time.",
+    "start": 45.683,
+    "end": 45.963,
+    "score": 0.624
+  },
+  {
+    "word": "I",
+    "start": 46.544,
+    "end": 46.624,
+    "score": 0.742
+  },
+  {
+    "word": "realized",
+    "start": 46.664,
+    "end": 47.024,
+    "score": 0.822
+  },
+  {
+    "word": "if",
+    "start": 47.064,
+    "end": 47.104,
+    "score": 1.0
+  },
+  {
+    "word": "the",
+    "start": 47.144,
+    "end": 47.204,
+    "score": 0.999
+  },
+  {
+    "word": "business",
+    "start": 47.244,
+    "end": 47.544,
+    "score": 0.911
+  },
+  {
+    "word": "changed",
+    "start": 47.605,
+    "end": 47.885,
+    "score": 0.778
+  },
+  {
+    "word": "later,",
+    "start": 47.925,
+    "end": 48.205,
+    "score": 0.86
+  },
+  {
+    "word": "we",
+    "start": 48.365,
+    "end": 48.485,
+    "score": 0.923
+  },
+  {
+    "word": "have",
+    "start": 48.505,
+    "end": 48.625,
+    "score": 0.793
+  },
+  {
+    "word": "to",
+    "start": 48.645,
+    "end": 48.705,
+    "score": 0.902
+  },
+  {
+    "word": "update",
+    "start": 48.805,
+    "end": 49.106,
+    "score": 0.927
+  },
+  {
+    "word": "every",
+    "start": 49.206,
+    "end": 49.386,
+    "score": 0.838
+  },
+  {
+    "word": "copy.",
+    "start": 49.406,
+    "end": 49.766,
+    "score": 0.843
+  },
+  {
+    "word": "That",
+    "start": 50.287,
+    "end": 50.427,
+    "score": 0.79
+  },
+  {
+    "word": "would",
+    "start": 50.447,
+    "end": 50.587,
+    "score": 0.879
+  },
+  {
+    "word": "be",
+    "start": 50.607,
+    "end": 50.687,
+    "score": 0.506
+  },
+  {
+    "word": "hard",
+    "start": 50.707,
+    "end": 50.867,
+    "score": 0.971
+  },
+  {
+    "word": "to",
+    "start": 50.907,
+    "end": 50.967,
+    "score": 0.782
+  },
+  {
+    "word": "maintain.",
+    "start": 51.007,
+    "end": 51.427,
+    "score": 0.84
+  },
+  {
+    "word": "Easy",
+    "start": 51.648,
+    "end": 51.848,
+    "score": 0.915
+  },
+  {
+    "word": "to",
+    "start": 51.888,
+    "end": 51.968,
+    "score": 0.8
+  },
+  {
+    "word": "break",
+    "start": 52.008,
+    "end": 52.268,
+    "score": 0.884
+  },
+  {
+    "word": "and",
+    "start": 52.448,
+    "end": 52.528,
+    "score": 0.835
+  },
+  {
+    "word": "waste",
+    "start": 52.568,
+    "end": 52.788,
+    "score": 0.74
+  },
+  {
+    "word": "time.",
+    "start": 52.828,
+    "end": 53.069,
+    "score": 0.768
+  },
+  {
+    "word": "Three,",
+    "start": 54.049,
+    "end": 54.289,
+    "score": 0.773
+  },
+  {
+    "word": "Xinxing",
+    "start": 54.63,
+    "end": 54.95,
+    "score": 0.755
+  },
+  {
+    "word": "Goutong,",
+    "start": 54.97,
+    "end": 55.31,
+    "score": 0.797
+  },
+  {
+    "word": "Xiumin,",
+    "start": 55.39,
+    "end": 55.65,
+    "score": 0.292
+  },
+  {
+    "word": "Hwenti.",
+    "start": 55.67,
+    "end": 56.051,
+    "score": 0.687
+  },
+  {
+    "word": "At",
+    "start": 56.791,
+    "end": 56.851,
+    "score": 0.909
+  },
+  {
+    "word": "first,",
+    "start": 56.911,
+    "end": 57.132,
+    "score": 0.828
+  },
+  {
+    "word": "we",
+    "start": 57.172,
+    "end": 57.252,
+    "score": 0.82
+  },
+  {
+    "word": "had",
+    "start": 57.272,
+    "end": 57.372,
+    "score": 0.768
+  },
+  {
+    "word": "different",
+    "start": 57.412,
+    "end": 57.672,
+    "score": 0.855
+  },
+  {
+    "word": "opinions",
+    "start": 57.712,
+    "end": 58.092,
+    "score": 0.842
+  },
+  {
+    "word": "on",
+    "start": 58.152,
+    "end": 58.212,
+    "score": 0.999
+  },
+  {
+    "word": "how",
+    "start": 58.252,
+    "end": 58.372,
+    "score": 0.515
+  },
+  {
+    "word": "to",
+    "start": 58.393,
+    "end": 58.453,
+    "score": 0.9
+  },
+  {
+    "word": "handle",
+    "start": 58.493,
+    "end": 58.793,
+    "score": 0.812
+  },
+  {
+    "word": "it.",
+    "start": 58.853,
+    "end": 58.913,
+    "score": 0.753
+  },
+  {
+    "word": "But",
+    "start": 59.713,
+    "end": 59.974,
+    "score": 0.683
+  },
+  {
+    "word": "I",
+    "start": 60.634,
+    "end": 60.694,
+    "score": 0.669
+  },
+  {
+    "word": "didn't",
+    "start": 60.714,
+    "end": 60.914,
+    "score": 0.838
+  },
+  {
+    "word": "say",
+    "start": 60.954,
+    "end": 61.094,
+    "score": 0.811
+  },
+  {
+    "word": "no",
+    "start": 61.135,
+    "end": 61.255,
+    "score": 0.718
+  },
+  {
+    "word": "right",
+    "start": 61.295,
+    "end": 61.435,
+    "score": 0.923
+  },
+  {
+    "word": "away.",
+    "start": 61.455,
+    "end": 61.735,
+    "score": 0.734
+  },
+  {
+    "word": "Instead,",
+    "start": 62.596,
+    "end": 63.036,
+    "score": 0.824
+  },
+  {
+    "word": "I",
+    "start": 63.176,
+    "end": 63.256,
+    "score": 0.75
+  },
+  {
+    "word": "pointed",
+    "start": 63.296,
+    "end": 63.576,
+    "score": 0.731
+  },
+  {
+    "word": "out",
+    "start": 63.616,
+    "end": 63.716,
+    "score": 0.926
+  },
+  {
+    "word": "the",
+    "start": 63.756,
+    "end": 63.837,
+    "score": 0.846
+  },
+  {
+    "word": "risks.",
+    "start": 63.877,
+    "end": 64.197,
+    "score": 0.813
+  },
+  {
+    "word": "I",
+    "start": 65.245,
+    "end": 65.305,
+    "score": 0.672
+  },
+  {
+    "word": "gave",
+    "start": 65.345,
+    "end": 65.545,
+    "score": 0.834
+  },
+  {
+    "word": "examples",
+    "start": 65.605,
+    "end": 66.126,
+    "score": 0.807
+  },
+  {
+    "word": "like",
+    "start": 66.226,
+    "end": 66.386,
+    "score": 0.765
+  },
+  {
+    "word": "needing",
+    "start": 66.566,
+    "end": 66.826,
+    "score": 0.94
+  },
+  {
+    "word": "to",
+    "start": 66.866,
+    "end": 66.946,
+    "score": 0.82
+  },
+  {
+    "word": "fix",
+    "start": 67.006,
+    "end": 67.207,
+    "score": 0.933
+  },
+  {
+    "word": "the",
+    "start": 67.247,
+    "end": 67.327,
+    "score": 0.835
+  },
+  {
+    "word": "same",
+    "start": 67.367,
+    "end": 67.587,
+    "score": 0.719
+  },
+  {
+    "word": "code",
+    "start": 67.667,
+    "end": 67.967,
+    "score": 0.892
+  },
+  {
+    "word": "in",
+    "start": 68.067,
+    "end": 68.147,
+    "score": 0.84
+  },
+  {
+    "word": "multiple",
+    "start": 68.207,
+    "end": 68.608,
+    "score": 0.901
+  },
+  {
+    "word": "places",
+    "start": 68.648,
+    "end": 69.068,
+    "score": 0.767
+  },
+  {
+    "word": "if",
+    "start": 69.208,
+    "end": 69.288,
+    "score": 0.866
+  },
+  {
+    "word": "the",
+    "start": 69.328,
+    "end": 69.408,
+    "score": 0.833
+  },
+  {
+    "word": "business",
+    "start": 69.448,
+    "end": 69.789,
+    "score": 0.814
+  },
+  {
+    "word": "changed",
+    "start": 69.849,
+    "end": 70.149,
+    "score": 0.753
+  },
+  {
+    "word": "later.",
+    "start": 70.209,
+    "end": 70.489,
+    "score": 0.864
+  },
+  {
+    "word": "That",
+    "start": 71.65,
+    "end": 71.83,
+    "score": 0.91
+  },
+  {
+    "word": "helped",
+    "start": 71.87,
+    "end": 72.051,
+    "score": 0.878
+  },
+  {
+    "word": "him",
+    "start": 72.071,
+    "end": 72.171,
+    "score": 0.841
+  },
+  {
+    "word": "understand",
+    "start": 72.231,
+    "end": 72.591,
+    "score": 0.905
+  },
+  {
+    "word": "the",
+    "start": 72.611,
+    "end": 72.691,
+    "score": 0.829
+  },
+  {
+    "word": "problem",
+    "start": 72.711,
+    "end": 72.991,
+    "score": 0.778
+  },
+  {
+    "word": "better.",
+    "start": 73.011,
+    "end": 73.232,
+    "score": 0.917
+  },
+  {
+    "word": "At",
+    "start": 74.373,
+    "end": 74.433,
+    "score": 0.943
+  },
+  {
+    "word": "first,",
+    "start": 74.493,
+    "end": 74.753,
+    "score": 0.835
+  },
+  {
+    "word": "we",
+    "start": 74.833,
+    "end": 74.933,
+    "score": 0.832
+  },
+  {
+    "word": "had",
+    "start": 74.973,
+    "end": 75.093,
+    "score": 0.785
+  },
+  {
+    "word": "different",
+    "start": 75.133,
+    "end": 75.413,
+    "score": 0.809
+  },
+  {
+    "word": "opinions",
+    "start": 75.453,
+    "end": 75.814,
+    "score": 0.841
+  },
+  {
+    "word": "on",
+    "start": 75.874,
+    "end": 75.934,
+    "score": 0.879
+  },
+  {
+    "word": "how",
+    "start": 75.974,
+    "end": 76.074,
+    "score": 0.688
+  },
+  {
+    "word": "to",
+    "start": 76.094,
+    "end": 76.154,
+    "score": 0.838
+  },
+  {
+    "word": "handle",
+    "start": 76.194,
+    "end": 76.494,
+    "score": 0.83
+  },
+  {
+    "word": "it,",
+    "start": 76.534,
+    "end": 76.594,
+    "score": 0.75
+  },
+  {
+    "word": "but",
+    "start": 77.575,
+    "end": 77.695,
+    "score": 0.694
+  },
+  {
+    "word": "I",
+    "start": 77.715,
+    "end": 77.755,
+    "score": 0.988
+  },
+  {
+    "word": "didn't",
+    "start": 77.795,
+    "end": 78.016,
+    "score": 0.834
+  },
+  {
+    "word": "say",
+    "start": 78.036,
+    "end": 78.176,
+    "score": 0.667
+  },
+  {
+    "word": "no",
+    "start": 78.216,
+    "end": 78.336,
+    "score": 0.684
+  },
+  {
+    "word": "right",
+    "start": 78.376,
+    "end": 78.536,
+    "score": 0.821
+  },
+  {
+    "word": "away.",
+    "start": 78.556,
+    "end": 78.776,
+    "score": 0.776
+  },
+  {
+    "word": "Instead,",
+    "start": 79.237,
+    "end": 79.677,
+    "score": 0.744
+  },
+  {
+    "word": "I",
+    "start": 80.057,
+    "end": 80.137,
+    "score": 0.748
+  },
+  {
+    "word": "pointed",
+    "start": 80.197,
+    "end": 80.458,
+    "score": 0.79
+  },
+  {
+    "word": "out",
+    "start": 80.498,
+    "end": 80.598,
+    "score": 0.891
+  },
+  {
+    "word": "the",
+    "start": 80.638,
+    "end": 80.718,
+    "score": 0.894
+  },
+  {
+    "word": "risks.",
+    "start": 80.758,
+    "end": 81.078,
+    "score": 0.784
+  },
+  {
+    "word": "I",
+    "start": 81.899,
+    "end": 81.939,
+    "score": 0.508
+  },
+  {
+    "word": "gave",
+    "start": 81.959,
+    "end": 82.139,
+    "score": 0.76
+  },
+  {
+    "word": "examples",
+    "start": 82.199,
+    "end": 82.619,
+    "score": 0.817
+  },
+  {
+    "word": "like",
+    "start": 82.679,
+    "end": 82.819,
+    "score": 0.759
+  },
+  {
+    "word": "needing",
+    "start": 82.88,
+    "end": 83.14,
+    "score": 0.866
+  },
+  {
+    "word": "to",
+    "start": 83.16,
+    "end": 83.24,
+    "score": 0.742
+  },
+  {
+    "word": "fix",
+    "start": 83.32,
+    "end": 83.54,
+    "score": 0.767
+  },
+  {
+    "word": "the",
+    "start": 83.58,
+    "end": 83.68,
+    "score": 0.672
+  },
+  {
+    "word": "same",
+    "start": 83.72,
+    "end": 83.94,
+    "score": 0.849
+  },
+  {
+    "word": "code",
+    "start": 84.0,
+    "end": 84.221,
+    "score": 0.89
+  },
+  {
+    "word": "in",
+    "start": 84.261,
+    "end": 84.321,
+    "score": 0.772
+  },
+  {
+    "word": "multiple",
+    "start": 84.361,
+    "end": 84.721,
+    "score": 0.903
+  },
+  {
+    "word": "places",
+    "start": 84.761,
+    "end": 85.181,
+    "score": 0.823
+  },
+  {
+    "word": "if",
+    "start": 85.402,
+    "end": 85.482,
+    "score": 0.836
+  },
+  {
+    "word": "the",
+    "start": 85.522,
+    "end": 85.602,
+    "score": 0.908
+  },
+  {
+    "word": "business",
+    "start": 85.642,
+    "end": 85.962,
+    "score": 0.829
+  },
+  {
+    "word": "changed",
+    "start": 86.002,
+    "end": 86.282,
+    "score": 0.875
+  },
+  {
+    "word": "later.",
+    "start": 86.322,
+    "end": 86.563,
+    "score": 0.868
+  },
+  {
+    "word": "That",
+    "start": 86.743,
+    "end": 86.923,
+    "score": 0.829
+  },
+  {
+    "word": "helped",
+    "start": 86.963,
+    "end": 87.163,
+    "score": 0.915
+  },
+  {
+    "word": "him",
+    "start": 87.183,
+    "end": 87.303,
+    "score": 0.523
+  },
+  {
+    "word": "understand",
+    "start": 87.363,
+    "end": 87.784,
+    "score": 0.834
+  },
+  {
+    "word": "the",
+    "start": 87.824,
+    "end": 87.904,
+    "score": 0.834
+  },
+  {
+    "word": "problem",
+    "start": 87.924,
+    "end": 88.264,
+    "score": 0.75
+  },
+  {
+    "word": "better.",
+    "start": 88.284,
+    "end": 88.524,
+    "score": 0.901
+  },
+  {
+    "word": "Four,",
+    "start": 89.425,
+    "end": 89.685,
+    "score": 0.826
+  },
+  {
+    "word": "T2TZF.",
+    "start": 90.145,
+    "end": 91.086,
+    "score": 0.697
+  },
+  {
+    "word": "Then",
+    "start": 91.847,
+    "end": 91.987,
+    "score": 0.84
+  },
+  {
+    "word": "I",
+    "start": 92.027,
+    "end": 92.087,
+    "score": 0.665
+  },
+  {
+    "word": "suggested",
+    "start": 92.127,
+    "end": 92.607,
+    "score": 0.81
+  },
+  {
+    "word": "a",
+    "start": 92.668,
+    "end": 92.688,
+    "score": 1.0
+  },
+  {
+    "word": "solution.",
+    "start": 92.728,
+    "end": 93.108,
+    "score": 0.875
+  },
+  {
+    "word": "I",
+    "start": 93.66,
+    "end": 93.72,
+    "score": 0.756
+  },
+  {
+    "word": "said,",
+    "start": 93.78,
+    "end": 94.0,
+    "score": 0.833
+  },
+  {
+    "word": "let's",
+    "start": 94.3,
+    "end": 94.48,
+    "score": 0.905
+  },
+  {
+    "word": "make",
+    "start": 94.54,
+    "end": 94.681,
+    "score": 0.834
+  },
+  {
+    "word": "the",
+    "start": 94.701,
+    "end": 94.781,
+    "score": 0.831
+  },
+  {
+    "word": "modal",
+    "start": 94.801,
+    "end": 95.021,
+    "score": 0.815
+  },
+  {
+    "word": "configuration",
+    "start": 95.061,
+    "end": 95.681,
+    "score": 0.799
+  },
+  {
+    "word": "driven.",
+    "start": 95.721,
+    "end": 96.021,
+    "score": 0.856
+  },
+  {
+    "word": "We",
+    "start": 97.082,
+    "end": 97.182,
+    "score": 0.834
+  },
+  {
+    "word": "can",
+    "start": 97.222,
+    "end": 97.362,
+    "score": 0.911
+  },
+  {
+    "word": "use",
+    "start": 97.462,
+    "end": 97.582,
+    "score": 0.683
+  },
+  {
+    "word": "props",
+    "start": 97.662,
+    "end": 98.002,
+    "score": 0.841
+  },
+  {
+    "word": "to",
+    "start": 98.042,
+    "end": 98.102,
+    "score": 1.0
+  },
+  {
+    "word": "control",
+    "start": 98.162,
+    "end": 98.462,
+    "score": 0.729
+  },
+  {
+    "word": "the",
+    "start": 98.482,
+    "end": 98.562,
+    "score": 0.821
+  },
+  {
+    "word": "content,",
+    "start": 98.602,
+    "end": 99.063,
+    "score": 0.786
+  },
+  {
+    "word": "actions,",
+    "start": 99.343,
+    "end": 99.663,
+    "score": 0.911
+  },
+  {
+    "word": "and",
+    "start": 99.723,
+    "end": 99.823,
+    "score": 0.671
+  },
+  {
+    "word": "buttons.",
+    "start": 99.843,
+    "end": 100.203,
+    "score": 0.774
+  },
+  {
+    "word": "That",
+    "start": 100.703,
+    "end": 100.864,
+    "score": 0.826
+  },
+  {
+    "word": "way,",
+    "start": 100.904,
+    "end": 101.104,
+    "score": 0.676
+  },
+  {
+    "word": "no",
+    "start": 101.244,
+    "end": 101.364,
+    "score": 0.854
+  },
+  {
+    "word": "need",
+    "start": 101.404,
+    "end": 101.544,
+    "score": 0.936
+  },
+  {
+    "word": "to",
+    "start": 101.564,
+    "end": 101.624,
+    "score": 0.774
+  },
+  {
+    "word": "copy",
+    "start": 101.664,
+    "end": 101.904,
+    "score": 0.996
+  },
+  {
+    "word": "the",
+    "start": 101.924,
+    "end": 102.004,
+    "score": 0.833
+  },
+  {
+    "word": "whole",
+    "start": 102.024,
+    "end": 102.164,
+    "score": 0.897
+  },
+  {
+    "word": "component",
+    "start": 102.204,
+    "end": 102.604,
+    "score": 0.787
+  },
+  {
+    "word": "again.",
+    "start": 102.644,
+    "end": 102.865,
+    "score": 0.911
+  },
+  {
+    "word": "He",
+    "start": 103.365,
+    "end": 103.465,
+    "score": 0.7
+  },
+  {
+    "word": "liked",
+    "start": 103.505,
+    "end": 103.725,
+    "score": 0.801
+  },
+  {
+    "word": "the",
+    "start": 103.765,
+    "end": 103.865,
+    "score": 0.779
+  },
+  {
+    "word": "idea",
+    "start": 103.925,
+    "end": 104.225,
+    "score": 0.933
+  },
+  {
+    "word": "and",
+    "start": 104.425,
+    "end": 104.505,
+    "score": 0.838
+  },
+  {
+    "word": "we",
+    "start": 104.525,
+    "end": 104.645,
+    "score": 0.848
+  },
+  {
+    "word": "refactored",
+    "start": 104.705,
+    "end": 105.186,
+    "score": 0.922
+  },
+  {
+    "word": "it",
+    "start": 105.226,
+    "end": 105.286,
+    "score": 0.75
+  },
+  {
+    "word": "together.",
+    "start": 105.326,
+    "end": 105.666,
+    "score": 0.851
+  },
+  {
+    "word": "Then",
+    "start": 106.446,
+    "end": 106.586,
+    "score": 0.916
+  },
+  {
+    "word": "I",
+    "start": 106.606,
+    "end": 106.666,
+    "score": 0.509
+  },
+  {
+    "word": "suggested",
+    "start": 106.726,
+    "end": 107.187,
+    "score": 0.792
+  },
+  {
+    "word": "a",
+    "start": 107.227,
+    "end": 107.267,
+    "score": 0.502
+  },
+  {
+    "word": "solution.",
+    "start": 107.307,
+    "end": 107.747,
+    "score": 0.776
+  },
+  {
+    "word": "I",
+    "start": 108.547,
+    "end": 108.587,
+    "score": 0.913
+  },
+  {
+    "word": "said,",
+    "start": 108.627,
+    "end": 108.787,
+    "score": 0.76
+  },
+  {
+    "word": "let's",
+    "start": 108.807,
+    "end": 108.988,
+    "score": 0.9
+  },
+  {
+    "word": "make",
+    "start": 109.028,
+    "end": 109.168,
+    "score": 0.834
+  },
+  {
+    "word": "the",
+    "start": 109.188,
+    "end": 109.248,
+    "score": 0.997
+  },
+  {
+    "word": "modal",
+    "start": 109.288,
+    "end": 109.508,
+    "score": 0.928
+  },
+  {
+    "word": "configuration",
+    "start": 109.548,
+    "end": 110.148,
+    "score": 0.927
+  },
+  {
+    "word": "driven.",
+    "start": 110.188,
+    "end": 110.488,
+    "score": 0.898
+  },
+  {
+    "word": "We",
+    "start": 111.269,
+    "end": 111.369,
+    "score": 0.96
+  },
+  {
+    "word": "can",
+    "start": 111.389,
+    "end": 111.509,
+    "score": 1.0
+  },
+  {
+    "word": "use",
+    "start": 111.589,
+    "end": 111.689,
+    "score": 0.951
+  },
+  {
+    "word": "props",
+    "start": 111.769,
+    "end": 112.069,
+    "score": 0.929
+  },
+  {
+    "word": "to",
+    "start": 112.089,
+    "end": 112.169,
+    "score": 0.702
+  },
+  {
+    "word": "control",
+    "start": 112.209,
+    "end": 112.489,
+    "score": 0.867
+  },
+  {
+    "word": "the",
+    "start": 112.509,
+    "end": 112.569,
+    "score": 0.984
+  },
+  {
+    "word": "content,",
+    "start": 112.609,
+    "end": 113.05,
+    "score": 0.792
+  },
+  {
+    "word": "actions,",
+    "start": 113.35,
+    "end": 113.65,
+    "score": 0.797
+  },
+  {
+    "word": "and",
+    "start": 113.69,
+    "end": 113.77,
+    "score": 0.86
+  },
+  {
+    "word": "buttons.",
+    "start": 113.79,
+    "end": 114.13,
+    "score": 0.804
+  },
+  {
+    "word": "That",
+    "start": 114.81,
+    "end": 114.971,
+    "score": 0.858
+  },
+  {
+    "word": "way,",
+    "start": 115.011,
+    "end": 115.191,
+    "score": 0.775
+  },
+  {
+    "word": "no",
+    "start": 115.711,
+    "end": 115.851,
+    "score": 0.719
+  },
+  {
+    "word": "need",
+    "start": 115.891,
+    "end": 116.071,
+    "score": 0.905
+  },
+  {
+    "word": "to",
+    "start": 116.111,
+    "end": 116.191,
+    "score": 0.662
+  },
+  {
+    "word": "copy",
+    "start": 116.231,
+    "end": 116.531,
+    "score": 0.864
+  },
+  {
+    "word": "the",
+    "start": 116.551,
+    "end": 116.631,
+    "score": 0.832
+  },
+  {
+    "word": "whole",
+    "start": 116.651,
+    "end": 116.811,
+    "score": 0.705
+  },
+  {
+    "word": "component",
+    "start": 116.851,
+    "end": 117.292,
+    "score": 0.799
+  },
+  {
+    "word": "again.",
+    "start": 117.332,
+    "end": 117.612,
+    "score": 0.863
+  },
+  {
+    "word": "He",
+    "start": 118.352,
+    "end": 118.452,
+    "score": 0.922
+  },
+  {
+    "word": "liked",
+    "start": 118.512,
+    "end": 118.712,
+    "score": 0.918
+  },
+  {
+    "word": "the",
+    "start": 118.772,
+    "end": 118.852,
+    "score": 0.954
+  },
+  {
+    "word": "idea",
+    "start": 118.912,
+    "end": 119.233,
+    "score": 0.76
+  },
+  {
+    "word": "and",
+    "start": 119.353,
+    "end": 119.433,
+    "score": 0.918
+  },
+  {
+    "word": "we",
+    "start": 119.453,
+    "end": 119.573,
+    "score": 0.831
+  },
+  {
+    "word": "refactored",
+    "start": 119.613,
+    "end": 120.113,
+    "score": 0.893
+  },
+  {
+    "word": "it",
+    "start": 120.153,
+    "end": 120.213,
+    "score": 0.75
+  },
+  {
+    "word": "together.",
+    "start": 120.253,
+    "end": 120.593,
+    "score": 0.858
+  },
+  {
+    "word": "Five.",
+    "start": 121.194,
+    "end": 121.434,
+    "score": 0.98
+  },
+  {
+    "word": "That",
+    "start": 123.219,
+    "end": 123.379,
+    "score": 0.802
+  },
+  {
+    "word": "conflict",
+    "start": 123.419,
+    "end": 123.799,
+    "score": 0.805
+  },
+  {
+    "word": "with",
+    "start": 123.819,
+    "end": 123.919,
+    "score": 0.876
+  },
+  {
+    "word": "my",
+    "start": 123.959,
+    "end": 124.039,
+    "score": 0.902
+  },
+  {
+    "word": "teammate",
+    "start": 124.079,
+    "end": 124.379,
+    "score": 0.822
+  },
+  {
+    "word": "made",
+    "start": 124.399,
+    "end": 124.54,
+    "score": 0.862
+  },
+  {
+    "word": "me",
+    "start": 124.56,
+    "end": 124.64,
+    "score": 0.867
+  },
+  {
+    "word": "realize",
+    "start": 124.68,
+    "end": 125.1,
+    "score": 0.786
+  },
+  {
+    "word": "we",
+    "start": 125.44,
+    "end": 125.52,
+    "score": 0.998
+  },
+  {
+    "word": "needed",
+    "start": 125.56,
+    "end": 125.76,
+    "score": 0.83
+  },
+  {
+    "word": "unit",
+    "start": 125.84,
+    "end": 126.001,
+    "score": 0.871
+  },
+  {
+    "word": "tests",
+    "start": 126.021,
+    "end": 126.221,
+    "score": 0.852
+  },
+  {
+    "word": "to",
+    "start": 126.261,
+    "end": 126.341,
+    "score": 0.986
+  },
+  {
+    "word": "avoid",
+    "start": 126.381,
+    "end": 126.621,
+    "score": 0.921
+  },
+  {
+    "word": "bugs",
+    "start": 126.661,
+    "end": 126.981,
+    "score": 0.824
+  },
+  {
+    "word": "when",
+    "start": 127.021,
+    "end": 127.141,
+    "score": 0.998
+  },
+  {
+    "word": "updating",
+    "start": 127.201,
+    "end": 127.522,
+    "score": 0.916
+  },
+  {
+    "word": "it",
+    "start": 127.562,
+    "end": 127.622,
+    "score": 0.75
+  },
+  {
+    "word": "later.",
+    "start": 127.642,
+    "end": 127.902,
+    "score": 0.832
+  },
+  {
+    "word": "So",
+    "start": 128.442,
+    "end": 128.562,
+    "score": 0.927
+  },
+  {
+    "word": "I",
+    "start": 128.642,
+    "end": 128.722,
+    "score": 0.51
+  },
+  {
+    "word": "add",
+    "start": 128.823,
+    "end": 128.963,
+    "score": 0.838
+  },
+  {
+    "word": "the",
+    "start": 129.003,
+    "end": 129.083,
+    "score": 0.932
+  },
+  {
+    "word": "full",
+    "start": 129.123,
+    "end": 129.323,
+    "score": 0.999
+  },
+  {
+    "word": "test",
+    "start": 129.363,
+    "end": 129.623,
+    "score": 0.713
+  },
+  {
+    "word": "coverage.",
+    "start": 129.663,
+    "end": 130.043,
+    "score": 0.868
+  },
+  {
+    "word": "Now,",
+    "start": 130.844,
+    "end": 131.064,
+    "score": 0.879
+  },
+  {
+    "word": "whenever",
+    "start": 131.564,
+    "end": 131.885,
+    "score": 0.903
+  },
+  {
+    "word": "we",
+    "start": 131.945,
+    "end": 132.065,
+    "score": 0.89
+  },
+  {
+    "word": "change",
+    "start": 132.085,
+    "end": 132.365,
+    "score": 0.817
+  },
+  {
+    "word": "the",
+    "start": 132.385,
+    "end": 132.465,
+    "score": 0.856
+  },
+  {
+    "word": "modal,",
+    "start": 132.485,
+    "end": 132.785,
+    "score": 0.638
+  },
+  {
+    "word": "we",
+    "start": 133.046,
+    "end": 133.166,
+    "score": 0.985
+  },
+  {
+    "word": "just",
+    "start": 133.206,
+    "end": 133.406,
+    "score": 0.641
+  },
+  {
+    "word": "run",
+    "start": 133.486,
+    "end": 133.626,
+    "score": 0.893
+  },
+  {
+    "word": "the",
+    "start": 133.666,
+    "end": 133.726,
+    "score": 0.999
+  },
+  {
+    "word": "test",
+    "start": 133.766,
+    "end": 134.046,
+    "score": 0.87
+  },
+  {
+    "word": "to",
+    "start": 134.106,
+    "end": 134.206,
+    "score": 0.824
+  },
+  {
+    "word": "make",
+    "start": 134.246,
+    "end": 134.386,
+    "score": 0.91
+  },
+  {
+    "word": "sure",
+    "start": 134.427,
+    "end": 134.587,
+    "score": 0.729
+  },
+  {
+    "word": "everything",
+    "start": 134.647,
+    "end": 135.027,
+    "score": 0.852
+  },
+  {
+    "word": "still",
+    "start": 135.067,
+    "end": 135.287,
+    "score": 0.823
+  },
+  {
+    "word": "works.",
+    "start": 135.327,
+    "end": 135.647,
+    "score": 0.817
+  },
+  {
+    "word": "It",
+    "start": 136.868,
+    "end": 136.928,
+    "score": 0.881
+  },
+  {
+    "word": "helps",
+    "start": 136.968,
+    "end": 137.188,
+    "score": 0.83
+  },
+  {
+    "word": "prevent",
+    "start": 137.248,
+    "end": 137.489,
+    "score": 0.906
+  },
+  {
+    "word": "regressions.",
+    "start": 137.509,
+    "end": 138.009,
+    "score": 0.794
+  },
+  {
+    "word": "Looking",
+    "start": 138.85,
+    "end": 139.13,
+    "score": 0.848
+  },
+  {
+    "word": "back,",
+    "start": 139.17,
+    "end": 139.39,
+    "score": 0.91
+  },
+  {
+    "word": "I",
+    "start": 139.85,
+    "end": 139.91,
+    "score": 0.644
+  },
+  {
+    "word": "think",
+    "start": 139.95,
+    "end": 140.131,
+    "score": 0.799
+  },
+  {
+    "word": "the",
+    "start": 140.171,
+    "end": 140.251,
+    "score": 0.956
+  },
+  {
+    "word": "conflict",
+    "start": 140.291,
+    "end": 140.731,
+    "score": 0.842
+  },
+  {
+    "word": "wasn't",
+    "start": 140.791,
+    "end": 141.031,
+    "score": 0.879
+  },
+  {
+    "word": "a",
+    "start": 141.051,
+    "end": 141.071,
+    "score": 0.998
+  },
+  {
+    "word": "bad",
+    "start": 141.111,
+    "end": 141.311,
+    "score": 0.89
+  },
+  {
+    "word": "thing.",
+    "start": 141.351,
+    "end": 141.552,
+    "score": 0.875
+  },
+  {
+    "word": "It",
+    "start": 141.872,
+    "end": 141.952,
+    "score": 0.506
+  },
+  {
+    "word": "pushed",
+    "start": 142.032,
+    "end": 142.272,
+    "score": 0.953
+  },
+  {
+    "word": "us",
+    "start": 142.332,
+    "end": 142.432,
+    "score": 0.75
+  },
+  {
+    "word": "to",
+    "start": 142.472,
+    "end": 142.552,
+    "score": 0.832
+  },
+  {
+    "word": "do",
+    "start": 142.592,
+    "end": 142.692,
+    "score": 0.838
+  },
+  {
+    "word": "better.",
+    "start": 142.712,
+    "end": 142.932,
+    "score": 0.867
+  },
+  {
+    "word": "That",
+    "start": 143.973,
+    "end": 144.133,
+    "score": 0.676
+  },
+  {
+    "word": "conflict",
+    "start": 144.193,
+    "end": 144.694,
+    "score": 0.868
+  },
+  {
+    "word": "with",
+    "start": 144.734,
+    "end": 144.854,
+    "score": 0.751
+  },
+  {
+    "word": "my",
+    "start": 144.894,
+    "end": 144.994,
+    "score": 0.903
+  },
+  {
+    "word": "teammate",
+    "start": 145.054,
+    "end": 145.454,
+    "score": 0.734
+  },
+  {
+    "word": "made",
+    "start": 145.654,
+    "end": 145.795,
+    "score": 0.849
+  },
+  {
+    "word": "me",
+    "start": 145.835,
+    "end": 145.935,
+    "score": 0.831
+  },
+  {
+    "word": "realize",
+    "start": 145.975,
+    "end": 146.415,
+    "score": 0.771
+  },
+  {
+    "word": "we",
+    "start": 147.075,
+    "end": 147.175,
+    "score": 0.832
+  },
+  {
+    "word": "needed",
+    "start": 147.216,
+    "end": 147.456,
+    "score": 0.837
+  },
+  {
+    "word": "unit",
+    "start": 147.576,
+    "end": 147.736,
+    "score": 0.845
+  },
+  {
+    "word": "tests",
+    "start": 147.776,
+    "end": 148.016,
+    "score": 0.734
+  },
+  {
+    "word": "to",
+    "start": 148.056,
+    "end": 148.136,
+    "score": 0.999
+  },
+  {
+    "word": "avoid",
+    "start": 148.196,
+    "end": 148.476,
+    "score": 0.829
+  },
+  {
+    "word": "bugs",
+    "start": 148.516,
+    "end": 148.777,
+    "score": 0.822
+  },
+  {
+    "word": "when",
+    "start": 148.817,
+    "end": 148.937,
+    "score": 0.999
+  },
+  {
+    "word": "updating",
+    "start": 148.997,
+    "end": 149.357,
+    "score": 0.843
+  },
+  {
+    "word": "it",
+    "start": 149.397,
+    "end": 149.457,
+    "score": 0.75
+  },
+  {
+    "word": "later.",
+    "start": 149.477,
+    "end": 149.737,
+    "score": 0.737
+  },
+  {
+    "word": "So",
+    "start": 150.478,
+    "end": 150.578,
+    "score": 0.84
+  },
+  {
+    "word": "I",
+    "start": 150.618,
+    "end": 150.698,
+    "score": 0.653
+  },
+  {
+    "word": "add",
+    "start": 150.758,
+    "end": 150.898,
+    "score": 0.947
+  },
+  {
+    "word": "the",
+    "start": 150.918,
+    "end": 151.018,
+    "score": 0.68
+  },
+  {
+    "word": "full",
+    "start": 151.038,
+    "end": 151.238,
+    "score": 0.985
+  },
+  {
+    "word": "test",
+    "start": 151.278,
+    "end": 151.499,
+    "score": 0.844
+  },
+  {
+    "word": "coverage.",
+    "start": 151.539,
+    "end": 151.879,
+    "score": 0.917
+  },
+  {
+    "word": "Now,",
+    "start": 153.752,
+    "end": 153.912,
+    "score": 0.764
+  },
+  {
+    "word": "whenever",
+    "start": 153.972,
+    "end": 154.252,
+    "score": 0.932
+  },
+  {
+    "word": "we",
+    "start": 154.312,
+    "end": 154.412,
+    "score": 0.996
+  },
+  {
+    "word": "change",
+    "start": 154.452,
+    "end": 154.733,
+    "score": 0.808
+  },
+  {
+    "word": "the",
+    "start": 154.753,
+    "end": 154.853,
+    "score": 0.671
+  },
+  {
+    "word": "modal,",
+    "start": 154.873,
+    "end": 155.193,
+    "score": 0.66
+  },
+  {
+    "word": "we",
+    "start": 155.673,
+    "end": 155.793,
+    "score": 0.968
+  },
+  {
+    "word": "just",
+    "start": 155.813,
+    "end": 155.973,
+    "score": 0.759
+  },
+  {
+    "word": "run",
+    "start": 156.054,
+    "end": 156.234,
+    "score": 0.792
+  },
+  {
+    "word": "the",
+    "start": 156.254,
+    "end": 156.334,
+    "score": 0.96
+  },
+  {
+    "word": "test",
+    "start": 156.374,
+    "end": 156.654,
+    "score": 0.798
+  },
+  {
+    "word": "to",
+    "start": 156.714,
+    "end": 156.794,
+    "score": 0.754
+  },
+  {
+    "word": "make",
+    "start": 156.834,
+    "end": 156.954,
+    "score": 0.948
+  },
+  {
+    "word": "sure",
+    "start": 156.994,
+    "end": 157.154,
+    "score": 0.752
+  },
+  {
+    "word": "everything",
+    "start": 157.214,
+    "end": 157.574,
+    "score": 0.882
+  },
+  {
+    "word": "still",
+    "start": 157.615,
+    "end": 157.835,
+    "score": 0.81
+  },
+  {
+    "word": "works.",
+    "start": 157.895,
+    "end": 158.195,
+    "score": 0.919
+  },
+  {
+    "word": "It",
+    "start": 159.115,
+    "end": 159.176,
+    "score": 0.82
+  },
+  {
+    "word": "helps",
+    "start": 159.216,
+    "end": 159.416,
+    "score": 0.814
+  },
+  {
+    "word": "prevent",
+    "start": 159.456,
+    "end": 159.696,
+    "score": 0.915
+  },
+  {
+    "word": "regressions.",
+    "start": 159.736,
+    "end": 160.256,
+    "score": 0.743
+  },
+  {
+    "word": "Looking",
+    "start": 161.017,
+    "end": 161.277,
+    "score": 0.858
+  },
+  {
+    "word": "back,",
+    "start": 161.317,
+    "end": 161.537,
+    "score": 0.988
+  },
+  {
+    "word": "I",
+    "start": 161.657,
+    "end": 161.717,
+    "score": 0.71
+  },
+  {
+    "word": "think",
+    "start": 161.757,
+    "end": 161.917,
+    "score": 0.898
+  },
+  {
+    "word": "the",
+    "start": 161.977,
+    "end": 162.057,
+    "score": 0.918
+  },
+  {
+    "word": "conflict",
+    "start": 162.097,
+    "end": 162.478,
+    "score": 0.946
+  },
+  {
+    "word": "wasn't",
+    "start": 162.518,
+    "end": 162.718,
+    "score": 0.983
+  },
+  {
+    "word": "a",
+    "start": 162.738,
+    "end": 162.758,
+    "score": 0.995
+  },
+  {
+    "word": "bad",
+    "start": 162.798,
+    "end": 162.978,
+    "score": 0.994
+  },
+  {
+    "word": "thing.",
+    "start": 163.018,
+    "end": 163.238,
+    "score": 0.674
+  },
+  {
+    "word": "It",
+    "start": 163.518,
+    "end": 163.578,
+    "score": 0.887
+  },
+  {
+    "word": "pushed",
+    "start": 163.618,
+    "end": 163.839,
+    "score": 0.909
+  },
+  {
+    "word": "us",
+    "start": 163.899,
+    "end": 163.959,
+    "score": 0.853
+  },
+  {
+    "word": "to",
+    "start": 163.999,
+    "end": 164.079,
+    "score": 0.702
+  },
+  {
+    "word": "do",
+    "start": 164.099,
+    "end": 164.199,
+    "score": 0.882
+  },
+  {
+    "word": "better.",
+    "start": 164.239,
+    "end": 164.439,
+    "score": 1.0
+  }
+]

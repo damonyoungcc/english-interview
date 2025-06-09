@@ -35,9 +35,9 @@
       "word_corrected_json": "01.corrected.word.json"
     },
     "02": {
-      "audio_file": "02.m4a",
+      "audio_file": "2.m4a",
       "path": "data/real-interview/02",
-      "word_corrected_json": "02.corrected.word.json"
+      "word_corrected_json": "2.corrected.word.json"
     }
   }
 }
