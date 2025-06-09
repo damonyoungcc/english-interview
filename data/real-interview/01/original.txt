@@ -1,73 +1,57 @@
 1. 描述背景，存在的问题
-当我在上家公司的时候，我开发了一个公用的后台管理系统模板
-在那时，公司的每个部门都独自开发他们的后台管理系统，没有一个统一的标准
-结果，就造成用户体验不统一
 When I was at my previous company, I led the effort to build a shared internal admin system template.
 At the time, each team in the company was building their own internal admin systems separately without a shared standard.
-As a result, the user experience was really inconsistent.
-The ops team often pointed out that the inconsistent interaction patterns across systems
-and slowed them down a lot.
-I gradually realized there were more and more issues in our daily collaboration.
+As a result, the user experience was inconsistent and confusing.
+The ops team often pointed out that the inconsistent interaction patterns across systems.
 
 When I was at my previous company, I led the effort to build a shared internal admin system template.
 At the time, each team in the company was building their own internal admin systems separately without a shared standard.
-As a result, the user experience was really inconsistent.
-The ops team often pointed out that the inconsistent interaction patterns across systems and slowed them down a lot.
-I gradually realized there were more and more issues in our daily collaboration.
+As a result, the user experience was inconsistent and confusing.
+The ops team often pointed out that the inconsistent interaction patterns across systems.
 
 2. 发现问题，调研需求
-一开始，我花时间去了解每个人的痛点
-然后我和运营和产品以及开发的同事聊天，发现他们有相同的抱怨
-比如导航混乱，表格交互不统一，设置权限很痛苦
-最后我试图找出大家真正共同的需求
 First, I took the time to understand everyone’s pain points.
-and Then I talked to people from ops, product, and dev teams, and found that a lot of them had the same complaints —
-like the navigation was confusing, tables worked differently in each system, and setting permissions was a pain.
-In the end I tried to find what everyone really needed in common.
+and Then I talked to people from ops, product, and found many of them had the same complaints —
+like the navigation was confusing, tables worked differently in each system.
+In the end I tried to find out what everyone really needed in common.
 
 First, I took the time to understand everyone’s pain points.
-and Then I talked to people from ops, product, and dev teams, and found that a lot of them had the same complaints —
-like the navigation was confusing, tables worked differently in each system, and setting permissions was a pain.
-In the end I tried to find what everyone really needed in common.
+and Then I talked to people from ops, product, and found many of them had the same complaints —
+like the navigation was confusing, tables worked differently in each system.
+In the end I tried to find out what everyone really needed in common.
 
 3. 开发系统，明确目标
-然后我就设计开发了一个后台管理系统模板
-目标很简单
-一是让
 Then I led the design and development of a shared internal admin system template.
 The goal was simple:
-One is make it easy for new projects to use with Just one click and can immediately focus on business development,
-and two is help old ones upgrade with minimal effort.
+For new project, I built a front-end template that works out of the box.
+make it easy to use with just one click and immediately focus on business development,
+For old project, I wrapped components like layout and table based on Ant Design and
+I published them in the internal npm.
+So old projects can install these packages gradually to update their UI.
+After a few updates, we were able to unify the user experience across all systems.
 
 Then I led the design and development of a shared internal admin system template.
 The goal was simple:
-One is make it easy for new projects to use with Just one click and can immediately focus on business development,
-and two is help old ones upgrade with minimal effort.
-
+For new project, I built a front-end template that works out of the box.
+make it easy to use with just one click and immediately focus on business development,
+For old project, I wrapped components like layout and table based on Ant Design and
+I published them in the internal npm.
+So old projects can install these packages gradually to update their UI.
+After a few updates, we were able to unify the user experience across all systems.
 
 4. 解决问题，需求配合
-还有一件事我要说一下，一开始有些团队并不太愿意迁移
-他们有他们自己的优先级和定制需求
-我创建了一个demo，写了一个文档，提供了迁移指南
-我试图让这个过程变得越来越简单
-最后，真的没有理由不配合了。
 One thing I will say though, is that some teams weren’t that willing to migrate at first.
-They had their own priorities and custom setups.
-I created a demo, wrote documentation, and provided a migration guide
-I try to make the process as easy as possible
+They had their own priorities.
+I created a migration guide, try to make the process as easy as possible
 so in the end, there was really no excuse not to cooperate.
 
 One thing I will say though, is that some teams weren’t that willing to migrate at first.
-They had their own priorities and custom setups.
-I created a demo, wrote documentation, and provided a migration guide
-I try to make the process as easy as possible
+They had their own priorities.
+I created a migration guide, try to make the process as easy as possible
 so in the end, there was really no excuse not to cooperate.
 
 6. 你是如何跨部门沟通的，你是如何和利益相关者沟通
-首先，我应该先了解我在和谁沟通
-如果是产品经理，就专注于业务影响
-如果是程序员，就详细清楚的解释技术
-用他们听的懂的话进行沟通
+第一是搞清楚沟通对象
 First thing, I should try to understand who I’m talking to.
 If it’s a product manager, I focus on business impact.
 If it’s an engineer, I explain technical details clearly.
@@ -78,8 +62,7 @@ If it’s a product manager, I focus on business impact.
 If it’s an engineer, I explain technical details clearly.
 I try to speak in their language.
 
-第二是站在他们的角度思考，询问他们的痛点，以及他们最关心的问题
-这可以帮我我调整我的表达更贴合
+第二是站在他们的角度思考
 The second I also try to see things from their side.
 I ask what’s their pain point, or what they care about the most.
 That helps me adjust my message to make it more relevant.
@@ -89,8 +72,6 @@ I ask what’s their pain point, or what they care about the most.
 That helps me adjust my message to make it more relevant.
 
 第三是让事情简单和清晰
-比如我推广一个新的后台管理系统，我知道有些团队有他们的优先级，所以我创建一个demo，写文档，提供迁清晰的教程
-跟他们展示过程的简单，可以帮我更好的接受变化。
 The third is make things easy and clear.
 For example, When I was promoting the new admin system template,
 I knew some teams had thier priorities.
@@ -104,17 +85,3 @@ I knew some teams had thier priorities.
 So I create a demo, wrote docs, and provided a clearly guide.
 show them the process was easy.
 That can helped them accept the changes more easily.
-
-5. 功能介绍，具体描述一下你这个后台管理系统的模板
-
-This project provides two things.
-First, a demo with a login page, routing setup, layout, and best practices for tables and forms.
-Second, I wrapped components like layout and form based on Ant Design and published them to our internal npm.
-So old projects can install these packages step by step to update their UI.
-After a few updates, we were able to unify the user experience across all internal admin systems.
-
-This project provides two things.
-First, a demo with a login page, routing setup, layout, and best practices for tables and forms.
-Second, I wrapped components like layout and form based on Ant Design and published them to our internal npm.
-So old projects can install these packages step by step to update their UI.
-After a few updates, we were able to unify the user experience across all internal admin systems.
