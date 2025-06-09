@@ -2,14 +2,12 @@
 One time, my teammate and I were building a new feature.
 We had a shared modal component.
 But to fit his own page, he just copied it and made some custom changes.
-It saved time at first, but create the duplicated code.
-I think this wasn’t a long-term solution.
+I think create the duplicated code wasn’t a long-term solution.
 
 One time, my teammate and I were building a new feature.
 We had a shared modal component.
 But to fit his own page, he just copied it and made some custom changes.
-It saved time at first, but create the duplicated code.
-I think this wasn’t a long-term solution.
+I think create the duplicated code wasn’t a long-term solution.
 
 2. 识别出风险和问题
 I realized if the business changed later, we have to update every copy.
@@ -33,26 +31,26 @@ That helped him understand the problem better.
 
 4. 提出解决方案
 Then I suggested a solution.
-I said, let’s make the modal configuration-driven.
+I said, let’s make the modal component configuration-driven.
 We can use props to control the content, actions, and buttons.
 That way, no need to copy the whole component again.
 He liked the idea,In the end we refactored it together.
 
 Then I suggested a solution.
-I said, let’s make the modal configuration-driven.
+I said, let’s make the modal component configuration-driven.
 We can use props to control the content, actions, and buttons.
 That way, no need to copy the whole component again.
 He liked the idea,In the end we refactored it together.
 
 5. 总结思考
-That conflict with my teammate made me realize—we needed unit test to avoid bugs when updating it later.
+That conflict with my teammate also made me realize—we needed unit test to avoid bugs.
 So I add the full test coverage.
-Now, whenever we change the modal, we just run the test to make sure everything still works.
+Now, whenever we change the component, we just run the test to make sure everything still works.
 It helps prevent regressions.
 Looking back, I think the conflict wasn’t a bad thing—it pushed us to do better.
 
-That conflict with my teammate made me realize—we needed unit test to avoid bugs when updating it later.
+That conflict with my teammate also made me realize—we needed unit test to avoid bugs.
 So I add the full test coverage.
-Now, whenever we change the modal, we just run the test to make sure everything still works.
+Now, whenever we change the component, we just run the test to make sure everything still works.
 It helps prevent regressions.
 Looking back, I think the conflict wasn’t a bad thing—it pushed us to do better.
