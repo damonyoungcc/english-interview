@@ -1,5 +1,15 @@
 {
   "01-week": {
+    "d013": {
+      "audio_file": "13.m4a",
+      "path": "data/01-week/d013",
+      "word_corrected_json": "13.corrected.word.json"
+    },
+    "d027": {
+      "audio_file": "27.m4a",
+      "path": "data/01-week/d027",
+      "word_corrected_json": "27.corrected.word.json"
+    },
     "d07": {
       "audio_file": "007.m4a",
       "path": "data/01-week/d07",

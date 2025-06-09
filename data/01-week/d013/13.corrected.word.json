@@ -1,0 +1,1738 @@
+[
+  {
+    "start": 4.745,
+    "end": 4.755,
+    "word": "We"
+  },
+  {
+    "word": " ",
+    "start": 4.755,
+    "end": 4.755
+  },
+  {
+    "start": 4.755,
+    "end": 4.755,
+    "word": "made"
+  },
+  {
+    "word": " ",
+    "start": 4.755,
+    "end": 4.755
+  },
+  {
+    "start": 4.755,
+    "end": 4.755,
+    "word": "it"
+  },
+  {
+    "word": "!",
+    "start": 4.755,
+    "end": 4.755
+  },
+  {
+    "word": " ",
+    "start": 4.755,
+    "end": 4.755
+  },
+  {
+    "start": 4.755,
+    "end": 4.755,
+    "word": "We're"
+  },
+  {
+    "word": " ",
+    "start": 4.755,
+    "end": 4.755
+  },
+  {
+    "start": 4.755,
+    "end": 4.755,
+    "word": "here"
+  },
+  {
+    "word": "!",
+    "start": 4.755,
+    "end": 4.755
+  },
+  {
+    "word": " ",
+    "start": 4.755,
+    "end": 4.755
+  },
+  {
+    "word": "So",
+    "start": 4.755,
+    "end": 4.895,
+    "score": 0.754
+  },
+  {
+    "word": " ",
+    "start": 4.895,
+    "end": 4.915
+  },
+  {
+    "word": "we've",
+    "start": 4.915,
+    "end": 5.075,
+    "score": 0.885
+  },
+  {
+    "word": " ",
+    "start": 5.075,
+    "end": 5.115
+  },
+  {
+    "word": "made",
+    "start": 5.115,
+    "end": 5.255,
+    "score": 0.933
+  },
+  {
+    "word": " ",
+    "start": 5.255,
+    "end": 5.275
+  },
+  {
+    "word": "it",
+    "start": 5.275,
+    "end": 5.335,
+    "score": 0.742
+  },
+  {
+    "word": " ",
+    "start": 5.335,
+    "end": 5.355
+  },
+  {
+    "word": "to",
+    "start": 5.355,
+    "end": 5.455,
+    "score": 0.707
+  },
+  {
+    "word": " ",
+    "start": 5.455,
+    "end": 5.495
+  },
+  {
+    "word": "our",
+    "start": 5.495,
+    "end": 5.595,
+    "score": 0.814
+  },
+  {
+    "word": " ",
+    "start": 5.595,
+    "end": 5.615
+  },
+  {
+    "word": "bed",
+    "start": 5.615,
+    "end": 5.776,
+    "score": 0.931
+  },
+  {
+    "word": " ",
+    "start": 5.776,
+    "end": 5.816
+  },
+  {
+    "word": "and",
+    "start": 5.816,
+    "end": 5.896,
+    "score": 0.498
+  },
+  {
+    "word": " ",
+    "start": 5.896,
+    "end": 5.936
+  },
+  {
+    "word": "breakfast",
+    "start": 5.936,
+    "end": 6.436,
+    "score": 0.779
+  },
+  {
+    "word": ",",
+    "start": 6.436,
+    "end": 6.676
+  },
+  {
+    "word": " ",
+    "start": 6.676,
+    "end": 6.676
+  },
+  {
+    "word": "and",
+    "start": 6.676,
+    "end": 6.796,
+    "score": 0.871
+  },
+  {
+    "word": " ",
+    "start": 6.796,
+    "end": 6.856
+  },
+  {
+    "word": "the",
+    "start": 6.856,
+    "end": 6.936,
+    "score": 0.821
+  },
+  {
+    "word": " ",
+    "start": 6.936,
+    "end": 6.976
+  },
+  {
+    "word": "walls",
+    "start": 6.976,
+    "end": 7.196,
+    "score": 0.876
+  },
+  {
+    "word": " ",
+    "start": 7.196,
+    "end": 7.256
+  },
+  {
+    "word": "are",
+    "start": 7.256,
+    "end": 7.336,
+    "score": 0.857
+  },
+  {
+    "word": " ",
+    "start": 7.336,
+    "end": 7.376
+  },
+  {
+    "word": "really",
+    "start": 7.376,
+    "end": 7.616,
+    "score": 0.752
+  },
+  {
+    "word": " ",
+    "start": 7.616,
+    "end": 7.676
+  },
+  {
+    "word": "thin",
+    "start": 7.676,
+    "end": 8.017,
+    "score": 0.961
+  },
+  {
+    "word": ",",
+    "start": 8.017,
+    "end": 8.117
+  },
+  {
+    "word": " ",
+    "start": 8.117,
+    "end": 8.117
+  },
+  {
+    "word": "so",
+    "start": 8.117,
+    "end": 8.377,
+    "score": 0.97
+  },
+  {
+    "word": " ",
+    "start": 8.377,
+    "end": 8.537
+  },
+  {
+    "word": "excuse",
+    "start": 8.537,
+    "end": 9.017,
+    "score": 0.784
+  },
+  {
+    "word": " ",
+    "start": 9.017,
+    "end": 9.057
+  },
+  {
+    "word": "me",
+    "start": 9.057,
+    "end": 9.177,
+    "score": 0.954
+  },
+  {
+    "word": " ",
+    "start": 9.177,
+    "end": 9.317
+  },
+  {
+    "word": "for",
+    "start": 9.317,
+    "end": 9.597,
+    "score": 0.786
+  },
+  {
+    "word": " ",
+    "start": 9.597,
+    "end": 9.697
+  },
+  {
+    "word": "talking",
+    "start": 9.697,
+    "end": 10.118,
+    "score": 0.943
+  },
+  {
+    "word": " ",
+    "start": 10.118,
+    "end": 10.158
+  },
+  {
+    "word": "quietly",
+    "start": 10.158,
+    "end": 10.738,
+    "score": 0.744
+  },
+  {
+    "word": ".",
+    "start": 10.738,
+    "end": 11.178
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "But",
+    "start": 11.178,
+    "end": 11.378,
+    "score": 0.943
+  },
+  {
+    "word": " ",
+    "start": 11.378,
+    "end": 11.498
+  },
+  {
+    "word": "I'm",
+    "start": 11.498,
+    "end": 11.638,
+    "score": 0.739
+  },
+  {
+    "word": " ",
+    "start": 11.638,
+    "end": 11.698
+  },
+  {
+    "word": "happy",
+    "start": 11.698,
+    "end": 11.938,
+    "score": 0.906
+  },
+  {
+    "word": " ",
+    "start": 11.938,
+    "end": 11.978
+  },
+  {
+    "word": "to",
+    "start": 11.978,
+    "end": 12.038,
+    "score": 0.78
+  },
+  {
+    "word": " ",
+    "start": 12.038,
+    "end": 12.098
+  },
+  {
+    "word": "report",
+    "start": 12.098,
+    "end": 12.479,
+    "score": 0.849
+  },
+  {
+    "word": " ",
+    "start": 12.479,
+    "end": 12.539
+  },
+  {
+    "word": "that",
+    "start": 12.539,
+    "end": 12.659,
+    "score": 0.862
+  },
+  {
+    "word": " ",
+    "start": 12.659,
+    "end": 12.719
+  },
+  {
+    "word": "we",
+    "start": 12.719,
+    "end": 12.859,
+    "score": 0.912
+  },
+  {
+    "word": " ",
+    "start": 12.859,
+    "end": 12.919
+  },
+  {
+    "word": "have",
+    "start": 12.919,
+    "end": 13.179,
+    "score": 0.84
+  },
+  {
+    "word": " ",
+    "start": 13.179,
+    "end": 13.239
+  },
+  {
+    "word": "two",
+    "start": 13.239,
+    "end": 13.359,
+    "score": 0.825
+  },
+  {
+    "word": " ",
+    "start": 13.359,
+    "end": 13.399
+  },
+  {
+    "word": "beds",
+    "start": 13.399,
+    "end": 13.679,
+    "score": 0.594
+  },
+  {
+    "word": ",",
+    "start": 13.679,
+    "end": 14.38
+  },
+  {
+    "word": " ",
+    "start": 14.38,
+    "end": 14.38
+  },
+  {
+    "word": "a",
+    "start": 14.38,
+    "end": 14.42,
+    "score": 0.988
+  },
+  {
+    "word": " ",
+    "start": 14.42,
+    "end": 14.48
+  },
+  {
+    "word": "bathroom",
+    "start": 14.48,
+    "end": 15.02,
+    "score": 0.792
+  },
+  {
+    "word": ",",
+    "start": 15.02,
+    "end": 15.62
+  },
+  {
+    "word": " ",
+    "start": 15.62,
+    "end": 15.62
+  },
+  {
+    "word": "a",
+    "start": 15.62,
+    "end": 15.68,
+    "score": 0.767
+  },
+  {
+    "word": " ",
+    "start": 15.68,
+    "end": 15.72
+  },
+  {
+    "word": "living",
+    "start": 15.72,
+    "end": 16.02,
+    "score": 0.922
+  },
+  {
+    "word": " ",
+    "start": 16.02,
+    "end": 16.12
+  },
+  {
+    "word": "area",
+    "start": 16.12,
+    "end": 16.42,
+    "score": 0.926
+  },
+  {
+    "word": ",",
+    "start": 16.42,
+    "end": 16.681
+  },
+  {
+    "word": " ",
+    "start": 16.681,
+    "end": 16.681
+  },
+  {
+    "word": "and",
+    "start": 16.681,
+    "end": 16.801,
+    "score": 0.824
+  },
+  {
+    "word": " ",
+    "start": 16.801,
+    "end": 16.861
+  },
+  {
+    "word": "a",
+    "start": 16.861,
+    "end": 16.921,
+    "score": 0.053
+  },
+  {
+    "word": " ",
+    "start": 16.921,
+    "end": 16.961
+  },
+  {
+    "word": "view",
+    "start": 16.961,
+    "end": 17.241,
+    "score": 0.516
+  },
+  {
+    "word": ",",
+    "start": 17.241,
+    "end": 19.262
+  },
+  {
+    "word": " ",
+    "start": 19.262,
+    "end": 19.262
+  },
+  {
+    "word": "kinda",
+    "start": 19.262,
+    "end": 19.342,
+    "score": 0.727
+  },
+  {
+    "word": ".",
+    "start": 19.342,
+    "end": 20.062
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "We",
+    "start": 20.062,
+    "end": 20.162,
+    "score": 0.898
+  },
+  {
+    "word": " ",
+    "start": 20.162,
+    "end": 20.202
+  },
+  {
+    "word": "got",
+    "start": 20.202,
+    "end": 20.322,
+    "score": 0.859
+  },
+  {
+    "word": " ",
+    "start": 20.322,
+    "end": 20.362
+  },
+  {
+    "word": "here",
+    "start": 20.362,
+    "end": 20.482,
+    "score": 0.776
+  },
+  {
+    "word": " ",
+    "start": 20.482,
+    "end": 20.542
+  },
+  {
+    "word": "way",
+    "start": 20.542,
+    "end": 20.682,
+    "score": 0.977
+  },
+  {
+    "word": " ",
+    "start": 20.682,
+    "end": 20.722
+  },
+  {
+    "word": "before",
+    "start": 20.722,
+    "end": 20.983,
+    "score": 0.85
+  },
+  {
+    "word": " ",
+    "start": 20.983,
+    "end": 21.043
+  },
+  {
+    "start": 21.043,
+    "end": 21.043,
+    "word": "check"
+  },
+  {
+    "word": "-",
+    "start": 21.043,
+    "end": 21.043
+  },
+  {
+    "word": "in",
+    "start": 21.043,
+    "end": 21.403,
+    "score": 0.862
+  },
+  {
+    "word": " ",
+    "start": 21.403,
+    "end": 21.443
+  },
+  {
+    "word": "time",
+    "start": 21.443,
+    "end": 21.803,
+    "score": 0.77
+  },
+  {
+    "word": ",",
+    "start": 21.803,
+    "end": 21.903
+  },
+  {
+    "word": " ",
+    "start": 21.903,
+    "end": 21.903
+  },
+  {
+    "word": "so",
+    "start": 21.903,
+    "end": 22.123,
+    "score": 0.95
+  },
+  {
+    "word": " ",
+    "start": 22.123,
+    "end": 22.183
+  },
+  {
+    "word": "we",
+    "start": 22.183,
+    "end": 22.263,
+    "score": 0.99
+  },
+  {
+    "word": " ",
+    "start": 22.263,
+    "end": 22.323
+  },
+  {
+    "word": "ended",
+    "start": 22.323,
+    "end": 22.503,
+    "score": 0.804
+  },
+  {
+    "word": " ",
+    "start": 22.503,
+    "end": 22.563
+  },
+  {
+    "word": "up",
+    "start": 22.563,
+    "end": 22.643,
+    "score": 0.838
+  },
+  {
+    "word": " ",
+    "start": 22.643,
+    "end": 22.723
+  },
+  {
+    "word": "walking",
+    "start": 22.723,
+    "end": 23.084,
+    "score": 0.921
+  },
+  {
+    "word": " ",
+    "start": 23.084,
+    "end": 23.144
+  },
+  {
+    "word": "around",
+    "start": 23.144,
+    "end": 23.524,
+    "score": 0.853
+  },
+  {
+    "word": " ",
+    "start": 23.524,
+    "end": 23.804
+  },
+  {
+    "word": "the",
+    "start": 23.804,
+    "end": 23.924,
+    "score": 0.88
+  },
+  {
+    "word": " ",
+    "start": 23.924,
+    "end": 23.984
+  },
+  {
+    "word": "entire",
+    "start": 23.984,
+    "end": 24.424,
+    "score": 0.713
+  },
+  {
+    "word": " ",
+    "start": 24.424,
+    "end": 24.604
+  },
+  {
+    "word": "Island",
+    "start": 24.604,
+    "end": 24.944,
+    "score": 0.893
+  },
+  {
+    "word": " ",
+    "start": 24.944,
+    "end": 25.565
+  },
+  {
+    "word": "and",
+    "start": 25.565,
+    "end": 25.725,
+    "score": 0.614
+  },
+  {
+    "word": " ",
+    "start": 25.725,
+    "end": 25.845
+  },
+  {
+    "word": "reading",
+    "start": 25.845,
+    "end": 26.165,
+    "score": 0.791
+  },
+  {
+    "word": " ",
+    "start": 26.165,
+    "end": 26.325
+  },
+  {
+    "word": "every",
+    "start": 26.325,
+    "end": 26.565,
+    "score": 0.745
+  },
+  {
+    "word": " ",
+    "start": 26.565,
+    "end": 26.625
+  },
+  {
+    "word": "historical",
+    "start": 26.625,
+    "end": 27.225,
+    "score": 0.856
+  },
+  {
+    "word": " ",
+    "start": 27.225,
+    "end": 27.306
+  },
+  {
+    "word": "sign",
+    "start": 27.306,
+    "end": 27.626,
+    "score": 0.664
+  },
+  {
+    "word": " ",
+    "start": 27.626,
+    "end": 27.686
+  },
+  {
+    "word": "that",
+    "start": 27.686,
+    "end": 27.826,
+    "score": 0.783
+  },
+  {
+    "word": " ",
+    "start": 27.826,
+    "end": 27.846
+  },
+  {
+    "word": "the",
+    "start": 27.846,
+    "end": 27.926,
+    "score": 0.979
+  },
+  {
+    "word": " ",
+    "start": 27.926,
+    "end": 27.966
+  },
+  {
+    "word": "town",
+    "start": 27.966,
+    "end": 28.246,
+    "score": 0.851
+  },
+  {
+    "word": " ",
+    "start": 28.246,
+    "end": 28.306
+  },
+  {
+    "word": "has",
+    "start": 28.306,
+    "end": 28.526,
+    "score": 0.942
+  },
+  {
+    "word": " ",
+    "start": 28.526,
+    "end": 28.586
+  },
+  {
+    "word": "to",
+    "start": 28.586,
+    "end": 28.686,
+    "score": 0.694
+  },
+  {
+    "word": " ",
+    "start": 28.686,
+    "end": 28.806
+  },
+  {
+    "word": "offer",
+    "start": 28.806,
+    "end": 29.046,
+    "score": 0.879
+  },
+  {
+    "word": ".",
+    "start": 29.046,
+    "end": 29.066
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "start": 29.066,
+    "end": 29.066,
+    "word": "Wow"
+  },
+  {
+    "word": ",",
+    "start": 29.066,
+    "end": 29.066
+  },
+  {
+    "word": " ",
+    "start": 29.066,
+    "end": 29.066
+  },
+  {
+    "start": 29.066,
+    "end": 29.066,
+    "word": "wow"
+  },
+  {
+    "word": " ",
+    "start": 29.066,
+    "end": 29.066
+  },
+  {
+    "word": "wow",
+    "start": 29.066,
+    "end": 29.747,
+    "score": 0.62
+  },
+  {
+    "word": "!",
+    "start": 29.747,
+    "end": 32.602
+  },
+  {
+    "word": " ",
+    "start": 32.602,
+    "end": 32.602
+  },
+  {
+    "word": "And",
+    "start": 32.602,
+    "end": 32.682,
+    "score": 0.958
+  },
+  {
+    "word": " ",
+    "start": 32.682,
+    "end": 32.722
+  },
+  {
+    "word": "then",
+    "start": 32.722,
+    "end": 32.842,
+    "score": 0.991
+  },
+  {
+    "word": " ",
+    "start": 32.842,
+    "end": 32.862
+  },
+  {
+    "word": "we",
+    "start": 32.862,
+    "end": 32.962,
+    "score": 0.88
+  },
+  {
+    "word": " ",
+    "start": 32.962,
+    "end": 32.982
+  },
+  {
+    "word": "went",
+    "start": 32.982,
+    "end": 33.122,
+    "score": 0.784
+  },
+  {
+    "word": " ",
+    "start": 33.122,
+    "end": 33.142
+  },
+  {
+    "word": "and",
+    "start": 33.142,
+    "end": 33.222,
+    "score": 0.478
+  },
+  {
+    "word": " ",
+    "start": 33.222,
+    "end": 33.242
+  },
+  {
+    "word": "saw",
+    "start": 33.242,
+    "end": 33.442,
+    "score": 0.827
+  },
+  {
+    "word": " ",
+    "start": 33.442,
+    "end": 33.462
+  },
+  {
+    "word": "the",
+    "start": 33.462,
+    "end": 33.542,
+    "score": 0.833
+  },
+  {
+    "word": " ",
+    "start": 33.542,
+    "end": 33.582
+  },
+  {
+    "word": "world's",
+    "start": 33.582,
+    "end": 33.903,
+    "score": 0.757
+  },
+  {
+    "word": " ",
+    "start": 33.903,
+    "end": 33.943
+  },
+  {
+    "word": "largest",
+    "start": 33.943,
+    "end": 34.283,
+    "score": 0.913
+  },
+  {
+    "word": " ",
+    "start": 34.283,
+    "end": 34.343
+  },
+  {
+    "word": "totem",
+    "start": 34.343,
+    "end": 34.683,
+    "score": 0.911
+  },
+  {
+    "word": " ",
+    "start": 34.683,
+    "end": 34.703
+  },
+  {
+    "word": "pole",
+    "start": 34.703,
+    "end": 35.003,
+    "score": 0.938
+  },
+  {
+    "word": ".",
+    "start": 35.003,
+    "end": 35.483
+  },
+  {
+    "word": " ",
+    "start": 35.483,
+    "end": 35.483
+  },
+  {
+    "word": "I",
+    "start": 35.483,
+    "end": 35.543,
+    "score": 0.991
+  },
+  {
+    "word": " ",
+    "start": 35.543,
+    "end": 35.724
+  },
+  {
+    "word": "am",
+    "start": 35.724,
+    "end": 35.824,
+    "score": 0.896
+  },
+  {
+    "word": " ",
+    "start": 35.824,
+    "end": 35.884
+  },
+  {
+    "word": "feeling",
+    "start": 35.884,
+    "end": 36.184,
+    "score": 0.823
+  },
+  {
+    "word": " ",
+    "start": 36.184,
+    "end": 36.224
+  },
+  {
+    "word": "really",
+    "start": 36.224,
+    "end": 36.464,
+    "score": 0.839
+  },
+  {
+    "word": " ",
+    "start": 36.464,
+    "end": 36.524
+  },
+  {
+    "word": "content",
+    "start": 36.524,
+    "end": 37.004,
+    "score": 0.894
+  },
+  {
+    "word": " ",
+    "start": 37.004,
+    "end": 37.124
+  },
+  {
+    "word": "that",
+    "start": 37.124,
+    "end": 37.284,
+    "score": 0.874
+  },
+  {
+    "word": " ",
+    "start": 37.284,
+    "end": 37.344
+  },
+  {
+    "word": "we've",
+    "start": 37.344,
+    "end": 37.585,
+    "score": 0.968
+  },
+  {
+    "word": " ",
+    "start": 37.585,
+    "end": 37.625
+  },
+  {
+    "word": "made",
+    "start": 37.625,
+    "end": 37.865,
+    "score": 0.816
+  },
+  {
+    "word": " ",
+    "start": 37.865,
+    "end": 37.925
+  },
+  {
+    "word": "it",
+    "start": 37.925,
+    "end": 37.965,
+    "score": 0.885
+  },
+  {
+    "word": " ",
+    "start": 37.965,
+    "end": 38.265
+  },
+  {
+    "word": "this",
+    "start": 38.265,
+    "end": 38.445,
+    "score": 0.83
+  },
+  {
+    "word": " ",
+    "start": 38.445,
+    "end": 38.525
+  },
+  {
+    "word": "far",
+    "start": 38.525,
+    "end": 38.825,
+    "score": 0.788
+  },
+  {
+    "word": " ",
+    "start": 38.825,
+    "end": 39.226
+  },
+  {
+    "word": "without",
+    "start": 39.226,
+    "end": 39.586,
+    "score": 0.903
+  },
+  {
+    "word": " ",
+    "start": 39.586,
+    "end": 39.646
+  },
+  {
+    "word": "our",
+    "start": 39.646,
+    "end": 39.766,
+    "score": 0.619
+  },
+  {
+    "word": " ",
+    "start": 39.766,
+    "end": 39.826
+  },
+  {
+    "word": "phones",
+    "start": 39.826,
+    "end": 40.266,
+    "score": 0.858
+  },
+  {
+    "word": ".",
+    "start": 40.266,
+    "end": 40.826
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "Really",
+    "start": 40.826,
+    "end": 41.087,
+    "score": 0.75
+  },
+  {
+    "word": " ",
+    "start": 41.087,
+    "end": 41.147
+  },
+  {
+    "word": "it's",
+    "start": 41.147,
+    "end": 41.267,
+    "score": 0.837
+  },
+  {
+    "word": " ",
+    "start": 41.267,
+    "end": 41.287
+  },
+  {
+    "word": "just",
+    "start": 41.287,
+    "end": 41.447,
+    "score": 0.933
+  },
+  {
+    "word": " ",
+    "start": 41.447,
+    "end": 41.487
+  },
+  {
+    "word": "been",
+    "start": 41.487,
+    "end": 41.647,
+    "score": 0.758
+  },
+  {
+    "word": " ",
+    "start": 41.647,
+    "end": 41.687
+  },
+  {
+    "word": "a",
+    "start": 41.687,
+    "end": 41.707,
+    "score": 0.994
+  },
+  {
+    "word": " ",
+    "start": 41.707,
+    "end": 41.747
+  },
+  {
+    "word": "lot",
+    "start": 41.747,
+    "end": 41.927,
+    "score": 0.901
+  },
+  {
+    "word": " ",
+    "start": 41.927,
+    "end": 41.947
+  },
+  {
+    "word": "of",
+    "start": 41.947,
+    "end": 42.027,
+    "score": 0.72
+  },
+  {
+    "word": " ",
+    "start": 42.027,
+    "end": 42.087
+  },
+  {
+    "word": "reading",
+    "start": 42.087,
+    "end": 42.387,
+    "score": 0.896
+  },
+  {
+    "word": " ",
+    "start": 42.387,
+    "end": 42.487
+  },
+  {
+    "word": "signs",
+    "start": 42.487,
+    "end": 42.888,
+    "score": 0.72
+  },
+  {
+    "word": " ",
+    "start": 42.888,
+    "end": 42.948
+  },
+  {
+    "word": "and",
+    "start": 42.948,
+    "end": 43.028,
+    "score": 0.711
+  },
+  {
+    "word": " ",
+    "start": 43.028,
+    "end": 43.068
+  },
+  {
+    "word": "pamphlets",
+    "start": 43.068,
+    "end": 43.628,
+    "score": 0.825
+  },
+  {
+    "word": " ",
+    "start": 43.628,
+    "end": 43.928
+  },
+  {
+    "word": "and",
+    "start": 43.928,
+    "end": 44.068,
+    "score": 0.612
+  },
+  {
+    "word": " ",
+    "start": 44.068,
+    "end": 44.268
+  },
+  {
+    "word": "asking",
+    "start": 44.268,
+    "end": 44.588,
+    "score": 0.846
+  },
+  {
+    "word": " ",
+    "start": 44.588,
+    "end": 44.608
+  },
+  {
+    "word": "people",
+    "start": 44.608,
+    "end": 44.869,
+    "score": 0.839
+  },
+  {
+    "word": " ",
+    "start": 44.869,
+    "end": 44.909
+  },
+  {
+    "word": "for",
+    "start": 44.909,
+    "end": 45.009,
+    "score": 0.979
+  },
+  {
+    "word": " ",
+    "start": 45.009,
+    "end": 45.049
+  },
+  {
+    "word": "directions",
+    "start": 45.049,
+    "end": 45.629,
+    "score": 0.801
+  },
+  {
+    "word": ",",
+    "start": 45.629,
+    "end": 46.289
+  },
+  {
+    "word": " ",
+    "start": 46.289,
+    "end": 46.289
+  },
+  {
+    "word": "and",
+    "start": 46.289,
+    "end": 46.449,
+    "score": 0.612
+  },
+  {
+    "word": " ",
+    "start": 46.449,
+    "end": 46.51
+  },
+  {
+    "word": "I",
+    "start": 46.51,
+    "end": 46.55,
+    "score": 0.563
+  },
+  {
+    "word": " ",
+    "start": 46.55,
+    "end": 46.59
+  },
+  {
+    "word": "feel",
+    "start": 46.59,
+    "end": 46.75,
+    "score": 0.95
+  },
+  {
+    "word": " ",
+    "start": 46.75,
+    "end": 46.79
+  },
+  {
+    "word": "really",
+    "start": 46.79,
+    "end": 46.99,
+    "score": 0.855
+  },
+  {
+    "word": " ",
+    "start": 46.99,
+    "end": 47.05
+  },
+  {
+    "word": "accomplished",
+    "start": 47.05,
+    "end": 47.63,
+    "score": 0.849
+  },
+  {
+    "word": " ",
+    "start": 47.63,
+    "end": 48.03
+  },
+  {
+    "word": "by",
+    "start": 48.03,
+    "end": 48.17,
+    "score": 0.894
+  },
+  {
+    "word": " ",
+    "start": 48.17,
+    "end": 48.21
+  },
+  {
+    "word": "that",
+    "start": 48.21,
+    "end": 48.451,
+    "score": 0.881
+  },
+  {
+    "word": ".",
+    "start": 48.451,
+    "end": 48.691
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "It's",
+    "start": 48.691,
+    "end": 48.831,
+    "score": 0.825
+  },
+  {
+    "word": " ",
+    "start": 48.831,
+    "end": 48.891
+  },
+  {
+    "word": "just",
+    "start": 48.891,
+    "end": 49.091,
+    "score": 0.828
+  },
+  {
+    "word": " ",
+    "start": 49.091,
+    "end": 49.211
+  },
+  {
+    "word": "nice",
+    "start": 49.211,
+    "end": 49.511,
+    "score": 0.814
+  },
+  {
+    "word": " ",
+    "start": 49.511,
+    "end": 50.472
+  },
+  {
+    "word": "and",
+    "start": 50.472,
+    "end": 50.672,
+    "score": 0.76
+  },
+  {
+    "word": " ",
+    "start": 50.672,
+    "end": 50.992
+  },
+  {
+    "word": "uh",
+    "start": 50.992,
+    "end": 51.032,
+    "score": 0.033
+  },
+  {
+    "word": ",",
+    "start": 51.032,
+    "end": 51.392
+  },
+  {
+    "word": " ",
+    "start": 51.392,
+    "end": 51.392
+  },
+  {
+    "word": "yeah",
+    "start": 51.392,
+    "end": 51.592,
+    "score": 0.635
+  },
+  {
+    "word": ".",
+    "start": 51.592,
+    "end": 52.713
+  },
+  {
+    "word": " ",
+    "start": 52.713,
+    "end": 52.713
+  },
+  {
+    "word": "But",
+    "start": 52.713,
+    "end": 52.813,
+    "score": 0.859
+  },
+  {
+    "word": " ",
+    "start": 52.813,
+    "end": 52.853
+  },
+  {
+    "word": "anyway",
+    "start": 52.853,
+    "end": 53.113,
+    "score": 0.9
+  },
+  {
+    "word": ",",
+    "start": 53.113,
+    "end": 53.373
+  },
+  {
+    "word": " ",
+    "start": 53.373,
+    "end": 53.373
+  },
+  {
+    "word": "dad's",
+    "start": 53.373,
+    "end": 53.613,
+    "score": 0.757
+  },
+  {
+    "word": " ",
+    "start": 53.613,
+    "end": 53.653
+  },
+  {
+    "word": "in",
+    "start": 53.653,
+    "end": 53.734,
+    "score": 0.826
+  },
+  {
+    "word": " ",
+    "start": 53.734,
+    "end": 53.754
+  },
+  {
+    "word": "the",
+    "start": 53.754,
+    "end": 53.814,
+    "score": 0.986
+  },
+  {
+    "word": " ",
+    "start": 53.814,
+    "end": 53.854
+  },
+  {
+    "word": "common",
+    "start": 53.854,
+    "end": 54.174,
+    "score": 0.893
+  },
+  {
+    "word": " ",
+    "start": 54.174,
+    "end": 54.234
+  },
+  {
+    "word": "area",
+    "start": 54.234,
+    "end": 54.534,
+    "score": 0.833
+  },
+  {
+    "word": " ",
+    "start": 54.534,
+    "end": 54.594
+  },
+  {
+    "word": "reading",
+    "start": 54.594,
+    "end": 54.814,
+    "score": 0.976
+  },
+  {
+    "word": " ",
+    "start": 54.814,
+    "end": 54.854
+  },
+  {
+    "word": "his",
+    "start": 54.854,
+    "end": 54.974,
+    "score": 0.778
+  },
+  {
+    "word": " ",
+    "start": 54.974,
+    "end": 55.014
+  },
+  {
+    "word": "book",
+    "start": 55.014,
+    "end": 55.174,
+    "score": 0.873
+  },
+  {
+    "word": " ",
+    "start": 55.174,
+    "end": 55.234
+  },
+  {
+    "word": "or",
+    "start": 55.234,
+    "end": 55.314,
+    "score": 0.634
+  },
+  {
+    "word": " ",
+    "start": 55.314,
+    "end": 55.334
+  },
+  {
+    "word": "something",
+    "start": 55.334,
+    "end": 55.795,
+    "score": 0.841
+  },
+  {
+    "word": ",",
+    "start": 55.795,
+    "end": 55.855
+  },
+  {
+    "word": " ",
+    "start": 55.855,
+    "end": 55.855
+  },
+  {
+    "word": "so",
+    "start": 55.855,
+    "end": 56.075,
+    "score": 0.915
+  },
+  {
+    "word": " ",
+    "start": 56.075,
+    "end": 56.335
+  },
+  {
+    "word": "I'm",
+    "start": 56.335,
+    "end": 56.455,
+    "score": 0.914
+  },
+  {
+    "word": " ",
+    "start": 56.455,
+    "end": 56.495
+  },
+  {
+    "word": "gonna",
+    "start": 56.495,
+    "end": 56.695,
+    "score": 0.376
+  },
+  {
+    "word": " ",
+    "start": 56.695,
+    "end": 56.735
+  },
+  {
+    "word": "go",
+    "start": 56.735,
+    "end": 56.915,
+    "score": 0.904
+  },
+  {
+    "word": " ",
+    "start": 56.915,
+    "end": 57.095
+  },
+  {
+    "word": "and",
+    "start": 57.095,
+    "end": 57.235,
+    "score": 0.646
+  },
+  {
+    "word": " ",
+    "start": 57.235,
+    "end": 57.656
+  },
+  {
+    "word": "join",
+    "start": 57.656,
+    "end": 57.936,
+    "score": 0.721
+  },
+  {
+    "word": " ",
+    "start": 57.936,
+    "end": 57.976
+  },
+  {
+    "word": "him",
+    "start": 57.976,
+    "end": 58.076,
+    "score": 0.995
+  },
+  {
+    "word": ".",
+    "start": 58.076,
+    "end": 58.086
+  }
+]
