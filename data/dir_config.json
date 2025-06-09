@@ -1,64 +1,9 @@
 {
-  "day01": {
+  "day07": {
     "01": {
-      "audio_file": "1.m4a",
-      "path": "data/day01/01",
-      "word_corrected_json": "1.corrected.word.json"
-    },
-    "02": {
-      "audio_file": "02.m4a",
-      "path": "data/day01/02",
-      "word_corrected_json": "02.corrected.word.json"
-    }
-  },
-  "day02": {
-    "01": {
-      "audio_file": "2.m4a",
-      "path": "data/day02/01",
-      "word_corrected_json": "2.corrected.word.json"
-    },
-    "02": {
-      "audio_file": "2.m4a",
-      "path": "data/day02/02",
-      "word_corrected_json": "2.corrected.word.json"
-    }
-  },
-  "day02-1": {
-    "01": {
-      "audio_file": "01.m4a",
-      "path": "data/day02-1/01",
-      "word_corrected_json": "01.corrected.word.json"
-    }
-  },
-  "day03": {
-    "01": {
-      "audio_file": "01.m4a",
-      "path": "data/day03/01",
-      "word_corrected_json": "01.corrected.word.json"
-    },
-    "02": {
-      "audio_file": "3.m4a",
-      "path": "data/day03/02",
-      "word_corrected_json": "3.corrected.word.json"
-    }
-  },
-  "day04": {
-    "01": {
-      "audio_file": "4.m4a",
-      "path": "data/day04/01",
-      "word_corrected_json": "4.corrected.word.json"
-    },
-    "02": {
-      "audio_file": "4.m4a",
-      "path": "data/day04/02",
-      "word_corrected_json": "4.corrected.word.json"
-    }
-  },
-  "day05": {
-    "01": {
-      "audio_file": "5.m4a",
-      "path": "data/day05/01",
-      "word_corrected_json": "5.corrected.word.json"
+      "audio_file": "007.m4a",
+      "path": "data/day07/01",
+      "word_corrected_json": "007.corrected.word.json"
     }
   },
   "interview": {
