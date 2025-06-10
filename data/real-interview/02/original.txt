@@ -2,55 +2,42 @@
 One time, my teammate and I were building a new feature.
 We had a shared modal component.
 But to fit his own page, he just copied it and made some custom changes.
-I think create the duplicated code wasn’t a long-term solution.
+I think creating the duplicated code wasn’t a long-term solution.
 
 One time, my teammate and I were building a new feature.
 We had a shared modal component.
 But to fit his own page, he just copied it and made some custom changes.
-I think create the duplicated code wasn’t a long-term solution.
+I think creating the duplicated code wasn’t a long-term solution.
 
-2. 识别出风险和问题
-I realized if the business changed later, we have to update every copy.
-That would be hard to maintain, easy to break, and waste time.
-
-I realized if the business changed later, we have to update every copy.
-That would be hard to maintain, easy to break, and waste time.
-
-3. 进行沟通，说明问题
+2. 识别风险，尝试沟通
 At first, we had different opinions on how to handle it.
-But I didn’t say no right away.
-Instead, I pointed out the risks.
-I gave examples we have to fix the same code in multiple places if the business changed later.
+But I didn’t say no right away. Instead, I pointed out the risks.
+I gave him an example: if the business changed later, we have to fix the same code in multiple places.
 That helped him understand the problem better.
 
 At first, we had different opinions on how to handle it.
-But I didn’t say no right away.
-Instead, I pointed out the risks.
-I gave examples we have to fix the same code in multiple places if the business changed later.
+But I didn’t say no right away. Instead, I pointed out the risks.
+I gave him an example: if the business changed later, we have to fix the same code in multiple places.
 That helped him understand the problem better.
 
 4. 提出解决方案
-Then I suggested a solution.
-I said, let’s make the modal component configuration-driven.
+Then I came up with a solution.
+I think we can make the modal component configuration-driven.
 We can use props to control the content, actions, and buttons.
-That way, no need to copy the whole component again.
-He liked the idea,In the end we refactored it together.
+he liked the idea, After talking, we refactored it together.
 
-Then I suggested a solution.
-I said, let’s make the modal component configuration-driven.
+Then I came up with a solution.
+I think we can make the modal component configuration-driven.
 We can use props to control the content, actions, and buttons.
-That way, no need to copy the whole component again.
-He liked the idea,In the end we refactored it together.
+he liked the idea, After talking, we refactored it together.
 
 5. 总结思考
-That conflict with my teammate also made me realize—we needed unit test to avoid bugs.
-So I add the full test coverage.
-Now, whenever we change the component, we just run the test to make sure everything still works.
-It helps prevent regressions.
-Looking back, I think the conflict wasn’t a bad thing—it pushed us to do better.
+One more thing, That conflict also made me realize—we need to add unit test.
+If we change the component later, we can just run the test to make sure everything still works.
+After doing all that, it helps prevent regressions.
+So I think the conflict wasn’t a bad thing—it always pushed us to do better.
 
-That conflict with my teammate also made me realize—we needed unit test to avoid bugs.
-So I add the full test coverage.
-Now, whenever we change the component, we just run the test to make sure everything still works.
-It helps prevent regressions.
-Looking back, I think the conflict wasn’t a bad thing—it pushed us to do better.
+One more thing, That conflict also made me realize—we need to add unit test.
+If we change the component later, we can just run the test to make sure everything still works.
+After doing all that, it helps prevent regressions.
+So I think the conflict wasn’t a bad thing—it always pushed us to do better.
