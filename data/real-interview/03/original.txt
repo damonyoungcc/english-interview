@@ -1,0 +1,20 @@
+In my previous company, I worked on improving the internal admin systems.
+
+Different departments had different systems, and the user experience wasn’t consistent.
+
+So I had two goals.
+First, I wanted to understand everyone’s needs and create a standard user experience.
+Second, I wanted to make the system simple and easy to migrate, so other teams would be willing to adopt it.
+
+I started by learning about each team’s background and how they used their tools.
+Then I explained my ideas using language they were familiar with — not just tech terms.
+
+I also created a clear migration guide to make the switch easier.
+It showed how the new design could improve their workflow and user experience.
+
+During the whole process, I kept everyone updated and made sure we were on the same page.
+
+After a few rounds of feedback and iteration, we successfully unified the UX across all teams.
+
+New projects were delivered twice as fast, and users gave great feedback.
+They said the new system was simple, clean, and easy to use.
