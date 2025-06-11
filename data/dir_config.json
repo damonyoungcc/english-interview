@@ -48,6 +48,11 @@
       "audio_file": "2.m4a",
       "path": "data/real-interview/02",
       "word_corrected_json": "2.corrected.word.json"
+    },
+    "03": {
+      "audio_file": "333.m4a",
+      "path": "data/real-interview/03",
+      "word_corrected_json": "333.corrected.word.json"
     }
   }
 }
