@@ -1,0 +1,24 @@
+Hi, I’m Damon Young. I’ve been working as a front-end developer for over 7 years.
+I’ve built a lot of web applications in my career.
+I’m especially skilled at H5 pages and mobile-friendly interactions
+I like building user-friendly websites.
+
+I started web development during my internship at ZBJ.
+At that time, I helped upgrade their official website to version 2.0.
+That experience gave me a strong sense of achievement.
+and helped me realize that this is the career I want.
+Since then, I’ve got a lot of experience building apps in different areas.
+That includes e-commerce platforms, banking systems, and internal admin systems.
+
+At my last company, I was both a key developer and a tech lead.
+I was in charge of the front-end for our banking rewards and financial systems.
+I also built a shared admin system template.
+It helped unify the experience across all our internal systems.
+
+I’ve also contributed code to the open-source project Ant Design Mobile,
+which has over 10,000 stars on GitHub.
+I helped fix UI bugs and improve test coverage,
+and I’m among the top 20 contributors to the project.
+
+I look forward to contribute to your team and projects.
+Thanks for the opportunity.
