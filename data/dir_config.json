@@ -53,6 +53,11 @@
       "audio_file": "333.m4a",
       "path": "data/real-interview/03",
       "word_corrected_json": "333.corrected.word.json"
+    },
+    "04": {
+      "audio_file": "4.m4a",
+      "path": "data/real-interview/04",
+      "word_corrected_json": "4.corrected.word.json"
     }
   }
 }

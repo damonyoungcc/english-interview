@@ -49,39 +49,3 @@ One thing I will say though, is that some teams weren’t that willing to migrat
 They had their own priorities.
 I created a migration guide, try to make the process as easy as possible
 so in the end, there was really no excuse not to cooperate.
-
-6. 你是如何跨部门沟通的，你是如何和利益相关者沟通
-第一是搞清楚沟通对象
-First thing, I should try to understand who I’m talking to.
-If it’s a product manager, I focus on business impact.
-If it’s an engineer, I explain technical details clearly.
-I try to speak in their language.
-
-First thing, I should try to understand who I’m talking to.
-If it’s a product manager, I focus on business impact.
-If it’s an engineer, I explain technical details clearly.
-I try to speak in their language.
-
-第二是站在他们的角度思考
-The second I also try to see things from their side.
-I ask what’s their pain point, or what they care about the most.
-That helps me adjust my message to make it more relevant.
-
-The second I also try to see things from their side.
-I ask what’s their pain point, or what they care about the most.
-That helps me adjust my message to make it more relevant.
-
-第三是让事情简单和清晰
-The third is make things easy and clear.
-For example, When I was promoting the new admin system template,
-I knew some teams had thier priorities.
-So I create a demo, wrote docs, and provided a clearly guide.
-show them the process was easy.
-That can helped them accept the changes more easily.
-
-The third is make things easy and clear.
-For example, When I was promoting the new admin system template,
-I knew some teams had thier priorities.
-So I create a demo, wrote docs, and provided a clearly guide.
-show them the process was easy.
-That can helped them accept the changes more easily.

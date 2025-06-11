@@ -1,0 +1,19 @@
+I think leadership is not about giving orders.
+It’s about taking responsibility and leading by example.
+
+In my previous company, we had an H5 page with a photo upload feature.
+When users uploaded large images, it was slow.
+Everyone knew about the issue, but no one wanted to work on it.
+
+I decided to take the lead.
+I did some research and used a front-end image compression technique.
+It made the upload much faster and the experience smoother.
+
+After that, I shared the solution with the team.
+I also helped turn the upload logic into a reusable component with unit tests.
+
+We promoted it across multiple projects in the company.
+It significantly improved user experience.
+
+This experience showed me that leadership is about action.
+When you step up and solve real problems, others will follow.
