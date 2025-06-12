@@ -39,6 +39,11 @@
     }
   },
   "real-interview": {
+    "00": {
+      "audio_file": "0.m4a",
+      "path": "data/real-interview/00",
+      "word_corrected_json": "0.corrected.word.json"
+    },
     "01": {
       "audio_file": "01.m4a",
       "path": "data/real-interview/01",
