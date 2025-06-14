@@ -11,20 +11,18 @@ The ops team often pointed out that the inconsistent interaction patterns across
 
 2. 发现问题，调研需求
 First, I took the time to understand everyone’s pain points.
-and Then I talked to people from ops, product, and found many of them had the same complaints —
-like the navigation was confusing, tables worked differently in each system.
-In the end I tried to find out what everyone really needed in common.
+and Then I talked to people from ops, product,
+and tried to find out what everyone really needed in common.
 
 First, I took the time to understand everyone’s pain points.
-and Then I talked to people from ops, product, and found many of them had the same complaints —
-like the navigation was confusing, tables worked differently in each system.
-In the end I tried to find out what everyone really needed in common.
+and Then I talked to people from ops, product,
+and tried to find out what everyone really needed in common.
 
 3. 开发系统，明确目标
 Then I led the design and development of a shared internal admin system template.
 The goal was simple:
-For new project, I built a front-end template that works out of the box.
-make it easy to use with just one click and immediately focus on business development,
+For new project, make it easy to use with just one click
+and immediately focus on business development,
 For old project, I wrapped components like layout and table based on Ant Design and
 I published them in the internal npm.
 So old projects can install these packages gradually to update their UI.
@@ -32,8 +30,8 @@ After a few updates, we were able to unify the user experience across all system
 
 Then I led the design and development of a shared internal admin system template.
 The goal was simple:
-For new project, I built a front-end template that works out of the box.
-make it easy to use with just one click and immediately focus on business development,
+For new project, make it easy to use with just one click
+and immediately focus on business development,
 For old project, I wrapped components like layout and table based on Ant Design and
 I published them in the internal npm.
 So old projects can install these packages gradually to update their UI.
