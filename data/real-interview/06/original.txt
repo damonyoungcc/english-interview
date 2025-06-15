@@ -1,12 +1,19 @@
-When I have multiple deadlines,
-I first check which tasks are more urgent and more important.
-I focus on high-impact and time-sensitive tasks first, then plan the rest.
+When I have multiple deadlines, 
+I start with the most urgent and important tasks.
+I always focus on high-impact, time-sensitive items first, then plan the rest.
 
-For example, if I need to fix a bug, add a feature, and refactor some code,
-I’ll fix the bug first because it affects users directly.
-Then I work on the feature based on its deadline and priority.
-I always talk to my team to adjust the plan and make sure we’re on the same page.
+When I have multiple deadlines, 
+I start with the most urgent and important tasks.
+I always focus on high-impact, time-sensitive items first, then plan the rest.
 
+I also talk to my team regularly to make sure we’re on the same page.
+If there are any difficulties, I bring them up early so we can adjust the plan together.
 
-I always try to manage my time well and keep clear communication.
-This always helps me to deliver project smoothly.
+I also talk to my team regularly to make sure we’re on the same page.
+If there are any difficulties, I bring them up early so we can adjust the plan together.
+
+To me, setting clear priorities and communicating with the team are the most important things.
+Do these two well, and everything runs smoothly.
+
+To me, setting clear priorities and communicating with the team are the most important things.
+Do these two well, and everything runs smoothly.

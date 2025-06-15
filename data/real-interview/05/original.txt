@@ -1,12 +1,30 @@
+1. 场景，开始工作的时候，时间预估不足
 At the beginning of my career, I was full of eager to contribute.
 I took on a feature task but didn’t estimate the time properly.
 I thought I could finish it quickly, 
-but it turned out to be more complicated than I expected.
+but it turned out it more complicated than I expected.
 
-As a result, I didn’t complete it on time,
-and the delivery was delayed.My team had to adjust the plan.
+At the beginning of my career, I was full of eager to contribute.
+I took on a feature task but didn’t estimate the time properly.
+I thought I could finish it quickly, 
+but it turned out it more complicated than I expected.
 
-After that, First, I learned to break tasks into smaller steps, 
-and Then plan by priority,
-and always communicate with my team to make sure we’re on the same page.
+2. 导致的结果
+As a result, I didn’t done it on time,
+and the delivery was delayed. My team had to adjust the plan.
+
+As a result, I didn’t done it on time,
+and the delivery was delayed. My team had to adjust the plan.
+
+3. 总结
+with this experience,
+First thing I learned is break tasks into smaller steps,
+Second is plan by priority, focus on high-impact and time-sensitive tasks first.
+and always communicate with my team to make sure we’re always on the same page.
+It was a good lesson for me, and since then it never happened again.
+
+with this experience,
+First thing I learned is break tasks into smaller steps,
+Second is plan by priority, focus on high-impact and time-sensitive tasks first.
+and always communicate with my team to make sure we’re always on the same page.
 It was a good lesson for me, and since then it never happened again.

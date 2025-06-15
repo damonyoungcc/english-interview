@@ -1,19 +1,38 @@
+1. 解释领导力
 I think leadership is not about giving orders.
-It’s about taking responsibility and leading by example.
+It’s about taking responsibility proactively.
+
+I think leadership is not about giving orders.
+It’s about taking responsibility proactively.
 
 In my previous company, we had an H5 page with a photo upload feature.
-When users uploaded large images, it was slow.
+Users took a photo and upload it, But it was too slow.
+Everyone knew about the issue, but no one wanted to work on it.
+
+In my previous company, we had an H5 page with a photo upload feature.
+Users took a photo and upload it, But it was too slow.
 Everyone knew about the issue, but no one wanted to work on it.
 
 I decided to take the lead.
-I did some research and used a front-end image compression technique.
+I did some research and used a front-end image compression tech before upload.
 It made the upload much faster and the experience smoother.
 
-After that, I shared the solution with the team.
-I also helped turn the upload logic into a reusable component with unit tests.
+I decided to take the lead.
+I did some research and used a front-end image compression tech before upload.
+It made the upload much faster and the experience smoother.
 
-We promoted it across multiple projects in the company.
-It significantly improved user experience.
+After that, I shared the solution with the team
+and build a reusable component with unit tests.
+I introduced it to several team projects.
+It improved the user experience a lot.
 
-This experience showed me that leadership is about action.
-When you step up and solve real problems, others will follow.
+After that, I shared the solution with the team
+and build a reusable component with unit tests.
+I introduced it to several team projects.
+It improved the user experience a lot.
+
+This showed me that leadership is about action.
+When you solve real problems, others will follow.
+
+This showed me that leadership is about action.
+When you solve real problems, others will follow.

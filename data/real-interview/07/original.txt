@@ -1,0 +1,36 @@
+1. 开始点题，三点
+I learn new things / I handle tasks outside my comfort zone
+in three steps:
+First, I define the goal based on the project needs.
+Then I research the tech and read the documentation.
+Finally, I start coding to build a prototype, then improve it step by step.
+
+I learn new things / I handle tasks outside my comfort zone
+in three steps:
+First, I define the goal based on the project needs.
+Then I research the tech and read the documentation.
+Finally, I start coding to build a prototype, then improve it step by step.
+
+2. 举例
+Recently, I wanted to build a tool to help me learn Japanese.
+It plays audio and highlights text in sync.
+To make this work, The target is to generate a timestamped JSON file from the audio.
+I research the tech,
+wrote a script and built a simple UI.
+Then I published it and shared it with friends.
+They gave useful feedback, and I kept improving it.
+
+Recently, I wanted to build a tool to help me learn Japanese.
+It plays audio and highlights text in sync.
+To make this work, The target is to generate a timestamped JSON file from the audio.
+I research the tech,
+wrote a script and built a simple UI.
+Then I published it and shared it with friends.
+They gave useful feedback, and I kept improving it.
+
+3. 总结思考
+This project showed me how to learn fast
+and handle tasks outside my comfort zone
+
+This project showed me how to learn fast
+and handle tasks outside my comfort zone

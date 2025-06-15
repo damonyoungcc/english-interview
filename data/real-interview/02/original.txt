@@ -10,14 +10,12 @@ But to fit his own page, he just copied it and made some custom changes.
 I think creating the duplicated code wasn’t a long-term solution.
 
 2. 识别风险，尝试沟通
-At first, we had different opinions on how to handle it.
-But I didn’t say no right away. Instead, I pointed out the risks.
+At first, I didn’t say no right away. Instead, I pointed out the risks.
 I gave him an example: if the business changed later,
 we have to fix the same code in multiple places.
 That helped him understand the problem better.
 
-At first, we had different opinions on how to handle it.
-But I didn’t say no right away. Instead, I pointed out the risks.
+At first, I didn’t say no right away. Instead, I pointed out the risks.
 I gave him an example: if the business changed later,
 we have to fix the same code in multiple places.
 That helped him understand the problem better.
@@ -37,11 +35,11 @@ he liked the idea, After talking, we refactored it together.
 One more thing, That conflict also made me realize—we need to add unit test.
 If we change the component later again,
 we can just run the test to make sure everything still works.
-After doing all that, it helps prevent regressions.
+it helps prevent regressions.
 So I think the conflict wasn’t a bad thing—it always pushed us to do better.
 
 One more thing, That conflict also made me realize—we need to add unit test.
 If we change the component later again,
 we can just run the test to make sure everything still works.
-After doing all that, it helps prevent regressions.
+it helps prevent regressions.
 So I think the conflict wasn’t a bad thing—it always pushed us to do better.

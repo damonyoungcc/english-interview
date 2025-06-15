@@ -12,22 +12,22 @@ I’m good at H5 pages and mobile-friendly interactions.
 2. 入行，行业经验
 I started my career during my internship at ZBJ.
 At that time, I helped upgrade their official website to version 2.0 using Vue.
-Since then, I’ve got a lot of experience building apps in different areas,
+Since then, I’ve got a lot of experience building apps in different industries,
 including e-commerce platforms, banking systems, and internal admin system.
 
 I started my career during my internship at ZBJ.
 At that time, I helped upgrade their official website to version 2.0 using Vue.
-Since then, I’ve got a lot of experience building apps in different areas,
+Since then, I’ve got a lot of experience building apps in different industries,
 including e-commerce platforms, banking systems, and internal admin system.
 
 3. 上家公司的项目经历和职责
 At my last company, I was both a key developer and a tech lead.
-I handled the front-end for banking rewards and finance systems.
+I handled the front-end project for banking rewards and finance systems.
 I also built a shared admin system template in React,
 which helped unify the user experience across all our internal systems.
 
 At my last company, I was both a key developer and a tech lead.
-I handled the front-end for banking rewards and finance systems.
+I handled the front-end project for banking rewards and finance systems.
 I also built a shared admin system template in React,
 which helped unify the user experience across all our internal systems.
 

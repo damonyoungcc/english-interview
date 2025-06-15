@@ -23,18 +23,16 @@ Then I led the design and development of a shared internal admin system template
 The goal was simple:
 For new project, make it easy to use with just one click
 and immediately focus on business development,
-For old project, I wrapped components like layout and table based on Ant Design and
-I published them in the internal npm.
-So old projects can install these packages gradually to update their UI.
+For old project, I built reusable components and published them to our internal NPM.
+So old projects can install these packages and gradually to update their UI.
 After a few updates, we were able to unify the user experience across all systems.
 
 Then I led the design and development of a shared internal admin system template.
 The goal was simple:
 For new project, make it easy to use with just one click
 and immediately focus on business development,
-For old project, I wrapped components like layout and table based on Ant Design and
-I published them in the internal npm.
-So old projects can install these packages gradually to update their UI.
+For old project, I built reusable components and published them to our internal NPM.
+So old projects can install these packages and gradually to update their UI.
 After a few updates, we were able to unify the user experience across all systems.
 
 4. 解决问题，需求配合
@@ -47,3 +45,6 @@ One thing I will say though, is that some teams weren’t that willing to migrat
 They had their own priorities.
 I created a migration guide, try to make the process as easy as possible
 so in the end, there was really no excuse not to cooperate.
+
+I think this was the biggest challenge I’ve faced so far.
+I think this is the project I’m really proud of.
