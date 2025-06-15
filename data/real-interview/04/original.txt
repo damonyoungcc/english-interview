@@ -5,32 +5,34 @@ It’s about taking responsibility proactively.
 I think leadership is not about giving orders.
 It’s about taking responsibility proactively.
 
-In my previous company, we had an H5 page with a photo upload feature.
-Users took a photo and upload it, But it was too slow.
-Everyone knew about the issue, but no one wanted to work on it.
+2. 描述背景
+In my previous company, we had an H5 page
+and Users took a photo and upload it,
+But it was too slow, and no one wanted to work on it.
 
-In my previous company, we had an H5 page with a photo upload feature.
-Users took a photo and upload it, But it was too slow.
-Everyone knew about the issue, but no one wanted to work on it.
+In my previous company, we had an H5 page
+and Users took a photo and upload it,
+But it was too slow, and no one wanted to work on it.
 
+3. 行动解决问题
 I decided to take the lead.
-I did some research and used a front-end image compression tech before upload.
+I did some research and compressed the image before uploading.
 It made the upload much faster and the experience smoother.
 
 I decided to take the lead.
-I did some research and used a front-end image compression tech before upload.
+I did some research and compressed the image before uploading.
 It made the upload much faster and the experience smoother.
 
-After that, I shared the solution with the team
-and build a reusable component with unit tests.
-I introduced it to several team projects.
-It improved the user experience a lot.
+4. 更进一步
+After that, My team build a reusable component,
+and shared it to several team projects
+It really improved the user experience a lot.
 
-After that, I shared the solution with the team
-and build a reusable component with unit tests.
-I introduced it to several team projects.
-It improved the user experience a lot.
+After that, My team build a reusable component,
+and shared it to several team projects
+It really improved the user experience a lot.
 
+5. 总结
 This showed me that leadership is about action.
 When you solve real problems, others will follow.
 

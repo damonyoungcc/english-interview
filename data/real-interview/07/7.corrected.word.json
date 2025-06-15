@@ -1,0 +1,3208 @@
+[
+  {
+    "role": "bold-word",
+    "word": "1.",
+    "start": 0.20099999999999998,
+    "end": 0.211
+  },
+  {
+    "word": " ",
+    "start": 0.211,
+    "end": 0.211
+  },
+  {
+    "start": 0.211,
+    "end": 0.211,
+    "word": "开始点题"
+  },
+  {
+    "word": "，",
+    "start": 0.211,
+    "end": 0.211
+  },
+  {
+    "start": 0.211,
+    "end": 0.211,
+    "word": "三点"
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "I",
+    "start": 0.211,
+    "end": 0.291,
+    "score": 0.753
+  },
+  {
+    "word": " ",
+    "start": 0.291,
+    "end": 0.351
+  },
+  {
+    "word": "learn",
+    "start": 0.351,
+    "end": 0.592,
+    "score": 0.75
+  },
+  {
+    "word": " ",
+    "start": 0.592,
+    "end": 0.632
+  },
+  {
+    "word": "new",
+    "start": 0.632,
+    "end": 0.792,
+    "score": 0.799
+  },
+  {
+    "word": " ",
+    "start": 0.792,
+    "end": 0.832
+  },
+  {
+    "word": "things",
+    "start": 0.832,
+    "end": 1.153,
+    "score": 0.828
+  },
+  {
+    "word": " ",
+    "start": 1.153,
+    "end": 1.693
+  },
+  {
+    "word": "/",
+    "start": 1.693,
+    "end": 1.693
+  },
+  {
+    "word": " ",
+    "start": 1.693,
+    "end": 1.693
+  },
+  {
+    "word": "I",
+    "start": 1.693,
+    "end": 1.753,
+    "score": 0.954
+  },
+  {
+    "word": " ",
+    "start": 1.753,
+    "end": 1.813
+  },
+  {
+    "word": "handle",
+    "start": 1.813,
+    "end": 2.114,
+    "score": 0.802
+  },
+  {
+    "word": " ",
+    "start": 2.114,
+    "end": 2.154
+  },
+  {
+    "word": "tasks",
+    "start": 2.154,
+    "end": 2.574,
+    "score": 0.904
+  },
+  {
+    "word": " ",
+    "start": 2.574,
+    "end": 2.815
+  },
+  {
+    "word": "outside",
+    "start": 2.815,
+    "end": 3.235,
+    "score": 0.886
+  },
+  {
+    "word": " ",
+    "start": 3.235,
+    "end": 3.275
+  },
+  {
+    "word": "my",
+    "start": 3.275,
+    "end": 3.396,
+    "score": 0.832
+  },
+  {
+    "word": " ",
+    "start": 3.396,
+    "end": 3.456
+  },
+  {
+    "word": "comfort",
+    "start": 3.456,
+    "end": 3.796,
+    "score": 0.931
+  },
+  {
+    "word": " ",
+    "start": 3.796,
+    "end": 3.816
+  },
+  {
+    "word": "zone",
+    "start": 3.816,
+    "end": 4.117,
+    "score": 0.782
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "in",
+    "start": 4.217,
+    "end": 4.297,
+    "score": 0.899
+  },
+  {
+    "word": " ",
+    "start": 4.297,
+    "end": 4.357
+  },
+  {
+    "word": "three",
+    "start": 4.357,
+    "end": 4.597,
+    "score": 0.84
+  },
+  {
+    "word": " ",
+    "start": 4.597,
+    "end": 4.657
+  },
+  {
+    "word": "steps",
+    "start": 4.657,
+    "end": 4.978,
+    "score": 0.721
+  },
+  {
+    "word": ":",
+    "start": 4.978,
+    "end": 5.559
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "First",
+    "start": 5.559,
+    "end": 5.859,
+    "score": 0.719
+  },
+  {
+    "word": ",",
+    "start": 5.859,
+    "end": 6.36
+  },
+  {
+    "word": " ",
+    "start": 6.36,
+    "end": 6.36
+  },
+  {
+    "word": "I",
+    "start": 6.36,
+    "end": 6.44,
+    "score": 0.751
+  },
+  {
+    "word": " ",
+    "start": 6.44,
+    "end": 6.48
+  },
+  {
+    "word": "define",
+    "start": 6.48,
+    "end": 6.84,
+    "score": 0.922
+  },
+  {
+    "word": " ",
+    "start": 6.84,
+    "end": 6.86
+  },
+  {
+    "word": "the",
+    "start": 6.86,
+    "end": 6.94,
+    "score": 0.992
+  },
+  {
+    "word": " ",
+    "start": 6.94,
+    "end": 6.98
+  },
+  {
+    "word": "goal",
+    "start": 6.98,
+    "end": 7.241,
+    "score": 0.821
+  },
+  {
+    "word": " ",
+    "start": 7.241,
+    "end": 7.321
+  },
+  {
+    "word": "based",
+    "start": 7.321,
+    "end": 7.621,
+    "score": 0.869
+  },
+  {
+    "word": " ",
+    "start": 7.621,
+    "end": 7.822
+  },
+  {
+    "word": "on",
+    "start": 7.822,
+    "end": 7.922,
+    "score": 0.751
+  },
+  {
+    "word": " ",
+    "start": 7.922,
+    "end": 7.962
+  },
+  {
+    "word": "the",
+    "start": 7.962,
+    "end": 8.062,
+    "score": 0.714
+  },
+  {
+    "word": " ",
+    "start": 8.062,
+    "end": 8.122
+  },
+  {
+    "word": "project",
+    "start": 8.122,
+    "end": 8.563,
+    "score": 0.953
+  },
+  {
+    "word": " ",
+    "start": 8.563,
+    "end": 8.743
+  },
+  {
+    "word": "needs",
+    "start": 8.743,
+    "end": 9.063,
+    "score": 0.899
+  },
+  {
+    "word": ".",
+    "start": 9.063,
+    "end": 9.664
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "Then",
+    "start": 9.664,
+    "end": 9.864,
+    "score": 0.744
+  },
+  {
+    "word": " ",
+    "start": 9.864,
+    "end": 9.965
+  },
+  {
+    "word": "I",
+    "start": 9.965,
+    "end": 10.025,
+    "score": 0.668
+  },
+  {
+    "word": " ",
+    "start": 10.025,
+    "end": 10.105
+  },
+  {
+    "word": "research",
+    "start": 10.105,
+    "end": 10.545,
+    "score": 0.879
+  },
+  {
+    "word": " ",
+    "start": 10.545,
+    "end": 10.605
+  },
+  {
+    "word": "the",
+    "start": 10.605,
+    "end": 10.686,
+    "score": 0.998
+  },
+  {
+    "word": " ",
+    "start": 10.686,
+    "end": 10.746
+  },
+  {
+    "word": "tech",
+    "start": 10.746,
+    "end": 11.026,
+    "score": 0.884
+  },
+  {
+    "word": " ",
+    "start": 11.026,
+    "end": 11.186
+  },
+  {
+    "word": "and",
+    "start": 11.186,
+    "end": 11.286,
+    "score": 0.754
+  },
+  {
+    "word": " ",
+    "start": 11.286,
+    "end": 11.366
+  },
+  {
+    "word": "read",
+    "start": 11.366,
+    "end": 11.567,
+    "score": 0.917
+  },
+  {
+    "word": " ",
+    "start": 11.567,
+    "end": 11.587
+  },
+  {
+    "word": "the",
+    "start": 11.587,
+    "end": 11.667,
+    "score": 0.833
+  },
+  {
+    "word": " ",
+    "start": 11.667,
+    "end": 11.707
+  },
+  {
+    "word": "documentation",
+    "start": 11.707,
+    "end": 12.548,
+    "score": 0.882
+  },
+  {
+    "word": ".",
+    "start": 12.548,
+    "end": 13.169
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "Finally",
+    "start": 13.169,
+    "end": 13.569,
+    "score": 0.794
+  },
+  {
+    "word": ",",
+    "start": 13.569,
+    "end": 13.59
+  },
+  {
+    "word": " ",
+    "start": 13.59,
+    "end": 13.59
+  },
+  {
+    "word": "I",
+    "start": 13.59,
+    "end": 13.61,
+    "score": 0.0
+  },
+  {
+    "word": " ",
+    "start": 13.61,
+    "end": 13.87
+  },
+  {
+    "word": "start",
+    "start": 13.87,
+    "end": 14.07,
+    "score": 0.815
+  },
+  {
+    "word": " ",
+    "start": 14.07,
+    "end": 14.13
+  },
+  {
+    "word": "coding",
+    "start": 14.13,
+    "end": 14.451,
+    "score": 0.838
+  },
+  {
+    "word": " ",
+    "start": 14.451,
+    "end": 14.511
+  },
+  {
+    "word": "to",
+    "start": 14.511,
+    "end": 14.611,
+    "score": 0.73
+  },
+  {
+    "word": " ",
+    "start": 14.611,
+    "end": 14.651
+  },
+  {
+    "word": "build",
+    "start": 14.651,
+    "end": 14.851,
+    "score": 0.745
+  },
+  {
+    "word": " ",
+    "start": 14.851,
+    "end": 14.871
+  },
+  {
+    "word": "a",
+    "start": 14.871,
+    "end": 14.911,
+    "score": 0.556
+  },
+  {
+    "word": " ",
+    "start": 14.911,
+    "end": 14.931
+  },
+  {
+    "word": "prototype",
+    "start": 14.931,
+    "end": 15.412,
+    "score": 0.86
+  },
+  {
+    "word": ",",
+    "start": 15.412,
+    "end": 15.612
+  },
+  {
+    "word": " ",
+    "start": 15.612,
+    "end": 15.612
+  },
+  {
+    "word": "then",
+    "start": 15.612,
+    "end": 15.772,
+    "score": 0.888
+  },
+  {
+    "word": " ",
+    "start": 15.772,
+    "end": 15.853
+  },
+  {
+    "word": "improve",
+    "start": 15.853,
+    "end": 16.213,
+    "score": 0.837
+  },
+  {
+    "word": " ",
+    "start": 16.213,
+    "end": 16.253
+  },
+  {
+    "word": "it",
+    "start": 16.253,
+    "end": 16.313,
+    "score": 0.794
+  },
+  {
+    "word": " ",
+    "start": 16.313,
+    "end": 16.353
+  },
+  {
+    "word": "step",
+    "start": 16.353,
+    "end": 16.554,
+    "score": 0.837
+  },
+  {
+    "word": " ",
+    "start": 16.554,
+    "end": 16.594
+  },
+  {
+    "word": "by",
+    "start": 16.594,
+    "end": 16.714,
+    "score": 0.833
+  },
+  {
+    "word": " ",
+    "start": 16.714,
+    "end": 16.754
+  },
+  {
+    "word": "step",
+    "start": 16.754,
+    "end": 16.974,
+    "score": 0.826
+  },
+  {
+    "word": ".",
+    "start": 16.974,
+    "end": 17.795
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "I",
+    "start": 17.795,
+    "end": 17.875,
+    "score": 0.65
+  },
+  {
+    "word": " ",
+    "start": 17.875,
+    "end": 17.915
+  },
+  {
+    "word": "learn",
+    "start": 17.915,
+    "end": 18.156,
+    "score": 0.801
+  },
+  {
+    "word": " ",
+    "start": 18.156,
+    "end": 18.196
+  },
+  {
+    "word": "new",
+    "start": 18.196,
+    "end": 18.316,
+    "score": 0.857
+  },
+  {
+    "word": " ",
+    "start": 18.316,
+    "end": 18.356
+  },
+  {
+    "word": "things",
+    "start": 18.356,
+    "end": 18.656,
+    "score": 0.806
+  },
+  {
+    "word": " ",
+    "start": 18.656,
+    "end": 18.777
+  },
+  {
+    "word": "/",
+    "start": 18.777,
+    "end": 18.777
+  },
+  {
+    "word": " ",
+    "start": 18.777,
+    "end": 18.777
+  },
+  {
+    "word": "I",
+    "start": 18.777,
+    "end": 18.857,
+    "score": 0.735
+  },
+  {
+    "word": " ",
+    "start": 18.857,
+    "end": 18.897
+  },
+  {
+    "word": "handle",
+    "start": 18.897,
+    "end": 19.157,
+    "score": 0.923
+  },
+  {
+    "word": " ",
+    "start": 19.157,
+    "end": 19.197
+  },
+  {
+    "word": "tasks",
+    "start": 19.197,
+    "end": 19.538,
+    "score": 0.969
+  },
+  {
+    "word": " ",
+    "start": 19.538,
+    "end": 19.658
+  },
+  {
+    "word": "outside",
+    "start": 19.658,
+    "end": 19.958,
+    "score": 0.826
+  },
+  {
+    "word": " ",
+    "start": 19.958,
+    "end": 19.978
+  },
+  {
+    "word": "my",
+    "start": 19.978,
+    "end": 20.078,
+    "score": 0.747
+  },
+  {
+    "word": " ",
+    "start": 20.078,
+    "end": 20.118
+  },
+  {
+    "word": "comfort",
+    "start": 20.118,
+    "end": 20.399,
+    "score": 0.956
+  },
+  {
+    "word": " ",
+    "start": 20.399,
+    "end": 20.419
+  },
+  {
+    "word": "zone",
+    "start": 20.419,
+    "end": 20.639,
+    "score": 0.739
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "in",
+    "start": 20.739,
+    "end": 20.819,
+    "score": 0.911
+  },
+  {
+    "word": " ",
+    "start": 20.819,
+    "end": 20.88
+  },
+  {
+    "word": "three",
+    "start": 20.88,
+    "end": 21.08,
+    "score": 0.747
+  },
+  {
+    "word": " ",
+    "start": 21.08,
+    "end": 21.14
+  },
+  {
+    "word": "steps",
+    "start": 21.14,
+    "end": 21.42,
+    "score": 0.949
+  },
+  {
+    "word": ":",
+    "start": 21.42,
+    "end": 22.121
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "First",
+    "start": 22.121,
+    "end": 22.462,
+    "score": 0.763
+  },
+  {
+    "word": ",",
+    "start": 22.462,
+    "end": 22.742
+  },
+  {
+    "word": " ",
+    "start": 22.742,
+    "end": 22.742
+  },
+  {
+    "word": "I",
+    "start": 22.742,
+    "end": 22.782,
+    "score": 0.805
+  },
+  {
+    "word": " ",
+    "start": 22.782,
+    "end": 22.822
+  },
+  {
+    "word": "define",
+    "start": 22.822,
+    "end": 23.143,
+    "score": 0.856
+  },
+  {
+    "word": " ",
+    "start": 23.143,
+    "end": 23.183
+  },
+  {
+    "word": "the",
+    "start": 23.183,
+    "end": 23.243,
+    "score": 0.999
+  },
+  {
+    "word": " ",
+    "start": 23.243,
+    "end": 23.283
+  },
+  {
+    "word": "goal",
+    "start": 23.283,
+    "end": 23.523,
+    "score": 0.758
+  },
+  {
+    "word": " ",
+    "start": 23.523,
+    "end": 23.583
+  },
+  {
+    "word": "based",
+    "start": 23.583,
+    "end": 23.784,
+    "score": 0.986
+  },
+  {
+    "word": " ",
+    "start": 23.784,
+    "end": 23.844
+  },
+  {
+    "word": "on",
+    "start": 23.844,
+    "end": 23.884,
+    "score": 1.0
+  },
+  {
+    "word": " ",
+    "start": 23.884,
+    "end": 23.924
+  },
+  {
+    "word": "the",
+    "start": 23.924,
+    "end": 23.984,
+    "score": 0.998
+  },
+  {
+    "word": " ",
+    "start": 23.984,
+    "end": 24.024
+  },
+  {
+    "word": "project",
+    "start": 24.024,
+    "end": 24.404,
+    "score": 0.868
+  },
+  {
+    "word": " ",
+    "start": 24.404,
+    "end": 24.444
+  },
+  {
+    "word": "needs",
+    "start": 24.444,
+    "end": 24.725,
+    "score": 0.9
+  },
+  {
+    "word": ".",
+    "start": 24.725,
+    "end": 25.165
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "Then",
+    "start": 25.165,
+    "end": 25.306,
+    "score": 0.784
+  },
+  {
+    "word": " ",
+    "start": 25.306,
+    "end": 25.346
+  },
+  {
+    "word": "I",
+    "start": 25.346,
+    "end": 25.386,
+    "score": 0.556
+  },
+  {
+    "word": " ",
+    "start": 25.386,
+    "end": 25.446
+  },
+  {
+    "word": "research",
+    "start": 25.446,
+    "end": 25.786,
+    "score": 0.882
+  },
+  {
+    "word": " ",
+    "start": 25.786,
+    "end": 25.826
+  },
+  {
+    "word": "the",
+    "start": 25.826,
+    "end": 25.906,
+    "score": 0.833
+  },
+  {
+    "word": " ",
+    "start": 25.906,
+    "end": 25.946
+  },
+  {
+    "word": "tech",
+    "start": 25.946,
+    "end": 26.247,
+    "score": 0.908
+  },
+  {
+    "word": " ",
+    "start": 26.247,
+    "end": 26.367
+  },
+  {
+    "word": "and",
+    "start": 26.367,
+    "end": 26.467,
+    "score": 0.804
+  },
+  {
+    "word": " ",
+    "start": 26.467,
+    "end": 26.527
+  },
+  {
+    "word": "read",
+    "start": 26.527,
+    "end": 26.688,
+    "score": 0.941
+  },
+  {
+    "word": " ",
+    "start": 26.688,
+    "end": 26.708
+  },
+  {
+    "word": "the",
+    "start": 26.708,
+    "end": 26.768,
+    "score": 0.998
+  },
+  {
+    "word": " ",
+    "start": 26.768,
+    "end": 26.808
+  },
+  {
+    "word": "documentation",
+    "start": 26.808,
+    "end": 27.569,
+    "score": 0.876
+  },
+  {
+    "word": ".",
+    "start": 27.569,
+    "end": 28.17
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "Finally",
+    "start": 28.17,
+    "end": 28.57,
+    "score": 0.778
+  },
+  {
+    "word": ",",
+    "start": 28.57,
+    "end": 28.59
+  },
+  {
+    "word": " ",
+    "start": 28.59,
+    "end": 28.59
+  },
+  {
+    "word": "I",
+    "start": 28.59,
+    "end": 28.61,
+    "score": 0.0
+  },
+  {
+    "word": " ",
+    "start": 28.61,
+    "end": 29.291
+  },
+  {
+    "word": "start",
+    "start": 29.291,
+    "end": 29.491,
+    "score": 0.816
+  },
+  {
+    "word": " ",
+    "start": 29.491,
+    "end": 29.551
+  },
+  {
+    "word": "coding",
+    "start": 29.551,
+    "end": 29.872,
+    "score": 0.919
+  },
+  {
+    "word": " ",
+    "start": 29.872,
+    "end": 29.912
+  },
+  {
+    "word": "to",
+    "start": 29.912,
+    "end": 29.972,
+    "score": 0.978
+  },
+  {
+    "word": " ",
+    "start": 29.972,
+    "end": 30.012
+  },
+  {
+    "word": "build",
+    "start": 30.012,
+    "end": 30.172,
+    "score": 0.869
+  },
+  {
+    "word": " ",
+    "start": 30.172,
+    "end": 30.212
+  },
+  {
+    "word": "a",
+    "start": 30.212,
+    "end": 30.232,
+    "score": 0.999
+  },
+  {
+    "word": " ",
+    "start": 30.232,
+    "end": 30.272
+  },
+  {
+    "word": "prototype",
+    "start": 30.272,
+    "end": 30.713,
+    "score": 0.909
+  },
+  {
+    "word": ",",
+    "start": 30.713,
+    "end": 31.054
+  },
+  {
+    "word": " ",
+    "start": 31.054,
+    "end": 31.054
+  },
+  {
+    "word": "then",
+    "start": 31.054,
+    "end": 31.194,
+    "score": 0.759
+  },
+  {
+    "word": " ",
+    "start": 31.194,
+    "end": 31.254
+  },
+  {
+    "word": "improve",
+    "start": 31.254,
+    "end": 31.654,
+    "score": 0.807
+  },
+  {
+    "word": " ",
+    "start": 31.654,
+    "end": 31.694
+  },
+  {
+    "word": "it",
+    "start": 31.694,
+    "end": 31.775,
+    "score": 0.73
+  },
+  {
+    "word": " ",
+    "start": 31.775,
+    "end": 31.955
+  },
+  {
+    "word": "step",
+    "start": 31.955,
+    "end": 32.195,
+    "score": 0.849
+  },
+  {
+    "word": " ",
+    "start": 32.195,
+    "end": 32.235
+  },
+  {
+    "word": "by",
+    "start": 32.235,
+    "end": 32.355,
+    "score": 0.859
+  },
+  {
+    "word": " ",
+    "start": 32.355,
+    "end": 32.415
+  },
+  {
+    "word": "step",
+    "start": 32.415,
+    "end": 32.616,
+    "score": 0.863
+  },
+  {
+    "word": ".",
+    "start": 32.616,
+    "end": 35.107
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "bold-word",
+    "word": "2.",
+    "start": 35.107,
+    "end": 35.107
+  },
+  {
+    "word": " ",
+    "start": 35.107,
+    "end": 35.107
+  },
+  {
+    "word": "举例",
+    "start": 35.107,
+    "end": 35.507,
+    "score": 0.66
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "Recently",
+    "start": 36.047,
+    "end": 36.507,
+    "score": 0.868
+  },
+  {
+    "word": ",",
+    "start": 36.507,
+    "end": 36.527
+  },
+  {
+    "word": " ",
+    "start": 36.527,
+    "end": 36.527
+  },
+  {
+    "word": "I",
+    "start": 36.527,
+    "end": 36.547,
+    "score": 0.0
+  },
+  {
+    "word": " ",
+    "start": 36.547,
+    "end": 36.748
+  },
+  {
+    "word": "wanted",
+    "start": 36.748,
+    "end": 36.968,
+    "score": 0.932
+  },
+  {
+    "word": " ",
+    "start": 36.968,
+    "end": 36.988
+  },
+  {
+    "word": "to",
+    "start": 36.988,
+    "end": 37.048,
+    "score": 0.751
+  },
+  {
+    "word": " ",
+    "start": 37.048,
+    "end": 37.068
+  },
+  {
+    "word": "build",
+    "start": 37.068,
+    "end": 37.248,
+    "score": 0.796
+  },
+  {
+    "word": " ",
+    "start": 37.248,
+    "end": 37.288
+  },
+  {
+    "word": "a",
+    "start": 37.288,
+    "end": 37.308,
+    "score": 0.999
+  },
+  {
+    "word": " ",
+    "start": 37.308,
+    "end": 37.348
+  },
+  {
+    "word": "tool",
+    "start": 37.348,
+    "end": 37.588,
+    "score": 0.848
+  },
+  {
+    "word": " ",
+    "start": 37.588,
+    "end": 37.628
+  },
+  {
+    "word": "to",
+    "start": 37.628,
+    "end": 37.708,
+    "score": 0.763
+  },
+  {
+    "word": " ",
+    "start": 37.708,
+    "end": 37.768
+  },
+  {
+    "word": "help",
+    "start": 37.768,
+    "end": 37.928,
+    "score": 0.792
+  },
+  {
+    "word": " ",
+    "start": 37.928,
+    "end": 37.968
+  },
+  {
+    "word": "me",
+    "start": 37.968,
+    "end": 38.068,
+    "score": 0.835
+  },
+  {
+    "word": " ",
+    "start": 38.068,
+    "end": 38.128
+  },
+  {
+    "word": "learn",
+    "start": 38.128,
+    "end": 38.348,
+    "score": 0.716
+  },
+  {
+    "word": " ",
+    "start": 38.348,
+    "end": 38.388
+  },
+  {
+    "word": "Japanese",
+    "start": 38.388,
+    "end": 38.888,
+    "score": 0.834
+  },
+  {
+    "word": ".",
+    "start": 38.888,
+    "end": 39.428
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "It",
+    "start": 39.428,
+    "end": 39.488,
+    "score": 0.758
+  },
+  {
+    "word": " ",
+    "start": 39.488,
+    "end": 39.568
+  },
+  {
+    "word": "plays",
+    "start": 39.568,
+    "end": 39.868,
+    "score": 0.866
+  },
+  {
+    "word": " ",
+    "start": 39.868,
+    "end": 40.009
+  },
+  {
+    "word": "audio",
+    "start": 40.009,
+    "end": 40.329,
+    "score": 0.973
+  },
+  {
+    "word": " ",
+    "start": 40.329,
+    "end": 40.389
+  },
+  {
+    "word": "and",
+    "start": 40.389,
+    "end": 40.469,
+    "score": 0.855
+  },
+  {
+    "word": " ",
+    "start": 40.469,
+    "end": 40.489
+  },
+  {
+    "word": "highlights",
+    "start": 40.489,
+    "end": 40.889,
+    "score": 0.691
+  },
+  {
+    "word": " ",
+    "start": 40.889,
+    "end": 40.929
+  },
+  {
+    "word": "text",
+    "start": 40.929,
+    "end": 41.249,
+    "score": 0.942
+  },
+  {
+    "word": " ",
+    "start": 41.249,
+    "end": 41.309
+  },
+  {
+    "word": "in",
+    "start": 41.309,
+    "end": 41.409,
+    "score": 0.506
+  },
+  {
+    "word": " ",
+    "start": 41.409,
+    "end": 41.469
+  },
+  {
+    "word": "sync",
+    "start": 41.469,
+    "end": 41.769,
+    "score": 0.674
+  },
+  {
+    "word": ".",
+    "start": 41.769,
+    "end": 42.269
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "To",
+    "start": 42.269,
+    "end": 42.329,
+    "score": 0.999
+  },
+  {
+    "word": " ",
+    "start": 42.329,
+    "end": 42.369
+  },
+  {
+    "word": "make",
+    "start": 42.369,
+    "end": 42.509,
+    "score": 0.889
+  },
+  {
+    "word": " ",
+    "start": 42.509,
+    "end": 42.549
+  },
+  {
+    "word": "this",
+    "start": 42.549,
+    "end": 42.689,
+    "score": 0.799
+  },
+  {
+    "word": " ",
+    "start": 42.689,
+    "end": 42.749
+  },
+  {
+    "word": "work",
+    "start": 42.749,
+    "end": 42.989,
+    "score": 0.812
+  },
+  {
+    "word": ",",
+    "start": 42.989,
+    "end": 43.47
+  },
+  {
+    "word": " ",
+    "start": 43.47,
+    "end": 43.47
+  },
+  {
+    "word": "The",
+    "start": 43.47,
+    "end": 43.57,
+    "score": 0.839
+  },
+  {
+    "word": " ",
+    "start": 43.57,
+    "end": 43.61
+  },
+  {
+    "word": "target",
+    "start": 43.61,
+    "end": 43.95,
+    "score": 0.924
+  },
+  {
+    "word": " ",
+    "start": 43.95,
+    "end": 44.01
+  },
+  {
+    "word": "is",
+    "start": 44.01,
+    "end": 44.07,
+    "score": 0.894
+  },
+  {
+    "word": " ",
+    "start": 44.07,
+    "end": 44.11
+  },
+  {
+    "word": "to",
+    "start": 44.11,
+    "end": 44.19,
+    "score": 0.813
+  },
+  {
+    "word": " ",
+    "start": 44.19,
+    "end": 44.23
+  },
+  {
+    "word": "generate",
+    "start": 44.23,
+    "end": 44.61,
+    "score": 0.849
+  },
+  {
+    "word": " ",
+    "start": 44.61,
+    "end": 44.67
+  },
+  {
+    "word": "a",
+    "start": 44.67,
+    "end": 44.71,
+    "score": 0.558
+  },
+  {
+    "word": " ",
+    "start": 44.71,
+    "end": 44.79
+  },
+  {
+    "word": "timestamped",
+    "start": 44.79,
+    "end": 45.41,
+    "score": 0.864
+  },
+  {
+    "word": " ",
+    "start": 45.41,
+    "end": 45.51
+  },
+  {
+    "word": "JSON",
+    "start": 45.51,
+    "end": 45.95,
+    "score": 0.835
+  },
+  {
+    "word": " ",
+    "start": 45.95,
+    "end": 45.97
+  },
+  {
+    "word": "file",
+    "start": 45.97,
+    "end": 46.25,
+    "score": 0.841
+  },
+  {
+    "word": " ",
+    "start": 46.25,
+    "end": 46.29
+  },
+  {
+    "word": "from",
+    "start": 46.29,
+    "end": 46.411,
+    "score": 0.944
+  },
+  {
+    "word": " ",
+    "start": 46.411,
+    "end": 46.451
+  },
+  {
+    "word": "the",
+    "start": 46.451,
+    "end": 46.531,
+    "score": 0.839
+  },
+  {
+    "word": " ",
+    "start": 46.531,
+    "end": 46.611
+  },
+  {
+    "word": "audio",
+    "start": 46.611,
+    "end": 46.931,
+    "score": 0.921
+  },
+  {
+    "word": ".",
+    "start": 46.931,
+    "end": 47.391
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "I",
+    "start": 47.391,
+    "end": 47.451,
+    "score": 0.667
+  },
+  {
+    "word": " ",
+    "start": 47.451,
+    "end": 47.511
+  },
+  {
+    "word": "researched",
+    "start": 47.511,
+    "end": 47.911,
+    "score": 0.798
+  },
+  {
+    "word": " ",
+    "start": 47.911,
+    "end": 47.951
+  },
+  {
+    "word": "the",
+    "start": 47.951,
+    "end": 48.011,
+    "score": 1.0
+  },
+  {
+    "word": " ",
+    "start": 48.011,
+    "end": 48.051
+  },
+  {
+    "word": "tech",
+    "start": 48.051,
+    "end": 48.291,
+    "score": 0.856
+  },
+  {
+    "word": " ",
+    "start": 48.291,
+    "end": 48.351
+  },
+  {
+    "word": "and",
+    "start": 48.351,
+    "end": 48.451,
+    "score": 0.823
+  },
+  {
+    "word": " ",
+    "start": 48.451,
+    "end": 48.491
+  },
+  {
+    "word": "found",
+    "start": 48.491,
+    "end": 48.731,
+    "score": 0.746
+  },
+  {
+    "word": " ",
+    "start": 48.731,
+    "end": 48.751
+  },
+  {
+    "word": "that",
+    "start": 48.751,
+    "end": 48.871,
+    "score": 0.861
+  },
+  {
+    "word": " ",
+    "start": 48.871,
+    "end": 48.911
+  },
+  {
+    "word": "I",
+    "start": 48.911,
+    "end": 48.951,
+    "score": 0.524
+  },
+  {
+    "word": " ",
+    "start": 48.951,
+    "end": 48.991
+  },
+  {
+    "word": "needed",
+    "start": 48.991,
+    "end": 49.231,
+    "score": 0.986
+  },
+  {
+    "word": " ",
+    "start": 49.231,
+    "end": 49.271
+  },
+  {
+    "word": "to",
+    "start": 49.271,
+    "end": 49.331,
+    "score": 1.0
+  },
+  {
+    "word": " ",
+    "start": 49.331,
+    "end": 49.471
+  },
+  {
+    "word": "use",
+    "start": 49.471,
+    "end": 49.591,
+    "score": 0.646
+  },
+  {
+    "word": " ",
+    "start": 49.591,
+    "end": 49.732
+  },
+  {
+    "word": "Whisper",
+    "start": 49.732,
+    "end": 50.192,
+    "score": 0.795
+  },
+  {
+    "word": ",",
+    "start": 50.192,
+    "end": 50.632
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "So",
+    "start": 50.632,
+    "end": 50.832,
+    "score": 0.876
+  },
+  {
+    "word": " ",
+    "start": 50.832,
+    "end": 50.952
+  },
+  {
+    "word": "I",
+    "start": 50.952,
+    "end": 51.012,
+    "score": 0.631
+  },
+  {
+    "word": " ",
+    "start": 51.012,
+    "end": 51.052
+  },
+  {
+    "word": "wrote",
+    "start": 51.052,
+    "end": 51.312,
+    "score": 0.731
+  },
+  {
+    "word": " ",
+    "start": 51.312,
+    "end": 51.332
+  },
+  {
+    "word": "a",
+    "start": 51.332,
+    "end": 51.372,
+    "score": 0.51
+  },
+  {
+    "word": " ",
+    "start": 51.372,
+    "end": 51.412
+  },
+  {
+    "word": "python",
+    "start": 51.412,
+    "end": 51.832,
+    "score": 0.942
+  },
+  {
+    "word": " ",
+    "start": 51.832,
+    "end": 51.872
+  },
+  {
+    "word": "script",
+    "start": 51.872,
+    "end": 52.212,
+    "score": 0.826
+  },
+  {
+    "word": " ",
+    "start": 52.212,
+    "end": 52.292
+  },
+  {
+    "word": "and",
+    "start": 52.292,
+    "end": 52.392,
+    "score": 0.802
+  },
+  {
+    "word": " ",
+    "start": 52.392,
+    "end": 52.432
+  },
+  {
+    "word": "built",
+    "start": 52.432,
+    "end": 52.652,
+    "score": 0.681
+  },
+  {
+    "word": " ",
+    "start": 52.652,
+    "end": 52.792
+  },
+  {
+    "word": "a",
+    "start": 52.792,
+    "end": 52.812,
+    "score": 0.999
+  },
+  {
+    "word": " ",
+    "start": 52.812,
+    "end": 52.953
+  },
+  {
+    "word": "simple",
+    "start": 52.953,
+    "end": 53.273,
+    "score": 0.999
+  },
+  {
+    "word": " ",
+    "start": 53.273,
+    "end": 53.433
+  },
+  {
+    "word": "UI",
+    "start": 53.433,
+    "end": 53.673,
+    "score": 0.496
+  },
+  {
+    "word": ".",
+    "start": 53.673,
+    "end": 54.633
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "Then",
+    "start": 54.633,
+    "end": 54.793,
+    "score": 0.856
+  },
+  {
+    "word": " ",
+    "start": 54.793,
+    "end": 54.833
+  },
+  {
+    "word": "I",
+    "start": 54.833,
+    "end": 54.893,
+    "score": 0.667
+  },
+  {
+    "word": " ",
+    "start": 54.893,
+    "end": 54.933
+  },
+  {
+    "word": "launched",
+    "start": 54.933,
+    "end": 55.253,
+    "score": 0.911
+  },
+  {
+    "word": " ",
+    "start": 55.253,
+    "end": 55.313
+  },
+  {
+    "word": "it",
+    "start": 55.313,
+    "end": 55.374,
+    "score": 0.75
+  },
+  {
+    "word": ".",
+    "start": 55.374,
+    "end": 56.054
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "Recently",
+    "start": 56.054,
+    "end": 56.454,
+    "score": 0.756
+  },
+  {
+    "word": ",",
+    "start": 56.454,
+    "end": 56.574
+  },
+  {
+    "word": " ",
+    "start": 56.574,
+    "end": 56.574
+  },
+  {
+    "word": "I",
+    "start": 56.574,
+    "end": 56.614,
+    "score": 0.878
+  },
+  {
+    "word": " ",
+    "start": 56.614,
+    "end": 56.674
+  },
+  {
+    "word": "wanted",
+    "start": 56.674,
+    "end": 56.894,
+    "score": 0.925
+  },
+  {
+    "word": " ",
+    "start": 56.894,
+    "end": 56.934
+  },
+  {
+    "word": "to",
+    "start": 56.934,
+    "end": 56.994,
+    "score": 0.899
+  },
+  {
+    "word": " ",
+    "start": 56.994,
+    "end": 57.034
+  },
+  {
+    "word": "build",
+    "start": 57.034,
+    "end": 57.235,
+    "score": 0.82
+  },
+  {
+    "word": " ",
+    "start": 57.235,
+    "end": 57.275
+  },
+  {
+    "word": "a",
+    "start": 57.275,
+    "end": 57.315,
+    "score": 0.502
+  },
+  {
+    "word": " ",
+    "start": 57.315,
+    "end": 57.375
+  },
+  {
+    "word": "tool",
+    "start": 57.375,
+    "end": 57.715,
+    "score": 0.795
+  },
+  {
+    "word": " ",
+    "start": 57.715,
+    "end": 57.755
+  },
+  {
+    "word": "to",
+    "start": 57.755,
+    "end": 57.835,
+    "score": 0.687
+  },
+  {
+    "word": " ",
+    "start": 57.835,
+    "end": 57.875
+  },
+  {
+    "word": "help",
+    "start": 57.875,
+    "end": 57.995,
+    "score": 0.876
+  },
+  {
+    "word": " ",
+    "start": 57.995,
+    "end": 58.035
+  },
+  {
+    "word": "me",
+    "start": 58.035,
+    "end": 58.115,
+    "score": 0.752
+  },
+  {
+    "word": " ",
+    "start": 58.115,
+    "end": 58.155
+  },
+  {
+    "word": "learn",
+    "start": 58.155,
+    "end": 58.335,
+    "score": 0.833
+  },
+  {
+    "word": " ",
+    "start": 58.335,
+    "end": 58.375
+  },
+  {
+    "word": "Japanese",
+    "start": 58.375,
+    "end": 58.876,
+    "score": 0.873
+  },
+  {
+    "word": ".",
+    "start": 58.876,
+    "end": 59.276
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "It",
+    "start": 59.276,
+    "end": 59.316,
+    "score": 1.0
+  },
+  {
+    "word": " ",
+    "start": 59.316,
+    "end": 59.376
+  },
+  {
+    "word": "plays",
+    "start": 59.376,
+    "end": 59.596,
+    "score": 0.792
+  },
+  {
+    "word": " ",
+    "start": 59.596,
+    "end": 59.756
+  },
+  {
+    "word": "audio",
+    "start": 59.756,
+    "end": 60.076,
+    "score": 0.898
+  },
+  {
+    "word": " ",
+    "start": 60.076,
+    "end": 60.116
+  },
+  {
+    "word": "and",
+    "start": 60.116,
+    "end": 60.196,
+    "score": 0.946
+  },
+  {
+    "word": " ",
+    "start": 60.196,
+    "end": 60.216
+  },
+  {
+    "word": "highlights",
+    "start": 60.216,
+    "end": 60.617,
+    "score": 0.83
+  },
+  {
+    "word": " ",
+    "start": 60.617,
+    "end": 60.677
+  },
+  {
+    "word": "text",
+    "start": 60.677,
+    "end": 60.957,
+    "score": 0.95
+  },
+  {
+    "word": " ",
+    "start": 60.957,
+    "end": 61.017
+  },
+  {
+    "word": "in",
+    "start": 61.017,
+    "end": 61.117,
+    "score": 0.845
+  },
+  {
+    "word": " ",
+    "start": 61.117,
+    "end": 61.157
+  },
+  {
+    "word": "sync",
+    "start": 61.157,
+    "end": 61.417,
+    "score": 0.63
+  },
+  {
+    "word": ".",
+    "start": 61.417,
+    "end": 61.937
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "To",
+    "start": 61.937,
+    "end": 62.017,
+    "score": 0.996
+  },
+  {
+    "word": " ",
+    "start": 62.017,
+    "end": 62.077
+  },
+  {
+    "word": "make",
+    "start": 62.077,
+    "end": 62.237,
+    "score": 0.813
+  },
+  {
+    "word": " ",
+    "start": 62.237,
+    "end": 62.258
+  },
+  {
+    "word": "this",
+    "start": 62.258,
+    "end": 62.438,
+    "score": 0.741
+  },
+  {
+    "word": " ",
+    "start": 62.438,
+    "end": 62.518
+  },
+  {
+    "word": "work",
+    "start": 62.518,
+    "end": 62.778,
+    "score": 0.98
+  },
+  {
+    "word": ",",
+    "start": 62.778,
+    "end": 62.898
+  },
+  {
+    "word": " ",
+    "start": 62.898,
+    "end": 62.898
+  },
+  {
+    "word": "The",
+    "start": 62.898,
+    "end": 62.998,
+    "score": 0.688
+  },
+  {
+    "word": " ",
+    "start": 62.998,
+    "end": 63.038
+  },
+  {
+    "word": "target",
+    "start": 63.038,
+    "end": 63.378,
+    "score": 0.966
+  },
+  {
+    "word": " ",
+    "start": 63.378,
+    "end": 63.438
+  },
+  {
+    "word": "is",
+    "start": 63.438,
+    "end": 63.518,
+    "score": 0.671
+  },
+  {
+    "word": " ",
+    "start": 63.518,
+    "end": 63.538
+  },
+  {
+    "word": "to",
+    "start": 63.538,
+    "end": 63.618,
+    "score": 0.92
+  },
+  {
+    "word": " ",
+    "start": 63.618,
+    "end": 63.678
+  },
+  {
+    "word": "generate",
+    "start": 63.678,
+    "end": 64.039,
+    "score": 0.768
+  },
+  {
+    "word": " ",
+    "start": 64.039,
+    "end": 64.059
+  },
+  {
+    "word": "a",
+    "start": 64.059,
+    "end": 64.099,
+    "score": 0.631
+  },
+  {
+    "word": " ",
+    "start": 64.099,
+    "end": 64.139
+  },
+  {
+    "word": "timestamped",
+    "start": 64.139,
+    "end": 64.719,
+    "score": 0.874
+  },
+  {
+    "word": " ",
+    "start": 64.719,
+    "end": 64.779
+  },
+  {
+    "word": "JSON",
+    "start": 64.779,
+    "end": 65.239,
+    "score": 0.891
+  },
+  {
+    "word": " ",
+    "start": 65.239,
+    "end": 65.279
+  },
+  {
+    "word": "file",
+    "start": 65.279,
+    "end": 65.579,
+    "score": 0.944
+  },
+  {
+    "word": " ",
+    "start": 65.579,
+    "end": 65.639
+  },
+  {
+    "word": "from",
+    "start": 65.639,
+    "end": 65.78,
+    "score": 0.792
+  },
+  {
+    "word": " ",
+    "start": 65.78,
+    "end": 65.82
+  },
+  {
+    "word": "the",
+    "start": 65.82,
+    "end": 65.9,
+    "score": 0.85
+  },
+  {
+    "word": " ",
+    "start": 65.9,
+    "end": 65.98
+  },
+  {
+    "word": "audio",
+    "start": 65.98,
+    "end": 66.32,
+    "score": 0.907
+  },
+  {
+    "word": ".",
+    "start": 66.32,
+    "end": 66.76
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "I",
+    "start": 66.76,
+    "end": 66.82,
+    "score": 0.667
+  },
+  {
+    "word": " ",
+    "start": 66.82,
+    "end": 66.88
+  },
+  {
+    "word": "researched",
+    "start": 66.88,
+    "end": 67.3,
+    "score": 0.805
+  },
+  {
+    "word": " ",
+    "start": 67.3,
+    "end": 67.32
+  },
+  {
+    "word": "the",
+    "start": 67.32,
+    "end": 67.4,
+    "score": 0.99
+  },
+  {
+    "word": " ",
+    "start": 67.4,
+    "end": 67.44
+  },
+  {
+    "word": "tech",
+    "start": 67.44,
+    "end": 67.701,
+    "score": 0.924
+  },
+  {
+    "word": " ",
+    "start": 67.701,
+    "end": 67.841
+  },
+  {
+    "word": "and",
+    "start": 67.841,
+    "end": 67.941,
+    "score": 0.847
+  },
+  {
+    "word": " ",
+    "start": 67.941,
+    "end": 68.001
+  },
+  {
+    "word": "found",
+    "start": 68.001,
+    "end": 68.221,
+    "score": 0.88
+  },
+  {
+    "word": " ",
+    "start": 68.221,
+    "end": 68.241
+  },
+  {
+    "word": "that",
+    "start": 68.241,
+    "end": 68.361,
+    "score": 0.836
+  },
+  {
+    "word": " ",
+    "start": 68.361,
+    "end": 68.401
+  },
+  {
+    "word": "I",
+    "start": 68.401,
+    "end": 68.441,
+    "score": 0.5
+  },
+  {
+    "word": " ",
+    "start": 68.441,
+    "end": 68.481
+  },
+  {
+    "word": "needed",
+    "start": 68.481,
+    "end": 68.721,
+    "score": 0.868
+  },
+  {
+    "word": " ",
+    "start": 68.721,
+    "end": 68.761
+  },
+  {
+    "word": "to",
+    "start": 68.761,
+    "end": 68.821,
+    "score": 0.758
+  },
+  {
+    "word": " ",
+    "start": 68.821,
+    "end": 68.941
+  },
+  {
+    "word": "use",
+    "start": 68.941,
+    "end": 69.061,
+    "score": 0.783
+  },
+  {
+    "word": " ",
+    "start": 69.061,
+    "end": 69.642
+  },
+  {
+    "word": "Whisper",
+    "start": 69.642,
+    "end": 69.882,
+    "score": 0.997
+  },
+  {
+    "word": ",",
+    "start": 69.882,
+    "end": 70.406
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "So",
+    "start": 70.406,
+    "end": 70.526,
+    "score": 0.678
+  },
+  {
+    "word": " ",
+    "start": 70.526,
+    "end": 70.566
+  },
+  {
+    "word": "I",
+    "start": 70.566,
+    "end": 70.606,
+    "score": 0.619
+  },
+  {
+    "word": " ",
+    "start": 70.606,
+    "end": 70.647
+  },
+  {
+    "word": "wrote",
+    "start": 70.647,
+    "end": 70.867,
+    "score": 0.845
+  },
+  {
+    "word": " ",
+    "start": 70.867,
+    "end": 71.027
+  },
+  {
+    "word": "a",
+    "start": 71.027,
+    "end": 71.047,
+    "score": 0.999
+  },
+  {
+    "word": " ",
+    "start": 71.047,
+    "end": 71.087
+  },
+  {
+    "word": "python",
+    "start": 71.087,
+    "end": 71.428,
+    "score": 0.89
+  },
+  {
+    "word": " ",
+    "start": 71.428,
+    "end": 71.448
+  },
+  {
+    "word": "script",
+    "start": 71.448,
+    "end": 71.708,
+    "score": 0.791
+  },
+  {
+    "word": " ",
+    "start": 71.708,
+    "end": 71.789
+  },
+  {
+    "word": "and",
+    "start": 71.789,
+    "end": 71.869,
+    "score": 0.857
+  },
+  {
+    "word": " ",
+    "start": 71.869,
+    "end": 71.909
+  },
+  {
+    "word": "built",
+    "start": 71.909,
+    "end": 72.149,
+    "score": 0.638
+  },
+  {
+    "word": " ",
+    "start": 72.149,
+    "end": 72.189
+  },
+  {
+    "word": "a",
+    "start": 72.189,
+    "end": 72.229,
+    "score": 0.571
+  },
+  {
+    "word": " ",
+    "start": 72.229,
+    "end": 72.31
+  },
+  {
+    "word": "simple",
+    "start": 72.31,
+    "end": 72.61,
+    "score": 0.882
+  },
+  {
+    "word": " ",
+    "start": 72.61,
+    "end": 72.791
+  },
+  {
+    "word": "UI",
+    "start": 72.791,
+    "end": 73.151,
+    "score": 0.375
+  },
+  {
+    "word": ".",
+    "start": 73.151,
+    "end": 73.913
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "Then",
+    "start": 73.913,
+    "end": 74.053,
+    "score": 0.75
+  },
+  {
+    "word": " ",
+    "start": 74.053,
+    "end": 74.093
+  },
+  {
+    "word": "I",
+    "start": 74.093,
+    "end": 74.153,
+    "score": 0.797
+  },
+  {
+    "word": " ",
+    "start": 74.153,
+    "end": 74.193
+  },
+  {
+    "word": "launched",
+    "start": 74.193,
+    "end": 74.494,
+    "score": 0.862
+  },
+  {
+    "word": " ",
+    "start": 74.494,
+    "end": 74.554
+  },
+  {
+    "word": "it",
+    "start": 74.554,
+    "end": 74.594,
+    "score": 0.998
+  },
+  {
+    "word": ".",
+    "start": 74.594,
+    "end": 75.095
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "bold-word",
+    "word": "3.",
+    "start": 75.095,
+    "end": 75.095
+  },
+  {
+    "word": " ",
+    "start": 75.095,
+    "end": 75.095
+  },
+  {
+    "word": "总结思考",
+    "start": 75.095,
+    "end": 75.355,
+    "score": 0.829
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "Now",
+    "start": 77.219,
+    "end": 77.379,
+    "score": 0.874
+  },
+  {
+    "word": " ",
+    "start": 77.379,
+    "end": 77.439
+  },
+  {
+    "word": "I",
+    "start": 77.439,
+    "end": 77.519,
+    "score": 0.751
+  },
+  {
+    "word": " ",
+    "start": 77.519,
+    "end": 77.599
+  },
+  {
+    "word": "use",
+    "start": 77.599,
+    "end": 77.72,
+    "score": 0.826
+  },
+  {
+    "word": " ",
+    "start": 77.72,
+    "end": 77.76
+  },
+  {
+    "word": "this",
+    "start": 77.76,
+    "end": 77.88,
+    "score": 0.884
+  },
+  {
+    "word": " ",
+    "start": 77.88,
+    "end": 77.92
+  },
+  {
+    "word": "tool",
+    "start": 77.92,
+    "end": 78.181,
+    "score": 0.79
+  },
+  {
+    "word": " ",
+    "start": 78.181,
+    "end": 78.341
+  },
+  {
+    "word": "almost",
+    "start": 78.341,
+    "end": 78.661,
+    "score": 0.858
+  },
+  {
+    "word": " ",
+    "start": 78.661,
+    "end": 78.802
+  },
+  {
+    "word": "every",
+    "start": 78.802,
+    "end": 78.982,
+    "score": 0.871
+  },
+  {
+    "word": " ",
+    "start": 78.982,
+    "end": 79.022
+  },
+  {
+    "word": "day",
+    "start": 79.022,
+    "end": 79.142,
+    "score": 0.852
+  },
+  {
+    "word": " ",
+    "start": 79.142,
+    "end": 79.182
+  },
+  {
+    "word": "to",
+    "start": 79.182,
+    "end": 79.283,
+    "score": 0.609
+  },
+  {
+    "word": " ",
+    "start": 79.283,
+    "end": 79.303
+  },
+  {
+    "word": "study",
+    "start": 79.303,
+    "end": 79.523,
+    "score": 0.998
+  },
+  {
+    "word": " ",
+    "start": 79.523,
+    "end": 79.563
+  },
+  {
+    "start": 79.563,
+    "end": 79.563,
+    "word": "Japanese"
+  },
+  {
+    "word": ".",
+    "start": 79.563,
+    "end": 79.563
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "start": 79.563,
+    "end": 79.563,
+    "word": "This"
+  },
+  {
+    "word": " ",
+    "start": 79.563,
+    "end": 79.563
+  },
+  {
+    "start": 79.563,
+    "end": 79.563,
+    "word": "project"
+  },
+  {
+    "word": " ",
+    "start": 79.563,
+    "end": 79.563
+  },
+  {
+    "start": 79.563,
+    "end": 79.563,
+    "word": "showed"
+  },
+  {
+    "word": " ",
+    "start": 79.563,
+    "end": 79.563
+  },
+  {
+    "start": 79.563,
+    "end": 79.563,
+    "word": "me"
+  },
+  {
+    "word": " ",
+    "start": 79.563,
+    "end": 79.563
+  },
+  {
+    "start": 79.563,
+    "end": 79.563,
+    "word": "how"
+  },
+  {
+    "word": " ",
+    "start": 79.563,
+    "end": 79.563
+  },
+  {
+    "start": 79.563,
+    "end": 79.563,
+    "word": "to"
+  },
+  {
+    "word": " ",
+    "start": 79.563,
+    "end": 79.563
+  },
+  {
+    "start": 79.563,
+    "end": 79.563,
+    "word": "learn"
+  },
+  {
+    "word": " ",
+    "start": 79.563,
+    "end": 79.563
+  },
+  {
+    "start": 79.563,
+    "end": 79.563,
+    "word": "fast"
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "start": 79.563,
+    "end": 79.563,
+    "word": "and"
+  },
+  {
+    "word": " ",
+    "start": 79.563,
+    "end": 79.563
+  },
+  {
+    "start": 79.563,
+    "end": 79.563,
+    "word": "handle"
+  },
+  {
+    "word": " ",
+    "start": 79.563,
+    "end": 79.563
+  },
+  {
+    "start": 79.563,
+    "end": 79.563,
+    "word": "tasks"
+  },
+  {
+    "word": " ",
+    "start": 79.563,
+    "end": 79.563
+  },
+  {
+    "start": 79.563,
+    "end": 79.563,
+    "word": "outside"
+  },
+  {
+    "word": " ",
+    "start": 79.563,
+    "end": 79.563
+  },
+  {
+    "start": 79.563,
+    "end": 79.563,
+    "word": "my"
+  },
+  {
+    "word": " ",
+    "start": 79.563,
+    "end": 79.563
+  },
+  {
+    "start": 79.563,
+    "end": 79.563,
+    "word": "comfort"
+  },
+  {
+    "word": " ",
+    "start": 79.563,
+    "end": 79.563
+  },
+  {
+    "start": 79.563,
+    "end": 79.563,
+    "word": "zone"
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "start": 79.563,
+    "end": 79.563,
+    "word": "Now"
+  },
+  {
+    "word": " ",
+    "start": 79.563,
+    "end": 79.563
+  },
+  {
+    "start": 79.563,
+    "end": 79.563,
+    "word": "I"
+  },
+  {
+    "word": " ",
+    "start": 79.563,
+    "end": 79.563
+  },
+  {
+    "word": "use",
+    "start": 79.563,
+    "end": 80.024,
+    "score": 0.864
+  },
+  {
+    "word": " ",
+    "start": 80.024,
+    "end": 80.304
+  },
+  {
+    "word": "this",
+    "start": 80.304,
+    "end": 80.465,
+    "score": 0.751
+  },
+  {
+    "word": " ",
+    "start": 80.465,
+    "end": 80.525
+  },
+  {
+    "start": 80.525,
+    "end": 80.525,
+    "word": "tool"
+  },
+  {
+    "word": " ",
+    "start": 80.525,
+    "end": 80.525
+  },
+  {
+    "start": 80.525,
+    "end": 80.525,
+    "word": "almost"
+  },
+  {
+    "word": " ",
+    "start": 80.525,
+    "end": 80.525
+  },
+  {
+    "start": 80.525,
+    "end": 80.525,
+    "word": "every"
+  },
+  {
+    "word": " ",
+    "start": 80.525,
+    "end": 80.525
+  },
+  {
+    "start": 80.525,
+    "end": 80.525,
+    "word": "day"
+  },
+  {
+    "word": " ",
+    "start": 80.525,
+    "end": 80.525
+  },
+  {
+    "start": 80.525,
+    "end": 80.525,
+    "word": "to"
+  },
+  {
+    "word": " ",
+    "start": 80.525,
+    "end": 80.525
+  },
+  {
+    "start": 80.525,
+    "end": 80.525,
+    "word": "study"
+  },
+  {
+    "word": " ",
+    "start": 80.525,
+    "end": 80.525
+  },
+  {
+    "start": 80.525,
+    "end": 80.525,
+    "word": "Japanese"
+  },
+  {
+    "word": ".",
+    "start": 80.525,
+    "end": 80.525
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "start": 80.525,
+    "end": 80.525,
+    "word": "This"
+  },
+  {
+    "word": " ",
+    "start": 80.525,
+    "end": 80.525
+  },
+  {
+    "word": "project",
+    "start": 80.525,
+    "end": 80.906,
+    "score": 0.849
+  },
+  {
+    "word": " ",
+    "start": 80.906,
+    "end": 80.946
+  },
+  {
+    "word": "showed",
+    "start": 80.946,
+    "end": 81.146,
+    "score": 0.914
+  },
+  {
+    "word": " ",
+    "start": 81.146,
+    "end": 81.186
+  },
+  {
+    "word": "me",
+    "start": 81.186,
+    "end": 81.306,
+    "score": 0.614
+  },
+  {
+    "word": " ",
+    "start": 81.306,
+    "end": 81.366
+  },
+  {
+    "word": "how",
+    "start": 81.366,
+    "end": 81.507,
+    "score": 0.854
+  },
+  {
+    "word": " ",
+    "start": 81.507,
+    "end": 81.567
+  },
+  {
+    "word": "to",
+    "start": 81.567,
+    "end": 81.647,
+    "score": 0.858
+  },
+  {
+    "word": " ",
+    "start": 81.647,
+    "end": 81.687
+  },
+  {
+    "word": "learn",
+    "start": 81.687,
+    "end": 81.907,
+    "score": 0.682
+  },
+  {
+    "word": " ",
+    "start": 81.907,
+    "end": 82.028
+  },
+  {
+    "word": "fast",
+    "start": 82.028,
+    "end": 82.428,
+    "score": 0.872
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "and",
+    "start": 82.909,
+    "end": 83.03,
+    "score": 0.706
+  },
+  {
+    "word": " ",
+    "start": 83.03,
+    "end": 83.09
+  },
+  {
+    "word": "handle",
+    "start": 83.09,
+    "end": 83.41,
+    "score": 0.848
+  },
+  {
+    "word": " ",
+    "start": 83.41,
+    "end": 83.43
+  },
+  {
+    "word": "tasks",
+    "start": 83.43,
+    "end": 83.871,
+    "score": 0.968
+  },
+  {
+    "word": " ",
+    "start": 83.871,
+    "end": 84.051
+  },
+  {
+    "word": "outside",
+    "start": 84.051,
+    "end": 84.392,
+    "score": 0.825
+  },
+  {
+    "word": " ",
+    "start": 84.392,
+    "end": 84.412
+  },
+  {
+    "word": "my",
+    "start": 84.412,
+    "end": 84.512,
+    "score": 0.813
+  },
+  {
+    "word": " ",
+    "start": 84.512,
+    "end": 84.552
+  },
+  {
+    "word": "comfort",
+    "start": 84.552,
+    "end": 84.873,
+    "score": 0.941
+  },
+  {
+    "word": " ",
+    "start": 84.873,
+    "end": 84.893
+  },
+  {
+    "word": "zone",
+    "start": 84.893,
+    "end": 85.113,
+    "score": 0.752
+  }
+]

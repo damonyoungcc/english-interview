@@ -45,9 +45,9 @@
       "word_corrected_json": "0.corrected.word.json"
     },
     "01": {
-      "audio_file": "01.m4a",
+      "audio_file": "1.m4a",
       "path": "data/real-interview/01",
-      "word_corrected_json": "01.corrected.word.json"
+      "word_corrected_json": "1.corrected.word.json"
     },
     "02": {
       "audio_file": "2.m4a",
@@ -55,14 +55,29 @@
       "word_corrected_json": "2.corrected.word.json"
     },
     "03": {
-      "audio_file": "333.m4a",
+      "audio_file": "3.m4a",
       "path": "data/real-interview/03",
-      "word_corrected_json": "333.corrected.word.json"
+      "word_corrected_json": "3.corrected.word.json"
     },
     "04": {
       "audio_file": "4.m4a",
       "path": "data/real-interview/04",
       "word_corrected_json": "4.corrected.word.json"
+    },
+    "05": {
+      "audio_file": "5.m4a",
+      "path": "data/real-interview/05",
+      "word_corrected_json": "5.corrected.word.json"
+    },
+    "06": {
+      "audio_file": "6.m4a",
+      "path": "data/real-interview/06",
+      "word_corrected_json": "6.corrected.word.json"
+    },
+    "07": {
+      "audio_file": "7.m4a",
+      "path": "data/real-interview/07",
+      "word_corrected_json": "7.corrected.word.json"
     }
   }
 }

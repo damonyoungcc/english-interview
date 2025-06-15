@@ -15,22 +15,22 @@ Finally, I start coding to build a prototype, then improve it step by step.
 Recently, I wanted to build a tool to help me learn Japanese.
 It plays audio and highlights text in sync.
 To make this work, The target is to generate a timestamped JSON file from the audio.
-I research the tech,
-wrote a script and built a simple UI.
-Then I published it and shared it with friends.
-They gave useful feedback, and I kept improving it.
+I researched the tech and found that I needed to use Whisper,
+So I wrote a python script and built a simple UI.
+Then I launched it.
 
 Recently, I wanted to build a tool to help me learn Japanese.
 It plays audio and highlights text in sync.
 To make this work, The target is to generate a timestamped JSON file from the audio.
-I research the tech,
-wrote a script and built a simple UI.
-Then I published it and shared it with friends.
-They gave useful feedback, and I kept improving it.
+I researched the tech and found that I needed to use Whisper,
+So I wrote a python script and built a simple UI.
+Then I launched it.
 
 3. 总结思考
+Now I use this tool almost every day to study Japanese.
 This project showed me how to learn fast
 and handle tasks outside my comfort zone
 
+Now I use this tool almost every day to study Japanese.
 This project showed me how to learn fast
 and handle tasks outside my comfort zone
