@@ -1,24 +1,24 @@
 1. 介绍，擅长的经验
 Hi, I’m Damon Young. Great to meet you.
 I’ve been working as a front-end engineer for over 7 years.
-I’ve built many web apps using React.
+and built many web apps using React.
 I’m skilled at H5 web pages and mobile-friendly interactions.
 
 Hi, I’m Damon Young. Great to meet you.
 I’ve been working as a front-end engineer for over 7 years.
-I’ve built many web apps using React.
+and built many web apps using React.
 I’m skilled at H5 web pages and mobile-friendly interactions.
 
 2. 入行，行业经验
-I started my career during my internship at ZBJ. a tech company in China.
+I started my career during my internship at ZBJ. the largest internet company in Chongqing, China.
 At that time, I helped upgrade their official website to version 2.0 from jQuery to Vue.
 Since then, I’ve got a lot of experience in different industries,
-including e-commerce platforms, banking systems, and internal admin system.
+including e-commerce platforms, banking systems.
 
-I started my career during my internship at ZBJ. a tech company in China.
+I started my career during my internship at ZBJ. the largest internet company in Chongqing, China.
 At that time, I helped upgrade their official website to version 2.0 from jQuery to Vue.
 Since then, I’ve got a lot of experience in different industries,
-including e-commerce platforms, banking systems, and internal admin system.
+including e-commerce platforms, banking systems.
 
 3. 上家公司的项目经历和职责
 At my last company, I was both a key developer and a tech lead.
@@ -33,12 +33,10 @@ which helped unify the user experience across all our internal systems.
 
 4. 开源贡献
 I’ve also contributed code to the open-source project Ant Design Mobile,
-which has over 10,000 stars on GitHub.
 I helped fix UI bugs, improve test coverage,
 and I’m the top 20 contributors to the project.
 
 I’ve also contributed code to the open-source project Ant Design Mobile,
-which has over 10,000 stars on GitHub.
 I helped fix UI bugs, improve test coverage,
 and I’m the top 20 contributors to the project.
 
