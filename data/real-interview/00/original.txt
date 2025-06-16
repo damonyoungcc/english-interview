@@ -22,12 +22,12 @@ including e-commerce platforms, banking systems.
 
 3. 上家公司的项目经历和职责
 At my last company, I was both a key developer and a tech lead.
-I led the front-end development of banking rewards and finance systems.
+I led the front-end development of banking rewards systems.
 I also built a shared admin system template in React,
 which helped unify the user experience across all our internal systems.
 
 At my last company, I was both a key developer and a tech lead.
-I led the front-end development of banking rewards and finance systems.
+I led the front-end development of banking rewards systems.
 I also built a shared admin system template in React,
 which helped unify the user experience across all our internal systems.
 
