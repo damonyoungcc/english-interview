@@ -399,7 +399,7 @@
     "end": 9.915
   },
   {
-    "word": "good",
+    "word": "skilled",
     "start": 9.915,
     "end": 10.095,
     "score": 0.74
@@ -421,7 +421,17 @@
     "end": 10.415
   },
   {
-    "word": "H5",
+    "start": 10.415,
+    "end": 10.415,
+    "word": "H5"
+  },
+  {
+    "word": " ",
+    "start": 10.415,
+    "end": 10.415
+  },
+  {
+    "word": "web",
     "start": 10.415,
     "end": 10.475,
     "score": 0.701
@@ -863,7 +873,7 @@
     "end": 22.479
   },
   {
-    "word": "good",
+    "word": "skilled",
     "start": 22.479,
     "end": 22.679,
     "score": 0.786
@@ -885,7 +895,17 @@
     "end": 22.999
   },
   {
-    "word": "H5",
+    "start": 22.999,
+    "end": 22.999,
+    "word": "H5"
+  },
+  {
+    "word": " ",
+    "start": 22.999,
+    "end": 22.999
+  },
+  {
+    "word": "web",
     "start": 22.999,
     "end": 23.319,
     "score": 0.529
@@ -1225,7 +1245,27 @@
     "end": 35.795
   },
   {
-    "word": "0",
+    "start": 35.795,
+    "end": 35.795,
+    "word": "0"
+  },
+  {
+    "word": " ",
+    "start": 35.795,
+    "end": 35.795
+  },
+  {
+    "start": 35.795,
+    "end": 35.795,
+    "word": "from"
+  },
+  {
+    "word": " ",
+    "start": 35.795,
+    "end": 35.795
+  },
+  {
+    "word": "jQuery",
     "start": 35.795,
     "end": 35.795
   },
@@ -1235,7 +1275,7 @@
     "end": 35.795
   },
   {
-    "word": "using",
+    "word": "to",
     "start": 35.795,
     "end": 36.015,
     "score": 0.755
@@ -1361,28 +1401,6 @@
   {
     "word": " ",
     "start": 39.077,
-    "end": 39.117
-  },
-  {
-    "word": "building",
-    "start": 39.117,
-    "end": 39.398,
-    "score": 0.775
-  },
-  {
-    "word": " ",
-    "start": 39.398,
-    "end": 39.658
-  },
-  {
-    "word": "apps",
-    "start": 39.658,
-    "end": 39.858,
-    "score": 0.674
-  },
-  {
-    "word": " ",
-    "start": 39.858,
     "end": 39.918
   },
   {
@@ -1785,7 +1803,27 @@
     "end": 53.668
   },
   {
-    "word": "0",
+    "start": 53.668,
+    "end": 53.668,
+    "word": "0"
+  },
+  {
+    "word": " ",
+    "start": 53.668,
+    "end": 53.668
+  },
+  {
+    "start": 53.668,
+    "end": 53.668,
+    "word": "from"
+  },
+  {
+    "word": " ",
+    "start": 53.668,
+    "end": 53.668
+  },
+  {
+    "word": "jQuery",
     "start": 53.668,
     "end": 53.668
   },
@@ -1795,7 +1833,7 @@
     "end": 53.668
   },
   {
-    "word": "using",
+    "word": "to",
     "start": 53.668,
     "end": 53.888,
     "score": 0.895
@@ -1921,28 +1959,6 @@
   {
     "word": " ",
     "start": 57.09,
-    "end": 57.15
-  },
-  {
-    "word": "building",
-    "start": 57.15,
-    "end": 57.45,
-    "score": 0.851
-  },
-  {
-    "word": " ",
-    "start": 57.45,
-    "end": 57.59
-  },
-  {
-    "word": "apps",
-    "start": 57.59,
-    "end": 57.75,
-    "score": 0.662
-  },
-  {
-    "word": " ",
-    "start": 57.75,
     "end": 57.83
   },
   {
@@ -2304,7 +2320,7 @@
     "end": 72.736
   },
   {
-    "word": "handled",
+    "word": "led",
     "start": 72.736,
     "end": 73.016,
     "score": 0.891
@@ -2348,7 +2364,7 @@
     "end": 73.576
   },
   {
-    "word": "project",
+    "word": "development",
     "start": 73.576,
     "end": 73.977,
     "score": 0.992
@@ -2359,7 +2375,7 @@
     "end": 74.017
   },
   {
-    "word": "for",
+    "word": "of",
     "start": 74.017,
     "end": 74.137,
     "score": 0.857
@@ -2846,7 +2862,7 @@
     "end": 89.087
   },
   {
-    "word": "handled",
+    "word": "led",
     "start": 89.087,
     "end": 89.408,
     "score": 0.825
@@ -2890,7 +2906,7 @@
     "end": 89.948
   },
   {
-    "word": "project",
+    "word": "development",
     "start": 89.948,
     "end": 90.389,
     "score": 0.885
@@ -2901,7 +2917,7 @@
     "end": 90.449
   },
   {
-    "word": "for",
+    "word": "of",
     "start": 90.449,
     "end": 90.569,
     "score": 0.808
