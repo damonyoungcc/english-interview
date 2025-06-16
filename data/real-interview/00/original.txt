@@ -10,12 +10,12 @@ I’ve built many web apps using React.
 I’m skilled at H5 web pages and mobile-friendly interactions.
 
 2. 入行，行业经验
-I started my career during my internship at ZBJ.
+I started my career during my internship at ZBJ. a tech company in China.
 At that time, I helped upgrade their official website to version 2.0 from jQuery to Vue.
 Since then, I’ve got a lot of experience in different industries,
 including e-commerce platforms, banking systems, and internal admin system.
 
-I started my career during my internship at ZBJ.
+I started my career during my internship at ZBJ. a tech company in China.
 At that time, I helped upgrade their official website to version 2.0 from jQuery to Vue.
 Since then, I’ve got a lot of experience in different industries,
 including e-commerce platforms, banking systems, and internal admin system.
