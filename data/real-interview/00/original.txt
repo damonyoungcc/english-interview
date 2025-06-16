@@ -1,10 +1,10 @@
 1. 介绍，擅长的经验
-Hi, I’m Damon Young. Great to meet you.
+Hi, I’m Damon Young.
 I’ve been working as a front-end engineer for over 7 years.
 and built many web apps using React.
 I’m skilled at H5 web pages and mobile-friendly interactions.
 
-Hi, I’m Damon Young. Great to meet you.
+Hi, I’m Damon Young.
 I’ve been working as a front-end engineer for over 7 years.
 and built many web apps using React.
 I’m skilled at H5 web pages and mobile-friendly interactions.

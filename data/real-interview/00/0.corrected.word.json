@@ -11,90 +11,55 @@
     "end": 1.383
   },
   {
+    "word": "介绍",
     "start": 1.383,
-    "end": 1.383,
-    "word": "介绍"
+    "end": 2.544,
+    "score": 0.787
   },
   {
     "word": "，",
-    "start": 1.383,
-    "end": 1.383
+    "start": 2.544,
+    "end": 2.744
   },
   {
-    "start": 1.383,
-    "end": 1.383,
-    "word": "擅长的经验"
+    "word": "擅长的经验",
+    "start": 2.744,
+    "end": 2.944,
+    "score": 0.715
   },
   {
     "role": "line-break",
     "word": ""
   },
   {
-    "start": 1.383,
-    "end": 1.383,
-    "word": "Hi"
-  },
-  {
-    "word": ",",
-    "start": 1.383,
-    "end": 1.383
-  },
-  {
-    "word": " ",
-    "start": 1.383,
-    "end": 1.383
-  },
-  {
-    "word": "I",
-    "start": 1.383,
-    "end": 2.544,
-    "score": 0.787
-  },
-  {
-    "word": "’",
-    "start": 2.544,
-    "end": 2.744
-  },
-  {
-    "word": "m",
-    "start": 2.744,
-    "end": 2.944,
-    "score": 0.715
-  },
-  {
-    "word": " ",
-    "start": 2.944,
-    "end": 3.004
-  },
-  {
-    "word": "Damon",
+    "word": "Hi",
     "start": 3.004,
     "end": 3.284,
     "score": 0.774
   },
   {
-    "word": " ",
+    "word": ",",
     "start": 3.284,
     "end": 3.304
   },
   {
-    "word": "Young",
+    "word": " ",
+    "start": 3.304,
+    "end": 3.304
+  },
+  {
+    "word": "I",
     "start": 3.304,
     "end": 3.524,
     "score": 0.82
   },
   {
-    "word": ".",
+    "word": "’",
     "start": 3.524,
     "end": 3.844
   },
   {
-    "word": " ",
-    "start": 3.844,
-    "end": 3.844
-  },
-  {
-    "word": "Great",
+    "word": "m",
     "start": 3.844,
     "end": 4.065,
     "score": 0.73
@@ -105,7 +70,7 @@
     "end": 4.085
   },
   {
-    "word": "to",
+    "word": "Damon",
     "start": 4.085,
     "end": 4.145,
     "score": 0.818
@@ -116,39 +81,29 @@
     "end": 4.185
   },
   {
-    "word": "meet",
+    "word": "Young",
     "start": 4.185,
     "end": 4.345,
     "score": 0.838
   },
   {
-    "word": " ",
+    "word": ".",
     "start": 4.345,
     "end": 4.365
-  },
-  {
-    "word": "you",
-    "start": 4.365,
-    "end": 4.545,
-    "score": 0.801
-  },
-  {
-    "word": ".",
-    "start": 4.545,
-    "end": 5.205
   },
   {
     "role": "line-break",
     "word": ""
   },
   {
-    "start": 5.205,
-    "end": 5.205,
-    "word": "I"
+    "word": "I",
+    "start": 4.365,
+    "end": 4.545,
+    "score": 0.801
   },
   {
     "word": "’",
-    "start": 5.205,
+    "start": 4.545,
     "end": 5.205
   },
   {
@@ -542,51 +497,6 @@
     "start": 15.489,
     "end": 15.489,
     "word": "Young"
-  },
-  {
-    "word": ".",
-    "start": 15.489,
-    "end": 15.489
-  },
-  {
-    "word": " ",
-    "start": 15.489,
-    "end": 15.489
-  },
-  {
-    "start": 15.489,
-    "end": 15.489,
-    "word": "Great"
-  },
-  {
-    "word": " ",
-    "start": 15.489,
-    "end": 15.489
-  },
-  {
-    "start": 15.489,
-    "end": 15.489,
-    "word": "to"
-  },
-  {
-    "word": " ",
-    "start": 15.489,
-    "end": 15.489
-  },
-  {
-    "start": 15.489,
-    "end": 15.489,
-    "word": "meet"
-  },
-  {
-    "word": " ",
-    "start": 15.489,
-    "end": 15.489
-  },
-  {
-    "start": 15.489,
-    "end": 15.489,
-    "word": "you"
   },
   {
     "word": ".",
