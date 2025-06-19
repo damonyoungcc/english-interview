@@ -10,13 +10,13 @@ But to fit his own page, he just copied it and made some custom changes.
 I think creating the duplicated code wasn’t a long-term solution.
 
 2. 识别风险，尝试沟通
-At first, I didn’t say no right away. Instead, I pointed out the risks.
-I gave him an example: if the business changed later,
+At first, I didn’t say no right away.
+Instead, I gave him an example: if the business changed later,
 we have to fix the same code in multiple places.
 That helped him understand the problem better.
 
-At first, I didn’t say no right away. Instead, I pointed out the risks.
-I gave him an example: if the business changed later,
+At first, I didn’t say no right away.
+Instead, I gave him an example: if the business changed later,
 we have to fix the same code in multiple places.
 That helped him understand the problem better.
 

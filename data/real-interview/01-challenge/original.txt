@@ -1,0 +1,33 @@
+Question: What’s the biggest challenge you’ve faced at work?
+
+The biggest challenge I faced was leading the team to build a shared internal admin system.
+
+Each team in my previous company was building their own internal admin systems separately,
+without a shared standard. As a result, the user experience was inconsistent and confusing.
+The ops team often pointed out the inconsistent interaction patterns across systems.
+
+The main challenge I faced was:
+I needed to design a unified solution that different teams could adopt,
+and convince each team to migrate their project to the unified user experience.
+
+So here’s what I did:
+
+First, I took the time to talk to people from ops and product.
+I asked them questions using language they were familiar with —
+not too technical, but easy to understand.
+I tried to find out what everyone really needed in common.
+And then I designed the solution.
+
+The goal was simple:
+For new projects, make it easy to use with just one click and immediately focus on business development.
+For old projects, I built reusable components and published them to our internal NPM.
+So old projects could install these packages and gradually update their UI.
+
+Second, I knew every team had their own priorities.
+I tried to make the process as easy as possible.
+I wrote a clear migration guide and showed them how easy it was to migrate their project.
+So in the end, there was really no excuse not to cooperate.
+
+Looking back, I think this was my biggest challenge so far.
+It required not only technical work, but also a lot of communication.
+And I’m really proud of the result.
