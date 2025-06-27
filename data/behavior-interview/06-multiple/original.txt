@@ -2,14 +2,14 @@ Question: How do you handle multiple tasks or deadlines?
 
 When I have multiple deadlines,
 first, I talk to the stakeholders to confirm the priorities.
-make sure I fully understand which tasks are more urgent and important before starting.
+make sure I fully understand which tasks are most urgent and important before starting.
 
 Then I schedule the tasks based on the priorities and resource.
 Every morning, 
 we have a quick stand-up meeting to check the progress and confirm today’s plan.
 At the end of each day,
 I report the latest status back to the stakeholders.
-This way, we keep everyone always on the same page across the whole proces.
+This way, we keep everyone always on the same page across the whole process.
 
 To me, setting clear priorities and keeping good communication are the most important things.
 If we do these well, everything runs smoothly.

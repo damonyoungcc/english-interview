@@ -1,986 +1,698 @@
 [
   {
-    "word": "When",
-    "start": 0.311,
-    "end": 0.431,
-    "score": 0.958
-  },
-  {
-    "word": "I",
-    "start": 0.491,
-    "end": 0.531,
-    "score": 0.99
-  },
-  {
-    "word": "have",
-    "start": 0.591,
-    "end": 0.731,
-    "score": 0.887
-  },
-  {
-    "word": "multiple",
-    "start": 0.811,
-    "end": 1.192,
-    "score": 0.868
-  },
-  {
-    "word": "deadlines,",
-    "start": 1.212,
-    "end": 1.692,
-    "score": 0.909
-  },
-  {
-    "word": "I",
-    "start": 1.932,
-    "end": 1.972,
-    "score": 0.845
-  },
-  {
-    "word": "start",
-    "start": 2.052,
-    "end": 2.312,
-    "score": 0.933
-  },
-  {
-    "word": "with",
-    "start": 2.372,
-    "end": 2.512,
-    "score": 0.887
-  },
-  {
-    "word": "the",
-    "start": 2.552,
-    "end": 2.652,
-    "score": 0.698
-  },
-  {
-    "word": "most",
-    "start": 2.853,
-    "end": 3.133,
-    "score": 0.591
-  },
-  {
-    "word": "urgent",
-    "start": 3.313,
-    "end": 3.573,
-    "score": 0.798
-  },
-  {
-    "word": "and",
-    "start": 3.653,
-    "end": 3.753,
-    "score": 0.83
-  },
-  {
-    "word": "important",
-    "start": 3.773,
-    "end": 4.173,
-    "score": 0.801
-  },
-  {
-    "word": "tasks.",
-    "start": 4.213,
-    "end": 4.594,
-    "score": 0.871
-  },
-  {
-    "word": "I",
-    "start": 5.114,
-    "end": 5.194,
-    "score": 0.742
-  },
-  {
-    "word": "always",
-    "start": 5.374,
-    "end": 5.714,
-    "score": 0.655
-  },
-  {
-    "word": "focus",
-    "start": 5.774,
-    "end": 6.114,
-    "score": 0.787
-  },
-  {
-    "word": "on",
-    "start": 6.174,
-    "end": 6.254,
-    "score": 0.764
-  },
-  {
-    "word": "high-impact,",
-    "start": 6.354,
-    "end": 7.135,
-    "score": 0.888
-  },
-  {
-    "word": "time-sensitive",
-    "start": 7.435,
-    "end": 8.296,
-    "score": 0.858
-  },
-  {
-    "word": "items",
-    "start": 8.436,
-    "end": 8.716,
-    "score": 0.849
-  },
-  {
-    "word": "first,",
-    "start": 8.776,
-    "end": 9.096,
-    "score": 0.84
-  },
-  {
-    "word": "then",
-    "start": 9.776,
-    "end": 9.956,
-    "score": 0.911
-  },
-  {
-    "word": "plan",
-    "start": 10.016,
-    "end": 10.237,
-    "score": 0.846
-  },
-  {
-    "word": "the",
-    "start": 10.257,
-    "end": 10.337,
-    "score": 0.835
-  },
-  {
-    "word": "rest.",
-    "start": 10.377,
-    "end": 10.637,
+    "word": "Question.",
+    "start": 0.402,
+    "end": 0.822,
     "score": 0.779
   },
   {
-    "word": "When",
-    "start": 11.117,
-    "end": 11.217,
-    "score": 1.0
-  },
-  {
-    "word": "I",
-    "start": 11.277,
-    "end": 11.317,
-    "score": 0.999
-  },
-  {
-    "word": "have",
-    "start": 11.357,
-    "end": 11.497,
-    "score": 0.873
-  },
-  {
-    "word": "multiple",
-    "start": 11.577,
-    "end": 11.938,
-    "score": 0.933
-  },
-  {
-    "word": "deadlines,",
-    "start": 11.978,
-    "end": 12.418,
+    "word": "How",
+    "start": 1.302,
+    "end": 1.422,
     "score": 0.911
   },
   {
-    "word": "I",
-    "start": 12.598,
-    "end": 12.638,
-    "score": 0.981
+    "word": "do",
+    "start": 1.442,
+    "end": 1.522,
+    "score": 0.652
   },
   {
-    "word": "start",
-    "start": 12.718,
-    "end": 12.958,
-    "score": 0.851
+    "word": "you",
+    "start": 1.562,
+    "end": 1.662,
+    "score": 0.866
   },
   {
-    "word": "with",
-    "start": 12.998,
-    "end": 13.098,
-    "score": 0.898
-  },
-  {
-    "word": "the",
-    "start": 13.138,
-    "end": 13.218,
+    "word": "handle",
+    "start": 1.702,
+    "end": 2.023,
     "score": 0.874
   },
   {
-    "word": "most",
-    "start": 13.298,
-    "end": 13.518,
-    "score": 0.751
+    "word": "multiple",
+    "start": 2.123,
+    "end": 2.503,
+    "score": 0.84
   },
   {
-    "word": "urgent",
-    "start": 13.678,
-    "end": 13.979,
-    "score": 0.762
+    "word": "tasks",
+    "start": 2.543,
+    "end": 2.983,
+    "score": 0.932
   },
   {
-    "word": "and",
-    "start": 14.079,
-    "end": 14.179,
-    "score": 0.819
+    "word": "or",
+    "start": 3.223,
+    "end": 3.323,
+    "score": 0.454
   },
   {
-    "word": "important",
-    "start": 14.199,
-    "end": 14.579,
-    "score": 0.815
+    "word": "deadlines?",
+    "start": 3.363,
+    "end": 3.843,
+    "score": 0.828
   },
   {
-    "word": "tasks.",
-    "start": 14.599,
-    "end": 14.999,
-    "score": 0.83
-  },
-  {
-    "word": "I",
-    "start": 15.419,
-    "end": 15.499,
-    "score": 0.722
-  },
-  {
-    "word": "always",
-    "start": 15.58,
-    "end": 15.82,
-    "score": 0.695
-  },
-  {
-    "word": "focus",
-    "start": 15.86,
-    "end": 16.14,
-    "score": 0.891
-  },
-  {
-    "word": "on",
-    "start": 16.18,
-    "end": 16.26,
-    "score": 0.74
-  },
-  {
-    "word": "high-impact,",
-    "start": 16.34,
-    "end": 17.04,
-    "score": 0.861
-  },
-  {
-    "word": "time-sensitive",
-    "start": 17.361,
-    "end": 17.981,
-    "score": 0.89
-  },
-  {
-    "word": "items",
-    "start": 18.041,
-    "end": 18.301,
-    "score": 0.835
-  },
-  {
-    "word": "first,",
-    "start": 18.341,
-    "end": 18.641,
-    "score": 0.772
-  },
-  {
-    "word": "then",
-    "start": 19.001,
-    "end": 19.202,
-    "score": 0.908
-  },
-  {
-    "word": "plan",
-    "start": 19.262,
-    "end": 19.502,
-    "score": 0.764
-  },
-  {
-    "word": "the",
-    "start": 19.522,
-    "end": 19.582,
-    "score": 1.0
-  },
-  {
-    "word": "rest.",
-    "start": 19.622,
-    "end": 19.822,
-    "score": 0.825
-  },
-  {
-    "word": "Then",
-    "start": 21.246,
-    "end": 21.406,
-    "score": 0.865
-  },
-  {
-    "word": "I",
-    "start": 21.466,
-    "end": 21.546,
-    "score": 0.748
-  },
-  {
-    "word": "also",
-    "start": 21.646,
-    "end": 21.906,
-    "score": 0.734
-  },
-  {
-    "word": "talk",
-    "start": 21.966,
-    "end": 22.187,
-    "score": 0.933
-  },
-  {
-    "word": "to",
-    "start": 22.227,
-    "end": 22.287,
-    "score": 0.87
-  },
-  {
-    "word": "my",
-    "start": 22.327,
-    "end": 22.447,
-    "score": 0.886
-  },
-  {
-    "word": "team",
-    "start": 22.487,
-    "end": 22.727,
-    "score": 0.749
-  },
-  {
-    "word": "regularly",
-    "start": 22.887,
-    "end": 23.447,
-    "score": 0.788
-  },
-  {
-    "word": "to",
-    "start": 23.708,
-    "end": 23.808,
-    "score": 0.742
-  },
-  {
-    "word": "make",
-    "start": 23.868,
-    "end": 24.048,
-    "score": 0.916
-  },
-  {
-    "word": "sure",
-    "start": 24.108,
-    "end": 24.288,
-    "score": 0.763
-  },
-  {
-    "word": "we're",
-    "start": 24.308,
-    "end": 24.448,
-    "score": 0.777
-  },
-  {
-    "word": "on",
-    "start": 24.488,
-    "end": 24.548,
-    "score": 0.941
-  },
-  {
-    "word": "the",
-    "start": 24.608,
-    "end": 24.688,
-    "score": 0.951
-  },
-  {
-    "word": "same",
-    "start": 24.748,
-    "end": 25.008,
-    "score": 0.806
-  },
-  {
-    "word": "page.",
-    "start": 25.048,
-    "end": 25.429,
+    "word": "When",
+    "start": 4.483,
+    "end": 4.623,
     "score": 0.753
   },
   {
-    "word": "If",
-    "start": 25.729,
-    "end": 25.769,
-    "score": 1.0
+    "word": "I",
+    "start": 4.663,
+    "end": 4.703,
+    "score": 0.996
   },
   {
-    "word": "there",
-    "start": 25.809,
-    "end": 25.929,
-    "score": 0.989
+    "word": "have",
+    "start": 4.763,
+    "end": 4.924,
+    "score": 0.831
   },
   {
-    "word": "are",
-    "start": 25.969,
-    "end": 26.069,
-    "score": 0.829
+    "word": "multiple",
+    "start": 5.004,
+    "end": 5.364,
+    "score": 0.949
   },
   {
-    "word": "any",
-    "start": 26.169,
-    "end": 26.329,
-    "score": 0.721
+    "word": "deadlines,",
+    "start": 5.404,
+    "end": 5.864,
+    "score": 0.888
   },
   {
-    "word": "difficulties,",
-    "start": 26.389,
-    "end": 27.03,
-    "score": 0.713
+    "word": "first",
+    "start": 6.144,
+    "end": 6.444,
+    "score": 0.754
   },
   {
     "word": "I",
-    "start": 27.23,
-    "end": 27.31,
-    "score": 0.709
-  },
-  {
-    "word": "bring",
-    "start": 27.39,
-    "end": 27.59,
-    "score": 0.811
-  },
-  {
-    "word": "them",
-    "start": 27.63,
-    "end": 27.75,
-    "score": 0.795
-  },
-  {
-    "word": "up",
-    "start": 27.79,
-    "end": 27.87,
-    "score": 0.776
-  },
-  {
-    "word": "early",
-    "start": 28.01,
-    "end": 28.31,
-    "score": 0.719
-  },
-  {
-    "word": "so",
-    "start": 28.41,
-    "end": 28.511,
-    "score": 1.0
-  },
-  {
-    "word": "we",
-    "start": 28.551,
-    "end": 28.631,
-    "score": 0.777
-  },
-  {
-    "word": "can",
-    "start": 28.651,
-    "end": 28.771,
-    "score": 0.883
-  },
-  {
-    "word": "adjust",
-    "start": 28.811,
-    "end": 29.131,
-    "score": 0.914
-  },
-  {
-    "word": "the",
-    "start": 29.151,
-    "end": 29.231,
-    "score": 0.835
-  },
-  {
-    "word": "plan",
-    "start": 29.251,
-    "end": 29.491,
-    "score": 0.688
-  },
-  {
-    "word": "together.",
-    "start": 29.511,
-    "end": 29.831,
-    "score": 0.813
-  },
-  {
-    "word": "Then",
-    "start": 29.851,
-    "end": 30.592,
-    "score": 0.876
-  },
-  {
-    "word": "I",
-    "start": 30.652,
-    "end": 30.732,
-    "score": 0.734
-  },
-  {
-    "word": "also",
-    "start": 30.852,
-    "end": 31.092,
-    "score": 0.906
+    "start": 6.824,
+    "end": 6.904,
+    "score": 0.694
   },
   {
     "word": "talk",
-    "start": 31.152,
-    "end": 31.352,
-    "score": 0.985
+    "start": 6.944,
+    "end": 7.224,
+    "score": 0.914
   },
   {
     "word": "to",
-    "start": 31.392,
-    "end": 31.452,
-    "score": 0.782
-  },
-  {
-    "word": "my",
-    "start": 31.492,
-    "end": 31.572,
-    "score": 1.0
-  },
-  {
-    "word": "team",
-    "start": 31.632,
-    "end": 31.873,
-    "score": 0.852
-  },
-  {
-    "word": "regularly",
-    "start": 31.973,
-    "end": 32.513,
-    "score": 0.843
-  },
-  {
-    "word": "to",
-    "start": 32.593,
-    "end": 32.673,
-    "score": 0.749
-  },
-  {
-    "word": "make",
-    "start": 32.713,
-    "end": 32.853,
-    "score": 0.948
-  },
-  {
-    "word": "sure",
-    "start": 32.913,
-    "end": 33.053,
-    "score": 0.873
-  },
-  {
-    "word": "we're",
-    "start": 33.073,
-    "end": 33.233,
-    "score": 0.763
-  },
-  {
-    "word": "on",
-    "start": 33.253,
-    "end": 33.314,
-    "score": 0.924
+    "start": 7.264,
+    "end": 7.344,
+    "score": 0.83
   },
   {
     "word": "the",
-    "start": 33.354,
-    "end": 33.434,
-    "score": 0.836
+    "start": 7.364,
+    "end": 7.444,
+    "score": 0.833
   },
   {
-    "word": "same",
-    "start": 33.454,
-    "end": 33.674,
-    "score": 0.942
-  },
-  {
-    "word": "page.",
-    "start": 33.734,
-    "end": 34.114,
-    "score": 0.852
-  },
-  {
-    "word": "If",
-    "start": 34.654,
-    "end": 34.714,
-    "score": 0.904
-  },
-  {
-    "word": "there",
-    "start": 34.754,
-    "end": 34.895,
-    "score": 0.898
-  },
-  {
-    "word": "are",
-    "start": 34.935,
-    "end": 35.035,
-    "score": 0.699
-  },
-  {
-    "word": "any",
-    "start": 35.175,
-    "end": 35.315,
+    "word": "stakeholders",
+    "start": 7.484,
+    "end": 8.085,
     "score": 0.88
   },
   {
-    "word": "difficulties,",
-    "start": 35.375,
-    "end": 35.935,
-    "score": 0.855
-  },
-  {
-    "word": "I",
-    "start": 35.955,
-    "end": 35.975,
-    "score": 0.0
-  },
-  {
-    "word": "bring",
-    "start": 36.616,
-    "end": 36.796,
-    "score": 0.881
-  },
-  {
-    "word": "them",
-    "start": 36.816,
-    "end": 36.936,
-    "score": 0.839
-  },
-  {
-    "word": "up",
-    "start": 36.976,
-    "end": 37.056,
-    "score": 0.756
-  },
-  {
-    "word": "early",
-    "start": 37.156,
-    "end": 37.356,
-    "score": 0.749
-  },
-  {
-    "word": "so",
-    "start": 37.376,
-    "end": 37.416,
-    "score": 0.074
-  },
-  {
-    "word": "we",
-    "start": 37.436,
-    "end": 37.516,
-    "score": 0.632
-  },
-  {
-    "word": "can",
-    "start": 37.536,
-    "end": 37.636,
-    "score": 0.98
-  },
-  {
-    "word": "adjust",
-    "start": 37.676,
-    "end": 37.956,
-    "score": 0.941
-  },
-  {
-    "word": "the",
-    "start": 37.996,
-    "end": 38.056,
-    "score": 1.0
-  },
-  {
-    "word": "plan",
-    "start": 38.097,
-    "end": 38.337,
-    "score": 0.853
-  },
-  {
-    "word": "together.",
-    "start": 38.377,
-    "end": 38.677,
-    "score": 0.877
-  },
-  {
-    "word": "To",
-    "start": 41.752,
-    "end": 41.852,
-    "score": 0.6
-  },
-  {
-    "word": "me",
-    "start": 41.892,
-    "end": 42.092,
-    "score": 0.783
-  },
-  {
-    "word": "setting",
-    "start": 42.513,
-    "end": 42.813,
-    "score": 0.878
-  },
-  {
-    "word": "clear",
-    "start": 42.874,
-    "end": 43.094,
-    "score": 0.858
-  },
-  {
-    "word": "priorities",
-    "start": 43.134,
-    "end": 43.715,
-    "score": 0.807
-  },
-  {
-    "word": "and",
-    "start": 43.775,
-    "end": 43.855,
-    "score": 0.839
-  },
-  {
-    "word": "communicating",
-    "start": 43.915,
-    "end": 44.496,
-    "score": 0.843
-  },
-  {
-    "word": "with",
-    "start": 44.516,
-    "end": 44.616,
-    "score": 0.878
-  },
-  {
-    "word": "the",
-    "start": 44.656,
-    "end": 44.736,
-    "score": 0.834
-  },
-  {
-    "word": "team",
-    "start": 44.776,
-    "end": 45.096,
-    "score": 0.844
-  },
-  {
-    "word": "are",
-    "start": 45.176,
-    "end": 45.257,
-    "score": 0.843
-  },
-  {
-    "word": "the",
-    "start": 45.297,
-    "end": 45.357,
-    "score": 1.0
-  },
-  {
-    "word": "most",
-    "start": 45.457,
-    "end": 45.677,
-    "score": 0.854
-  },
-  {
-    "word": "important",
-    "start": 45.757,
-    "end": 46.198,
-    "score": 0.834
-  },
-  {
-    "word": "things.",
-    "start": 46.238,
-    "end": 46.578,
-    "score": 0.724
-  },
-  {
-    "word": "Do",
-    "start": 47.139,
-    "end": 47.259,
-    "score": 0.859
-  },
-  {
-    "word": "these",
-    "start": 47.299,
-    "end": 47.499,
-    "score": 0.812
-  },
-  {
-    "word": "too",
-    "start": 47.56,
-    "end": 47.76,
-    "score": 0.822
-  },
-  {
-    "word": "well",
-    "start": 47.8,
-    "end": 48.08,
-    "score": 0.711
-  },
-  {
-    "word": "and",
-    "start": 48.22,
-    "end": 48.321,
-    "score": 0.818
-  },
-  {
-    "word": "everything",
-    "start": 48.601,
-    "end": 49.041,
-    "score": 0.762
-  },
-  {
-    "word": "runs",
-    "start": 49.082,
-    "end": 49.302,
-    "score": 0.739
-  },
-  {
-    "word": "smoothly.",
-    "start": 49.362,
-    "end": 49.802,
-    "score": 0.805
-  },
-  {
-    "word": "To",
-    "start": 50.403,
-    "end": 50.523,
-    "score": 0.556
-  },
-  {
-    "word": "me",
-    "start": 50.583,
-    "end": 50.824,
-    "score": 0.72
-  },
-  {
-    "word": "setting",
-    "start": 51.124,
-    "end": 51.445,
-    "score": 0.876
-  },
-  {
-    "word": "clear",
-    "start": 51.525,
-    "end": 51.805,
-    "score": 0.865
-  },
-  {
-    "word": "priorities",
-    "start": 51.845,
-    "end": 52.386,
-    "score": 0.78
-  },
-  {
-    "word": "and",
-    "start": 52.466,
-    "end": 52.546,
-    "score": 0.833
-  },
-  {
-    "word": "communicating",
-    "start": 52.606,
-    "end": 53.167,
-    "score": 0.816
-  },
-  {
-    "word": "with",
-    "start": 53.187,
-    "end": 53.287,
-    "score": 0.878
-  },
-  {
-    "word": "the",
-    "start": 53.327,
-    "end": 53.407,
-    "score": 0.833
-  },
-  {
-    "word": "team",
-    "start": 53.447,
-    "end": 53.768,
+    "word": "to",
+    "start": 8.125,
+    "end": 8.205,
     "score": 0.802
   },
   {
-    "word": "are",
-    "start": 53.888,
-    "end": 53.988,
-    "score": 0.677
+    "word": "confirm",
+    "start": 8.245,
+    "end": 8.645,
+    "score": 0.818
   },
   {
     "word": "the",
-    "start": 54.008,
-    "end": 54.088,
-    "score": 0.836
+    "start": 8.685,
+    "end": 8.745,
+    "score": 1.0
+  },
+  {
+    "word": "priorities.",
+    "start": 8.785,
+    "end": 9.325,
+    "score": 0.84
+  },
+  {
+    "word": "Make",
+    "start": 9.945,
+    "end": 10.105,
+    "score": 0.854
+  },
+  {
+    "word": "sure",
+    "start": 10.145,
+    "end": 10.325,
+    "score": 0.708
+  },
+  {
+    "word": "I",
+    "start": 10.385,
+    "end": 10.465,
+    "score": 0.749
+  },
+  {
+    "word": "fully",
+    "start": 10.565,
+    "end": 10.846,
+    "score": 0.828
+  },
+  {
+    "word": "understand",
+    "start": 10.886,
+    "end": 11.466,
+    "score": 0.846
+  },
+  {
+    "word": "which",
+    "start": 11.706,
+    "end": 11.926,
+    "score": 0.782
+  },
+  {
+    "word": "tasks",
+    "start": 12.006,
+    "end": 12.406,
+    "score": 0.775
+  },
+  {
+    "word": "are",
+    "start": 12.486,
+    "end": 12.566,
+    "score": 0.838
   },
   {
     "word": "most",
-    "start": 54.248,
-    "end": 54.509,
-    "score": 0.728
+    "start": 12.626,
+    "end": 12.806,
+    "score": 0.833
   },
   {
-    "word": "important",
-    "start": 54.569,
-    "end": 54.929,
-    "score": 0.842
-  },
-  {
-    "word": "things.",
-    "start": 54.949,
-    "end": 55.27,
-    "score": 0.803
-  },
-  {
-    "word": "Do",
-    "start": 56.351,
-    "end": 56.571,
-    "score": 0.718
-  },
-  {
-    "word": "these",
-    "start": 56.671,
-    "end": 56.912,
-    "score": 0.783
-  },
-  {
-    "word": "too",
-    "start": 56.992,
-    "end": 57.172,
-    "score": 0.97
-  },
-  {
-    "word": "well",
-    "start": 57.232,
-    "end": 57.512,
-    "score": 0.79
+    "word": "urgent",
+    "start": 12.946,
+    "end": 13.226,
+    "score": 0.805
   },
   {
     "word": "and",
-    "start": 57.853,
-    "end": 57.933,
-    "score": 0.845
+    "start": 13.366,
+    "end": 13.466,
+    "score": 0.831
   },
   {
-    "word": "everything",
-    "start": 58.053,
-    "end": 58.434,
+    "word": "important",
+    "start": 13.506,
+    "end": 13.947,
+    "score": 0.864
+  },
+  {
+    "word": "before",
+    "start": 13.967,
+    "end": 14.307,
+    "score": 0.896
+  },
+  {
+    "word": "starting.",
+    "start": 14.387,
+    "end": 14.747,
+    "score": 0.818
+  },
+  {
+    "word": "Then",
+    "start": 15.427,
+    "end": 15.567,
+    "score": 0.867
+  },
+  {
+    "word": "I",
+    "start": 15.607,
+    "end": 15.667,
+    "score": 0.94
+  },
+  {
+    "word": "schedule",
+    "start": 15.727,
+    "end": 16.067,
+    "score": 0.894
+  },
+  {
+    "word": "the",
+    "start": 16.087,
+    "end": 16.167,
+    "score": 0.831
+  },
+  {
+    "word": "tasks",
+    "start": 16.207,
+    "end": 16.648,
+    "score": 0.771
+  },
+  {
+    "word": "based",
+    "start": 16.748,
+    "end": 17.008,
+    "score": 0.818
+  },
+  {
+    "word": "on",
+    "start": 17.048,
+    "end": 17.108,
+    "score": 0.934
+  },
+  {
+    "word": "the",
+    "start": 17.128,
+    "end": 17.208,
+    "score": 0.831
+  },
+  {
+    "word": "priorities",
+    "start": 17.228,
+    "end": 17.828,
+    "score": 0.763
+  },
+  {
+    "word": "and",
+    "start": 17.968,
+    "end": 18.048,
+    "score": 0.836
+  },
+  {
+    "word": "resource.",
+    "start": 18.108,
+    "end": 18.548,
+    "score": 0.86
+  },
+  {
+    "word": "Every",
+    "start": 19.208,
+    "end": 19.388,
+    "score": 0.868
+  },
+  {
+    "word": "morning",
+    "start": 19.428,
+    "end": 19.709,
+    "score": 0.795
+  },
+  {
+    "word": "we",
+    "start": 19.769,
+    "end": 19.849,
+    "score": 0.96
+  },
+  {
+    "word": "have",
+    "start": 19.889,
+    "end": 19.989,
+    "score": 0.878
+  },
+  {
+    "word": "a",
+    "start": 20.029,
+    "end": 20.069,
+    "score": 0.499
+  },
+  {
+    "word": "quick",
+    "start": 20.169,
+    "end": 20.409,
+    "score": 0.846
+  },
+  {
+    "word": "stand-up",
+    "start": 20.449,
+    "end": 20.829,
+    "score": 0.822
+  },
+  {
+    "word": "meeting",
+    "start": 20.849,
+    "end": 21.149,
+    "score": 0.797
+  },
+  {
+    "word": "to",
+    "start": 21.229,
+    "end": 21.329,
+    "score": 0.756
+  },
+  {
+    "word": "check",
+    "start": 21.429,
+    "end": 21.669,
+    "score": 0.816
+  },
+  {
+    "word": "the",
+    "start": 21.689,
+    "end": 21.769,
+    "score": 0.833
+  },
+  {
+    "word": "progress",
+    "start": 21.809,
+    "end": 22.269,
+    "score": 0.836
+  },
+  {
+    "word": "and",
+    "start": 22.329,
+    "end": 22.409,
+    "score": 0.843
+  },
+  {
+    "word": "confirm",
+    "start": 22.449,
+    "end": 22.89,
+    "score": 0.844
+  },
+  {
+    "word": "today's",
+    "start": 22.93,
+    "end": 23.25,
+    "score": 0.806
+  },
+  {
+    "word": "plan.",
+    "start": 23.29,
+    "end": 23.53,
     "score": 0.8
   },
   {
+    "word": "At",
+    "start": 24.17,
+    "end": 24.23,
+    "score": 0.76
+  },
+  {
+    "word": "the",
+    "start": 24.25,
+    "end": 24.35,
+    "score": 0.772
+  },
+  {
+    "word": "end",
+    "start": 24.471,
+    "end": 24.591,
+    "score": 0.996
+  },
+  {
+    "word": "of",
+    "start": 24.631,
+    "end": 24.691,
+    "score": 0.752
+  },
+  {
+    "word": "each",
+    "start": 24.771,
+    "end": 24.931,
+    "score": 0.833
+  },
+  {
+    "word": "day,",
+    "start": 24.991,
+    "end": 25.212,
+    "score": 0.873
+  },
+  {
+    "word": "I",
+    "start": 25.232,
+    "end": 25.252,
+    "score": 0.0
+  },
+  {
+    "word": "report",
+    "start": 25.732,
+    "end": 26.013,
+    "score": 0.825
+  },
+  {
+    "word": "the",
+    "start": 26.053,
+    "end": 26.153,
+    "score": 0.673
+  },
+  {
+    "word": "latest",
+    "start": 26.253,
+    "end": 26.533,
+    "score": 0.927
+  },
+  {
+    "word": "status",
+    "start": 26.553,
+    "end": 26.894,
+    "score": 0.757
+  },
+  {
+    "word": "back",
+    "start": 26.954,
+    "end": 27.174,
+    "score": 0.991
+  },
+  {
+    "word": "to",
+    "start": 27.214,
+    "end": 27.274,
+    "score": 0.863
+  },
+  {
+    "word": "the",
+    "start": 27.294,
+    "end": 27.374,
+    "score": 0.833
+  },
+  {
+    "word": "stakeholders.",
+    "start": 27.394,
+    "end": 27.895,
+    "score": 0.76
+  },
+  {
+    "word": "This",
+    "start": 28.556,
+    "end": 28.716,
+    "score": 0.819
+  },
+  {
+    "word": "way",
+    "start": 28.756,
+    "end": 28.916,
+    "score": 0.857
+  },
+  {
+    "word": "we",
+    "start": 28.976,
+    "end": 29.077,
+    "score": 0.986
+  },
+  {
+    "word": "keep",
+    "start": 29.097,
+    "end": 29.277,
+    "score": 0.925
+  },
+  {
+    "word": "everyone",
+    "start": 29.417,
+    "end": 29.757,
+    "score": 0.827
+  },
+  {
+    "word": "always",
+    "start": 29.978,
+    "end": 30.298,
+    "score": 0.751
+  },
+  {
+    "word": "on",
+    "start": 30.358,
+    "end": 30.438,
+    "score": 0.832
+  },
+  {
+    "word": "the",
+    "start": 30.458,
+    "end": 30.538,
+    "score": 0.839
+  },
+  {
+    "word": "same",
+    "start": 30.578,
+    "end": 30.759,
+    "score": 0.921
+  },
+  {
+    "word": "page",
+    "start": 30.799,
+    "end": 31.099,
+    "score": 0.885
+  },
+  {
+    "word": "across",
+    "start": 31.259,
+    "end": 31.58,
+    "score": 0.804
+  },
+  {
+    "word": "the",
+    "start": 31.62,
+    "end": 31.7,
+    "score": 0.833
+  },
+  {
+    "word": "whole",
+    "start": 31.78,
+    "end": 31.98,
+    "score": 0.912
+  },
+  {
+    "word": "process.",
+    "start": 32.04,
+    "end": 32.481,
+    "score": 0.803
+  },
+  {
+    "word": "To",
+    "start": 33.262,
+    "end": 33.362,
+    "score": 0.988
+  },
+  {
+    "word": "me,",
+    "start": 33.402,
+    "end": 33.582,
+    "score": 0.738
+  },
+  {
+    "word": "setting",
+    "start": 33.883,
+    "end": 34.163,
+    "score": 0.784
+  },
+  {
+    "word": "clear",
+    "start": 34.223,
+    "end": 34.443,
+    "score": 0.719
+  },
+  {
+    "word": "priorities",
+    "start": 34.484,
+    "end": 35.004,
+    "score": 0.817
+  },
+  {
+    "word": "and",
+    "start": 35.124,
+    "end": 35.224,
+    "score": 0.794
+  },
+  {
+    "word": "keeping",
+    "start": 35.245,
+    "end": 35.525,
+    "score": 0.79
+  },
+  {
+    "word": "good",
+    "start": 35.605,
+    "end": 35.765,
+    "score": 0.886
+  },
+  {
+    "word": "communication",
+    "start": 35.785,
+    "end": 36.386,
+    "score": 0.899
+  },
+  {
+    "word": "are",
+    "start": 36.746,
+    "end": 36.847,
+    "score": 0.791
+  },
+  {
+    "word": "the",
+    "start": 36.867,
+    "end": 36.947,
+    "score": 0.834
+  },
+  {
+    "word": "most",
+    "start": 37.127,
+    "end": 37.367,
+    "score": 0.611
+  },
+  {
+    "word": "important",
+    "start": 37.427,
+    "end": 37.768,
+    "score": 0.876
+  },
+  {
+    "word": "things.",
+    "start": 37.808,
+    "end": 38.068,
+    "score": 0.8
+  },
+  {
+    "word": "If",
+    "start": 38.649,
+    "end": 38.709,
+    "score": 0.998
+  },
+  {
+    "word": "we",
+    "start": 38.749,
+    "end": 38.869,
+    "score": 0.875
+  },
+  {
+    "word": "do",
+    "start": 38.929,
+    "end": 39.11,
+    "score": 0.869
+  },
+  {
+    "word": "these",
+    "start": 39.19,
+    "end": 39.39,
+    "score": 0.866
+  },
+  {
+    "word": "well,",
+    "start": 39.45,
+    "end": 39.73,
+    "score": 0.854
+  },
+  {
+    "word": "everything",
+    "start": 40.531,
+    "end": 40.852,
+    "score": 0.775
+  },
+  {
     "word": "runs",
-    "start": 58.494,
-    "end": 58.734,
-    "score": 0.695
+    "start": 40.892,
+    "end": 41.092,
+    "score": 0.685
   },
   {
     "word": "smoothly.",
-    "start": 58.834,
-    "end": 59.255,
-    "score": 0.902
+    "start": 41.152,
+    "end": 41.493,
+    "score": 0.898
   }
 ]
