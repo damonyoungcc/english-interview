@@ -8,20 +8,22 @@ It’s about taking responsibility proactively.
 2. 描述背景
 In my previous company, we had an H5 page
 and Users took a photo and upload it,
-But it was too slow, and no one wanted to work on it.
+But if the photo was too large, it would be slow to upload,
+and no one wanted to work on it.
 
 In my previous company, we had an H5 page
 and Users took a photo and upload it,
-But it was too slow, and no one wanted to work on it.
+But if the photo was too large, it would be slow to upload,
+and no one wanted to work on it.
 
 3. 行动解决问题
 I decided to take the lead.
 I did some research and compressed the image before uploading.
-It made the upload much faster and the experience smoother.
+It made the upload much faster and the user experience smoother.
 
 I decided to take the lead.
 I did some research and compressed the image before uploading.
-It made the upload much faster and the experience smoother.
+It made the upload much faster and the user experience smoother.
 
 4. 更进一步
 After that, My team build a reusable component,
