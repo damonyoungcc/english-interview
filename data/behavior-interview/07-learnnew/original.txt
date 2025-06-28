@@ -1,36 +1,21 @@
-1. 开始点题，三点
-I learn new things / I handle tasks outside my comfort zone
-in three steps:
-First, I define the goal based on the project needs.
-Then I research the tech and read the documentation.
-Finally, I start coding to build a prototype, then improve it step by step.
+⭐ Situation
+In my personal learning, I wanted to build a tool to help me study Japanese more effectively.
 
-I learn new things / I handle tasks outside my comfort zone
-in three steps:
-First, I define the goal based on the project needs.
-Then I research the tech and read the documentation.
-Finally, I start coding to build a prototype, then improve it step by step.
+🎯 Task
+The goal was to create a tool that could play audio and highlight text in sync.
+To do this, I needed to generate a timestamped JSON file from the audio.
 
-2. 举例
-Recently, I wanted to build a tool to help me learn Japanese.
-It plays audio and highlights text in sync.
-To make this work, The target is to generate a timestamped JSON file from the audio.
-I researched the tech and found that I needed to use Whisper,
-So I wrote a python script and built a simple UI.
-Then I launched it.
+⚒️ Action
+I handled this task in three steps.
+First, I defined the goal clearly based on my learning needs.
+Then, I researched the technology and read the documentation.
+I found that Whisper, an AI speech-to-text model,
+could help with generating accurate timestamps.
+Finally, I wrote a Python script to process the audio
+and built a simple UI to play the audio with synchronized text highlights. 
+After testing, I launched it for my daily use.
 
-Recently, I wanted to build a tool to help me learn Japanese.
-It plays audio and highlights text in sync.
-To make this work, The target is to generate a timestamped JSON file from the audio.
-I researched the tech and found that I needed to use Whisper,
-So I wrote a python script and built a simple UI.
-Then I launched it.
-
-3. 总结思考
-Now I use this tool almost every day to study Japanese.
-This project showed me how to learn fast
-and handle tasks outside my comfort zone
-
-Now I use this tool almost every day to study Japanese.
-This project showed me how to learn fast
-and handle tasks outside my comfort zone
+✅ Result
+Now I use this tool every day.
+It helped me learn faster,
+and showed me I can handle new challenges with confidence.
