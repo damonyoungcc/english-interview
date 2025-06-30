@@ -1,0 +1,219 @@
+| 编号 | 问题描述                 | 准备情况 |
+|------|------------------------|--------|
+| 01   | 1.自我介绍               | ✅     |
+| 02   | 1.1why选择/适合乐天       | ❌    |
+| 03   | 2.工作中的挑战            | ✅     |
+| 04   | 3.与同事/领导发生冲突      | ✅     |
+| 05   | 3.1说服他人/改变他人的意见  | ✅     |
+| 06   | 4.跨部门沟通              | ✅     |
+| 07   | 4.1跨文化工作经验          | ❌     |
+| 08   | 5.犯的最大的错             | ✅     |
+| 09   | 5.1学到最宝贵的经验         | ❌     |
+| 10   | 6.多个任务并行优先级        | ✅     |
+| 11   | 6.1处理不明确的任务         | ❌     |
+| 12   | 6.2应对突发事件            | ❌     |
+| 13   | 7.学习能力/不擅长的任务      | ✅     |
+| 14   | 8.自豪的项目               | ✅     |
+| 15   | 9.展现领导力的例子          | ✅     |
+| 16   | 9.1 提出改进的建议          | ❌     |
+| 17   | 10. 处理负面反馈 / 被批评    | ❌     |
+
+
+
+1. 介绍自己
+•Can you tell me about yourself?
+•Please introduce yourself.
+•Walk me through your background.
+--Answer---------------------------------------------
+Hi, I’m Damon Young.
+I’ve been working as a front-end engineer for over 7 years.
+and built many web apps using React.
+I’m especially skilled at H5 web pages and mobile-friendly interactions.
+
+I started my career during my internship at ZBJ.
+At that time, I helped upgrade their official website to version 2.0 from jQuery to Vue.
+Since then, I’ve worked in different industries like e-commerce platform and banking systems.
+
+At my last company, I was in charge of banking rewards systems.
+I also built a shared admin system template,
+to help unify the user experience across all our internal systems.
+
+I’m also a top 20 contributor to the open-source project Ant Design Mobile,
+which has 10000 stars on github.
+I helped fix UI bugs and improve test coverage.
+
+I'm looking forward to contributing to your team and projects.
+Thanks for the opportunity.
+------------------------------------------------
+
+1.1. 对乐天的了解与动机，为什么适合乐天
+•What do you know about Rakuten?
+•Why do you want to work at Rakuten?
+•Why do you think you’re a good fit for Rakuten?
+--Answer---------------------------------------------
+I know Rakuten is a major Japanese tech company.
+and runs one of the biggest e-commerce platforms in Japan.
+and also has many services like mobile plans, payment, and points systems.
+I think Rakuten business is very broad and deeply connected to daily life.
+
+I admire Rakuten’s global impact and innovation culture.
+I want to build products that support millions of users worldwide.
+I also like Rakuten’s cross-cultural environment and strong engineering standards.
+
+I have strong experience in React and TypeScript.
+I build reusable, optimized components with good testing coverage.
+also I’ve worked on e-commerce and banking projects before,
+so this role matches my background very well.
+-----------------------------------------------
+
+2. 工作中的挑战
+•What is the biggest challenge you have faced at work?
+•Tell me about a difficult situation you faced in your job and how you handled it.
+•Describe a time when you faced a major obstacle at work.
+--Answer---------------------------------------------
+The biggest challenge I faced was leading the team to build a shared internal admin system.
+and try to unified the user experience across all the internal system.
+
+Each team in my previous company was building their own internal admin systems separately,
+without a shared standard. As a result, the user experience was inconsistent and confusing.
+
+The main challenge I faced was:
+First, I needed to design a solution that different teams could adopt,
+and convince each team to migrate their project to the unified user experience.
+
+So here’s what I did:
+
+First, I took the time to talk to people from ops and product.
+I tried to find out what everyone really needed in common.
+
+And then I designed the solution based on these needs.
+The goal was simple:
+For new projects, make it easy to use with just one click and immediately focus on business development.
+For old projects, I built reusable components and published them to our internal NPM.
+So old projects could install these packages and gradually update their UI.
+
+Second, I create a clear migration guide 
+and showed each team how easy it was to migrate their project.
+So in the end, there was really no excuse not to cooperate.
+
+After a few updates, we were able to unify the user experience.
+Looking back, I think this was my biggest challenge so far.
+It required not only technical work, but also a lot of communication.
+And I’m really proud of the result.
+-----------------------------------------------
+
+3. 与同事领导发生冲突
+•Tell me about a time when you had a conflict with a coworker.
+•Describe a situation where you disagreed with your manager or teammate.
+•How do you handle conflicts at work?
+--Answer---------------------------------------------
+
+-----------------------------------------------
+3.1 说服他人 / 改变他人的意见
+•Tell me about a time when you convinced someone to accept your idea.
+•Describe a situation where you had to change someone’s mind.
+•Have you ever persuaded your team to take a different approach?
+--Answer---------------------------------------------
+
+
+
+-----------------------------------------------
+4. 跨部门沟通
+•Describe a time when you had to work with other departments.
+•Tell me about a situation where you collaborated with another team.
+•How do you approach cross-functional communication?
+--Answer---------------------------------------------
+
+
+
+-----------------------------------------------
+4.1 跨文化工作经验
+•Tell me about a time when you worked with people from different cultural backgrounds.
+•Describe a situation where cultural differences impacted your work. How did you handle it?
+•Have you ever faced communication challenges in a multicultural team?
+--Answer---------------------------------------------
+
+
+-----------------------------------------------
+5. 犯过最大的错
+•Tell me about a mistake you made at work and what you learned from it.
+•Describe the biggest mistake you’ve made in your career.
+•Can you give an example of a time when you failed?
+--Answer---------------------------------------------
+
+-----------------------------------------------
+5.1 学到最宝贵的经验
+•What is the most valuable lesson you have learned in your career so far?
+•Tell me about an experience that taught you an important lesson.
+•What has been your biggest learning in your professional life?
+--Answer---------------------------------------------
+
+
+
+
+-----------------------------------------------
+6. 多任务并行，多个deadline
+•Tell me about a time when you had to handle multiple tasks or deadlines at once.
+•How do you prioritize when you have several projects to finish?
+•Describe a situation where you managed competing priorities.
+--Answer---------------------------------------------
+
+
+-----------------------------------------------
+
+6.1 处理不明确的任务
+•Tell me about a time when you were given an unclear task. What did you do?
+•Describe a situation where you had to figure out what to do without clear instructions.
+•How do you handle ambiguous tasks or projects?
+--Answer---------------------------------------------
+
+-----------------------------------------------
+
+6.2 应对突发事件
+•Tell me about a time when you had to deal with an unexpected situation.
+•Describe a situation where things didn’t go as planned. What did you do?
+•Have you ever faced a sudden challenge at work? How did you handle it?
+--Answer---------------------------------------------
+
+
+-----------------------------------------------
+7. 学习新东西，解决不擅长的任务
+•Tell me about a time when you had to learn something new quickly.
+•Describe a situation where you were assigned a task outside your expertise. How did you handle it?
+•How do you deal with tasks that you’re not familiar with?
+--Answer---------------------------------------------
+
+-----------------------------------------------
+8. 自豪的项目
+•What project are you most proud of?
+•Tell me about an achievement you are proud of.
+•Describe your most successful project.
+--Answer---------------------------------------------
+
+
+-----------------------------------------------
+9. 展现领导力的例子
+•Tell me about a time when you showed leadership.
+•Describe a situation where you took the lead on a project.
+•Can you give an example of when you motivated others?
+--Answer---------------------------------------------
+
+-----------------------------------------------
+
+9.1 提出改进建议
+•Tell me about a time when you suggested a process improvement.
+•Describe a situation where you proposed an idea to improve efficiency or quality.
+•Have you ever made a suggestion that was implemented by your team?
+--Answer---------------------------------------------
+
+
+-----------------------------------------------
+
+10. 处理负面反馈 / 被批评
+•Tell me about a time when you received constructive criticism. How did you react?
+•Describe a situation where your work was criticized. What did you do?
+•How do you handle negative feedback?
+--Answer---------------------------------------------
+
+-----------------------------------------------
+
