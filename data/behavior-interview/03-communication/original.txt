@@ -1,41 +1,17 @@
-1. 背景描述两个目标
-One time, I try to unify the user experience of our internal admin systems across teams.
-To do that, I had to talk with people from different teams
-and try to find out everyone really need in common.
-and then convince each team to migrate their project to unified user experience
+One time, I needed to unify the user experience of our internal admin systems across teams.
+At my previous company, each team was building their own internal system separately, 
+so the user experience was inconsistent and confusing for the ops team.
 
-One time, I try to unify the user experience of our internal admin systems across teams.
-To do that, I had to talk with people from different teams
-and try to find out everyone really need in common.
-and then convince each team to migrate their project to unified user experience
+My task was to design a unified solution that different teams could adopt
+and then convince each team to migrate their projects to this new standard.
 
-2. 首先根据背景沟通
-I think the first point is to understand their background
-and ask them questions using language they were familiar with
-not too technical, but easy to understand.
+First, I had a meeting with people from different teams to explain the goal.
+Then I spent time discussing with each team and tried to find out what everyone needed in common.
+Then, I summarized these needs into a clear list and designed a solution based on these needs.
+I also thought from their perspective – I knew they always had their own priorities,
+so I prepared clear migration guidelines and documentation
+and showed each team how easy it was to migrate their projects.
+By doing this, there was really no excuse not to cooperate.
 
-I think the first point is to understand their background
-and ask them questions using language they were familiar with
-not too technical, but easy to understand.
-
-3. 站在他们的角度沟通
-The second thing was to see things from their perspective.
-I understood that each team had their own priorities,
-so I focused on making solution easy to adopt with minimal effort on their side.
-and showed them how it could bring clear benefits.
-made them more willing to support the idea.
-
-The second thing was to see things from their perspective.
-I understood that each team had their own priorities,
-so I focused on making solution easy to adopt with minimal effort on their side.
-and showed them how it could bring clear benefits.
-made them more willing to support the idea.
-
-4. 总结陈述，顺畅有效果
-In the end, we got everyone on the same page and made things work smoothly.
-It showed me how powerful clear communication can be,
-and it also taught me that providing practical solutions is key to making progress.
-
-In the end, we got everyone on the same page and made things work smoothly.
-It showed me how powerful clear communication can be,
-and it also taught me that providing practical solutions is key to making progress.
+After a few updates, we were able to unify the user experience.
+It showed me how powerful clear communication and practical solutions can be.

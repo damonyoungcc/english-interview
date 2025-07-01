@@ -59,6 +59,11 @@
       "path": "data/behavior-interview/01-challenge",
       "word_corrected_json": "01.corrected.word.json"
     },
+    "02-confilct": {
+      "audio_file": "02.m4a",
+      "path": "data/behavior-interview/02-confilct",
+      "word_corrected_json": "02.corrected.word.json"
+    },
     "03-communication": {
       "audio_file": "3.m4a",
       "path": "data/behavior-interview/03-communication",
