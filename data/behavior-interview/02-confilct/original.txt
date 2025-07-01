@@ -1,21 +1,7 @@
-1. 首先描述背景
 One time, my teammate and I were building a new feature.
 We had a shared modal component.
 But to fit his own page, he just copied it and made some custom changes.
 I think creating the duplicated code wasn’t a long-term solution.
-
-One time, my teammate and I were building a new feature.
-We had a shared modal component.
-But to fit his own page, he just copied it and made some custom changes.
-I think creating the duplicated code wasn’t a long-term solution.
-
-2. 识别风险，尝试沟通
-We had different opinions.
-But, I didn’t say no right away.
-Instead, I gave him an example: if the business changed later,
-we have to fix the same code in multiple places.
-it easy to break, and waste time.
-That helped him understand the problem better.
 
 We had different opinions.
 But, I didn’t say no right away.
@@ -24,23 +10,10 @@ we have to fix the same code in multiple places.
 it easy to break, and waste time.
 That helped him understand the problem better.
 
-4. 提出解决方案
 Then I came up with a solution.
 I think we can make the modal component configuration-driven.
 We can use props to control the content, actions, and buttons.
 he liked the idea, After talking, we refactored it together.
-
-Then I came up with a solution.
-I think we can make the modal component configuration-driven.
-We can use props to control the content, actions, and buttons.
-he liked the idea, After talking, we refactored it together.
-
-5. 总结思考
-One more thing, That conflict also made me realize—we need to add unit test.
-If we change the component later again,
-we can just run the test to make sure everything still works.
-it helps prevent regressions.
-So I think the conflict wasn’t a bad thing—it always pushed us to do better.
 
 One more thing, That conflict also made me realize—we need to add unit test.
 If we change the component later again,
