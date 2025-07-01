@@ -44,6 +44,11 @@
       "path": "data/behavior-interview/00",
       "word_corrected_json": "0.corrected.word.json"
     },
+    "001-rakuten": {
+      "audio_file": "1.m4a",
+      "path": "data/behavior-interview/001-rakuten",
+      "word_corrected_json": "1.corrected.word.json"
+    },
     "01-challenge": {
       "audio_file": "01.m4a",
       "path": "data/behavior-interview/01-challenge",
