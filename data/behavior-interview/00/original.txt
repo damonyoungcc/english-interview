@@ -1,50 +1,19 @@
-1. 介绍，擅长的经验
-我是Damon Young，作为前端工程师7年了，我用react做了很多web app，我非常擅长h5页面和构建用户用好的页面
-Hi, I’m Damon Young.
+Hi, My name is Damon Young.
 I’ve been working as a front-end engineer for over 7 years.
 and built many web apps using React.
-I’m especially skilled at H5 web pages and mobile-friendly interactions.
-
-Hi, I’m Damon Young.
-I’ve been working as a front-end engineer for over 7 years.
-and built many web apps using React.
-I’m especially skilled at H5 web pages and mobile-friendly interactions.
-
-2. 入行，行业经验
-我是从猪八戒的实习开始我的职业生涯的，我帮助升级了他们的官网到2.0版本，从jQuery 到 Vue
-从那时候起，我有了很多行业经验，比如电商和银行系统
-I started my career during my internship at ZBJ.
-At that time, I helped upgrade their official website to version 2.0 from jQuery to Vue.
-Since then, I’ve worked in different industries like e-commerce platform and banking systems.
+I’m especially skilled at mobile web development and creating user-friendly interactions.
 
 I started my career during my internship at ZBJ.
 At that time, I helped upgrade their official website to version 2.0 from jQuery to Vue.
 Since then, I’ve worked in different industries like e-commerce platform and banking systems.
 
-3. 上家公司的项目经历和职责
-在上家公司，我负责公司的积分系统，我也创建了一个后台管理系统模板，去帮助统一了公司后台系统的用户体验
 At my last company, I was in charge of banking rewards systems.
 I also built a shared admin system template,
 to help unify the user experience across all our internal systems.
 
-At my last company, I was in charge of banking rewards systems.
-I also built a shared admin system template,
-to help unify the user experience across all our internal systems.
-
-4. 开源贡献
-我是前20的代码贡献者，开源项目Ant Design Mobile
-我帮助修复bug，，提高测试覆盖率
 I’m also a top 20 contributor to the open-source project Ant Design Mobile,
 which has 10000 stars on github.
 I helped fix UI bugs and improve test coverage.
-
-I’m also a top 20 contributor to the open-source project Ant Design Mobile,
-which has 10000 stars on github.
-I helped fix UI bugs and improve test coverage.
-
-5. 总结
-I'm looking forward to contributing to your team and projects.
-Thanks for the opportunity.
 
 I'm looking forward to contributing to your team and projects.
 Thanks for the opportunity.
