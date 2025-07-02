@@ -50,9 +50,9 @@
       "word_corrected_json": "0.corrected.word.json"
     },
     "00-1-rakuten": {
-      "audio_file": "1.m4a",
+      "audio_file": "01.m4a",
       "path": "data/behavior-interview/00-1-rakuten",
-      "word_corrected_json": "1.corrected.word.json"
+      "word_corrected_json": "01.corrected.word.json"
     },
     "01-challenge": {
       "audio_file": "01.m4a",
