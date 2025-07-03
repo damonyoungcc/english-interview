@@ -49,10 +49,15 @@
       "path": "data/behavior-interview/00",
       "word_corrected_json": "0.corrected.word.json"
     },
-    "00-1-rakuten": {
-      "audio_file": "01.m4a",
-      "path": "data/behavior-interview/00-1-rakuten",
-      "word_corrected_json": "01.corrected.word.json"
+    "00-0-why-Japan": {
+      "audio_file": "001.m4a",
+      "path": "data/behavior-interview/00-0-why-Japan",
+      "word_corrected_json": "001.corrected.word.json"
+    },
+    "00-1-about-rakuten": {
+      "audio_file": "1.m4a",
+      "path": "data/behavior-interview/00-1-about-rakuten",
+      "word_corrected_json": "1.corrected.word.json"
     },
     "01-challenge": {
       "audio_file": "01.m4a",

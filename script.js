@@ -17,13 +17,22 @@ const transcriptDiv = document.getElementById("transcript");
 const fabBtn = document.getElementById("fabPlayToggle");
 const iconSpan = fabBtn.querySelector(".icon");
 const furiganaToggleBtn = document.getElementById("fabToggleFurigana");
+const speedRange = document.getElementById("speedRange");
+const speedValue = document.getElementById("speedValue");
 
 let showFurigana = localStorage.getItem("showFurigana") !== "false";
 
 const targetDateStr = "2025-07-06";
 const targetDate = new Date(targetDateStr + "T00:00:00"); // 精确到日期，时间默认 00:00:00
 const countdownDisplay = document.getElementById("countdownDisplay");
+// 初始化显示
+speedValue.textContent = speedRange.value;
 
+speedRange.addEventListener("input", function () {
+  const speed = parseFloat(this.value);
+  audio.playbackRate = speed;
+  speedValue.textContent = speed;
+});
 audio.addEventListener("seeked", () => {
   updateHighlight(audio.currentTime); // ✅ 拖动播放条后立即更新高亮
 });

@@ -10,6 +10,11 @@ html, body {
   touch-action: manipulation;
 }
 
+.speed-control {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
 #app {
   height: 100%;
   display: flex;
