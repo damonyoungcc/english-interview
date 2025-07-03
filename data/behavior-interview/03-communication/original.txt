@@ -1,4 +1,4 @@
-One time, I needed to unify the user experience of our internal admin systems across teams.
+One time, I design a solution to unify the user experience of our internal admin systems across teams.
 At my previous company, each team was building their own internal system separately, 
 so the user experience was inconsistent and confusing for the ops team.
 

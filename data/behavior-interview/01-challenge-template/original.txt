@@ -1,0 +1,21 @@
+I built this admin system template with a modular and component-based design.
+I built this admin system template with a modular and component-based design.
+
+It had three parts:
+First, a unified ready-to-use login page and permission control.
+First, a unified ready-to-use login page and permission control.
+Second, a layout module with a sidebar menu
+Second, a layout module with a sidebar menu
+where developers could just pass in their own routes.
+where developers could just pass in their own routes.
+Third, reusable business components like tables and forms, 
+Third, reusable business components like tables and forms,
+all following our design standards.
+all following our design standards.
+
+Overall, it was ready to use for new projects
+Overall, it was ready to use for new projects
+could focus on business development,
+could focus on business development,
+and it was easy to gradually update for old projects.
+and it was easy to gradually update for old projects.

@@ -69,6 +69,11 @@
       "path": "data/behavior-interview/01-challenge",
       "word_corrected_json": "01.corrected.word.json"
     },
+    "01-challenge-template": {
+      "audio_file": "01-1.m4a",
+      "path": "data/behavior-interview/01-challenge-template",
+      "word_corrected_json": "01-1.corrected.word.json"
+    },
     "02-confilct": {
       "audio_file": "02.m4a",
       "path": "data/behavior-interview/02-confilct",
@@ -79,6 +84,11 @@
       "path": "data/behavior-interview/03-communication",
       "word_corrected_json": "3.corrected.word.json"
     },
+    "03-multiple": {
+      "audio_file": "6.m4a",
+      "path": "data/behavior-interview/03-multiple",
+      "word_corrected_json": "6.corrected.word.json"
+    },
     "04-mistake": {
       "audio_file": "5.m4a",
       "path": "data/behavior-interview/04-mistake",
@@ -88,11 +98,6 @@
       "audio_file": "4.m4a",
       "path": "data/behavior-interview/05-learship",
       "word_corrected_json": "4.corrected.word.json"
-    },
-    "06-multiple": {
-      "audio_file": "6.m4a",
-      "path": "data/behavior-interview/06-multiple",
-      "word_corrected_json": "6.corrected.word.json"
     },
     "07-learnnew": {
       "audio_file": "7.m4a",
