@@ -59,6 +59,11 @@
       "path": "data/behavior-interview/00-1-about-rakuten",
       "word_corrected_json": "1.corrected.word.json"
     },
+    "00-1-join-rakuten": {
+      "audio_file": "00-1.m4a",
+      "path": "data/behavior-interview/00-1-join-rakuten",
+      "word_corrected_json": "00-1.corrected.word.json"
+    },
     "01-challenge": {
       "audio_file": "01.m4a",
       "path": "data/behavior-interview/01-challenge",

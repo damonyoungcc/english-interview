@@ -1,0 +1,1841 @@
+[
+  {
+    "start": 1.037,
+    "end": 1.047,
+    "word": "I"
+  },
+  {
+    "word": "’",
+    "start": 1.047,
+    "end": 1.047
+  },
+  {
+    "start": 1.047,
+    "end": 1.047,
+    "word": "ve"
+  },
+  {
+    "word": " ",
+    "start": 1.047,
+    "end": 1.047
+  },
+  {
+    "start": 1.047,
+    "end": 1.047,
+    "word": "actually"
+  },
+  {
+    "word": " ",
+    "start": 1.047,
+    "end": 1.047
+  },
+  {
+    "start": 1.047,
+    "end": 1.047,
+    "word": "wanted"
+  },
+  {
+    "word": " ",
+    "start": 1.047,
+    "end": 1.047
+  },
+  {
+    "start": 1.047,
+    "end": 1.047,
+    "word": "to"
+  },
+  {
+    "word": " ",
+    "start": 1.047,
+    "end": 1.047
+  },
+  {
+    "start": 1.047,
+    "end": 1.047,
+    "word": "apply"
+  },
+  {
+    "word": " ",
+    "start": 1.047,
+    "end": 1.047
+  },
+  {
+    "start": 1.047,
+    "end": 1.047,
+    "word": "for"
+  },
+  {
+    "word": " ",
+    "start": 1.047,
+    "end": 1.047
+  },
+  {
+    "start": 1.047,
+    "end": 1.047,
+    "word": "a"
+  },
+  {
+    "word": " ",
+    "start": 1.047,
+    "end": 1.047
+  },
+  {
+    "start": 1.047,
+    "end": 1.047,
+    "word": "job"
+  },
+  {
+    "word": " ",
+    "start": 1.047,
+    "end": 1.047
+  },
+  {
+    "start": 1.047,
+    "end": 1.047,
+    "word": "at"
+  },
+  {
+    "word": " ",
+    "start": 1.047,
+    "end": 1.047
+  },
+  {
+    "start": 1.047,
+    "end": 1.047,
+    "word": "Rakuten"
+  },
+  {
+    "word": " ",
+    "start": 1.047,
+    "end": 1.047
+  },
+  {
+    "start": 1.047,
+    "end": 1.047,
+    "word": "for"
+  },
+  {
+    "word": " ",
+    "start": 1.047,
+    "end": 1.047
+  },
+  {
+    "start": 1.047,
+    "end": 1.047,
+    "word": "a"
+  },
+  {
+    "word": " ",
+    "start": 1.047,
+    "end": 1.047
+  },
+  {
+    "start": 1.047,
+    "end": 1.047,
+    "word": "long"
+  },
+  {
+    "word": " ",
+    "start": 1.047,
+    "end": 1.047
+  },
+  {
+    "start": 1.047,
+    "end": 1.047,
+    "word": "time"
+  },
+  {
+    "word": ".",
+    "start": 1.047,
+    "end": 1.047
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "start": 1.047,
+    "end": 1.047,
+    "word": "I"
+  },
+  {
+    "word": "’",
+    "start": 1.047,
+    "end": 1.047
+  },
+  {
+    "word": "ve",
+    "start": 1.047,
+    "end": 1.187,
+    "score": 0.853
+  },
+  {
+    "word": " ",
+    "start": 1.187,
+    "end": 1.247
+  },
+  {
+    "word": "actually",
+    "start": 1.247,
+    "end": 1.527,
+    "score": 0.813
+  },
+  {
+    "word": " ",
+    "start": 1.527,
+    "end": 1.567
+  },
+  {
+    "word": "wanted",
+    "start": 1.567,
+    "end": 1.767,
+    "score": 0.894
+  },
+  {
+    "word": " ",
+    "start": 1.767,
+    "end": 1.787
+  },
+  {
+    "word": "to",
+    "start": 1.787,
+    "end": 1.847,
+    "score": 0.757
+  },
+  {
+    "word": " ",
+    "start": 1.847,
+    "end": 1.887
+  },
+  {
+    "word": "apply",
+    "start": 1.887,
+    "end": 2.108,
+    "score": 0.905
+  },
+  {
+    "word": " ",
+    "start": 2.108,
+    "end": 2.148
+  },
+  {
+    "word": "for",
+    "start": 2.148,
+    "end": 2.268,
+    "score": 0.967
+  },
+  {
+    "word": " ",
+    "start": 2.268,
+    "end": 2.308
+  },
+  {
+    "word": "a",
+    "start": 2.308,
+    "end": 2.348,
+    "score": 0.5
+  },
+  {
+    "word": " ",
+    "start": 2.348,
+    "end": 2.388
+  },
+  {
+    "word": "job",
+    "start": 2.388,
+    "end": 2.628,
+    "score": 0.76
+  },
+  {
+    "word": " ",
+    "start": 2.628,
+    "end": 2.848
+  },
+  {
+    "word": "at",
+    "start": 2.848,
+    "end": 3.228,
+    "score": 0.585
+  },
+  {
+    "word": " ",
+    "start": 3.228,
+    "end": 3.348
+  },
+  {
+    "word": "Rakuten",
+    "start": 3.348,
+    "end": 5.51,
+    "score": 0.508
+  },
+  {
+    "word": " ",
+    "start": 5.51,
+    "end": 5.83
+  },
+  {
+    "word": "for",
+    "start": 5.83,
+    "end": 5.95,
+    "score": 0.674
+  },
+  {
+    "word": " ",
+    "start": 5.95,
+    "end": 5.97
+  },
+  {
+    "word": "a",
+    "start": 5.97,
+    "end": 6.21,
+    "score": 0.504
+  },
+  {
+    "word": " ",
+    "start": 6.21,
+    "end": 6.99
+  },
+  {
+    "word": "long",
+    "start": 6.99,
+    "end": 7.171,
+    "score": 0.855
+  },
+  {
+    "word": " ",
+    "start": 7.171,
+    "end": 7.211
+  },
+  {
+    "word": "time",
+    "start": 7.211,
+    "end": 7.431,
+    "score": 0.796
+  },
+  {
+    "word": ".",
+    "start": 7.431,
+    "end": 8.131
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "I",
+    "start": 8.131,
+    "end": 8.191,
+    "score": 0.665
+  },
+  {
+    "word": " ",
+    "start": 8.191,
+    "end": 8.231
+  },
+  {
+    "word": "also",
+    "start": 8.231,
+    "end": 8.451,
+    "score": 0.921
+  },
+  {
+    "word": " ",
+    "start": 8.451,
+    "end": 8.491
+  },
+  {
+    "word": "have",
+    "start": 8.491,
+    "end": 8.611,
+    "score": 0.952
+  },
+  {
+    "word": " ",
+    "start": 8.611,
+    "end": 8.651
+  },
+  {
+    "word": "many",
+    "start": 8.651,
+    "end": 8.831,
+    "score": 0.74
+  },
+  {
+    "word": " ",
+    "start": 8.831,
+    "end": 8.871
+  },
+  {
+    "word": "friends",
+    "start": 8.871,
+    "end": 9.092,
+    "score": 0.74
+  },
+  {
+    "word": " ",
+    "start": 9.092,
+    "end": 9.132
+  },
+  {
+    "word": "working",
+    "start": 9.132,
+    "end": 9.372,
+    "score": 0.903
+  },
+  {
+    "word": " ",
+    "start": 9.372,
+    "end": 9.412
+  },
+  {
+    "word": "there",
+    "start": 9.412,
+    "end": 9.592,
+    "score": 0.704
+  },
+  {
+    "word": ",",
+    "start": 9.592,
+    "end": 9.732
+  },
+  {
+    "word": " ",
+    "start": 9.732,
+    "end": 9.732
+  },
+  {
+    "word": "and",
+    "start": 9.732,
+    "end": 9.812,
+    "score": 0.878
+  },
+  {
+    "word": " ",
+    "start": 9.812,
+    "end": 9.832
+  },
+  {
+    "word": "they",
+    "start": 9.832,
+    "end": 9.952,
+    "score": 0.874
+  },
+  {
+    "word": " ",
+    "start": 9.952,
+    "end": 10.032
+  },
+  {
+    "word": "all",
+    "start": 10.032,
+    "end": 10.172,
+    "score": 0.683
+  },
+  {
+    "word": " ",
+    "start": 10.172,
+    "end": 10.212
+  },
+  {
+    "word": "speak",
+    "start": 10.212,
+    "end": 10.452,
+    "score": 0.773
+  },
+  {
+    "word": " ",
+    "start": 10.452,
+    "end": 10.492
+  },
+  {
+    "word": "very",
+    "start": 10.492,
+    "end": 10.713,
+    "score": 0.653
+  },
+  {
+    "word": " ",
+    "start": 10.713,
+    "end": 10.753
+  },
+  {
+    "word": "highly",
+    "start": 10.753,
+    "end": 11.093,
+    "score": 0.766
+  },
+  {
+    "word": " ",
+    "start": 11.093,
+    "end": 11.533
+  },
+  {
+    "word": "of",
+    "start": 11.533,
+    "end": 11.613,
+    "score": 0.802
+  },
+  {
+    "word": " ",
+    "start": 11.613,
+    "end": 11.693
+  },
+  {
+    "word": "Rakuten",
+    "start": 11.693,
+    "end": 12.233,
+    "score": 0.745
+  },
+  {
+    "word": ".",
+    "start": 12.233,
+    "end": 13.454
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "I",
+    "start": 13.454,
+    "end": 13.534,
+    "score": 0.708
+  },
+  {
+    "word": " ",
+    "start": 13.534,
+    "end": 13.574
+  },
+  {
+    "word": "also",
+    "start": 13.574,
+    "end": 13.794,
+    "score": 0.866
+  },
+  {
+    "word": " ",
+    "start": 13.794,
+    "end": 13.834
+  },
+  {
+    "word": "have",
+    "start": 13.834,
+    "end": 13.954,
+    "score": 0.842
+  },
+  {
+    "word": " ",
+    "start": 13.954,
+    "end": 13.974
+  },
+  {
+    "word": "many",
+    "start": 13.974,
+    "end": 14.155,
+    "score": 0.711
+  },
+  {
+    "word": " ",
+    "start": 14.155,
+    "end": 14.195
+  },
+  {
+    "word": "friends",
+    "start": 14.195,
+    "end": 14.395,
+    "score": 0.786
+  },
+  {
+    "word": " ",
+    "start": 14.395,
+    "end": 14.435
+  },
+  {
+    "word": "working",
+    "start": 14.435,
+    "end": 14.675,
+    "score": 0.87
+  },
+  {
+    "word": " ",
+    "start": 14.675,
+    "end": 14.715
+  },
+  {
+    "word": "there",
+    "start": 14.715,
+    "end": 14.855,
+    "score": 0.901
+  },
+  {
+    "word": ",",
+    "start": 14.855,
+    "end": 14.955
+  },
+  {
+    "word": " ",
+    "start": 14.955,
+    "end": 14.955
+  },
+  {
+    "word": "and",
+    "start": 14.955,
+    "end": 15.035,
+    "score": 0.843
+  },
+  {
+    "word": " ",
+    "start": 15.035,
+    "end": 15.055
+  },
+  {
+    "word": "they",
+    "start": 15.055,
+    "end": 15.175,
+    "score": 0.867
+  },
+  {
+    "word": " ",
+    "start": 15.175,
+    "end": 15.255
+  },
+  {
+    "word": "all",
+    "start": 15.255,
+    "end": 15.395,
+    "score": 0.832
+  },
+  {
+    "word": " ",
+    "start": 15.395,
+    "end": 15.455
+  },
+  {
+    "word": "speak",
+    "start": 15.455,
+    "end": 15.655,
+    "score": 0.861
+  },
+  {
+    "word": " ",
+    "start": 15.655,
+    "end": 15.715
+  },
+  {
+    "word": "very",
+    "start": 15.715,
+    "end": 15.896,
+    "score": 0.791
+  },
+  {
+    "word": " ",
+    "start": 15.896,
+    "end": 15.956
+  },
+  {
+    "word": "highly",
+    "start": 15.956,
+    "end": 16.276,
+    "score": 0.835
+  },
+  {
+    "word": " ",
+    "start": 16.276,
+    "end": 16.436
+  },
+  {
+    "word": "of",
+    "start": 16.436,
+    "end": 16.496,
+    "score": 0.795
+  },
+  {
+    "word": " ",
+    "start": 16.496,
+    "end": 16.576
+  },
+  {
+    "word": "Rakuten",
+    "start": 16.576,
+    "end": 17.056,
+    "score": 0.765
+  },
+  {
+    "word": ".",
+    "start": 17.056,
+    "end": 18.577
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "The",
+    "start": 18.577,
+    "end": 18.677,
+    "score": 0.92
+  },
+  {
+    "word": " ",
+    "start": 18.677,
+    "end": 18.717
+  },
+  {
+    "word": "main",
+    "start": 18.717,
+    "end": 18.917,
+    "score": 0.809
+  },
+  {
+    "word": " ",
+    "start": 18.917,
+    "end": 18.957
+  },
+  {
+    "word": "reason",
+    "start": 18.957,
+    "end": 19.257,
+    "score": 0.768
+  },
+  {
+    "word": " ",
+    "start": 19.257,
+    "end": 19.378
+  },
+  {
+    "word": "is",
+    "start": 19.378,
+    "end": 19.478,
+    "score": 0.928
+  },
+  {
+    "word": " ",
+    "start": 19.478,
+    "end": 19.498
+  },
+  {
+    "word": "I",
+    "start": 19.498,
+    "end": 19.518,
+    "score": 0.0
+  },
+  {
+    "word": " ",
+    "start": 19.518,
+    "end": 20.058
+  },
+  {
+    "word": "admire",
+    "start": 20.058,
+    "end": 20.478,
+    "score": 0.777
+  },
+  {
+    "word": " ",
+    "start": 20.478,
+    "end": 20.658
+  },
+  {
+    "start": 20.658,
+    "end": 20.658,
+    "word": "Rakuten"
+  },
+  {
+    "word": "’",
+    "start": 20.658,
+    "end": 20.658
+  },
+  {
+    "word": "s",
+    "start": 20.658,
+    "end": 21.179,
+    "score": 0.743
+  },
+  {
+    "word": " ",
+    "start": 21.179,
+    "end": 21.239
+  },
+  {
+    "word": "global",
+    "start": 21.239,
+    "end": 21.599,
+    "score": 0.899
+  },
+  {
+    "word": " ",
+    "start": 21.599,
+    "end": 21.639
+  },
+  {
+    "word": "impact",
+    "start": 21.639,
+    "end": 22.019,
+    "score": 0.822
+  },
+  {
+    "word": " ",
+    "start": 22.019,
+    "end": 22.299
+  },
+  {
+    "word": "and",
+    "start": 22.299,
+    "end": 22.379,
+    "score": 0.956
+  },
+  {
+    "word": " ",
+    "start": 22.379,
+    "end": 22.419
+  },
+  {
+    "word": "its",
+    "start": 22.419,
+    "end": 22.519,
+    "score": 0.849
+  },
+  {
+    "word": " ",
+    "start": 22.519,
+    "end": 22.599
+  },
+  {
+    "word": "culture",
+    "start": 22.599,
+    "end": 22.94,
+    "score": 0.897
+  },
+  {
+    "word": " ",
+    "start": 22.94,
+    "end": 22.98
+  },
+  {
+    "word": "of",
+    "start": 22.98,
+    "end": 23.02,
+    "score": 1.0
+  },
+  {
+    "word": " ",
+    "start": 23.02,
+    "end": 23.06
+  },
+  {
+    "word": "innovation",
+    "start": 23.06,
+    "end": 23.48,
+    "score": 0.965
+  },
+  {
+    "word": ".",
+    "start": 23.48,
+    "end": 24.874
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "The",
+    "start": 24.874,
+    "end": 24.974,
+    "score": 0.697
+  },
+  {
+    "word": " ",
+    "start": 24.974,
+    "end": 24.994
+  },
+  {
+    "word": "main",
+    "start": 24.994,
+    "end": 25.194,
+    "score": 0.759
+  },
+  {
+    "word": " ",
+    "start": 25.194,
+    "end": 25.255
+  },
+  {
+    "word": "reason",
+    "start": 25.255,
+    "end": 25.615,
+    "score": 0.674
+  },
+  {
+    "word": " ",
+    "start": 25.615,
+    "end": 26.015
+  },
+  {
+    "word": "is",
+    "start": 26.015,
+    "end": 26.096,
+    "score": 0.842
+  },
+  {
+    "word": " ",
+    "start": 26.096,
+    "end": 26.156
+  },
+  {
+    "word": "I",
+    "start": 26.156,
+    "end": 26.236,
+    "score": 0.768
+  },
+  {
+    "word": " ",
+    "start": 26.236,
+    "end": 26.276
+  },
+  {
+    "word": "admire",
+    "start": 26.276,
+    "end": 26.716,
+    "score": 0.913
+  },
+  {
+    "word": " ",
+    "start": 26.716,
+    "end": 27.017
+  },
+  {
+    "start": 27.017,
+    "end": 27.017,
+    "word": "Rakuten"
+  },
+  {
+    "word": "’",
+    "start": 27.017,
+    "end": 27.017
+  },
+  {
+    "word": "s",
+    "start": 27.017,
+    "end": 27.497,
+    "score": 0.663
+  },
+  {
+    "word": " ",
+    "start": 27.497,
+    "end": 27.517
+  },
+  {
+    "word": "global",
+    "start": 27.517,
+    "end": 27.838,
+    "score": 0.933
+  },
+  {
+    "word": " ",
+    "start": 27.838,
+    "end": 27.898
+  },
+  {
+    "word": "impact",
+    "start": 27.898,
+    "end": 28.278,
+    "score": 0.868
+  },
+  {
+    "word": " ",
+    "start": 28.278,
+    "end": 28.679
+  },
+  {
+    "word": "and",
+    "start": 28.679,
+    "end": 28.759,
+    "score": 0.977
+  },
+  {
+    "word": " ",
+    "start": 28.759,
+    "end": 28.799
+  },
+  {
+    "word": "its",
+    "start": 28.799,
+    "end": 28.939,
+    "score": 0.745
+  },
+  {
+    "word": " ",
+    "start": 28.939,
+    "end": 29.039
+  },
+  {
+    "word": "culture",
+    "start": 29.039,
+    "end": 29.42,
+    "score": 0.809
+  },
+  {
+    "word": " ",
+    "start": 29.42,
+    "end": 29.54
+  },
+  {
+    "word": "of",
+    "start": 29.54,
+    "end": 29.6,
+    "score": 0.958
+  },
+  {
+    "word": " ",
+    "start": 29.6,
+    "end": 29.66
+  },
+  {
+    "word": "innovation",
+    "start": 29.66,
+    "end": 30.141,
+    "score": 0.833
+  },
+  {
+    "word": ".",
+    "start": 30.141,
+    "end": 30.381
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "I",
+    "start": 30.381,
+    "end": 30.461,
+    "score": 0.744
+  },
+  {
+    "word": " ",
+    "start": 30.461,
+    "end": 30.541
+  },
+  {
+    "word": "also",
+    "start": 30.541,
+    "end": 30.802,
+    "score": 0.738
+  },
+  {
+    "word": " ",
+    "start": 30.802,
+    "end": 30.882
+  },
+  {
+    "word": "really",
+    "start": 30.882,
+    "end": 31.122,
+    "score": 0.837
+  },
+  {
+    "word": " ",
+    "start": 31.122,
+    "end": 31.182
+  },
+  {
+    "word": "like",
+    "start": 31.182,
+    "end": 31.402,
+    "score": 0.891
+  },
+  {
+    "word": " ",
+    "start": 31.402,
+    "end": 31.422
+  },
+  {
+    "word": "the",
+    "start": 31.422,
+    "end": 31.502,
+    "score": 0.83
+  },
+  {
+    "word": " ",
+    "start": 31.502,
+    "end": 31.563
+  },
+  {
+    "word": "international",
+    "start": 31.563,
+    "end": 32.183,
+    "score": 0.827
+  },
+  {
+    "word": " ",
+    "start": 32.183,
+    "end": 32.223
+  },
+  {
+    "word": "environment",
+    "start": 32.223,
+    "end": 32.784,
+    "score": 0.783
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "I",
+    "start": 33.805,
+    "end": 33.886,
+    "score": 0.735
+  },
+  {
+    "word": " ",
+    "start": 33.886,
+    "end": 33.946
+  },
+  {
+    "word": "also",
+    "start": 33.946,
+    "end": 34.206,
+    "score": 0.743
+  },
+  {
+    "word": " ",
+    "start": 34.206,
+    "end": 34.246
+  },
+  {
+    "word": "really",
+    "start": 34.246,
+    "end": 34.446,
+    "score": 0.853
+  },
+  {
+    "word": " ",
+    "start": 34.446,
+    "end": 34.486
+  },
+  {
+    "word": "like",
+    "start": 34.486,
+    "end": 34.667,
+    "score": 0.799
+  },
+  {
+    "word": " ",
+    "start": 34.667,
+    "end": 34.687
+  },
+  {
+    "word": "the",
+    "start": 34.687,
+    "end": 34.747,
+    "score": 0.999
+  },
+  {
+    "word": " ",
+    "start": 34.747,
+    "end": 34.807
+  },
+  {
+    "word": "international",
+    "start": 34.807,
+    "end": 35.327,
+    "score": 0.844
+  },
+  {
+    "word": " ",
+    "start": 35.327,
+    "end": 35.367
+  },
+  {
+    "word": "environment",
+    "start": 35.367,
+    "end": 35.848,
+    "score": 0.836
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "and",
+    "start": 36.048,
+    "end": 36.148,
+    "score": 0.587
+  },
+  {
+    "word": " ",
+    "start": 36.148,
+    "end": 36.209
+  },
+  {
+    "word": "working",
+    "start": 36.209,
+    "end": 36.469,
+    "score": 0.865
+  },
+  {
+    "word": " ",
+    "start": 36.469,
+    "end": 36.509
+  },
+  {
+    "word": "with",
+    "start": 36.509,
+    "end": 36.629,
+    "score": 0.752
+  },
+  {
+    "word": " ",
+    "start": 36.629,
+    "end": 36.669
+  },
+  {
+    "word": "people",
+    "start": 36.669,
+    "end": 36.929,
+    "score": 0.776
+  },
+  {
+    "word": " ",
+    "start": 36.929,
+    "end": 36.969
+  },
+  {
+    "word": "from",
+    "start": 36.969,
+    "end": 37.11,
+    "score": 0.755
+  },
+  {
+    "word": " ",
+    "start": 37.11,
+    "end": 37.17
+  },
+  {
+    "word": "different",
+    "start": 37.17,
+    "end": 37.41,
+    "score": 0.893
+  },
+  {
+    "word": " ",
+    "start": 37.41,
+    "end": 37.45
+  },
+  {
+    "word": "backgrounds",
+    "start": 37.45,
+    "end": 37.931,
+    "score": 0.901
+  },
+  {
+    "word": ".",
+    "start": 37.931,
+    "end": 38.491
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "and",
+    "start": 38.491,
+    "end": 38.572,
+    "score": 0.931
+  },
+  {
+    "word": " ",
+    "start": 38.572,
+    "end": 38.612
+  },
+  {
+    "word": "working",
+    "start": 38.612,
+    "end": 38.852,
+    "score": 0.888
+  },
+  {
+    "word": " ",
+    "start": 38.852,
+    "end": 38.872
+  },
+  {
+    "word": "with",
+    "start": 38.872,
+    "end": 38.972,
+    "score": 0.876
+  },
+  {
+    "word": " ",
+    "start": 38.972,
+    "end": 39.012
+  },
+  {
+    "word": "people",
+    "start": 39.012,
+    "end": 39.232,
+    "score": 0.83
+  },
+  {
+    "word": " ",
+    "start": 39.232,
+    "end": 39.272
+  },
+  {
+    "word": "from",
+    "start": 39.272,
+    "end": 39.433,
+    "score": 0.752
+  },
+  {
+    "word": " ",
+    "start": 39.433,
+    "end": 39.493
+  },
+  {
+    "word": "different",
+    "start": 39.493,
+    "end": 39.733,
+    "score": 0.914
+  },
+  {
+    "word": " ",
+    "start": 39.733,
+    "end": 39.773
+  },
+  {
+    "word": "backgrounds",
+    "start": 39.773,
+    "end": 40.234,
+    "score": 0.909
+  },
+  {
+    "word": ".",
+    "start": 40.234,
+    "end": 41.775
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "start": 41.775,
+    "end": 41.775,
+    "word": "I"
+  },
+  {
+    "word": " ",
+    "start": 41.775,
+    "end": 41.775
+  },
+  {
+    "start": 41.775,
+    "end": 41.775,
+    "word": "have"
+  },
+  {
+    "word": " ",
+    "start": 41.775,
+    "end": 41.775
+  },
+  {
+    "start": 41.775,
+    "end": 41.775,
+    "word": "experience"
+  },
+  {
+    "word": " ",
+    "start": 41.775,
+    "end": 41.775
+  },
+  {
+    "start": 41.775,
+    "end": 41.775,
+    "word": "in"
+  },
+  {
+    "word": " ",
+    "start": 41.775,
+    "end": 41.775
+  },
+  {
+    "start": 41.775,
+    "end": 41.775,
+    "word": "the"
+  },
+  {
+    "word": " ",
+    "start": 41.775,
+    "end": 41.775
+  },
+  {
+    "start": 41.775,
+    "end": 41.775,
+    "word": "e"
+  },
+  {
+    "word": "-",
+    "start": 41.775,
+    "end": 41.775
+  },
+  {
+    "start": 41.775,
+    "end": 41.775,
+    "word": "commerce"
+  },
+  {
+    "word": " ",
+    "start": 41.775,
+    "end": 41.775
+  },
+  {
+    "start": 41.775,
+    "end": 41.775,
+    "word": "and"
+  },
+  {
+    "word": " ",
+    "start": 41.775,
+    "end": 41.775
+  },
+  {
+    "start": 41.775,
+    "end": 41.775,
+    "word": "banking"
+  },
+  {
+    "word": " ",
+    "start": 41.775,
+    "end": 41.775
+  },
+  {
+    "start": 41.775,
+    "end": 41.775,
+    "word": "industries"
+  },
+  {
+    "word": ".",
+    "start": 41.775,
+    "end": 41.775
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "I",
+    "start": 41.775,
+    "end": 41.835,
+    "score": 0.675
+  },
+  {
+    "word": " ",
+    "start": 41.835,
+    "end": 41.875
+  },
+  {
+    "word": "have",
+    "start": 41.875,
+    "end": 42.035,
+    "score": 0.874
+  },
+  {
+    "word": " ",
+    "start": 42.035,
+    "end": 42.095
+  },
+  {
+    "word": "experience",
+    "start": 42.095,
+    "end": 42.655,
+    "score": 0.825
+  },
+  {
+    "word": " ",
+    "start": 42.655,
+    "end": 42.715
+  },
+  {
+    "word": "in",
+    "start": 42.715,
+    "end": 42.776,
+    "score": 0.75
+  },
+  {
+    "word": " ",
+    "start": 42.776,
+    "end": 42.796
+  },
+  {
+    "word": "the",
+    "start": 42.796,
+    "end": 42.876,
+    "score": 0.829
+  },
+  {
+    "word": " ",
+    "start": 42.876,
+    "end": 42.996
+  },
+  {
+    "start": 42.996,
+    "end": 42.996,
+    "word": "e"
+  },
+  {
+    "word": "-",
+    "start": 42.996,
+    "end": 42.996
+  },
+  {
+    "word": "commerce",
+    "start": 42.996,
+    "end": 43.496,
+    "score": 0.857
+  },
+  {
+    "word": " ",
+    "start": 43.496,
+    "end": 43.736
+  },
+  {
+    "word": "and",
+    "start": 43.736,
+    "end": 43.816,
+    "score": 0.838
+  },
+  {
+    "word": " ",
+    "start": 43.816,
+    "end": 43.876
+  },
+  {
+    "word": "banking",
+    "start": 43.876,
+    "end": 44.196,
+    "score": 0.933
+  },
+  {
+    "word": " ",
+    "start": 44.196,
+    "end": 44.236
+  },
+  {
+    "word": "industries",
+    "start": 44.236,
+    "end": 44.696,
+    "score": 0.891
+  },
+  {
+    "word": ".",
+    "start": 44.696,
+    "end": 44.716
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "start": 44.716,
+    "end": 44.716,
+    "word": "I"
+  },
+  {
+    "word": " ",
+    "start": 44.716,
+    "end": 44.716
+  },
+  {
+    "start": 44.716,
+    "end": 44.716,
+    "word": "believe"
+  },
+  {
+    "word": " ",
+    "start": 44.716,
+    "end": 44.716
+  },
+  {
+    "start": 44.716,
+    "end": 44.716,
+    "word": "my"
+  },
+  {
+    "word": " ",
+    "start": 44.716,
+    "end": 44.716
+  },
+  {
+    "start": 44.716,
+    "end": 44.716,
+    "word": "skills"
+  },
+  {
+    "word": " ",
+    "start": 44.716,
+    "end": 44.716
+  },
+  {
+    "start": 44.716,
+    "end": 44.716,
+    "word": "and"
+  },
+  {
+    "word": " ",
+    "start": 44.716,
+    "end": 44.716
+  },
+  {
+    "start": 44.716,
+    "end": 44.716,
+    "word": "experience"
+  },
+  {
+    "word": " ",
+    "start": 44.716,
+    "end": 44.716
+  },
+  {
+    "start": 44.716,
+    "end": 44.716,
+    "word": "make"
+  },
+  {
+    "word": " ",
+    "start": 44.716,
+    "end": 44.716
+  },
+  {
+    "start": 44.716,
+    "end": 44.716,
+    "word": "me"
+  },
+  {
+    "word": " ",
+    "start": 44.716,
+    "end": 44.716
+  },
+  {
+    "start": 44.716,
+    "end": 44.716,
+    "word": "a"
+  },
+  {
+    "word": " ",
+    "start": 44.716,
+    "end": 44.716
+  },
+  {
+    "start": 44.716,
+    "end": 44.716,
+    "word": "great"
+  },
+  {
+    "word": " ",
+    "start": 44.716,
+    "end": 44.716
+  },
+  {
+    "start": 44.716,
+    "end": 44.716,
+    "word": "match"
+  },
+  {
+    "word": " ",
+    "start": 44.716,
+    "end": 44.716
+  },
+  {
+    "start": 44.716,
+    "end": 44.716,
+    "word": "for"
+  },
+  {
+    "word": " ",
+    "start": 44.716,
+    "end": 44.716
+  },
+  {
+    "start": 44.716,
+    "end": 44.716,
+    "word": "this"
+  },
+  {
+    "word": " ",
+    "start": 44.716,
+    "end": 44.716
+  },
+  {
+    "start": 44.716,
+    "end": 44.716,
+    "word": "job"
+  },
+  {
+    "word": ".",
+    "start": 44.716,
+    "end": 44.716
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "I",
+    "start": 44.716,
+    "end": 44.736,
+    "score": 0.0
+  },
+  {
+    "word": " ",
+    "start": 44.736,
+    "end": 44.756
+  },
+  {
+    "word": "believe",
+    "start": 44.756,
+    "end": 45.237,
+    "score": 0.515
+  },
+  {
+    "word": " ",
+    "start": 45.237,
+    "end": 45.297
+  },
+  {
+    "word": "my",
+    "start": 45.297,
+    "end": 45.397,
+    "score": 0.584
+  },
+  {
+    "word": " ",
+    "start": 45.397,
+    "end": 45.457
+  },
+  {
+    "word": "skills",
+    "start": 45.457,
+    "end": 45.777,
+    "score": 0.4
+  },
+  {
+    "word": " ",
+    "start": 45.777,
+    "end": 45.837
+  },
+  {
+    "word": "and",
+    "start": 45.837,
+    "end": 45.917,
+    "score": 0.381
+  },
+  {
+    "word": " ",
+    "start": 45.917,
+    "end": 45.977
+  },
+  {
+    "word": "experience",
+    "start": 45.977,
+    "end": 46.437,
+    "score": 0.911
+  },
+  {
+    "word": " ",
+    "start": 46.437,
+    "end": 46.457
+  },
+  {
+    "word": "make",
+    "start": 46.457,
+    "end": 46.537,
+    "score": 0.0
+  },
+  {
+    "word": " ",
+    "start": 46.537,
+    "end": 46.557
+  },
+  {
+    "word": "me",
+    "start": 46.557,
+    "end": 46.597,
+    "score": 0.0
+  },
+  {
+    "word": " ",
+    "start": 46.597,
+    "end": 46.617
+  },
+  {
+    "word": "a",
+    "start": 46.617,
+    "end": 46.637,
+    "score": 0.0
+  },
+  {
+    "word": " ",
+    "start": 46.637,
+    "end": 46.657
+  },
+  {
+    "word": "great",
+    "start": 46.657,
+    "end": 46.797,
+    "score": 0.4
+  },
+  {
+    "word": " ",
+    "start": 46.797,
+    "end": 46.817
+  },
+  {
+    "word": "match",
+    "start": 46.817,
+    "end": 47.058,
+    "score": 0.377
+  },
+  {
+    "word": " ",
+    "start": 47.058,
+    "end": 47.118
+  },
+  {
+    "word": "for",
+    "start": 47.118,
+    "end": 47.198,
+    "score": 0.166
+  },
+  {
+    "word": " ",
+    "start": 47.198,
+    "end": 47.218
+  },
+  {
+    "word": "this",
+    "start": 47.218,
+    "end": 47.598,
+    "score": 0.234
+  },
+  {
+    "word": " ",
+    "start": 47.598,
+    "end": 47.618
+  },
+  {
+    "word": "job",
+    "start": 47.618,
+    "end": 47.698,
+    "score": 0.5
+  },
+  {
+    "word": ".",
+    "start": 47.698,
+    "end": 47.708
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  }
+]
