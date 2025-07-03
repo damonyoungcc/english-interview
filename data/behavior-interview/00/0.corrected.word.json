@@ -1,2422 +1,495 @@
 [
   {
     "word": "Hi",
-    "start": 0.331,
-    "end": 0.551,
-    "score": 0.733
+    "start": 1.182,
+    "end": 1.222,
+    "score": 0.002
   },
   {
     "word": ",",
-    "start": 0.551,
-    "end": 0.952
+    "start": 1.222,
+    "end": 2.003
   },
   {
     "word": " ",
-    "start": 0.952,
-    "end": 0.952
+    "start": 2.003,
+    "end": 2.003
   },
   {
     "word": "My",
-    "start": 0.952,
-    "end": 1.052,
-    "score": 0.81
+    "start": 2.003,
+    "end": 2.103,
+    "score": 0.722
   },
   {
     "word": " ",
-    "start": 1.052,
-    "end": 1.092
+    "start": 2.103,
+    "end": 2.143
   },
   {
     "word": "name",
-    "start": 1.092,
-    "end": 1.212,
-    "score": 0.865
+    "start": 2.143,
+    "end": 2.243,
+    "score": 0.999
   },
   {
     "word": " ",
-    "start": 1.212,
-    "end": 1.252
+    "start": 2.243,
+    "end": 2.303
   },
   {
     "word": "is",
-    "start": 1.252,
-    "end": 1.312,
-    "score": 0.738
+    "start": 2.303,
+    "end": 2.383,
+    "score": 0.664
   },
   {
     "word": " ",
-    "start": 1.312,
-    "end": 1.352
+    "start": 2.383,
+    "end": 2.423
   },
   {
-    "word": "Damon",
-    "start": 1.352,
-    "end": 1.612,
-    "score": 0.658
+    "start": 2.423,
+    "end": 2.423,
+    "word": "Damon"
   },
   {
     "word": " ",
-    "start": 1.612,
-    "end": 1.652
+    "start": 2.423,
+    "end": 2.423
   },
   {
-    "word": "Young",
-    "start": 1.652,
-    "end": 1.853,
-    "score": 0.814
+    "start": 2.423,
+    "end": 2.423,
+    "word": "Young"
   },
   {
     "word": ".",
-    "start": 1.853,
-    "end": 2.813
+    "start": 2.423,
+    "end": 2.423
   },
   {
     "role": "line-break",
     "word": ""
   },
   {
-    "word": "I've",
-    "start": 2.813,
-    "end": 2.933,
-    "score": 0.877
+    "start": 2.423,
+    "end": 2.423,
+    "word": "I've"
   },
   {
     "word": " ",
-    "start": 2.933,
-    "end": 2.953
+    "start": 2.423,
+    "end": 2.423
   },
   {
-    "word": "been",
-    "start": 2.953,
-    "end": 3.094,
-    "score": 0.875
-  },
-  {
-    "word": " ",
-    "start": 3.094,
-    "end": 3.114
-  },
-  {
-    "word": "working",
-    "start": 3.114,
-    "end": 3.394,
-    "score": 0.827
+    "start": 2.423,
+    "end": 2.423,
+    "word": "been"
   },
   {
     "word": " ",
-    "start": 3.394,
-    "end": 3.434
+    "start": 2.423,
+    "end": 2.423
   },
   {
-    "word": "as",
-    "start": 3.434,
-    "end": 3.514,
-    "score": 0.743
-  },
-  {
-    "word": " ",
-    "start": 3.514,
-    "end": 3.574
-  },
-  {
-    "word": "a",
-    "start": 3.574,
-    "end": 3.594,
-    "score": 0.998
+    "start": 2.423,
+    "end": 2.423,
+    "word": "working"
   },
   {
     "word": " ",
-    "start": 3.594,
-    "end": 3.654
+    "start": 2.423,
+    "end": 2.423
   },
   {
-    "word": "front",
-    "start": 3.654,
-    "end": 3.874,
-    "score": 0.889
+    "start": 2.423,
+    "end": 2.423,
+    "word": "as"
+  },
+  {
+    "word": " ",
+    "start": 2.423,
+    "end": 2.423
+  },
+  {
+    "start": 2.423,
+    "end": 2.423,
+    "word": "a"
+  },
+  {
+    "word": " ",
+    "start": 2.423,
+    "end": 2.423
+  },
+  {
+    "start": 2.423,
+    "end": 2.423,
+    "word": "front"
   },
   {
     "word": "-",
-    "start": 3.874,
-    "end": 3.934
+    "start": 2.423,
+    "end": 2.423
   },
   {
-    "word": "end",
-    "start": 3.934,
-    "end": 4.054,
-    "score": 0.979
-  },
-  {
-    "word": " ",
-    "start": 4.054,
-    "end": 4.114
-  },
-  {
-    "word": "engineer",
-    "start": 4.114,
-    "end": 4.515,
-    "score": 0.805
+    "start": 2.423,
+    "end": 2.423,
+    "word": "end"
   },
   {
     "word": " ",
-    "start": 4.515,
-    "end": 4.595
+    "start": 2.423,
+    "end": 2.423
   },
   {
-    "word": "for",
-    "start": 4.595,
-    "end": 4.715,
-    "score": 0.855
-  },
-  {
-    "word": " ",
-    "start": 4.715,
-    "end": 4.795
-  },
-  {
-    "word": "over",
-    "start": 4.795,
-    "end": 4.975,
-    "score": 0.892
+    "start": 2.423,
+    "end": 2.423,
+    "word": "engineer"
   },
   {
     "word": " ",
-    "start": 4.975,
-    "end": 5.055
+    "start": 2.423,
+    "end": 2.423
+  },
+  {
+    "start": 2.423,
+    "end": 2.423,
+    "word": "for"
+  },
+  {
+    "word": " ",
+    "start": 2.423,
+    "end": 2.423
+  },
+  {
+    "start": 2.423,
+    "end": 2.423,
+    "word": "over"
+  },
+  {
+    "word": " ",
+    "start": 2.423,
+    "end": 2.423
   },
   {
     "word": "7",
-    "start": 5.055,
-    "end": 5.316,
-    "score": 0.846
-  },
-  {
-    "word": " ",
-    "start": 5.316,
-    "end": 5.356
-  },
-  {
-    "word": "years",
-    "start": 5.356,
-    "end": 5.656,
-    "score": 0.72
-  },
-  {
-    "word": ".",
-    "start": 5.656,
-    "end": 6.577
-  },
-  {
-    "role": "line-break",
-    "word": ""
-  },
-  {
-    "word": "I've",
-    "start": 6.577,
-    "end": 6.697,
-    "score": 0.878
-  },
-  {
-    "word": " ",
-    "start": 6.697,
-    "end": 6.717
-  },
-  {
-    "word": "been",
-    "start": 6.717,
-    "end": 6.837,
-    "score": 0.876
-  },
-  {
-    "word": " ",
-    "start": 6.837,
-    "end": 6.857
-  },
-  {
-    "word": "working",
-    "start": 6.857,
-    "end": 7.117,
-    "score": 0.876
-  },
-  {
-    "word": " ",
-    "start": 7.117,
-    "end": 7.157
-  },
-  {
-    "word": "as",
-    "start": 7.157,
-    "end": 7.217,
-    "score": 0.918
-  },
-  {
-    "word": " ",
-    "start": 7.217,
-    "end": 7.257
-  },
-  {
-    "word": "a",
-    "start": 7.257,
-    "end": 7.297,
-    "score": 0.566
-  },
-  {
-    "word": " ",
-    "start": 7.297,
-    "end": 7.317
-  },
-  {
-    "word": "front",
-    "start": 7.317,
-    "end": 7.477,
-    "score": 0.922
-  },
-  {
-    "word": "-",
-    "start": 7.477,
-    "end": 7.497
-  },
-  {
-    "word": "end",
-    "start": 7.497,
-    "end": 7.597,
-    "score": 0.55
-  },
-  {
-    "word": " ",
-    "start": 7.597,
-    "end": 7.637
-  },
-  {
-    "word": "engineer",
-    "start": 7.637,
-    "end": 7.998,
-    "score": 0.874
-  },
-  {
-    "word": " ",
-    "start": 7.998,
-    "end": 8.038
-  },
-  {
-    "word": "for",
-    "start": 8.038,
-    "end": 8.158,
-    "score": 0.75
-  },
-  {
-    "word": " ",
-    "start": 8.158,
-    "end": 8.238
-  },
-  {
-    "word": "over",
-    "start": 8.238,
-    "end": 8.398,
-    "score": 0.885
-  },
-  {
-    "word": " ",
-    "start": 8.398,
-    "end": 8.438
-  },
-  {
-    "word": "7",
-    "start": 8.438,
-    "end": 8.678,
-    "score": 0.929
-  },
-  {
-    "word": " ",
-    "start": 8.678,
-    "end": 8.718
-  },
-  {
-    "word": "years",
-    "start": 8.718,
-    "end": 8.979,
-    "score": 0.758
-  },
-  {
-    "word": ".",
-    "start": 8.979,
-    "end": 10.34
-  },
-  {
-    "role": "line-break",
-    "word": ""
-  },
-  {
-    "word": "I've",
-    "start": 10.34,
-    "end": 10.48,
-    "score": 0.809
-  },
-  {
-    "word": " ",
-    "start": 10.48,
-    "end": 10.5
-  },
-  {
-    "word": "built",
-    "start": 10.5,
-    "end": 10.66,
-    "score": 0.864
-  },
-  {
-    "word": " ",
-    "start": 10.66,
-    "end": 10.7
-  },
-  {
-    "word": "many",
-    "start": 10.7,
-    "end": 10.88,
-    "score": 0.809
-  },
-  {
-    "word": " ",
-    "start": 10.88,
-    "end": 10.92
-  },
-  {
-    "word": "web",
-    "start": 10.92,
-    "end": 11.08,
-    "score": 0.913
-  },
-  {
-    "word": " ",
-    "start": 11.08,
-    "end": 11.14
-  },
-  {
-    "word": "apps",
-    "start": 11.14,
-    "end": 11.281,
-    "score": 0.784
-  },
-  {
-    "word": " ",
-    "start": 11.281,
-    "end": 11.361
-  },
-  {
-    "word": "using",
-    "start": 11.361,
-    "end": 11.561,
-    "score": 0.8
-  },
-  {
-    "word": " ",
-    "start": 11.561,
-    "end": 11.621
-  },
-  {
-    "word": "React",
-    "start": 11.621,
-    "end": 11.981,
-    "score": 0.911
-  },
-  {
-    "word": ".",
-    "start": 11.981,
-    "end": 13.042
-  },
-  {
-    "role": "line-break",
-    "word": ""
-  },
-  {
-    "word": "I've",
-    "start": 13.042,
-    "end": 13.182,
-    "score": 0.788
-  },
-  {
-    "word": " ",
-    "start": 13.182,
-    "end": 13.202
-  },
-  {
-    "word": "built",
-    "start": 13.202,
-    "end": 13.382,
-    "score": 0.708
-  },
-  {
-    "word": " ",
-    "start": 13.382,
-    "end": 13.402
-  },
-  {
-    "word": "many",
-    "start": 13.402,
-    "end": 13.563,
-    "score": 0.717
-  },
-  {
-    "word": " ",
-    "start": 13.563,
-    "end": 13.623
-  },
-  {
-    "word": "web",
-    "start": 13.623,
-    "end": 13.763,
-    "score": 0.909
-  },
-  {
-    "word": " ",
-    "start": 13.763,
-    "end": 13.823
-  },
-  {
-    "word": "apps",
-    "start": 13.823,
-    "end": 13.983,
-    "score": 0.76
-  },
-  {
-    "word": " ",
-    "start": 13.983,
-    "end": 14.063
-  },
-  {
-    "word": "using",
-    "start": 14.063,
-    "end": 14.263,
-    "score": 0.804
-  },
-  {
-    "word": " ",
-    "start": 14.263,
-    "end": 14.323
-  },
-  {
-    "word": "React",
-    "start": 14.323,
-    "end": 14.683,
-    "score": 0.921
-  },
-  {
-    "word": ".",
-    "start": 14.683,
-    "end": 15.624
-  },
-  {
-    "role": "line-break",
-    "word": ""
-  },
-  {
-    "word": "I'm",
-    "start": 15.624,
-    "end": 15.724,
-    "score": 0.985
-  },
-  {
-    "word": " ",
-    "start": 15.724,
-    "end": 15.764
-  },
-  {
-    "word": "especially",
-    "start": 15.764,
-    "end": 16.185,
-    "score": 0.866
-  },
-  {
-    "word": " ",
-    "start": 16.185,
-    "end": 16.225
-  },
-  {
-    "word": "skilled",
-    "start": 16.225,
-    "end": 16.565,
-    "score": 0.779
-  },
-  {
-    "word": " ",
-    "start": 16.565,
-    "end": 16.625
-  },
-  {
-    "word": "at",
-    "start": 16.625,
-    "end": 16.685,
-    "score": 0.756
-  },
-  {
-    "word": " ",
-    "start": 16.685,
-    "end": 16.725
-  },
-  {
-    "word": "mobile",
-    "start": 16.725,
-    "end": 16.985,
-    "score": 0.817
-  },
-  {
-    "word": " ",
-    "start": 16.985,
-    "end": 17.005
-  },
-  {
-    "word": "web",
-    "start": 17.005,
-    "end": 17.186,
-    "score": 0.881
-  },
-  {
-    "word": " ",
-    "start": 17.186,
-    "end": 17.206
-  },
-  {
-    "word": "development",
-    "start": 17.206,
-    "end": 17.666,
-    "score": 0.783
-  },
-  {
-    "word": " ",
-    "start": 17.666,
-    "end": 17.746
-  },
-  {
-    "word": "and",
-    "start": 17.746,
-    "end": 17.826,
-    "score": 0.881
-  },
-  {
-    "word": " ",
-    "start": 17.826,
-    "end": 17.906
-  },
-  {
-    "word": "creating",
-    "start": 17.906,
-    "end": 18.227,
-    "score": 0.834
-  },
-  {
-    "word": " ",
-    "start": 18.227,
-    "end": 18.327
-  },
-  {
-    "word": "user",
-    "start": 18.327,
-    "end": 18.547,
-    "score": 0.795
-  },
-  {
-    "word": "-",
-    "start": 18.547,
-    "end": 18.567
-  },
-  {
-    "word": "friendly",
-    "start": 18.567,
-    "end": 18.867,
-    "score": 0.784
-  },
-  {
-    "word": " ",
-    "start": 18.867,
-    "end": 18.907
-  },
-  {
-    "word": "interactions",
-    "start": 18.907,
-    "end": 19.488,
-    "score": 0.804
-  },
-  {
-    "word": ".",
-    "start": 19.488,
-    "end": 20.548
-  },
-  {
-    "role": "line-break",
-    "word": ""
-  },
-  {
-    "word": "I'm",
-    "start": 20.548,
-    "end": 20.669,
-    "score": 0.963
-  },
-  {
-    "word": " ",
-    "start": 20.669,
-    "end": 20.709
-  },
-  {
-    "word": "especially",
-    "start": 20.709,
-    "end": 21.209,
-    "score": 0.901
-  },
-  {
-    "word": " ",
-    "start": 21.209,
-    "end": 21.269
-  },
-  {
-    "word": "skilled",
-    "start": 21.269,
-    "end": 21.589,
-    "score": 0.916
-  },
-  {
-    "word": " ",
-    "start": 21.589,
-    "end": 21.649
-  },
-  {
-    "word": "at",
-    "start": 21.649,
-    "end": 21.709,
-    "score": 0.75
-  },
-  {
-    "word": " ",
-    "start": 21.709,
-    "end": 21.729
-  },
-  {
-    "word": "mobile",
-    "start": 21.729,
-    "end": 21.97,
-    "score": 0.753
-  },
-  {
-    "word": " ",
-    "start": 21.97,
-    "end": 21.99
-  },
-  {
-    "word": "web",
-    "start": 21.99,
-    "end": 22.15,
-    "score": 0.877
-  },
-  {
-    "word": " ",
-    "start": 22.15,
-    "end": 22.19
-  },
-  {
-    "word": "development",
-    "start": 22.19,
-    "end": 22.67,
-    "score": 0.706
-  },
-  {
-    "word": " ",
-    "start": 22.67,
-    "end": 22.77
-  },
-  {
-    "word": "and",
-    "start": 22.77,
-    "end": 22.85,
-    "score": 0.858
-  },
-  {
-    "word": " ",
-    "start": 22.85,
-    "end": 22.931
-  },
-  {
-    "word": "creating",
-    "start": 22.931,
-    "end": 23.271,
-    "score": 0.736
-  },
-  {
-    "word": " ",
-    "start": 23.271,
-    "end": 23.391
-  },
-  {
-    "word": "user",
-    "start": 23.391,
-    "end": 23.591,
-    "score": 0.884
-  },
-  {
-    "word": "-",
-    "start": 23.591,
-    "end": 23.631
-  },
-  {
-    "word": "friendly",
-    "start": 23.631,
-    "end": 23.931,
-    "score": 0.866
-  },
-  {
-    "word": " ",
-    "start": 23.931,
-    "end": 23.971
-  },
-  {
-    "word": "interactions",
-    "start": 23.971,
-    "end": 24.612,
-    "score": 0.81
-  },
-  {
-    "word": ".",
-    "start": 24.612,
-    "end": 25.393
-  },
-  {
-    "role": "line-break",
-    "word": ""
-  },
-  {
-    "role": "line-break",
-    "word": ""
-  },
-  {
-    "word": "I",
-    "start": 25.393,
-    "end": 25.513,
-    "score": 0.372
-  },
-  {
-    "word": " ",
-    "start": 25.513,
-    "end": 25.553
-  },
-  {
-    "word": "started",
-    "start": 25.553,
-    "end": 25.853,
-    "score": 0.889
-  },
-  {
-    "word": " ",
-    "start": 25.853,
-    "end": 25.873
-  },
-  {
-    "word": "my",
-    "start": 25.873,
-    "end": 25.973,
-    "score": 0.904
-  },
-  {
-    "word": " ",
-    "start": 25.973,
-    "end": 26.053
-  },
-  {
-    "word": "career",
-    "start": 26.053,
-    "end": 26.413,
-    "score": 0.782
-  },
-  {
-    "word": " ",
-    "start": 26.413,
-    "end": 26.474
-  },
-  {
-    "word": "during",
-    "start": 26.474,
-    "end": 26.654,
-    "score": 0.91
-  },
-  {
-    "word": " ",
-    "start": 26.654,
-    "end": 26.674
-  },
-  {
-    "word": "my",
-    "start": 26.674,
-    "end": 26.754,
-    "score": 0.932
-  },
-  {
-    "word": " ",
-    "start": 26.754,
-    "end": 26.814
-  },
-  {
-    "word": "internship",
-    "start": 26.814,
-    "end": 27.294,
-    "score": 0.811
-  },
-  {
-    "word": " ",
-    "start": 27.294,
-    "end": 27.354
-  },
-  {
-    "word": "at",
-    "start": 27.354,
-    "end": 27.414,
-    "score": 0.943
-  },
-  {
-    "word": " ",
-    "start": 27.414,
-    "end": 27.434
-  },
-  {
-    "word": "ZBJ",
-    "start": 27.434,
-    "end": 27.695,
-    "score": 0.693
-  },
-  {
-    "word": ".",
-    "start": 27.695,
-    "end": 28.964
-  },
-  {
-    "role": "line-break",
-    "word": ""
-  },
-  {
-    "word": "I",
-    "start": 28.964,
-    "end": 29.044,
-    "score": 0.559
-  },
-  {
-    "word": " ",
-    "start": 29.044,
-    "end": 29.084
-  },
-  {
-    "word": "started",
-    "start": 29.084,
-    "end": 29.384,
-    "score": 0.781
-  },
-  {
-    "word": " ",
-    "start": 29.384,
-    "end": 29.424
-  },
-  {
-    "word": "my",
-    "start": 29.424,
-    "end": 29.524,
-    "score": 0.833
-  },
-  {
-    "word": " ",
-    "start": 29.524,
-    "end": 29.584
-  },
-  {
-    "word": "career",
-    "start": 29.584,
-    "end": 29.904,
-    "score": 0.825
-  },
-  {
-    "word": " ",
-    "start": 29.904,
-    "end": 29.964
-  },
-  {
-    "word": "during",
-    "start": 29.964,
-    "end": 30.204,
-    "score": 0.785
-  },
-  {
-    "word": " ",
-    "start": 30.204,
-    "end": 30.245
-  },
-  {
-    "word": "my",
-    "start": 30.245,
-    "end": 30.365,
-    "score": 0.833
-  },
-  {
-    "word": " ",
-    "start": 30.365,
-    "end": 30.465
-  },
-  {
-    "word": "internship",
-    "start": 30.465,
-    "end": 31.025,
-    "score": 0.905
-  },
-  {
-    "word": " ",
-    "start": 31.025,
-    "end": 31.205
-  },
-  {
-    "word": "at",
-    "start": 31.205,
-    "end": 31.265,
-    "score": 0.752
-  },
-  {
-    "word": " ",
-    "start": 31.265,
-    "end": 31.345
-  },
-  {
-    "word": "ZBJ",
-    "start": 31.345,
-    "end": 31.905,
-    "score": 0.865
-  },
-  {
-    "word": ".",
-    "start": 31.905,
-    "end": 32.505
-  },
-  {
-    "role": "line-break",
-    "word": ""
-  },
-  {
-    "word": "At",
-    "start": 32.505,
-    "end": 32.585,
-    "score": 0.636
-  },
-  {
-    "word": " ",
-    "start": 32.585,
-    "end": 32.625
-  },
-  {
-    "word": "that",
-    "start": 32.625,
-    "end": 32.785,
-    "score": 0.863
-  },
-  {
-    "word": " ",
-    "start": 32.785,
-    "end": 32.825
-  },
-  {
-    "word": "time",
-    "start": 32.825,
-    "end": 33.086,
-    "score": 0.853
-  },
-  {
-    "word": ",",
-    "start": 33.086,
-    "end": 33.286
-  },
-  {
-    "word": " ",
-    "start": 33.286,
-    "end": 33.286
-  },
-  {
-    "word": "I",
-    "start": 33.286,
-    "end": 33.366,
-    "score": 0.565
-  },
-  {
-    "word": " ",
-    "start": 33.366,
-    "end": 33.426
-  },
-  {
-    "word": "helped",
-    "start": 33.426,
-    "end": 33.646,
-    "score": 0.917
-  },
-  {
-    "word": " ",
-    "start": 33.646,
-    "end": 33.726
-  },
-  {
-    "word": "upgrade",
-    "start": 33.726,
-    "end": 34.046,
-    "score": 0.953
-  },
-  {
-    "word": " ",
-    "start": 34.046,
-    "end": 34.066
-  },
-  {
-    "word": "their",
-    "start": 34.066,
-    "end": 34.206,
-    "score": 0.808
-  },
-  {
-    "word": " ",
-    "start": 34.206,
-    "end": 34.226
-  },
-  {
-    "word": "official",
-    "start": 34.226,
-    "end": 34.566,
-    "score": 0.828
-  },
-  {
-    "word": " ",
-    "start": 34.566,
-    "end": 34.606
-  },
-  {
-    "word": "website",
-    "start": 34.606,
-    "end": 35.066,
-    "score": 0.915
-  },
-  {
-    "word": " ",
-    "start": 35.066,
-    "end": 35.126
-  },
-  {
-    "word": "to",
-    "start": 35.126,
-    "end": 35.206,
-    "score": 0.998
-  },
-  {
-    "word": " ",
-    "start": 35.206,
-    "end": 35.246
-  },
-  {
-    "word": "version",
-    "start": 35.246,
-    "end": 36.267,
-    "score": 0.898
-  },
-  {
-    "word": " ",
-    "start": 36.267,
-    "end": 36.387
-  },
-  {
-    "role": "bold-word",
-    "word": "2.",
-    "start": 36.387,
-    "end": 36.387
-  },
-  {
-    "word": "0",
-    "start": 36.387,
-    "end": 36.387
-  },
-  {
-    "word": " ",
-    "start": 36.387,
-    "end": 36.387
-  },
-  {
-    "word": "from",
-    "start": 36.387,
-    "end": 36.547,
-    "score": 0.73
-  },
-  {
-    "word": " ",
-    "start": 36.547,
-    "end": 36.647
-  },
-  {
-    "word": "jQuery",
-    "start": 36.647,
-    "end": 37.227,
-    "score": 0.807
-  },
-  {
-    "word": " ",
-    "start": 37.227,
-    "end": 37.407
-  },
-  {
-    "word": "to",
-    "start": 37.407,
-    "end": 37.487,
-    "score": 0.776
-  },
-  {
-    "word": " ",
-    "start": 37.487,
-    "end": 37.527
-  },
-  {
-    "word": "Vue",
-    "start": 37.527,
-    "end": 37.707,
-    "score": 0.433
-  },
-  {
-    "word": ".",
-    "start": 37.707,
-    "end": 38.288
-  },
-  {
-    "role": "line-break",
-    "word": ""
-  },
-  {
-    "word": "At",
-    "start": 38.288,
-    "end": 38.348,
-    "score": 0.776
-  },
-  {
-    "word": " ",
-    "start": 38.348,
-    "end": 38.388
-  },
-  {
-    "word": "that",
-    "start": 38.388,
-    "end": 38.528,
-    "score": 0.864
-  },
-  {
-    "word": " ",
-    "start": 38.528,
-    "end": 38.568
-  },
-  {
-    "word": "time",
-    "start": 38.568,
-    "end": 38.768,
-    "score": 0.875
-  },
-  {
-    "word": ",",
-    "start": 38.768,
-    "end": 38.968
-  },
-  {
-    "word": " ",
-    "start": 38.968,
-    "end": 38.968
-  },
-  {
-    "word": "I",
-    "start": 38.968,
-    "end": 39.048,
-    "score": 0.499
-  },
-  {
-    "word": " ",
-    "start": 39.048,
-    "end": 39.088
-  },
-  {
-    "word": "helped",
-    "start": 39.088,
-    "end": 39.288,
-    "score": 0.957
-  },
-  {
-    "word": " ",
-    "start": 39.288,
-    "end": 39.348
-  },
-  {
-    "word": "upgrade",
-    "start": 39.348,
-    "end": 39.648,
-    "score": 0.923
-  },
-  {
-    "word": " ",
-    "start": 39.648,
-    "end": 39.668
-  },
-  {
-    "word": "their",
-    "start": 39.668,
-    "end": 39.848,
-    "score": 0.879
-  },
-  {
-    "word": " ",
-    "start": 39.848,
-    "end": 39.948
-  },
-  {
-    "word": "official",
-    "start": 39.948,
-    "end": 40.288,
-    "score": 0.818
-  },
-  {
-    "word": " ",
-    "start": 40.288,
-    "end": 40.328
-  },
-  {
-    "word": "website",
-    "start": 40.328,
-    "end": 41.189,
-    "score": 0.789
-  },
-  {
-    "word": " ",
-    "start": 41.189,
-    "end": 41.569
-  },
-  {
-    "word": "to",
-    "start": 41.569,
-    "end": 41.649,
-    "score": 0.867
-  },
-  {
-    "word": " ",
-    "start": 41.649,
-    "end": 41.669
-  },
-  {
-    "word": "version",
-    "start": 41.669,
-    "end": 41.989,
-    "score": 0.943
-  },
-  {
-    "word": " ",
-    "start": 41.989,
-    "end": 42.709
-  },
-  {
-    "role": "bold-word",
-    "word": "2.",
-    "start": 42.709,
-    "end": 42.709
-  },
-  {
-    "word": "0",
-    "start": 42.709,
-    "end": 42.709
-  },
-  {
-    "word": " ",
-    "start": 42.709,
-    "end": 42.709
-  },
-  {
-    "word": "from",
-    "start": 42.709,
-    "end": 42.849,
-    "score": 0.768
-  },
-  {
-    "word": " ",
-    "start": 42.849,
-    "end": 42.909
-  },
-  {
-    "word": "jQuery",
-    "start": 42.909,
-    "end": 43.39,
-    "score": 0.799
-  },
-  {
-    "word": " ",
-    "start": 43.39,
-    "end": 43.43
-  },
-  {
-    "word": "to",
-    "start": 43.43,
-    "end": 43.51,
-    "score": 0.994
-  },
-  {
-    "word": " ",
-    "start": 43.51,
-    "end": 43.55
-  },
-  {
-    "word": "Vue",
-    "start": 43.55,
-    "end": 43.79,
-    "score": 0.198
-  },
-  {
-    "word": ".",
-    "start": 43.79,
-    "end": 44.49
-  },
-  {
-    "role": "line-break",
-    "word": ""
-  },
-  {
-    "word": "Since",
-    "start": 44.49,
-    "end": 44.71,
-    "score": 0.804
-  },
-  {
-    "word": " ",
-    "start": 44.71,
-    "end": 44.77
-  },
-  {
-    "word": "then",
-    "start": 44.77,
-    "end": 45.01,
-    "score": 0.429
-  },
-  {
-    "word": ",",
-    "start": 45.01,
-    "end": 45.29
-  },
-  {
-    "word": " ",
-    "start": 45.29,
-    "end": 45.29
-  },
-  {
-    "word": "I've",
-    "start": 45.29,
-    "end": 45.43,
-    "score": 0.841
-  },
-  {
-    "word": " ",
-    "start": 45.43,
-    "end": 45.47
-  },
-  {
-    "word": "worked",
-    "start": 45.47,
-    "end": 45.69,
-    "score": 0.904
-  },
-  {
-    "word": " ",
-    "start": 45.69,
-    "end": 45.73
-  },
-  {
-    "word": "in",
-    "start": 45.73,
-    "end": 45.81,
-    "score": 0.88
-  },
-  {
-    "word": " ",
-    "start": 45.81,
-    "end": 45.87
-  },
-  {
-    "word": "different",
-    "start": 45.87,
-    "end": 46.171,
-    "score": 0.902
-  },
-  {
-    "word": " ",
-    "start": 46.171,
-    "end": 46.211
-  },
-  {
-    "word": "industries",
-    "start": 46.211,
-    "end": 46.691,
-    "score": 0.763
-  },
-  {
-    "word": " ",
-    "start": 46.691,
-    "end": 46.751
-  },
-  {
-    "word": "like",
-    "start": 46.751,
-    "end": 46.911,
-    "score": 0.82
-  },
-  {
-    "word": " ",
-    "start": 46.911,
-    "end": 47.031
-  },
-  {
-    "start": 47.031,
-    "end": 47.031,
-    "word": "e"
-  },
-  {
-    "word": "-",
-    "start": 47.031,
-    "end": 47.031
-  },
-  {
-    "word": "commerce",
-    "start": 47.031,
-    "end": 47.491,
-    "score": 0.893
-  },
-  {
-    "word": " ",
-    "start": 47.491,
-    "end": 47.511
-  },
-  {
-    "word": "platform",
-    "start": 47.511,
-    "end": 48.011,
-    "score": 0.793
-  },
-  {
-    "word": " ",
-    "start": 48.011,
-    "end": 48.231
-  },
-  {
-    "word": "and",
-    "start": 48.231,
-    "end": 48.331,
-    "score": 0.804
-  },
-  {
-    "word": " ",
-    "start": 48.331,
-    "end": 48.371
-  },
-  {
-    "word": "banking",
-    "start": 48.371,
-    "end": 48.692,
-    "score": 0.924
-  },
-  {
-    "word": " ",
-    "start": 48.692,
-    "end": 48.732
-  },
-  {
-    "word": "systems",
-    "start": 48.732,
-    "end": 49.152,
-    "score": 0.743
-  },
-  {
-    "word": ".",
-    "start": 49.152,
-    "end": 49.872
-  },
-  {
-    "role": "line-break",
-    "word": ""
-  },
-  {
-    "word": "Since",
-    "start": 49.872,
-    "end": 50.072,
-    "score": 0.986
-  },
-  {
-    "word": " ",
-    "start": 50.072,
-    "end": 50.132
-  },
-  {
-    "word": "then",
-    "start": 50.132,
-    "end": 50.352,
-    "score": 0.837
-  },
-  {
-    "word": ",",
-    "start": 50.352,
-    "end": 50.612
-  },
-  {
-    "word": " ",
-    "start": 50.612,
-    "end": 50.612
-  },
-  {
-    "word": "I've",
-    "start": 50.612,
-    "end": 50.772,
-    "score": 0.757
-  },
-  {
-    "word": " ",
-    "start": 50.772,
-    "end": 50.832
-  },
-  {
-    "word": "worked",
-    "start": 50.832,
-    "end": 51.092,
-    "score": 0.897
-  },
-  {
-    "word": " ",
-    "start": 51.092,
-    "end": 51.193
-  },
-  {
-    "word": "in",
-    "start": 51.193,
-    "end": 51.253,
-    "score": 0.998
-  },
-  {
-    "word": " ",
-    "start": 51.253,
-    "end": 51.313
-  },
-  {
-    "word": "different",
-    "start": 51.313,
-    "end": 51.573,
-    "score": 0.935
-  },
-  {
-    "word": " ",
-    "start": 51.573,
-    "end": 51.633
-  },
-  {
-    "word": "industries",
-    "start": 51.633,
-    "end": 52.113,
-    "score": 0.816
-  },
-  {
-    "word": " ",
-    "start": 52.113,
-    "end": 52.193
-  },
-  {
-    "word": "like",
-    "start": 52.193,
-    "end": 52.333,
-    "score": 0.874
-  },
-  {
-    "word": " ",
-    "start": 52.333,
-    "end": 52.453
-  },
-  {
-    "start": 52.453,
-    "end": 52.453,
-    "word": "e"
-  },
-  {
-    "word": "-",
-    "start": 52.453,
-    "end": 52.453
-  },
-  {
-    "word": "commerce",
-    "start": 52.453,
-    "end": 52.913,
-    "score": 0.861
-  },
-  {
-    "word": " ",
-    "start": 52.913,
-    "end": 52.953
-  },
-  {
-    "word": "platform",
-    "start": 52.953,
-    "end": 53.433,
-    "score": 0.772
-  },
-  {
-    "word": " ",
-    "start": 53.433,
-    "end": 53.613
-  },
-  {
-    "word": "and",
-    "start": 53.613,
-    "end": 53.713,
-    "score": 0.711
-  },
-  {
-    "word": " ",
-    "start": 53.713,
-    "end": 53.773
-  },
-  {
-    "word": "banking",
-    "start": 53.773,
-    "end": 54.114,
-    "score": 0.81
-  },
-  {
-    "word": " ",
-    "start": 54.114,
-    "end": 54.154
-  },
-  {
-    "word": "systems",
-    "start": 54.154,
-    "end": 54.554,
-    "score": 0.888
-  },
-  {
-    "word": ".",
-    "start": 54.554,
-    "end": 55.528
-  },
-  {
-    "role": "line-break",
-    "word": ""
-  },
-  {
-    "role": "line-break",
-    "word": ""
-  },
-  {
-    "word": "At",
-    "start": 55.528,
-    "end": 55.608,
-    "score": 0.6
-  },
-  {
-    "word": " ",
-    "start": 55.608,
-    "end": 55.648
-  },
-  {
-    "word": "my",
-    "start": 55.648,
-    "end": 55.748,
-    "score": 0.984
-  },
-  {
-    "word": " ",
-    "start": 55.748,
-    "end": 55.808
-  },
-  {
-    "word": "last",
-    "start": 55.808,
-    "end": 56.068,
-    "score": 0.793
-  },
-  {
-    "word": " ",
-    "start": 56.068,
-    "end": 56.108
-  },
-  {
-    "word": "company",
-    "start": 56.108,
-    "end": 56.488,
-    "score": 0.857
-  },
-  {
-    "word": ",",
-    "start": 56.488,
-    "end": 56.868
-  },
-  {
-    "word": " ",
-    "start": 56.868,
-    "end": 56.868
-  },
-  {
-    "word": "I",
-    "start": 56.868,
-    "end": 56.948,
-    "score": 0.752
-  },
-  {
-    "word": " ",
-    "start": 56.948,
-    "end": 57.008
-  },
-  {
-    "word": "was",
-    "start": 57.008,
-    "end": 57.148,
-    "score": 0.784
-  },
-  {
-    "word": " ",
-    "start": 57.148,
-    "end": 57.208
-  },
-  {
-    "word": "in",
-    "start": 57.208,
-    "end": 57.268,
-    "score": 0.75
-  },
-  {
-    "word": " ",
-    "start": 57.268,
-    "end": 57.309
-  },
-  {
-    "word": "charge",
-    "start": 57.309,
-    "end": 57.629,
-    "score": 0.805
-  },
-  {
-    "word": " ",
-    "start": 57.629,
-    "end": 57.669
-  },
-  {
-    "word": "of",
-    "start": 57.669,
-    "end": 57.729,
-    "score": 0.75
-  },
-  {
-    "word": " ",
-    "start": 57.729,
-    "end": 57.809
-  },
-  {
-    "word": "banking",
-    "start": 57.809,
-    "end": 58.169,
-    "score": 0.831
-  },
-  {
-    "word": " ",
-    "start": 58.169,
-    "end": 58.209
-  },
-  {
-    "word": "rewards",
-    "start": 58.209,
-    "end": 58.569,
-    "score": 0.834
-  },
-  {
-    "word": " ",
-    "start": 58.569,
-    "end": 58.609
-  },
-  {
-    "word": "systems",
-    "start": 58.609,
-    "end": 59.049,
-    "score": 0.833
-  },
-  {
-    "word": ".",
-    "start": 59.049,
-    "end": 59.529
-  },
-  {
-    "role": "line-break",
-    "word": ""
-  },
-  {
-    "word": "At",
-    "start": 59.529,
-    "end": 59.609,
-    "score": 0.596
-  },
-  {
-    "word": " ",
-    "start": 59.609,
-    "end": 59.629
-  },
-  {
-    "word": "my",
-    "start": 59.629,
-    "end": 59.729,
-    "score": 1.0
-  },
-  {
-    "word": " ",
-    "start": 59.729,
-    "end": 59.789
-  },
-  {
-    "word": "last",
-    "start": 59.789,
-    "end": 60.009,
-    "score": 0.847
-  },
-  {
-    "word": " ",
-    "start": 60.009,
-    "end": 60.049
-  },
-  {
-    "word": "company",
-    "start": 60.049,
-    "end": 60.449,
-    "score": 0.908
-  },
-  {
-    "word": ",",
-    "start": 60.449,
-    "end": 60.789
-  },
-  {
-    "word": " ",
-    "start": 60.789,
-    "end": 60.789
-  },
-  {
-    "word": "I",
-    "start": 60.789,
-    "end": 60.829,
-    "score": 1.0
-  },
-  {
-    "word": " ",
-    "start": 60.829,
-    "end": 60.869
-  },
-  {
-    "word": "was",
-    "start": 60.869,
-    "end": 60.969,
-    "score": 0.867
-  },
-  {
-    "word": " ",
-    "start": 60.969,
-    "end": 61.009
-  },
-  {
-    "word": "in",
-    "start": 61.009,
-    "end": 61.05,
-    "score": 1.0
-  },
-  {
-    "word": " ",
-    "start": 61.05,
-    "end": 61.09
-  },
-  {
-    "word": "charge",
-    "start": 61.09,
-    "end": 61.29,
-    "score": 0.88
-  },
-  {
-    "word": " ",
-    "start": 61.29,
-    "end": 61.31
-  },
-  {
-    "word": "of",
-    "start": 61.31,
-    "end": 61.37,
-    "score": 0.75
-  },
-  {
-    "word": " ",
-    "start": 61.37,
-    "end": 61.43
-  },
-  {
-    "word": "banking",
-    "start": 61.43,
-    "end": 61.75,
-    "score": 0.895
-  },
-  {
-    "word": " ",
-    "start": 61.75,
-    "end": 61.79
-  },
-  {
-    "word": "rewards",
-    "start": 61.79,
-    "end": 62.11,
-    "score": 0.818
-  },
-  {
-    "word": " ",
-    "start": 62.11,
-    "end": 62.15
-  },
-  {
-    "word": "systems",
-    "start": 62.15,
-    "end": 62.57,
-    "score": 0.874
-  },
-  {
-    "word": ".",
-    "start": 62.57,
-    "end": 63.21
-  },
-  {
-    "role": "line-break",
-    "word": ""
-  },
-  {
-    "word": "I",
-    "start": 63.21,
-    "end": 63.27,
-    "score": 0.68
-  },
-  {
-    "word": " ",
-    "start": 63.27,
-    "end": 63.33
-  },
-  {
-    "word": "also",
-    "start": 63.33,
-    "end": 63.55,
-    "score": 0.915
-  },
-  {
-    "word": " ",
-    "start": 63.55,
-    "end": 63.57
-  },
-  {
-    "word": "built",
-    "start": 63.57,
-    "end": 63.81,
-    "score": 0.733
-  },
-  {
-    "word": " ",
-    "start": 63.81,
-    "end": 63.87
-  },
-  {
-    "word": "a",
-    "start": 63.87,
-    "end": 63.93,
-    "score": 0.464
-  },
-  {
-    "word": " ",
-    "start": 63.93,
-    "end": 64.03
-  },
-  {
-    "word": "shared",
-    "start": 64.03,
-    "end": 64.35,
-    "score": 0.911
-  },
-  {
-    "word": " ",
-    "start": 64.35,
-    "end": 64.51
-  },
-  {
-    "word": "admin",
-    "start": 64.51,
-    "end": 64.811,
-    "score": 0.805
-  },
-  {
-    "word": " ",
-    "start": 64.811,
-    "end": 64.831
-  },
-  {
-    "word": "system",
-    "start": 64.831,
-    "end": 65.131,
-    "score": 0.914
-  },
-  {
-    "word": " ",
-    "start": 65.131,
-    "end": 65.151
-  },
-  {
-    "word": "template",
-    "start": 65.151,
-    "end": 65.531,
-    "score": 0.687
-  },
-  {
-    "word": ",",
-    "start": 65.531,
-    "end": 66.331
-  },
-  {
-    "role": "line-break",
-    "word": ""
-  },
-  {
-    "word": "I",
-    "start": 66.331,
-    "end": 66.371,
-    "score": 0.388
-  },
-  {
-    "word": " ",
-    "start": 66.371,
-    "end": 66.411
-  },
-  {
-    "word": "also",
-    "start": 66.411,
-    "end": 66.651,
-    "score": 0.814
-  },
-  {
-    "word": " ",
-    "start": 66.651,
-    "end": 66.711
-  },
-  {
-    "word": "built",
-    "start": 66.711,
-    "end": 66.911,
-    "score": 0.774
-  },
-  {
-    "word": " ",
-    "start": 66.911,
-    "end": 66.971
-  },
-  {
-    "word": "a",
-    "start": 66.971,
-    "end": 67.011,
-    "score": 0.5
-  },
-  {
-    "word": " ",
-    "start": 67.011,
-    "end": 67.091
-  },
-  {
-    "word": "shared",
-    "start": 67.091,
-    "end": 67.351,
-    "score": 0.853
-  },
-  {
-    "word": " ",
-    "start": 67.351,
-    "end": 67.471
-  },
-  {
-    "word": "admin",
-    "start": 67.471,
-    "end": 67.751,
+    "start": 2.423,
+    "end": 2.703,
     "score": 0.762
   },
   {
     "word": " ",
-    "start": 67.751,
-    "end": 67.791
+    "start": 2.703,
+    "end": 2.723
   },
   {
-    "word": "system",
-    "start": 67.791,
-    "end": 68.051,
-    "score": 0.86
-  },
-  {
-    "word": " ",
-    "start": 68.051,
-    "end": 68.071
-  },
-  {
-    "word": "template",
-    "start": 68.071,
-    "end": 68.472,
-    "score": 0.688
-  },
-  {
-    "word": ",",
-    "start": 68.472,
-    "end": 69.072
-  },
-  {
-    "role": "line-break",
-    "word": ""
-  },
-  {
-    "word": "to",
-    "start": 69.072,
-    "end": 69.132,
-    "score": 1.0
-  },
-  {
-    "word": " ",
-    "start": 69.132,
-    "end": 69.192
-  },
-  {
-    "word": "help",
-    "start": 69.192,
-    "end": 69.372,
-    "score": 0.928
-  },
-  {
-    "word": " ",
-    "start": 69.372,
-    "end": 69.492
-  },
-  {
-    "word": "unify",
-    "start": 69.492,
-    "end": 69.912,
-    "score": 0.72
-  },
-  {
-    "word": " ",
-    "start": 69.912,
-    "end": 69.952
-  },
-  {
-    "word": "the",
-    "start": 69.952,
-    "end": 70.052,
-    "score": 0.838
-  },
-  {
-    "word": " ",
-    "start": 70.052,
-    "end": 70.152
-  },
-  {
-    "word": "user",
-    "start": 70.152,
-    "end": 70.352,
-    "score": 0.869
-  },
-  {
-    "word": " ",
-    "start": 70.352,
-    "end": 70.372
-  },
-  {
-    "word": "experience",
-    "start": 70.372,
-    "end": 70.972,
-    "score": 0.763
-  },
-  {
-    "word": " ",
-    "start": 70.972,
-    "end": 71.272
-  },
-  {
-    "word": "across",
-    "start": 71.272,
-    "end": 71.592,
-    "score": 0.824
-  },
-  {
-    "word": " ",
-    "start": 71.592,
-    "end": 71.752
-  },
-  {
-    "word": "all",
-    "start": 71.752,
-    "end": 71.872,
-    "score": 0.869
-  },
-  {
-    "word": " ",
-    "start": 71.872,
-    "end": 71.932
-  },
-  {
-    "word": "our",
-    "start": 71.932,
-    "end": 72.032,
-    "score": 0.811
-  },
-  {
-    "word": " ",
-    "start": 72.032,
-    "end": 72.092
-  },
-  {
-    "word": "internal",
-    "start": 72.092,
-    "end": 72.433,
-    "score": 0.935
-  },
-  {
-    "word": " ",
-    "start": 72.433,
-    "end": 72.493
-  },
-  {
-    "word": "systems",
-    "start": 72.493,
-    "end": 72.893,
-    "score": 0.851
+    "word": "years",
+    "start": 2.723,
+    "end": 2.983,
+    "score": 0.703
   },
   {
     "word": ".",
-    "start": 72.893,
-    "end": 73.573
+    "start": 2.983,
+    "end": 3.664
   },
   {
     "role": "line-break",
     "word": ""
   },
   {
-    "word": "to",
-    "start": 73.573,
-    "end": 73.653,
-    "score": 0.904
+    "word": "I've",
+    "start": 3.664,
+    "end": 3.764,
+    "score": 0.994
   },
   {
     "word": " ",
-    "start": 73.653,
-    "end": 73.693
+    "start": 3.764,
+    "end": 3.784
   },
   {
-    "word": "help",
-    "start": 73.693,
-    "end": 73.873,
-    "score": 0.778
-  },
-  {
-    "word": " ",
-    "start": 73.873,
-    "end": 73.993
-  },
-  {
-    "word": "unify",
-    "start": 73.993,
-    "end": 74.453,
-    "score": 0.831
+    "word": "been",
+    "start": 3.784,
+    "end": 3.904,
+    "score": 0.921
   },
   {
     "word": " ",
-    "start": 74.453,
-    "end": 74.613
+    "start": 3.904,
+    "end": 3.944
   },
   {
-    "word": "the",
-    "start": 74.613,
-    "end": 74.713,
-    "score": 0.848
-  },
-  {
-    "word": " ",
-    "start": 74.713,
-    "end": 74.833
-  },
-  {
-    "word": "user",
-    "start": 74.833,
-    "end": 75.073,
-    "score": 0.876
+    "word": "working",
+    "start": 3.944,
+    "end": 4.184,
+    "score": 0.943
   },
   {
     "word": " ",
-    "start": 75.073,
-    "end": 75.113
+    "start": 4.184,
+    "end": 4.244
   },
   {
-    "word": "experience",
-    "start": 75.113,
-    "end": 75.613,
+    "word": "as",
+    "start": 4.244,
+    "end": 4.304,
+    "score": 0.774
+  },
+  {
+    "word": " ",
+    "start": 4.304,
+    "end": 4.344
+  },
+  {
+    "word": "a",
+    "start": 4.344,
+    "end": 4.364,
+    "score": 0.997
+  },
+  {
+    "word": " ",
+    "start": 4.364,
+    "end": 4.444
+  },
+  {
+    "start": 4.444,
+    "end": 4.444,
+    "word": "front"
+  },
+  {
+    "word": "-",
+    "start": 4.444,
+    "end": 4.444
+  },
+  {
+    "word": "end",
+    "start": 4.444,
+    "end": 4.784,
+    "score": 0.856
+  },
+  {
+    "word": " ",
+    "start": 4.784,
+    "end": 4.824
+  },
+  {
+    "word": "engineer",
+    "start": 4.824,
+    "end": 5.184,
+    "score": 0.794
+  },
+  {
+    "word": " ",
+    "start": 5.184,
+    "end": 5.224
+  },
+  {
+    "word": "for",
+    "start": 5.224,
+    "end": 5.344,
+    "score": 0.844
+  },
+  {
+    "word": " ",
+    "start": 5.344,
+    "end": 5.425
+  },
+  {
+    "word": "over",
+    "start": 5.425,
+    "end": 5.625,
+    "score": 0.758
+  },
+  {
+    "word": " ",
+    "start": 5.625,
+    "end": 5.725
+  },
+  {
+    "word": "7",
+    "start": 5.725,
+    "end": 6.005,
+    "score": 0.779
+  },
+  {
+    "word": " ",
+    "start": 6.005,
+    "end": 6.025
+  },
+  {
+    "word": "years",
+    "start": 6.025,
+    "end": 7.586,
+    "score": 0.726
+  },
+  {
+    "word": ".",
+    "start": 7.586,
+    "end": 8.166
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "I've",
+    "start": 8.166,
+    "end": 10.407,
+    "score": 0.664
+  },
+  {
+    "word": " ",
+    "start": 10.407,
+    "end": 10.427
+  },
+  {
+    "word": "built",
+    "start": 10.427,
+    "end": 10.607,
+    "score": 0.738
+  },
+  {
+    "word": " ",
+    "start": 10.607,
+    "end": 10.648
+  },
+  {
+    "word": "many",
+    "start": 10.648,
+    "end": 10.848,
+    "score": 0.846
+  },
+  {
+    "word": " ",
+    "start": 10.848,
+    "end": 10.908
+  },
+  {
+    "word": "web",
+    "start": 10.908,
+    "end": 11.088,
+    "score": 0.913
+  },
+  {
+    "word": " ",
+    "start": 11.088,
+    "end": 11.168
+  },
+  {
+    "word": "apps",
+    "start": 11.168,
+    "end": 11.368,
+    "score": 0.707
+  },
+  {
+    "word": " ",
+    "start": 11.368,
+    "end": 11.488
+  },
+  {
+    "word": "using",
+    "start": 11.488,
+    "end": 11.708,
+    "score": 0.721
+  },
+  {
+    "word": " ",
+    "start": 11.708,
+    "end": 11.768
+  },
+  {
+    "word": "React",
+    "start": 11.768,
+    "end": 12.208,
+    "score": 0.969
+  },
+  {
+    "word": ".",
+    "start": 12.208,
+    "end": 13.429
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "I've",
+    "start": 13.429,
+    "end": 13.569,
+    "score": 0.859
+  },
+  {
+    "word": " ",
+    "start": 13.569,
+    "end": 13.589
+  },
+  {
+    "word": "built",
+    "start": 13.589,
+    "end": 13.789,
+    "score": 0.682
+  },
+  {
+    "word": " ",
+    "start": 13.789,
+    "end": 13.829
+  },
+  {
+    "word": "many",
+    "start": 13.829,
+    "end": 14.029,
+    "score": 0.757
+  },
+  {
+    "word": " ",
+    "start": 14.029,
+    "end": 14.089
+  },
+  {
+    "word": "web",
+    "start": 14.089,
+    "end": 14.27,
     "score": 0.908
   },
   {
     "word": " ",
-    "start": 75.613,
-    "end": 75.713
+    "start": 14.27,
+    "end": 14.35
   },
   {
-    "word": "across",
-    "start": 75.713,
-    "end": 76.114,
-    "score": 0.793
-  },
-  {
-    "word": " ",
-    "start": 76.114,
-    "end": 76.294
-  },
-  {
-    "word": "all",
-    "start": 76.294,
-    "end": 76.414,
-    "score": 0.85
+    "word": "apps",
+    "start": 14.35,
+    "end": 14.57,
+    "score": 0.751
   },
   {
     "word": " ",
-    "start": 76.414,
-    "end": 76.454
+    "start": 14.57,
+    "end": 14.79
   },
   {
-    "word": "our",
-    "start": 76.454,
-    "end": 76.554,
-    "score": 0.773
-  },
-  {
-    "word": " ",
-    "start": 76.554,
-    "end": 76.614
-  },
-  {
-    "word": "internal",
-    "start": 76.614,
-    "end": 76.974,
-    "score": 0.832
+    "word": "using",
+    "start": 14.79,
+    "end": 14.99,
+    "score": 0.851
   },
   {
     "word": " ",
-    "start": 76.974,
-    "end": 77.014
+    "start": 14.99,
+    "end": 15.05
   },
   {
-    "word": "systems",
-    "start": 77.014,
-    "end": 77.414,
-    "score": 0.885
+    "word": "React",
+    "start": 15.05,
+    "end": 15.41,
+    "score": 0.942
   },
   {
     "word": ".",
-    "start": 77.414,
-    "end": 78.368
-  },
-  {
-    "role": "line-break",
-    "word": ""
-  },
-  {
-    "role": "line-break",
-    "word": ""
+    "start": 15.41,
+    "end": 15.91
   },
   {
     "role": "line-break",
@@ -2424,156 +497,2081 @@
   },
   {
     "word": "I'm",
-    "start": 78.368,
-    "end": 78.488,
-    "score": 0.772
+    "start": 15.91,
+    "end": 16.031,
+    "score": 0.798
   },
   {
     "word": " ",
-    "start": 78.488,
-    "end": 78.528
+    "start": 16.031,
+    "end": 16.071
   },
   {
-    "word": "also",
-    "start": 78.528,
-    "end": 78.728,
-    "score": 0.856
-  },
-  {
-    "word": " ",
-    "start": 78.728,
-    "end": 78.768
-  },
-  {
-    "word": "a",
-    "start": 78.768,
-    "end": 78.808,
-    "score": 0.5
+    "word": "especially",
+    "start": 16.071,
+    "end": 16.671,
+    "score": 0.82
   },
   {
     "word": " ",
-    "start": 78.808,
-    "end": 78.849
+    "start": 16.671,
+    "end": 16.731
   },
   {
-    "word": "top",
-    "start": 78.849,
-    "end": 79.089,
-    "score": 0.993
-  },
-  {
-    "word": " ",
-    "start": 79.089,
-    "end": 79.389
-  },
-  {
-    "word": "20",
-    "start": 79.389,
-    "end": 79.389
+    "word": "skilled",
+    "start": 16.731,
+    "end": 17.051,
+    "score": 0.813
   },
   {
     "word": " ",
-    "start": 79.389,
-    "end": 79.389
+    "start": 17.051,
+    "end": 17.111
   },
   {
-    "word": "contributor",
-    "start": 79.389,
-    "end": 79.89,
-    "score": 0.841
-  },
-  {
-    "word": " ",
-    "start": 79.89,
-    "end": 79.93
-  },
-  {
-    "word": "to",
-    "start": 79.93,
-    "end": 80.01,
-    "score": 0.56
+    "word": "at",
+    "start": 17.111,
+    "end": 17.191,
+    "score": 0.552
   },
   {
     "word": " ",
-    "start": 80.01,
-    "end": 80.03
+    "start": 17.191,
+    "end": 17.251
   },
   {
-    "word": "the",
-    "start": 80.03,
-    "end": 80.13,
-    "score": 0.668
+    "word": "mobile",
+    "start": 17.251,
+    "end": 17.531,
+    "score": 0.84
   },
   {
     "word": " ",
-    "start": 80.13,
-    "end": 80.23
+    "start": 17.531,
+    "end": 17.571
   },
   {
-    "word": "open",
-    "start": 80.23,
-    "end": 80.43,
-    "score": 0.874
+    "word": "web",
+    "start": 17.571,
+    "end": 17.752,
+    "score": 0.979
   },
   {
-    "word": "-",
-    "start": 80.43,
-    "end": 80.45
+    "word": " ",
+    "start": 17.752,
+    "end": 17.772
   },
   {
-    "word": "source",
-    "start": 80.45,
-    "end": 80.69,
+    "word": "development",
+    "start": 17.772,
+    "end": 18.252,
+    "score": 0.808
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "I'm",
+    "start": 19.152,
+    "end": 19.272,
+    "score": 0.906
+  },
+  {
+    "word": " ",
+    "start": 19.272,
+    "end": 19.292
+  },
+  {
+    "word": "especially",
+    "start": 19.292,
+    "end": 19.733,
     "score": 0.894
   },
   {
     "word": " ",
-    "start": 80.69,
-    "end": 80.73
+    "start": 19.733,
+    "end": 19.813
   },
   {
-    "word": "project",
-    "start": 80.73,
-    "end": 81.131,
-    "score": 0.823
-  },
-  {
-    "word": " ",
-    "start": 81.131,
-    "end": 81.331
-  },
-  {
-    "word": "Ant",
-    "start": 81.331,
-    "end": 81.471,
-    "score": 0.775
+    "word": "skilled",
+    "start": 19.813,
+    "end": 20.093,
+    "score": 0.93
   },
   {
     "word": " ",
-    "start": 81.471,
-    "end": 81.511
+    "start": 20.093,
+    "end": 20.133
   },
   {
-    "word": "Design",
-    "start": 81.511,
-    "end": 81.812,
+    "word": "at",
+    "start": 20.133,
+    "end": 20.173,
+    "score": 0.998
+  },
+  {
+    "word": " ",
+    "start": 20.173,
+    "end": 20.213
+  },
+  {
+    "word": "mobile",
+    "start": 20.213,
+    "end": 20.453,
+    "score": 0.886
+  },
+  {
+    "word": " ",
+    "start": 20.453,
+    "end": 20.473
+  },
+  {
+    "word": "web",
+    "start": 20.473,
+    "end": 20.653,
+    "score": 0.869
+  },
+  {
+    "word": " ",
+    "start": 20.653,
+    "end": 20.673
+  },
+  {
+    "word": "development",
+    "start": 20.673,
+    "end": 21.153,
+    "score": 0.78
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "and",
+    "start": 21.414,
+    "end": 21.494,
+    "score": 0.854
+  },
+  {
+    "word": " ",
+    "start": 21.494,
+    "end": 21.534
+  },
+  {
+    "word": "creating",
+    "start": 21.534,
+    "end": 21.814,
+    "score": 0.79
+  },
+  {
+    "word": " ",
+    "start": 21.814,
+    "end": 21.934
+  },
+  {
+    "start": 21.934,
+    "end": 21.934,
+    "word": "user"
+  },
+  {
+    "word": "-",
+    "start": 21.934,
+    "end": 21.934
+  },
+  {
+    "word": "friendly",
+    "start": 21.934,
+    "end": 22.534,
+    "score": 0.855
+  },
+  {
+    "word": " ",
+    "start": 22.534,
+    "end": 22.614
+  },
+  {
+    "word": "interactions",
+    "start": 22.614,
+    "end": 23.215,
     "score": 0.881
   },
   {
-    "word": " ",
-    "start": 81.812,
-    "end": 81.852
+    "word": ".",
+    "start": 23.215,
+    "end": 24.087
   },
   {
-    "word": "Mobile",
-    "start": 81.852,
-    "end": 82.192,
-    "score": 0.799
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "and",
+    "start": 24.087,
+    "end": 24.147,
+    "score": 0.998
+  },
+  {
+    "word": " ",
+    "start": 24.147,
+    "end": 24.187
+  },
+  {
+    "word": "creating",
+    "start": 24.187,
+    "end": 24.467,
+    "score": 0.996
+  },
+  {
+    "word": " ",
+    "start": 24.467,
+    "end": 24.547
+  },
+  {
+    "start": 24.547,
+    "end": 24.547,
+    "word": "user"
+  },
+  {
+    "word": "-",
+    "start": 24.547,
+    "end": 24.547
+  },
+  {
+    "word": "friendly",
+    "start": 24.547,
+    "end": 25.068,
+    "score": 0.874
+  },
+  {
+    "word": " ",
+    "start": 25.068,
+    "end": 25.128
+  },
+  {
+    "word": "interactions",
+    "start": 25.128,
+    "end": 25.769,
+    "score": 0.796
+  },
+  {
+    "word": ".",
+    "start": 25.769,
+    "end": 26.349
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "I",
+    "start": 26.349,
+    "end": 26.409,
+    "score": 0.666
+  },
+  {
+    "word": " ",
+    "start": 26.409,
+    "end": 26.469
+  },
+  {
+    "word": "started",
+    "start": 26.469,
+    "end": 26.75,
+    "score": 0.769
+  },
+  {
+    "word": " ",
+    "start": 26.75,
+    "end": 26.79
+  },
+  {
+    "word": "my",
+    "start": 26.79,
+    "end": 26.89,
+    "score": 0.834
+  },
+  {
+    "word": " ",
+    "start": 26.89,
+    "end": 26.95
+  },
+  {
+    "word": "career",
+    "start": 26.95,
+    "end": 27.27,
+    "score": 0.802
+  },
+  {
+    "word": " ",
+    "start": 27.27,
+    "end": 27.33
+  },
+  {
+    "word": "during",
+    "start": 27.33,
+    "end": 27.53,
+    "score": 0.898
+  },
+  {
+    "word": " ",
+    "start": 27.53,
+    "end": 27.55
+  },
+  {
+    "word": "my",
+    "start": 27.55,
+    "end": 27.63,
+    "score": 0.998
+  },
+  {
+    "word": " ",
+    "start": 27.63,
+    "end": 27.691
+  },
+  {
+    "word": "internship",
+    "start": 27.691,
+    "end": 28.131,
+    "score": 0.88
+  },
+  {
+    "word": " ",
+    "start": 28.131,
+    "end": 28.171
+  },
+  {
+    "word": "at",
+    "start": 28.171,
+    "end": 28.211,
+    "score": 0.999
+  },
+  {
+    "word": " ",
+    "start": 28.211,
+    "end": 28.251
+  },
+  {
+    "word": "ZBJ",
+    "start": 28.251,
+    "end": 28.792,
+    "score": 0.806
   },
   {
     "word": ",",
-    "start": 82.192,
-    "end": 82.592
+    "start": 28.792,
+    "end": 29.232
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "I",
+    "start": 29.232,
+    "end": 29.292,
+    "score": 0.666
+  },
+  {
+    "word": " ",
+    "start": 29.292,
+    "end": 29.332
+  },
+  {
+    "word": "started",
+    "start": 29.332,
+    "end": 29.612,
+    "score": 0.824
+  },
+  {
+    "word": " ",
+    "start": 29.612,
+    "end": 29.652
+  },
+  {
+    "word": "my",
+    "start": 29.652,
+    "end": 29.752,
+    "score": 0.834
+  },
+  {
+    "word": " ",
+    "start": 29.752,
+    "end": 29.813
+  },
+  {
+    "word": "career",
+    "start": 29.813,
+    "end": 30.153,
+    "score": 0.857
+  },
+  {
+    "word": " ",
+    "start": 30.153,
+    "end": 30.233
+  },
+  {
+    "word": "during",
+    "start": 30.233,
+    "end": 30.473,
+    "score": 0.804
+  },
+  {
+    "word": " ",
+    "start": 30.473,
+    "end": 30.513
+  },
+  {
+    "word": "my",
+    "start": 30.513,
+    "end": 30.613,
+    "score": 0.594
+  },
+  {
+    "word": " ",
+    "start": 30.613,
+    "end": 30.673
+  },
+  {
+    "word": "internship",
+    "start": 30.673,
+    "end": 31.194,
+    "score": 0.81
+  },
+  {
+    "word": " ",
+    "start": 31.194,
+    "end": 31.234
+  },
+  {
+    "word": "at",
+    "start": 31.234,
+    "end": 31.294,
+    "score": 0.754
+  },
+  {
+    "word": " ",
+    "start": 31.294,
+    "end": 31.334
+  },
+  {
+    "word": "ZBJ",
+    "start": 31.334,
+    "end": 31.875,
+    "score": 0.792
+  },
+  {
+    "word": ".",
+    "start": 31.875,
+    "end": 32.495
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "the",
+    "start": 32.495,
+    "end": 32.595,
+    "score": 0.817
+  },
+  {
+    "word": " ",
+    "start": 32.595,
+    "end": 32.615
+  },
+  {
+    "word": "largest",
+    "start": 32.615,
+    "end": 32.996,
+    "score": 0.777
+  },
+  {
+    "word": " ",
+    "start": 32.996,
+    "end": 33.056
+  },
+  {
+    "word": "internet",
+    "start": 33.056,
+    "end": 33.376,
+    "score": 0.759
+  },
+  {
+    "word": " ",
+    "start": 33.376,
+    "end": 33.416
+  },
+  {
+    "word": "company",
+    "start": 33.416,
+    "end": 33.796,
+    "score": 0.943
+  },
+  {
+    "word": " ",
+    "start": 33.796,
+    "end": 33.856
+  },
+  {
+    "word": "in",
+    "start": 33.856,
+    "end": 33.916,
+    "score": 0.999
+  },
+  {
+    "word": " ",
+    "start": 33.916,
+    "end": 33.977
+  },
+  {
+    "word": "ChongQing",
+    "start": 33.977,
+    "end": 34.477,
+    "score": 0.765
+  },
+  {
+    "word": ",",
+    "start": 34.477,
+    "end": 34.577
+  },
+  {
+    "word": " ",
+    "start": 34.577,
+    "end": 34.577
+  },
+  {
+    "word": "China",
+    "start": 34.577,
+    "end": 34.877,
+    "score": 0.912
+  },
+  {
+    "word": ".",
+    "start": 34.877,
+    "end": 35.538
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "the",
+    "start": 35.538,
+    "end": 35.638,
+    "score": 0.991
+  },
+  {
+    "word": " ",
+    "start": 35.638,
+    "end": 35.678
+  },
+  {
+    "word": "largest",
+    "start": 35.678,
+    "end": 36.058,
+    "score": 0.91
+  },
+  {
+    "word": " ",
+    "start": 36.058,
+    "end": 36.119
+  },
+  {
+    "word": "internet",
+    "start": 36.119,
+    "end": 36.459,
+    "score": 0.675
+  },
+  {
+    "word": " ",
+    "start": 36.459,
+    "end": 36.499
+  },
+  {
+    "word": "company",
+    "start": 36.499,
+    "end": 36.839,
+    "score": 0.922
+  },
+  {
+    "word": " ",
+    "start": 36.839,
+    "end": 36.919
+  },
+  {
+    "word": "in",
+    "start": 36.919,
+    "end": 36.999,
+    "score": 0.836
+  },
+  {
+    "word": " ",
+    "start": 36.999,
+    "end": 37.039
+  },
+  {
+    "word": "ChongQing",
+    "start": 37.039,
+    "end": 37.52,
+    "score": 0.701
+  },
+  {
+    "word": ",",
+    "start": 37.52,
+    "end": 37.66
+  },
+  {
+    "word": " ",
+    "start": 37.66,
+    "end": 37.66
+  },
+  {
+    "word": "China",
+    "start": 37.66,
+    "end": 37.98,
+    "score": 0.895
+  },
+  {
+    "word": ".",
+    "start": 37.98,
+    "end": 38.881
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "At",
+    "start": 38.881,
+    "end": 38.941,
+    "score": 0.808
+  },
+  {
+    "word": " ",
+    "start": 38.941,
+    "end": 38.981
+  },
+  {
+    "word": "that",
+    "start": 38.981,
+    "end": 39.161,
+    "score": 0.751
+  },
+  {
+    "word": " ",
+    "start": 39.161,
+    "end": 39.202
+  },
+  {
+    "word": "time",
+    "start": 39.202,
+    "end": 39.482,
+    "score": 0.716
+  },
+  {
+    "word": ",",
+    "start": 39.482,
+    "end": 39.782
+  },
+  {
+    "word": " ",
+    "start": 39.782,
+    "end": 39.782
+  },
+  {
+    "word": "I",
+    "start": 39.782,
+    "end": 39.822,
+    "score": 0.874
+  },
+  {
+    "word": " ",
+    "start": 39.822,
+    "end": 39.862
+  },
+  {
+    "word": "helped",
+    "start": 39.862,
+    "end": 40.082,
+    "score": 0.805
+  },
+  {
+    "word": " ",
+    "start": 40.082,
+    "end": 40.162
+  },
+  {
+    "word": "upgrade",
+    "start": 40.162,
+    "end": 40.463,
+    "score": 0.854
+  },
+  {
+    "word": " ",
+    "start": 40.463,
+    "end": 40.483
+  },
+  {
+    "word": "their",
+    "start": 40.483,
+    "end": 40.623,
+    "score": 0.845
+  },
+  {
+    "word": " ",
+    "start": 40.623,
+    "end": 40.663
+  },
+  {
+    "word": "official",
+    "start": 40.663,
+    "end": 41.003,
+    "score": 0.914
+  },
+  {
+    "word": " ",
+    "start": 41.003,
+    "end": 41.023
+  },
+  {
+    "word": "website",
+    "start": 41.023,
+    "end": 41.444,
+    "score": 0.941
+  },
+  {
+    "word": " ",
+    "start": 41.444,
+    "end": 41.504
+  },
+  {
+    "word": "to",
+    "start": 41.504,
+    "end": 41.584,
+    "score": 0.772
+  },
+  {
+    "word": " ",
+    "start": 41.584,
+    "end": 41.604
+  },
+  {
+    "word": "version",
+    "start": 41.604,
+    "end": 41.924,
+    "score": 0.895
+  },
+  {
+    "word": " ",
+    "start": 41.924,
+    "end": 42.745
+  },
+  {
+    "role": "bold-word",
+    "word": "2.",
+    "start": 42.745,
+    "end": 42.745
+  },
+  {
+    "word": "0",
+    "start": 42.745,
+    "end": 42.745
+  },
+  {
+    "word": " ",
+    "start": 42.745,
+    "end": 42.745
+  },
+  {
+    "word": "from",
+    "start": 42.745,
+    "end": 42.885,
+    "score": 0.725
+  },
+  {
+    "word": " ",
+    "start": 42.885,
+    "end": 42.945
+  },
+  {
+    "word": "jQuery",
+    "start": 42.945,
+    "end": 43.365,
+    "score": 0.854
+  },
+  {
+    "word": " ",
+    "start": 43.365,
+    "end": 43.406
+  },
+  {
+    "word": "to",
+    "start": 43.406,
+    "end": 43.506,
+    "score": 0.752
+  },
+  {
+    "word": " ",
+    "start": 43.506,
+    "end": 43.546
+  },
+  {
+    "word": "Vue",
+    "start": 43.546,
+    "end": 43.646,
+    "score": 0.57
+  },
+  {
+    "word": ".",
+    "start": 43.646,
+    "end": 44.925
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "At",
+    "start": 44.925,
+    "end": 44.985,
+    "score": 0.752
+  },
+  {
+    "word": " ",
+    "start": 44.985,
+    "end": 45.025
+  },
+  {
+    "word": "that",
+    "start": 45.025,
+    "end": 45.205,
+    "score": 0.751
+  },
+  {
+    "word": " ",
+    "start": 45.205,
+    "end": 45.245
+  },
+  {
+    "word": "time",
+    "start": 45.245,
+    "end": 45.525,
+    "score": 0.804
+  },
+  {
+    "word": ",",
+    "start": 45.525,
+    "end": 45.825
+  },
+  {
+    "word": " ",
+    "start": 45.825,
+    "end": 45.825
+  },
+  {
+    "word": "I",
+    "start": 45.825,
+    "end": 45.865,
+    "score": 0.997
+  },
+  {
+    "word": " ",
+    "start": 45.865,
+    "end": 45.905
+  },
+  {
+    "word": "helped",
+    "start": 45.905,
+    "end": 46.105,
+    "score": 0.807
+  },
+  {
+    "word": " ",
+    "start": 46.105,
+    "end": 46.206
+  },
+  {
+    "word": "upgrade",
+    "start": 46.206,
+    "end": 46.566,
+    "score": 0.854
+  },
+  {
+    "word": " ",
+    "start": 46.566,
+    "end": 46.586
+  },
+  {
+    "word": "their",
+    "start": 46.586,
+    "end": 46.746,
+    "score": 0.836
+  },
+  {
+    "word": " ",
+    "start": 46.746,
+    "end": 46.786
+  },
+  {
+    "word": "official",
+    "start": 46.786,
+    "end": 47.126,
+    "score": 0.84
+  },
+  {
+    "word": " ",
+    "start": 47.126,
+    "end": 47.166
+  },
+  {
+    "word": "website",
+    "start": 47.166,
+    "end": 47.606,
+    "score": 0.925
+  },
+  {
+    "word": " ",
+    "start": 47.606,
+    "end": 47.666
+  },
+  {
+    "word": "to",
+    "start": 47.666,
+    "end": 47.746,
+    "score": 0.998
+  },
+  {
+    "word": " ",
+    "start": 47.746,
+    "end": 47.786
+  },
+  {
+    "word": "version",
+    "start": 47.786,
+    "end": 48.066,
+    "score": 0.812
+  },
+  {
+    "word": " ",
+    "start": 48.066,
+    "end": 48.767
+  },
+  {
+    "role": "bold-word",
+    "word": "2.",
+    "start": 48.767,
+    "end": 48.767
+  },
+  {
+    "word": "0",
+    "start": 48.767,
+    "end": 48.767
+  },
+  {
+    "word": " ",
+    "start": 48.767,
+    "end": 48.767
+  },
+  {
+    "word": "from",
+    "start": 48.767,
+    "end": 48.907,
+    "score": 0.723
+  },
+  {
+    "word": " ",
+    "start": 48.907,
+    "end": 48.947
+  },
+  {
+    "word": "jQuery",
+    "start": 48.947,
+    "end": 49.387,
+    "score": 0.871
+  },
+  {
+    "word": " ",
+    "start": 49.387,
+    "end": 49.427
+  },
+  {
+    "word": "to",
+    "start": 49.427,
+    "end": 49.507,
+    "score": 0.836
+  },
+  {
+    "word": " ",
+    "start": 49.507,
+    "end": 49.547
+  },
+  {
+    "word": "Vue",
+    "start": 49.547,
+    "end": 49.767,
+    "score": 0.666
+  },
+  {
+    "word": ".",
+    "start": 49.767,
+    "end": 50.527
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "Since",
+    "start": 50.527,
+    "end": 50.727,
+    "score": 0.813
+  },
+  {
+    "word": " ",
+    "start": 50.727,
+    "end": 50.767
+  },
+  {
+    "word": "then",
+    "start": 50.767,
+    "end": 50.967,
+    "score": 0.792
+  },
+  {
+    "word": ",",
+    "start": 50.967,
+    "end": 51.128
+  },
+  {
+    "word": " ",
+    "start": 51.128,
+    "end": 51.128
+  },
+  {
+    "word": "I've",
+    "start": 51.128,
+    "end": 51.268,
+    "score": 0.76
+  },
+  {
+    "word": " ",
+    "start": 51.268,
+    "end": 51.308
+  },
+  {
+    "word": "worked",
+    "start": 51.308,
+    "end": 51.508,
+    "score": 0.736
+  },
+  {
+    "word": " ",
+    "start": 51.508,
+    "end": 51.548
+  },
+  {
+    "word": "in",
+    "start": 51.548,
+    "end": 51.608,
+    "score": 0.995
+  },
+  {
+    "word": " ",
+    "start": 51.608,
+    "end": 51.648
+  },
+  {
+    "word": "different",
+    "start": 51.648,
+    "end": 51.908,
+    "score": 0.838
+  },
+  {
+    "word": " ",
+    "start": 51.908,
+    "end": 51.948
+  },
+  {
+    "word": "industries",
+    "start": 51.948,
+    "end": 52.388,
+    "score": 0.853
+  },
+  {
+    "word": " ",
+    "start": 52.388,
+    "end": 52.468
+  },
+  {
+    "word": "like",
+    "start": 52.468,
+    "end": 52.628,
+    "score": 0.852
+  },
+  {
+    "word": " ",
+    "start": 52.628,
+    "end": 52.748
+  },
+  {
+    "start": 52.748,
+    "end": 52.748,
+    "word": "e"
+  },
+  {
+    "word": "-",
+    "start": 52.748,
+    "end": 52.748
+  },
+  {
+    "word": "commerce",
+    "start": 52.748,
+    "end": 53.228,
+    "score": 0.937
+  },
+  {
+    "word": " ",
+    "start": 53.228,
+    "end": 53.268
+  },
+  {
+    "word": "platform",
+    "start": 53.268,
+    "end": 53.729,
+    "score": 0.821
+  },
+  {
+    "word": " ",
+    "start": 53.729,
+    "end": 53.769
+  },
+  {
+    "word": "and",
+    "start": 53.769,
+    "end": 53.849,
+    "score": 0.844
+  },
+  {
+    "word": " ",
+    "start": 53.849,
+    "end": 53.889
+  },
+  {
+    "word": "banking",
+    "start": 53.889,
+    "end": 54.209,
+    "score": 0.876
+  },
+  {
+    "word": " ",
+    "start": 54.209,
+    "end": 54.249
+  },
+  {
+    "word": "systems",
+    "start": 54.249,
+    "end": 54.689,
+    "score": 0.761
+  },
+  {
+    "word": ".",
+    "start": 54.689,
+    "end": 55.689
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "Since",
+    "start": 55.689,
+    "end": 55.889,
+    "score": 0.749
+  },
+  {
+    "word": " ",
+    "start": 55.889,
+    "end": 55.969
+  },
+  {
+    "word": "then",
+    "start": 55.969,
+    "end": 56.21,
+    "score": 0.886
+  },
+  {
+    "word": ",",
+    "start": 56.21,
+    "end": 56.89
+  },
+  {
+    "word": " ",
+    "start": 56.89,
+    "end": 56.89
+  },
+  {
+    "word": "I've",
+    "start": 56.89,
+    "end": 57.03,
+    "score": 0.822
+  },
+  {
+    "word": " ",
+    "start": 57.03,
+    "end": 57.07
+  },
+  {
+    "word": "worked",
+    "start": 57.07,
+    "end": 57.29,
+    "score": 0.799
+  },
+  {
+    "word": " ",
+    "start": 57.29,
+    "end": 57.33
+  },
+  {
+    "word": "in",
+    "start": 57.33,
+    "end": 57.41,
+    "score": 0.836
+  },
+  {
+    "word": " ",
+    "start": 57.41,
+    "end": 57.45
+  },
+  {
+    "word": "different",
+    "start": 57.45,
+    "end": 57.73,
+    "score": 0.78
+  },
+  {
+    "word": " ",
+    "start": 57.73,
+    "end": 57.77
+  },
+  {
+    "word": "industries",
+    "start": 57.77,
+    "end": 58.29,
+    "score": 0.772
+  },
+  {
+    "word": " ",
+    "start": 58.29,
+    "end": 58.49
+  },
+  {
+    "word": "like",
+    "start": 58.49,
+    "end": 58.711,
+    "score": 0.787
+  },
+  {
+    "word": " ",
+    "start": 58.711,
+    "end": 58.851
+  },
+  {
+    "start": 58.851,
+    "end": 58.851,
+    "word": "e"
+  },
+  {
+    "word": "-",
+    "start": 58.851,
+    "end": 58.851
+  },
+  {
+    "word": "commerce",
+    "start": 58.851,
+    "end": 59.331,
+    "score": 0.894
+  },
+  {
+    "word": " ",
+    "start": 59.331,
+    "end": 59.371
+  },
+  {
+    "word": "platform",
+    "start": 59.371,
+    "end": 59.831,
+    "score": 0.892
+  },
+  {
+    "word": " ",
+    "start": 59.831,
+    "end": 59.911
+  },
+  {
+    "word": "and",
+    "start": 59.911,
+    "end": 59.991,
+    "score": 0.851
+  },
+  {
+    "word": " ",
+    "start": 59.991,
+    "end": 60.031
+  },
+  {
+    "word": "banking",
+    "start": 60.031,
+    "end": 60.371,
+    "score": 0.889
+  },
+  {
+    "word": " ",
+    "start": 60.371,
+    "end": 60.411
+  },
+  {
+    "word": "systems",
+    "start": 60.411,
+    "end": 60.831,
+    "score": 0.85
+  },
+  {
+    "word": ".",
+    "start": 60.831,
+    "end": 61.752
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "At",
+    "start": 61.752,
+    "end": 61.812,
+    "score": 0.754
+  },
+  {
+    "word": " ",
+    "start": 61.812,
+    "end": 61.832
+  },
+  {
+    "word": "my",
+    "start": 61.832,
+    "end": 61.932,
+    "score": 0.932
+  },
+  {
+    "word": " ",
+    "start": 61.932,
+    "end": 61.972
+  },
+  {
+    "word": "last",
+    "start": 61.972,
+    "end": 62.192,
+    "score": 0.889
+  },
+  {
+    "word": " ",
+    "start": 62.192,
+    "end": 62.232
+  },
+  {
+    "word": "company",
+    "start": 62.232,
+    "end": 62.632,
+    "score": 0.937
+  },
+  {
+    "word": ",",
+    "start": 62.632,
+    "end": 62.732
+  },
+  {
+    "word": " ",
+    "start": 62.732,
+    "end": 62.732
+  },
+  {
+    "word": "I",
+    "start": 62.732,
+    "end": 62.792,
+    "score": 0.373
+  },
+  {
+    "word": " ",
+    "start": 62.792,
+    "end": 62.832
+  },
+  {
+    "word": "was",
+    "start": 62.832,
+    "end": 62.932,
+    "score": 0.668
+  },
+  {
+    "word": " ",
+    "start": 62.932,
+    "end": 62.972
+  },
+  {
+    "word": "in",
+    "start": 62.972,
+    "end": 63.032,
+    "score": 0.751
+  },
+  {
+    "word": " ",
+    "start": 63.032,
+    "end": 63.072
+  },
+  {
+    "word": "charge",
+    "start": 63.072,
+    "end": 63.312,
+    "score": 0.773
+  },
+  {
+    "word": " ",
+    "start": 63.312,
+    "end": 63.352
+  },
+  {
+    "word": "of",
+    "start": 63.352,
+    "end": 63.412,
+    "score": 0.75
+  },
+  {
+    "word": " ",
+    "start": 63.412,
+    "end": 63.492
+  },
+  {
+    "word": "banking",
+    "start": 63.492,
+    "end": 63.813,
+    "score": 0.895
+  },
+  {
+    "word": " ",
+    "start": 63.813,
+    "end": 63.873
+  },
+  {
+    "word": "rewards",
+    "start": 63.873,
+    "end": 64.233,
+    "score": 0.919
+  },
+  {
+    "word": " ",
+    "start": 64.233,
+    "end": 64.293
+  },
+  {
+    "word": "systems",
+    "start": 64.293,
+    "end": 64.733,
+    "score": 0.827
+  },
+  {
+    "word": ".",
+    "start": 64.733,
+    "end": 65.533
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "At",
+    "start": 65.533,
+    "end": 65.613,
+    "score": 0.752
+  },
+  {
+    "word": " ",
+    "start": 65.613,
+    "end": 65.633
+  },
+  {
+    "word": "my",
+    "start": 65.633,
+    "end": 65.733,
+    "score": 0.802
+  },
+  {
+    "word": " ",
+    "start": 65.733,
+    "end": 65.773
+  },
+  {
+    "word": "last",
+    "start": 65.773,
+    "end": 65.973,
+    "score": 0.844
+  },
+  {
+    "word": " ",
+    "start": 65.973,
+    "end": 66.013
+  },
+  {
+    "word": "company",
+    "start": 66.013,
+    "end": 66.354,
+    "score": 0.859
+  },
+  {
+    "word": ",",
+    "start": 66.354,
+    "end": 66.434
+  },
+  {
+    "word": " ",
+    "start": 66.434,
+    "end": 66.434
+  },
+  {
+    "word": "I",
+    "start": 66.434,
+    "end": 66.474,
+    "score": 0.906
+  },
+  {
+    "word": " ",
+    "start": 66.474,
+    "end": 66.494
+  },
+  {
+    "word": "was",
+    "start": 66.494,
+    "end": 66.594,
+    "score": 0.828
+  },
+  {
+    "word": " ",
+    "start": 66.594,
+    "end": 66.654
+  },
+  {
+    "word": "in",
+    "start": 66.654,
+    "end": 66.694,
+    "score": 0.999
+  },
+  {
+    "word": " ",
+    "start": 66.694,
+    "end": 66.714
+  },
+  {
+    "word": "charge",
+    "start": 66.714,
+    "end": 66.914,
+    "score": 0.872
+  },
+  {
+    "word": " ",
+    "start": 66.914,
+    "end": 66.934
+  },
+  {
+    "word": "of",
+    "start": 66.934,
+    "end": 66.994,
+    "score": 0.764
+  },
+  {
+    "word": " ",
+    "start": 66.994,
+    "end": 67.054
+  },
+  {
+    "word": "banking",
+    "start": 67.054,
+    "end": 67.334,
+    "score": 0.954
+  },
+  {
+    "word": " ",
+    "start": 67.334,
+    "end": 67.374
+  },
+  {
+    "word": "rewards",
+    "start": 67.374,
+    "end": 67.674,
+    "score": 0.892
+  },
+  {
+    "word": " ",
+    "start": 67.674,
+    "end": 67.714
+  },
+  {
+    "word": "systems",
+    "start": 67.714,
+    "end": 68.114,
+    "score": 0.909
+  },
+  {
+    "word": ".",
+    "start": 68.114,
+    "end": 69.055
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "I",
+    "start": 69.055,
+    "end": 69.135,
+    "score": 0.283
+  },
+  {
+    "word": " ",
+    "start": 69.135,
+    "end": 69.195
+  },
+  {
+    "word": "also",
+    "start": 69.195,
+    "end": 69.435,
+    "score": 0.777
+  },
+  {
+    "word": " ",
+    "start": 69.435,
+    "end": 69.475
+  },
+  {
+    "word": "built",
+    "start": 69.475,
+    "end": 69.675,
+    "score": 0.758
+  },
+  {
+    "word": " ",
+    "start": 69.675,
+    "end": 69.695
+  },
+  {
+    "word": "a",
+    "start": 69.695,
+    "end": 69.735,
+    "score": 0.55
+  },
+  {
+    "word": " ",
+    "start": 69.735,
+    "end": 69.795
+  },
+  {
+    "word": "shared",
+    "start": 69.795,
+    "end": 70.115,
+    "score": 0.719
+  },
+  {
+    "word": " ",
+    "start": 70.115,
+    "end": 70.215
+  },
+  {
+    "word": "admin",
+    "start": 70.215,
+    "end": 70.515,
+    "score": 0.733
+  },
+  {
+    "word": " ",
+    "start": 70.515,
+    "end": 70.535
+  },
+  {
+    "word": "system",
+    "start": 70.535,
+    "end": 70.815,
+    "score": 0.876
+  },
+  {
+    "word": " ",
+    "start": 70.815,
+    "end": 70.855
+  },
+  {
+    "word": "template",
+    "start": 70.855,
+    "end": 71.236,
+    "score": 0.76
+  },
+  {
+    "word": ",",
+    "start": 71.236,
+    "end": 72.016
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "I",
+    "start": 72.016,
+    "end": 72.076,
+    "score": 0.646
+  },
+  {
+    "word": " ",
+    "start": 72.076,
+    "end": 72.136
+  },
+  {
+    "word": "also",
+    "start": 72.136,
+    "end": 72.376,
+    "score": 0.878
+  },
+  {
+    "word": " ",
+    "start": 72.376,
+    "end": 72.416
+  },
+  {
+    "word": "built",
+    "start": 72.416,
+    "end": 72.636,
+    "score": 0.691
+  },
+  {
+    "word": " ",
+    "start": 72.636,
+    "end": 72.676
+  },
+  {
+    "word": "a",
+    "start": 72.676,
+    "end": 72.716,
+    "score": 0.5
+  },
+  {
+    "word": " ",
+    "start": 72.716,
+    "end": 72.776
+  },
+  {
+    "word": "shared",
+    "start": 72.776,
+    "end": 73.076,
+    "score": 0.745
+  },
+  {
+    "word": " ",
+    "start": 73.076,
+    "end": 73.196
+  },
+  {
+    "word": "admin",
+    "start": 73.196,
+    "end": 73.476,
+    "score": 0.742
+  },
+  {
+    "word": " ",
+    "start": 73.476,
+    "end": 73.497
+  },
+  {
+    "word": "system",
+    "start": 73.497,
+    "end": 73.797,
+    "score": 0.85
+  },
+  {
+    "word": " ",
+    "start": 73.797,
+    "end": 73.817
+  },
+  {
+    "word": "template",
+    "start": 73.817,
+    "end": 74.197,
+    "score": 0.741
+  },
+  {
+    "word": ",",
+    "start": 74.197,
+    "end": 75.097
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "to",
+    "start": 75.097,
+    "end": 75.177,
+    "score": 0.889
+  },
+  {
+    "word": " ",
+    "start": 75.177,
+    "end": 75.217
+  },
+  {
+    "word": "help",
+    "start": 75.217,
+    "end": 75.377,
+    "score": 0.9
+  },
+  {
+    "word": " ",
+    "start": 75.377,
+    "end": 75.497
+  },
+  {
+    "word": "unify",
+    "start": 75.497,
+    "end": 75.918,
+    "score": 0.927
+  },
+  {
+    "word": " ",
+    "start": 75.918,
+    "end": 75.958
+  },
+  {
+    "word": "the",
+    "start": 75.958,
+    "end": 76.038,
+    "score": 0.833
+  },
+  {
+    "word": " ",
+    "start": 76.038,
+    "end": 76.138
+  },
+  {
+    "word": "user",
+    "start": 76.138,
+    "end": 76.358,
+    "score": 0.901
+  },
+  {
+    "word": " ",
+    "start": 76.358,
+    "end": 76.398
+  },
+  {
+    "word": "experience",
+    "start": 76.398,
+    "end": 76.898,
+    "score": 0.927
+  },
+  {
+    "word": " ",
+    "start": 76.898,
+    "end": 76.958
+  },
+  {
+    "word": "across",
+    "start": 76.958,
+    "end": 77.239,
+    "score": 0.916
+  },
+  {
+    "word": " ",
+    "start": 77.239,
+    "end": 77.319
+  },
+  {
+    "word": "all",
+    "start": 77.319,
+    "end": 77.439,
+    "score": 0.962
+  },
+  {
+    "word": " ",
+    "start": 77.439,
+    "end": 77.479
+  },
+  {
+    "word": "our",
+    "start": 77.479,
+    "end": 77.539,
+    "score": 0.998
+  },
+  {
+    "word": " ",
+    "start": 77.539,
+    "end": 77.599
+  },
+  {
+    "word": "internal",
+    "start": 77.599,
+    "end": 77.919,
+    "score": 0.892
+  },
+  {
+    "word": " ",
+    "start": 77.919,
+    "end": 77.979
+  },
+  {
+    "word": "systems",
+    "start": 77.979,
+    "end": 78.339,
+    "score": 0.85
+  },
+  {
+    "word": ".",
+    "start": 78.339,
+    "end": 80.141
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "to",
+    "start": 80.141,
+    "end": 80.241,
+    "score": 0.751
+  },
+  {
+    "word": " ",
+    "start": 80.241,
+    "end": 80.281
+  },
+  {
+    "word": "help",
+    "start": 80.281,
+    "end": 80.461,
+    "score": 0.758
+  },
+  {
+    "word": " ",
+    "start": 80.461,
+    "end": 80.561
+  },
+  {
+    "word": "unify",
+    "start": 80.561,
+    "end": 80.921,
+    "score": 0.919
+  },
+  {
+    "word": " ",
+    "start": 80.921,
+    "end": 80.981
+  },
+  {
+    "word": "the",
+    "start": 80.981,
+    "end": 81.041,
+    "score": 0.998
+  },
+  {
+    "word": " ",
+    "start": 81.041,
+    "end": 81.142
+  },
+  {
+    "word": "user",
+    "start": 81.142,
+    "end": 81.362,
+    "score": 0.827
+  },
+  {
+    "word": " ",
+    "start": 81.362,
+    "end": 81.382
+  },
+  {
+    "word": "experience",
+    "start": 81.382,
+    "end": 81.902,
+    "score": 0.938
+  },
+  {
+    "word": " ",
+    "start": 81.902,
+    "end": 81.982
+  },
+  {
+    "word": "across",
+    "start": 81.982,
+    "end": 82.362,
+    "score": 0.874
+  },
+  {
+    "word": " ",
+    "start": 82.362,
+    "end": 82.443
+  },
+  {
+    "word": "all",
+    "start": 82.443,
+    "end": 82.543,
+    "score": 1.0
+  },
+  {
+    "word": " ",
+    "start": 82.543,
+    "end": 82.603
+  },
+  {
+    "word": "our",
+    "start": 82.603,
+    "end": 82.703,
+    "score": 0.694
+  },
+  {
+    "word": " ",
+    "start": 82.703,
+    "end": 82.743
+  },
+  {
+    "word": "internal",
+    "start": 82.743,
+    "end": 83.083,
+    "score": 0.938
+  },
+  {
+    "word": " ",
+    "start": 83.083,
+    "end": 83.143
+  },
+  {
+    "word": "systems",
+    "start": 83.143,
+    "end": 83.503,
+    "score": 0.857
+  },
+  {
+    "word": ".",
+    "start": 83.503,
+    "end": 83.824
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "line-break",
+    "word": ""
   },
   {
     "role": "line-break",
@@ -2581,230 +2579,313 @@
   },
   {
     "word": "I'm",
-    "start": 82.592,
-    "end": 82.732,
-    "score": 0.777
+    "start": 83.824,
+    "end": 83.964,
+    "score": 0.624
   },
   {
     "word": " ",
-    "start": 82.732,
-    "end": 82.813
+    "start": 83.964,
+    "end": 84.084
   },
   {
     "word": "also",
-    "start": 82.813,
-    "end": 83.093,
-    "score": 0.815
+    "start": 84.084,
+    "end": 84.384,
+    "score": 0.88
   },
   {
     "word": " ",
-    "start": 83.093,
-    "end": 83.133
+    "start": 84.384,
+    "end": 84.404
   },
   {
     "word": "a",
-    "start": 83.133,
-    "end": 83.173,
-    "score": 0.571
+    "start": 84.404,
+    "end": 84.424,
+    "score": 0.0
   },
   {
     "word": " ",
-    "start": 83.173,
-    "end": 83.213
+    "start": 84.424,
+    "end": 84.584
   },
   {
     "word": "top",
-    "start": 83.213,
-    "end": 83.774,
-    "score": 0.769
+    "start": 84.584,
+    "end": 85.125,
+    "score": 0.827
   },
   {
     "word": " ",
-    "start": 83.774,
-    "end": 83.834
+    "start": 85.125,
+    "end": 85.165
   },
   {
     "word": "20",
-    "start": 83.834,
-    "end": 83.834
+    "start": 85.165,
+    "end": 85.165
   },
   {
     "word": " ",
-    "start": 83.834,
-    "end": 83.834
+    "start": 85.165,
+    "end": 85.165
   },
   {
     "word": "contributor",
-    "start": 83.834,
-    "end": 84.374,
-    "score": 0.744
+    "start": 85.165,
+    "end": 85.665,
+    "score": 0.84
   },
   {
     "word": " ",
-    "start": 84.374,
-    "end": 84.434
+    "start": 85.665,
+    "end": 85.745
   },
   {
     "word": "to",
-    "start": 84.434,
-    "end": 84.514,
-    "score": 0.744
+    "start": 85.745,
+    "end": 85.825,
+    "score": 0.944
   },
   {
     "word": " ",
-    "start": 84.514,
-    "end": 84.534
+    "start": 85.825,
+    "end": 85.865
   },
   {
     "word": "the",
-    "start": 84.534,
-    "end": 84.634,
-    "score": 0.75
+    "start": 85.865,
+    "end": 85.945,
+    "score": 0.833
   },
   {
     "word": " ",
-    "start": 84.634,
-    "end": 84.735
+    "start": 85.945,
+    "end": 86.045
   },
   {
     "word": "open",
-    "start": 84.735,
-    "end": 84.975,
-    "score": 0.904
+    "start": 86.045,
+    "end": 86.265,
+    "score": 0.873
   },
   {
     "word": "-",
-    "start": 84.975,
-    "end": 85.015
+    "start": 86.265,
+    "end": 86.305
   },
   {
     "word": "source",
-    "start": 85.015,
-    "end": 85.315,
-    "score": 0.824
+    "start": 86.305,
+    "end": 86.546,
+    "score": 0.817
   },
   {
     "word": " ",
-    "start": 85.315,
-    "end": 85.355
+    "start": 86.546,
+    "end": 86.586
   },
   {
     "word": "project",
-    "start": 85.355,
-    "end": 85.776,
-    "score": 0.903
+    "start": 86.586,
+    "end": 86.986,
+    "score": 0.86
   },
   {
     "word": " ",
-    "start": 85.776,
-    "end": 85.936
+    "start": 86.986,
+    "end": 87.146
   },
   {
-    "start": 85.936,
-    "end": 85.936,
-    "word": "Ant"
-  },
-  {
-    "word": " ",
-    "start": 85.936,
-    "end": 85.936
-  },
-  {
-    "start": 85.936,
-    "end": 85.936,
-    "word": "Design"
+    "word": "Ant",
+    "start": 87.146,
+    "end": 87.266,
+    "score": 0.958
   },
   {
     "word": " ",
-    "start": 85.936,
-    "end": 85.936
+    "start": 87.266,
+    "end": 87.326
   },
   {
-    "start": 85.936,
-    "end": 85.936,
-    "word": "Mobile"
+    "word": "Design",
+    "start": 87.326,
+    "end": 87.646,
+    "score": 0.91
+  },
+  {
+    "word": " ",
+    "start": 87.646,
+    "end": 87.686
+  },
+  {
+    "word": "Mobile",
+    "start": 87.686,
+    "end": 88.027,
+    "score": 0.819
   },
   {
     "word": ",",
-    "start": 85.936,
-    "end": 85.936
+    "start": 88.027,
+    "end": 88.727
   },
   {
     "role": "line-break",
     "word": ""
   },
   {
-    "start": 85.936,
-    "end": 85.936,
-    "word": "which"
+    "word": "I'm",
+    "start": 88.727,
+    "end": 88.847,
+    "score": 0.805
   },
   {
     "word": " ",
-    "start": 85.936,
-    "end": 85.936
+    "start": 88.847,
+    "end": 88.907
   },
   {
-    "start": 85.936,
-    "end": 85.936,
-    "word": "has"
+    "word": "also",
+    "start": 88.907,
+    "end": 89.128,
+    "score": 0.917
   },
   {
     "word": " ",
-    "start": 85.936,
-    "end": 85.936
+    "start": 89.128,
+    "end": 89.188
   },
   {
-    "start": 85.936,
-    "end": 85.936,
-    "word": "10"
+    "word": "a",
+    "start": 89.188,
+    "end": 89.208,
+    "score": 0.997
+  },
+  {
+    "word": " ",
+    "start": 89.208,
+    "end": 89.248
+  },
+  {
+    "word": "top",
+    "start": 89.248,
+    "end": 89.828,
+    "score": 0.838
+  },
+  {
+    "word": " ",
+    "start": 89.828,
+    "end": 89.888
+  },
+  {
+    "word": "20",
+    "start": 89.888,
+    "end": 89.888
+  },
+  {
+    "word": " ",
+    "start": 89.888,
+    "end": 89.888
+  },
+  {
+    "word": "contributor",
+    "start": 89.888,
+    "end": 90.388,
+    "score": 0.835
+  },
+  {
+    "word": " ",
+    "start": 90.388,
+    "end": 90.469
+  },
+  {
+    "word": "to",
+    "start": 90.469,
+    "end": 90.569,
+    "score": 0.921
+  },
+  {
+    "word": " ",
+    "start": 90.569,
+    "end": 90.609
+  },
+  {
+    "word": "the",
+    "start": 90.609,
+    "end": 90.689,
+    "score": 0.833
+  },
+  {
+    "word": " ",
+    "start": 90.689,
+    "end": 90.789
+  },
+  {
+    "word": "open",
+    "start": 90.789,
+    "end": 90.989,
+    "score": 0.922
+  },
+  {
+    "word": "-",
+    "start": 90.989,
+    "end": 91.029
+  },
+  {
+    "word": "source",
+    "start": 91.029,
+    "end": 91.249,
+    "score": 0.777
+  },
+  {
+    "word": " ",
+    "start": 91.249,
+    "end": 91.289
+  },
+  {
+    "word": "project",
+    "start": 91.289,
+    "end": 91.689,
+    "score": 0.88
+  },
+  {
+    "word": " ",
+    "start": 91.689,
+    "end": 91.87
+  },
+  {
+    "word": "Ant",
+    "start": 91.87,
+    "end": 92.03,
+    "score": 0.873
+  },
+  {
+    "word": " ",
+    "start": 92.03,
+    "end": 92.11
+  },
+  {
+    "word": "Design",
+    "start": 92.11,
+    "end": 92.45,
+    "score": 0.857
+  },
+  {
+    "word": " ",
+    "start": 92.45,
+    "end": 92.47
+  },
+  {
+    "word": "Mobile",
+    "start": 92.47,
+    "end": 92.83,
+    "score": 0.758
   },
   {
     "word": ",",
-    "start": 85.936,
-    "end": 85.936
-  },
-  {
-    "start": 85.936,
-    "end": 85.936,
-    "word": "000"
-  },
-  {
-    "word": " ",
-    "start": 85.936,
-    "end": 85.936
-  },
-  {
-    "word": "stars",
-    "start": 85.936,
-    "end": 86.056,
-    "score": 0.856
-  },
-  {
-    "word": " ",
-    "start": 86.056,
-    "end": 86.096
-  },
-  {
-    "word": "on",
-    "start": 86.096,
-    "end": 86.456,
-    "score": 0.824
-  },
-  {
-    "word": " ",
-    "start": 86.456,
-    "end": 86.496
-  },
-  {
-    "word": "github",
-    "start": 86.496,
-    "end": 86.877,
-    "score": 0.788
-  },
-  {
-    "word": ".",
-    "start": 86.877,
-    "end": 87.577
+    "start": 92.83,
+    "end": 93.291
   },
   {
     "role": "line-break",
@@ -2812,172 +2893,157 @@
   },
   {
     "word": "which",
-    "start": 87.577,
-    "end": 87.718,
-    "score": 0.834
+    "start": 93.291,
+    "end": 93.411,
+    "score": 0.9
   },
   {
     "word": " ",
-    "start": 87.718,
-    "end": 87.758
+    "start": 93.411,
+    "end": 93.451
   },
   {
     "word": "has",
-    "start": 87.758,
-    "end": 87.898,
-    "score": 0.907
+    "start": 93.451,
+    "end": 93.591,
+    "score": 0.908
   },
   {
     "word": " ",
-    "start": 87.898,
-    "end": 88.418
+    "start": 93.591,
+    "end": 94.211
   },
   {
-    "start": 88.418,
-    "end": 88.418,
+    "start": 94.211,
+    "end": 94.211,
     "word": "10"
   },
   {
     "word": ",",
-    "start": 88.418,
-    "end": 88.418
+    "start": 94.211,
+    "end": 94.211
   },
   {
     "word": "000",
-    "start": 88.418,
-    "end": 88.418
+    "start": 94.211,
+    "end": 94.211
   },
   {
     "word": " ",
-    "start": 88.418,
-    "end": 88.418
+    "start": 94.211,
+    "end": 94.211
   },
   {
     "word": "stars",
-    "start": 88.418,
-    "end": 89.059,
-    "score": 0.602
+    "start": 94.211,
+    "end": 94.832,
+    "score": 0.623
   },
   {
     "word": " ",
-    "start": 89.059,
-    "end": 89.159
+    "start": 94.832,
+    "end": 94.952
   },
   {
     "word": "on",
-    "start": 89.159,
-    "end": 89.239,
-    "score": 0.851
+    "start": 94.952,
+    "end": 95.032,
+    "score": 0.828
   },
   {
     "word": " ",
-    "start": 89.239,
-    "end": 89.299
+    "start": 95.032,
+    "end": 95.052
   },
   {
     "word": "github",
-    "start": 89.299,
-    "end": 92.803,
-    "score": 0.564
+    "start": 95.052,
+    "end": 95.452,
+    "score": 0.815
   },
   {
     "word": ".",
-    "start": 92.803,
-    "end": 94.004
+    "start": 95.452,
+    "end": 96.013
   },
   {
     "role": "line-break",
     "word": ""
   },
   {
-    "start": 94.004,
-    "end": 94.004,
-    "word": "I"
+    "word": "which",
+    "start": 96.013,
+    "end": 96.133,
+    "score": 0.938
   },
   {
     "word": " ",
-    "start": 94.004,
-    "end": 94.004
+    "start": 96.133,
+    "end": 96.193
   },
   {
-    "start": 94.004,
-    "end": 94.004,
-    "word": "helped"
-  },
-  {
-    "word": " ",
-    "start": 94.004,
-    "end": 94.004
-  },
-  {
-    "start": 94.004,
-    "end": 94.004,
-    "word": "fix"
+    "word": "has",
+    "start": 96.193,
+    "end": 96.313,
+    "score": 0.996
   },
   {
     "word": " ",
-    "start": 94.004,
-    "end": 94.004
+    "start": 96.313,
+    "end": 96.853
   },
   {
-    "start": 94.004,
-    "end": 94.004,
-    "word": "UI"
+    "start": 96.853,
+    "end": 96.853,
+    "word": "10"
   },
   {
-    "word": " ",
-    "start": 94.004,
-    "end": 94.004
+    "word": ",",
+    "start": 96.853,
+    "end": 96.853
   },
   {
-    "start": 94.004,
-    "end": 94.004,
-    "word": "bugs"
-  },
-  {
-    "word": " ",
-    "start": 94.004,
-    "end": 94.004
-  },
-  {
-    "start": 94.004,
-    "end": 94.004,
-    "word": "and"
+    "word": "000",
+    "start": 96.853,
+    "end": 96.853
   },
   {
     "word": " ",
-    "start": 94.004,
-    "end": 94.004
+    "start": 96.853,
+    "end": 96.853
   },
   {
-    "start": 94.004,
-    "end": 94.004,
-    "word": "improve"
-  },
-  {
-    "word": " ",
-    "start": 94.004,
-    "end": 94.004
-  },
-  {
-    "start": 94.004,
-    "end": 94.004,
-    "word": "test"
+    "word": "stars",
+    "start": 96.853,
+    "end": 97.334,
+    "score": 0.775
   },
   {
     "word": " ",
-    "start": 94.004,
-    "end": 94.004
+    "start": 97.334,
+    "end": 97.414
   },
   {
-    "start": 94.004,
-    "end": 94.004,
-    "word": "coverage"
+    "word": "on",
+    "start": 97.414,
+    "end": 97.494,
+    "score": 0.83
+  },
+  {
+    "word": " ",
+    "start": 97.494,
+    "end": 97.514
+  },
+  {
+    "word": "github",
+    "start": 97.514,
+    "end": 97.914,
+    "score": 0.843
   },
   {
     "word": ".",
-    "start": 94.004,
-    "end": 94.004
+    "start": 97.914,
+    "end": 98.695
   },
   {
     "role": "line-break",
@@ -2985,377 +3051,484 @@
   },
   {
     "word": "I",
-    "start": 94.004,
-    "end": 94.104,
-    "score": 0.599
+    "start": 98.695,
+    "end": 98.775,
+    "score": 0.676
   },
   {
     "word": " ",
-    "start": 94.104,
-    "end": 94.164
+    "start": 98.775,
+    "end": 98.815
   },
   {
     "word": "helped",
-    "start": 94.164,
-    "end": 94.404,
-    "score": 0.794
+    "start": 98.815,
+    "end": 98.995,
+    "score": 0.615
   },
   {
     "word": " ",
-    "start": 94.404,
-    "end": 94.464
+    "start": 98.995,
+    "end": 99.055
   },
   {
     "word": "fix",
-    "start": 94.464,
-    "end": 94.725,
-    "score": 0.856
+    "start": 99.055,
+    "end": 99.315,
+    "score": 0.858
   },
   {
     "word": " ",
-    "start": 94.725,
-    "end": 94.865
+    "start": 99.315,
+    "end": 99.455
   },
   {
     "word": "UI",
-    "start": 94.865,
-    "end": 95.145,
-    "score": 0.584
+    "start": 99.455,
+    "end": 99.715,
+    "score": 0.589
   },
   {
     "word": " ",
-    "start": 95.145,
-    "end": 95.205
+    "start": 99.715,
+    "end": 99.756
   },
   {
     "word": "bugs",
-    "start": 95.205,
-    "end": 95.505,
-    "score": 0.834
+    "start": 99.756,
+    "end": 100.036,
+    "score": 0.876
   },
   {
     "word": " ",
-    "start": 95.505,
-    "end": 95.586
+    "start": 100.036,
+    "end": 100.256
   },
   {
     "word": "and",
-    "start": 95.586,
-    "end": 95.666,
+    "start": 100.256,
+    "end": 100.336,
+    "score": 0.841
+  },
+  {
+    "word": " ",
+    "start": 100.336,
+    "end": 100.376
+  },
+  {
+    "word": "improve",
+    "start": 100.376,
+    "end": 100.716,
+    "score": 0.903
+  },
+  {
+    "word": " ",
+    "start": 100.716,
+    "end": 100.776
+  },
+  {
+    "word": "test",
+    "start": 100.776,
+    "end": 101.016,
+    "score": 0.97
+  },
+  {
+    "word": " ",
+    "start": 101.016,
+    "end": 101.056
+  },
+  {
+    "word": "coverage",
+    "start": 101.056,
+    "end": 101.457,
+    "score": 0.91
+  },
+  {
+    "word": ".",
+    "start": 101.457,
+    "end": 102.252
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "I",
+    "start": 102.252,
+    "end": 102.312,
+    "score": 0.933
+  },
+  {
+    "word": " ",
+    "start": 102.312,
+    "end": 102.372
+  },
+  {
+    "word": "helped",
+    "start": 102.372,
+    "end": 102.572,
+    "score": 0.758
+  },
+  {
+    "word": " ",
+    "start": 102.572,
+    "end": 102.672
+  },
+  {
+    "word": "fix",
+    "start": 102.672,
+    "end": 102.892,
+    "score": 1.0
+  },
+  {
+    "word": " ",
+    "start": 102.892,
+    "end": 102.992
+  },
+  {
+    "word": "UI",
+    "start": 102.992,
+    "end": 103.193,
+    "score": 0.482
+  },
+  {
+    "word": " ",
+    "start": 103.193,
+    "end": 103.233
+  },
+  {
+    "word": "bugs",
+    "start": 103.233,
+    "end": 103.493,
+    "score": 0.971
+  },
+  {
+    "word": " ",
+    "start": 103.493,
+    "end": 103.773
+  },
+  {
+    "word": "and",
+    "start": 103.773,
+    "end": 103.853,
+    "score": 0.933
+  },
+  {
+    "word": " ",
+    "start": 103.853,
+    "end": 103.893
+  },
+  {
+    "word": "improve",
+    "start": 103.893,
+    "end": 104.233,
+    "score": 0.929
+  },
+  {
+    "word": " ",
+    "start": 104.233,
+    "end": 104.273
+  },
+  {
+    "word": "test",
+    "start": 104.273,
+    "end": 104.473,
+    "score": 0.997
+  },
+  {
+    "word": " ",
+    "start": 104.473,
+    "end": 104.513
+  },
+  {
+    "word": "coverage",
+    "start": 104.513,
+    "end": 104.933,
+    "score": 0.83
+  },
+  {
+    "word": ".",
+    "start": 104.933,
+    "end": 105.974
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "I'm",
+    "start": 105.974,
+    "end": 106.114,
+    "score": 0.431
+  },
+  {
+    "word": " ",
+    "start": 106.114,
+    "end": 106.134
+  },
+  {
+    "word": "looking",
+    "start": 106.134,
+    "end": 106.414,
+    "score": 0.816
+  },
+  {
+    "word": " ",
+    "start": 106.414,
+    "end": 106.454
+  },
+  {
+    "word": "forward",
+    "start": 106.454,
+    "end": 106.774,
+    "score": 0.829
+  },
+  {
+    "word": " ",
+    "start": 106.774,
+    "end": 106.794
+  },
+  {
+    "word": "to",
+    "start": 106.794,
+    "end": 106.894,
+    "score": 0.492
+  },
+  {
+    "word": " ",
+    "start": 106.894,
+    "end": 106.935
+  },
+  {
+    "word": "contributing",
+    "start": 106.935,
+    "end": 107.475,
+    "score": 0.803
+  },
+  {
+    "word": " ",
+    "start": 107.475,
+    "end": 107.555
+  },
+  {
+    "word": "to",
+    "start": 107.555,
+    "end": 107.655,
+    "score": 0.832
+  },
+  {
+    "word": " ",
+    "start": 107.655,
+    "end": 107.695
+  },
+  {
+    "word": "your",
+    "start": 107.695,
+    "end": 107.855,
+    "score": 0.711
+  },
+  {
+    "word": " ",
+    "start": 107.855,
+    "end": 107.895
+  },
+  {
+    "word": "team",
+    "start": 107.895,
+    "end": 108.175,
+    "score": 0.83
+  },
+  {
+    "word": " ",
+    "start": 108.175,
+    "end": 108.455
+  },
+  {
+    "word": "and",
+    "start": 108.455,
+    "end": 108.575,
+    "score": 0.689
+  },
+  {
+    "word": " ",
+    "start": 108.575,
+    "end": 108.635
+  },
+  {
+    "word": "projects",
+    "start": 108.635,
+    "end": 109.116,
+    "score": 0.938
+  },
+  {
+    "word": ".",
+    "start": 109.116,
+    "end": 109.816
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "I'm",
+    "start": 109.816,
+    "end": 109.936,
+    "score": 0.464
+  },
+  {
+    "word": " ",
+    "start": 109.936,
+    "end": 109.956
+  },
+  {
+    "word": "looking",
+    "start": 109.956,
+    "end": 110.216,
     "score": 0.879
   },
   {
     "word": " ",
-    "start": 95.666,
-    "end": 95.706
-  },
-  {
-    "word": "improve",
-    "start": 95.706,
-    "end": 98.108,
-    "score": 0.774
-  },
-  {
-    "word": " ",
-    "start": 98.108,
-    "end": 99.49
-  },
-  {
-    "word": "test",
-    "start": 99.49,
-    "end": 99.69,
-    "score": 0.945
-  },
-  {
-    "word": " ",
-    "start": 99.69,
-    "end": 99.71
-  },
-  {
-    "word": "coverage",
-    "start": 99.71,
-    "end": 100.09,
-    "score": 0.891
-  },
-  {
-    "word": ".",
-    "start": 100.09,
-    "end": 100.831
-  },
-  {
-    "role": "line-break",
-    "word": ""
-  },
-  {
-    "role": "line-break",
-    "word": ""
-  },
-  {
-    "word": "I'm",
-    "start": 100.831,
-    "end": 100.951,
-    "score": 0.669
-  },
-  {
-    "word": " ",
-    "start": 100.951,
-    "end": 100.971
-  },
-  {
-    "word": "looking",
-    "start": 100.971,
-    "end": 101.211,
-    "score": 0.932
-  },
-  {
-    "word": " ",
-    "start": 101.211,
-    "end": 101.271
+    "start": 110.216,
+    "end": 110.276
   },
   {
     "word": "forward",
-    "start": 101.271,
-    "end": 101.532,
-    "score": 0.869
+    "start": 110.276,
+    "end": 110.576,
+    "score": 0.858
   },
   {
     "word": " ",
-    "start": 101.532,
-    "end": 101.552
+    "start": 110.576,
+    "end": 110.616
   },
   {
     "word": "to",
-    "start": 101.552,
-    "end": 101.612,
-    "score": 0.926
+    "start": 110.616,
+    "end": 110.676,
+    "score": 0.998
   },
   {
     "word": " ",
-    "start": 101.612,
-    "end": 101.652
+    "start": 110.676,
+    "end": 110.717
   },
   {
     "word": "contributing",
-    "start": 101.652,
-    "end": 102.152,
-    "score": 0.918
+    "start": 110.717,
+    "end": 111.317,
+    "score": 0.791
   },
   {
     "word": " ",
-    "start": 102.152,
-    "end": 102.212
+    "start": 111.317,
+    "end": 111.417
   },
   {
     "word": "to",
-    "start": 102.212,
-    "end": 102.292,
-    "score": 0.794
+    "start": 111.417,
+    "end": 111.517,
+    "score": 0.633
   },
   {
     "word": " ",
-    "start": 102.292,
-    "end": 102.332
+    "start": 111.517,
+    "end": 111.557
   },
   {
     "word": "your",
-    "start": 102.332,
-    "end": 102.493,
-    "score": 0.751
+    "start": 111.557,
+    "end": 111.697,
+    "score": 0.673
   },
   {
     "word": " ",
-    "start": 102.493,
-    "end": 102.533
+    "start": 111.697,
+    "end": 111.757
   },
   {
     "word": "team",
-    "start": 102.533,
-    "end": 102.793,
-    "score": 0.76
+    "start": 111.757,
+    "end": 112.057,
+    "score": 0.853
   },
   {
     "word": " ",
-    "start": 102.793,
-    "end": 102.853
+    "start": 112.057,
+    "end": 112.678
   },
   {
     "word": "and",
-    "start": 102.853,
-    "end": 102.953,
-    "score": 0.665
+    "start": 112.678,
+    "end": 112.798,
+    "score": 0.693
   },
   {
     "word": " ",
-    "start": 102.953,
-    "end": 102.993
+    "start": 112.798,
+    "end": 112.858
   },
   {
     "word": "projects",
-    "start": 102.993,
-    "end": 103.474,
-    "score": 0.819
+    "start": 112.858,
+    "end": 113.378,
+    "score": 0.801
   },
   {
     "word": ".",
-    "start": 103.474,
-    "end": 104.254
+    "start": 113.378,
+    "end": 114.018
   },
   {
     "role": "line-break",
     "word": ""
   },
   {
-    "word": "I'm",
-    "start": 104.254,
-    "end": 104.395,
-    "score": 0.71
+    "word": "Thanks",
+    "start": 114.018,
+    "end": 114.218,
+    "score": 0.947
   },
   {
     "word": " ",
-    "start": 104.395,
-    "end": 104.415
+    "start": 114.218,
+    "end": 114.258
   },
   {
-    "word": "looking",
-    "start": 104.415,
-    "end": 104.695,
-    "score": 0.85
-  },
-  {
-    "word": " ",
-    "start": 104.695,
-    "end": 104.775
-  },
-  {
-    "word": "forward",
-    "start": 104.775,
-    "end": 105.075,
-    "score": 0.855
+    "word": "for",
+    "start": 114.258,
+    "end": 114.338,
+    "score": 0.84
   },
   {
     "word": " ",
-    "start": 105.075,
-    "end": 105.115
+    "start": 114.338,
+    "end": 114.358
   },
   {
-    "word": "to",
-    "start": 105.115,
-    "end": 105.195,
-    "score": 0.742
-  },
-  {
-    "word": " ",
-    "start": 105.195,
-    "end": 105.235
-  },
-  {
-    "word": "contributing",
-    "start": 105.235,
-    "end": 105.736,
-    "score": 0.805
+    "word": "the",
+    "start": 114.358,
+    "end": 114.458,
+    "score": 0.668
   },
   {
     "word": " ",
-    "start": 105.736,
-    "end": 105.776
+    "start": 114.458,
+    "end": 114.499
   },
   {
-    "word": "to",
-    "start": 105.776,
-    "end": 105.836,
-    "score": 0.821
-  },
-  {
-    "word": " ",
-    "start": 105.836,
-    "end": 105.856
-  },
-  {
-    "word": "your",
-    "start": 105.856,
-    "end": 105.976,
-    "score": 0.757
-  },
-  {
-    "word": " ",
-    "start": 105.976,
-    "end": 106.016
-  },
-  {
-    "word": "team",
-    "start": 106.016,
-    "end": 106.216,
-    "score": 0.956
-  },
-  {
-    "word": " ",
-    "start": 106.216,
-    "end": 106.256
-  },
-  {
-    "word": "and",
-    "start": 106.256,
-    "end": 106.337,
-    "score": 0.916
-  },
-  {
-    "word": " ",
-    "start": 106.337,
-    "end": 106.377
-  },
-  {
-    "word": "projects",
-    "start": 106.377,
-    "end": 106.857,
-    "score": 0.855
+    "word": "opportunity",
+    "start": 114.499,
+    "end": 115.059,
+    "score": 0.895
   },
   {
     "word": ".",
-    "start": 106.857,
-    "end": 106.867
-  },
-  {
-    "role": "line-break",
-    "word": ""
-  },
-  {
-    "start": 106.867,
-    "end": 106.87700000000001,
-    "word": "Thanks"
-  },
-  {
-    "word": " ",
-    "start": 106.87700000000001,
-    "end": 106.88700000000001
-  },
-  {
-    "start": 106.88700000000001,
-    "end": 106.89700000000002,
-    "word": "for"
-  },
-  {
-    "word": " ",
-    "start": 106.89700000000002,
-    "end": 106.90700000000002
-  },
-  {
-    "start": 106.90700000000002,
-    "end": 106.91700000000003,
-    "word": "the"
-  },
-  {
-    "word": " ",
-    "start": 106.91700000000003,
-    "end": 106.92700000000004
-  },
-  {
-    "start": 106.92700000000004,
-    "end": 106.93700000000004,
-    "word": "opportunity"
-  },
-  {
-    "word": ".",
-    "start": 106.93700000000004,
-    "end": 106.94700000000005
+    "start": 115.059,
+    "end": 115.069
   }
 ]

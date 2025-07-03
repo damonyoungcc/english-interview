@@ -3,11 +3,15 @@ I've been working as a front-end engineer for over 7 years.
 I've been working as a front-end engineer for over 7 years.
 I've built many web apps using React.
 I've built many web apps using React.
-I'm especially skilled at mobile web development and creating user-friendly interactions.
-I'm especially skilled at mobile web development and creating user-friendly interactions.
+I'm especially skilled at mobile web development
+I'm especially skilled at mobile web development
+and creating user-friendly interactions.
+and creating user-friendly interactions.
 
+I started my career during my internship at ZBJ,
 I started my career during my internship at ZBJ.
-I started my career during my internship at ZBJ.
+the largest internet company in ChongQing, China.
+the largest internet company in ChongQing, China.
 At that time, I helped upgrade their official website to version 2.0 from jQuery to Vue.
 At that time, I helped upgrade their official website to version 2.0 from jQuery to Vue.
 Since then, I've worked in different industries like e-commerce platform and banking systems.
