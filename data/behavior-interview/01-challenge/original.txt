@@ -1,27 +1,36 @@
-The biggest challenge I faced was leading the team to build a shared internal admin system.
-and try to unified the user experience across all the internal system.
+The biggest challenge I faced was building a shared internal admin system template
+The biggest challenge I faced was building a shared internal admin system template
+and trying to unify the user experience across all internal systems.
+and trying to unify the user experience across all internal systems.
 Each team in my previous company was building their own internal admin systems separately,
-without a shared standard. As a result, the user experience was inconsistent and confusing.
+Each team in my previous company was building their own internal admin systems separately,
+without a shared standard. 
+As a result, the user experience was inconsistent and confusing.
+As a result, the user experience was inconsistent and confusing.
 
 The main challenge I faced was:
+The main challenge I faced was:
 First, I needed to design a solution that different teams could adopt,
-and convince each team to migrate their project to the unified user experience.
+First, I needed to design a solution that different teams could adopt,
+and it had to be easy to use and flexible enough to meet each team’s needs.
+and it had to be easy to use and flexible enough to meet each team’s needs.
 
 So here’s what I did:
-First, I took the time to talk to people from ops and product.
-I tried to find out what everyone really needed in common.
+First, I talked to people to find out what everyone really needed in common.
+First, I talked to people to find out what everyone really needed in common.
 
-And then I designed the solution based on these needs.
+I summarized these needs and designed a solution based on them.
+I summarized these needs and designed a solution based on them.
 The goal was simple:
-For new projects, make it easy to use with just one click and immediately focus on business development.
-For old projects, I built reusable components and published them to our internal NPM.
-So old projects could install these packages and gradually update their UI.
+For new projects, I made it ready-to-use,
+For new projects, I made it ready-to-use,
+so each team could get started right away and focus on business development.
+so each team could get started right away and focus on business development.
+For old projects, I built reusable components and published them to our internal NPM,
+For old projects, I built reusable components and published them to our internal NPM,
+so old projects could install these packages and gradually update their UI.
+so old projects could install these packages and gradually update their UI.
 
-Second, I create a clear migration guide
-and showed each team how easy it was to migrate their project.
-So in the end, there was really no excuse not to cooperate.
-
-After a few updates, we were able to unify the user experience.
-Looking back, I think this was my biggest challenge so far.
-It required not only technical work, but also a lot of communication.
-And I’m really proud of the result.
+After a few updates, we were able to unify the user experience,
+After a few updates, we were able to unify the user experience,
+and I’m really proud of the result.
