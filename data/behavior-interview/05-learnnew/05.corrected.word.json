@@ -1,0 +1,1983 @@
+[
+  {
+    "start": 0.581,
+    "end": 0.591,
+    "word": "first"
+  },
+  {
+    "word": ",",
+    "start": 0.591,
+    "end": 0.591
+  },
+  {
+    "word": " ",
+    "start": 0.591,
+    "end": 0.591
+  },
+  {
+    "start": 0.591,
+    "end": 0.591,
+    "word": "I"
+  },
+  {
+    "word": " ",
+    "start": 0.591,
+    "end": 0.591
+  },
+  {
+    "start": 0.591,
+    "end": 0.591,
+    "word": "try"
+  },
+  {
+    "word": " ",
+    "start": 0.591,
+    "end": 0.591
+  },
+  {
+    "start": 0.591,
+    "end": 0.591,
+    "word": "to"
+  },
+  {
+    "word": " ",
+    "start": 0.591,
+    "end": 0.591
+  },
+  {
+    "start": 0.591,
+    "end": 0.591,
+    "word": "reading"
+  },
+  {
+    "word": " ",
+    "start": 0.591,
+    "end": 0.591
+  },
+  {
+    "start": 0.591,
+    "end": 0.591,
+    "word": "the"
+  },
+  {
+    "word": " ",
+    "start": 0.591,
+    "end": 0.591
+  },
+  {
+    "start": 0.591,
+    "end": 0.591,
+    "word": "official"
+  },
+  {
+    "word": " ",
+    "start": 0.591,
+    "end": 0.591
+  },
+  {
+    "start": 0.591,
+    "end": 0.591,
+    "word": "documentation"
+  },
+  {
+    "word": " ",
+    "start": 0.591,
+    "end": 0.591
+  },
+  {
+    "start": 0.591,
+    "end": 0.591,
+    "word": "or"
+  },
+  {
+    "word": " ",
+    "start": 0.591,
+    "end": 0.591
+  },
+  {
+    "start": 0.591,
+    "end": 0.591,
+    "word": "quick"
+  },
+  {
+    "word": " ",
+    "start": 0.591,
+    "end": 0.591
+  },
+  {
+    "start": 0.591,
+    "end": 0.591,
+    "word": "tutorials"
+  },
+  {
+    "word": ".",
+    "start": 0.591,
+    "end": 0.591
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "first",
+    "start": 0.591,
+    "end": 0.911,
+    "score": 0.855
+  },
+  {
+    "word": ",",
+    "start": 0.911,
+    "end": 1.332
+  },
+  {
+    "word": " ",
+    "start": 1.332,
+    "end": 1.332
+  },
+  {
+    "word": "I",
+    "start": 1.332,
+    "end": 1.392,
+    "score": 0.773
+  },
+  {
+    "word": " ",
+    "start": 1.392,
+    "end": 1.452
+  },
+  {
+    "word": "try",
+    "start": 1.452,
+    "end": 1.592,
+    "score": 0.935
+  },
+  {
+    "word": " ",
+    "start": 1.592,
+    "end": 1.632
+  },
+  {
+    "word": "to",
+    "start": 1.632,
+    "end": 1.692,
+    "score": 0.754
+  },
+  {
+    "word": " ",
+    "start": 1.692,
+    "end": 1.732
+  },
+  {
+    "word": "reading",
+    "start": 1.732,
+    "end": 1.932,
+    "score": 0.918
+  },
+  {
+    "word": " ",
+    "start": 1.932,
+    "end": 1.972
+  },
+  {
+    "word": "the",
+    "start": 1.972,
+    "end": 2.052,
+    "score": 0.833
+  },
+  {
+    "word": " ",
+    "start": 2.052,
+    "end": 2.092
+  },
+  {
+    "word": "official",
+    "start": 2.092,
+    "end": 2.392,
+    "score": 0.827
+  },
+  {
+    "word": " ",
+    "start": 2.392,
+    "end": 2.412
+  },
+  {
+    "word": "documentation",
+    "start": 2.412,
+    "end": 3.052,
+    "score": 0.807
+  },
+  {
+    "word": " ",
+    "start": 3.052,
+    "end": 3.092
+  },
+  {
+    "word": "or",
+    "start": 3.092,
+    "end": 3.152,
+    "score": 0.86
+  },
+  {
+    "word": " ",
+    "start": 3.152,
+    "end": 3.192
+  },
+  {
+    "word": "quick",
+    "start": 3.192,
+    "end": 3.353,
+    "score": 0.985
+  },
+  {
+    "word": " ",
+    "start": 3.353,
+    "end": 3.393
+  },
+  {
+    "word": "tutorials",
+    "start": 3.393,
+    "end": 3.873,
+    "score": 0.784
+  },
+  {
+    "word": ".",
+    "start": 3.873,
+    "end": 3.893
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "start": 3.893,
+    "end": 3.893,
+    "word": "Then"
+  },
+  {
+    "word": ",",
+    "start": 3.893,
+    "end": 3.893
+  },
+  {
+    "word": " ",
+    "start": 3.893,
+    "end": 3.893
+  },
+  {
+    "start": 3.893,
+    "end": 3.893,
+    "word": "I"
+  },
+  {
+    "word": " ",
+    "start": 3.893,
+    "end": 3.893
+  },
+  {
+    "start": 3.893,
+    "end": 3.893,
+    "word": "usually"
+  },
+  {
+    "word": " ",
+    "start": 3.893,
+    "end": 3.893
+  },
+  {
+    "start": 3.893,
+    "end": 3.893,
+    "word": "build"
+  },
+  {
+    "word": " ",
+    "start": 3.893,
+    "end": 3.893
+  },
+  {
+    "start": 3.893,
+    "end": 3.893,
+    "word": "a"
+  },
+  {
+    "word": " ",
+    "start": 3.893,
+    "end": 3.893
+  },
+  {
+    "start": 3.893,
+    "end": 3.893,
+    "word": "small"
+  },
+  {
+    "word": " ",
+    "start": 3.893,
+    "end": 3.893
+  },
+  {
+    "start": 3.893,
+    "end": 3.893,
+    "word": "demo"
+  },
+  {
+    "word": " ",
+    "start": 3.893,
+    "end": 3.893
+  },
+  {
+    "start": 3.893,
+    "end": 3.893,
+    "word": "project"
+  },
+  {
+    "word": " ",
+    "start": 3.893,
+    "end": 3.893
+  },
+  {
+    "start": 3.893,
+    "end": 3.893,
+    "word": "or"
+  },
+  {
+    "word": " ",
+    "start": 3.893,
+    "end": 3.893
+  },
+  {
+    "start": 3.893,
+    "end": 3.893,
+    "word": "write"
+  },
+  {
+    "word": " ",
+    "start": 3.893,
+    "end": 3.893
+  },
+  {
+    "start": 3.893,
+    "end": 3.893,
+    "word": "some"
+  },
+  {
+    "word": " ",
+    "start": 3.893,
+    "end": 3.893
+  },
+  {
+    "start": 3.893,
+    "end": 3.893,
+    "word": "code"
+  },
+  {
+    "word": " ",
+    "start": 3.893,
+    "end": 3.893
+  },
+  {
+    "start": 3.893,
+    "end": 3.893,
+    "word": "to"
+  },
+  {
+    "word": " ",
+    "start": 3.893,
+    "end": 3.893
+  },
+  {
+    "start": 3.893,
+    "end": 3.893,
+    "word": "practice"
+  },
+  {
+    "word": ",",
+    "start": 3.893,
+    "end": 3.893
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "Then",
+    "start": 3.893,
+    "end": 5.454,
+    "score": 0.434
+  },
+  {
+    "word": ",",
+    "start": 5.454,
+    "end": 5.534
+  },
+  {
+    "word": " ",
+    "start": 5.534,
+    "end": 5.534
+  },
+  {
+    "word": "I",
+    "start": 5.534,
+    "end": 5.574,
+    "score": 0.537
+  },
+  {
+    "word": " ",
+    "start": 5.574,
+    "end": 5.634
+  },
+  {
+    "word": "usually",
+    "start": 5.634,
+    "end": 5.814,
+    "score": 0.143
+  },
+  {
+    "word": " ",
+    "start": 5.814,
+    "end": 6.734
+  },
+  {
+    "word": "build",
+    "start": 6.734,
+    "end": 6.854,
+    "score": 0.3
+  },
+  {
+    "word": " ",
+    "start": 6.854,
+    "end": 6.874
+  },
+  {
+    "word": "a",
+    "start": 6.874,
+    "end": 6.894,
+    "score": 0.0
+  },
+  {
+    "word": " ",
+    "start": 6.894,
+    "end": 6.914
+  },
+  {
+    "word": "small",
+    "start": 6.914,
+    "end": 7.034,
+    "score": 0.1
+  },
+  {
+    "word": " ",
+    "start": 7.034,
+    "end": 7.054
+  },
+  {
+    "word": "demo",
+    "start": 7.054,
+    "end": 7.134,
+    "score": 0.25
+  },
+  {
+    "word": " ",
+    "start": 7.134,
+    "end": 7.154
+  },
+  {
+    "word": "project",
+    "start": 7.154,
+    "end": 7.294,
+    "score": 0.143
+  },
+  {
+    "word": " ",
+    "start": 7.294,
+    "end": 7.314
+  },
+  {
+    "word": "or",
+    "start": 7.314,
+    "end": 7.354,
+    "score": 0.0
+  },
+  {
+    "word": " ",
+    "start": 7.354,
+    "end": 7.374
+  },
+  {
+    "word": "write",
+    "start": 7.374,
+    "end": 7.474,
+    "score": 0.2
+  },
+  {
+    "word": " ",
+    "start": 7.474,
+    "end": 7.494
+  },
+  {
+    "word": "some",
+    "start": 7.494,
+    "end": 7.635,
+    "score": 0.313
+  },
+  {
+    "word": " ",
+    "start": 7.635,
+    "end": 7.675
+  },
+  {
+    "word": "code",
+    "start": 7.675,
+    "end": 7.815,
+    "score": 0.501
+  },
+  {
+    "word": " ",
+    "start": 7.815,
+    "end": 7.835
+  },
+  {
+    "word": "to",
+    "start": 7.835,
+    "end": 7.875,
+    "score": 0.0
+  },
+  {
+    "word": " ",
+    "start": 7.875,
+    "end": 7.895
+  },
+  {
+    "word": "practice",
+    "start": 7.895,
+    "end": 8.195,
+    "score": 0.444
+  },
+  {
+    "word": ",",
+    "start": 8.195,
+    "end": 8.215
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "start": 8.215,
+    "end": 8.215,
+    "word": "I"
+  },
+  {
+    "word": " ",
+    "start": 8.215,
+    "end": 8.215
+  },
+  {
+    "start": 8.215,
+    "end": 8.215,
+    "word": "believe"
+  },
+  {
+    "word": " ",
+    "start": 8.215,
+    "end": 8.215
+  },
+  {
+    "start": 8.215,
+    "end": 8.215,
+    "word": "the"
+  },
+  {
+    "word": " ",
+    "start": 8.215,
+    "end": 8.215
+  },
+  {
+    "start": 8.215,
+    "end": 8.215,
+    "word": "best"
+  },
+  {
+    "word": " ",
+    "start": 8.215,
+    "end": 8.215
+  },
+  {
+    "start": 8.215,
+    "end": 8.215,
+    "word": "way"
+  },
+  {
+    "word": " ",
+    "start": 8.215,
+    "end": 8.215
+  },
+  {
+    "start": 8.215,
+    "end": 8.215,
+    "word": "to"
+  },
+  {
+    "word": " ",
+    "start": 8.215,
+    "end": 8.215
+  },
+  {
+    "start": 8.215,
+    "end": 8.215,
+    "word": "learn"
+  },
+  {
+    "word": " ",
+    "start": 8.215,
+    "end": 8.215
+  },
+  {
+    "start": 8.215,
+    "end": 8.215,
+    "word": "is"
+  },
+  {
+    "word": " ",
+    "start": 8.215,
+    "end": 8.215
+  },
+  {
+    "start": 8.215,
+    "end": 8.215,
+    "word": "by"
+  },
+  {
+    "word": " ",
+    "start": 8.215,
+    "end": 8.215
+  },
+  {
+    "start": 8.215,
+    "end": 8.215,
+    "word": "doing"
+  },
+  {
+    "word": ".",
+    "start": 8.215,
+    "end": 8.215
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "I",
+    "start": 8.215,
+    "end": 8.255,
+    "score": 0.5
+  },
+  {
+    "word": " ",
+    "start": 8.255,
+    "end": 8.355
+  },
+  {
+    "word": "believe",
+    "start": 8.355,
+    "end": 8.615,
+    "score": 0.263
+  },
+  {
+    "word": " ",
+    "start": 8.615,
+    "end": 8.675
+  },
+  {
+    "word": "the",
+    "start": 8.675,
+    "end": 8.775,
+    "score": 0.282
+  },
+  {
+    "word": " ",
+    "start": 8.775,
+    "end": 8.815
+  },
+  {
+    "word": "best",
+    "start": 8.815,
+    "end": 9.015,
+    "score": 0.289
+  },
+  {
+    "word": " ",
+    "start": 9.015,
+    "end": 9.035
+  },
+  {
+    "word": "way",
+    "start": 9.035,
+    "end": 9.135,
+    "score": 0.215
+  },
+  {
+    "word": " ",
+    "start": 9.135,
+    "end": 9.175
+  },
+  {
+    "word": "to",
+    "start": 9.175,
+    "end": 9.315,
+    "score": 0.856
+  },
+  {
+    "word": " ",
+    "start": 9.315,
+    "end": 9.335
+  },
+  {
+    "word": "learn",
+    "start": 9.335,
+    "end": 9.515,
+    "score": 0.531
+  },
+  {
+    "word": " ",
+    "start": 9.515,
+    "end": 9.535
+  },
+  {
+    "word": "is",
+    "start": 9.535,
+    "end": 9.575,
+    "score": 0.5
+  },
+  {
+    "word": " ",
+    "start": 9.575,
+    "end": 9.595
+  },
+  {
+    "word": "by",
+    "start": 9.595,
+    "end": 9.635,
+    "score": 0.0
+  },
+  {
+    "word": " ",
+    "start": 9.635,
+    "end": 10.676
+  },
+  {
+    "word": "doing",
+    "start": 10.676,
+    "end": 10.856,
+    "score": 0.359
+  },
+  {
+    "word": ".",
+    "start": 10.856,
+    "end": 24.982
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "If",
+    "start": 24.982,
+    "end": 25.062,
+    "score": 0.836
+  },
+  {
+    "word": " ",
+    "start": 25.062,
+    "end": 25.122
+  },
+  {
+    "word": "I",
+    "start": 25.122,
+    "end": 25.162,
+    "score": 0.999
+  },
+  {
+    "word": " ",
+    "start": 25.162,
+    "end": 25.202
+  },
+  {
+    "word": "have",
+    "start": 25.202,
+    "end": 25.322,
+    "score": 0.876
+  },
+  {
+    "word": " ",
+    "start": 25.322,
+    "end": 25.382
+  },
+  {
+    "word": "questions",
+    "start": 25.382,
+    "end": 25.862,
+    "score": 0.822
+  },
+  {
+    "word": ",",
+    "start": 25.862,
+    "end": 26.122
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "I",
+    "start": 26.122,
+    "end": 26.162,
+    "score": 0.998
+  },
+  {
+    "word": " ",
+    "start": 26.162,
+    "end": 26.222
+  },
+  {
+    "word": "check",
+    "start": 26.222,
+    "end": 26.402,
+    "score": 0.98
+  },
+  {
+    "word": " ",
+    "start": 26.402,
+    "end": 26.442
+  },
+  {
+    "word": "GitHub",
+    "start": 26.442,
+    "end": 26.763,
+    "score": 0.803
+  },
+  {
+    "word": " ",
+    "start": 26.763,
+    "end": 26.823
+  },
+  {
+    "word": "issues",
+    "start": 26.823,
+    "end": 27.183,
+    "score": 0.786
+  },
+  {
+    "word": " ",
+    "start": 27.183,
+    "end": 27.283
+  },
+  {
+    "word": "and",
+    "start": 27.283,
+    "end": 27.363,
+    "score": 0.838
+  },
+  {
+    "word": " ",
+    "start": 27.363,
+    "end": 27.383
+  },
+  {
+    "word": "discussions",
+    "start": 27.383,
+    "end": 27.943,
+    "score": 0.828
+  },
+  {
+    "word": ",",
+    "start": 27.943,
+    "end": 28.363
+  },
+  {
+    "word": " ",
+    "start": 28.363,
+    "end": 28.363
+  },
+  {
+    "word": "or",
+    "start": 28.363,
+    "end": 28.463,
+    "score": 0.434
+  },
+  {
+    "word": " ",
+    "start": 28.463,
+    "end": 28.563
+  },
+  {
+    "word": "search",
+    "start": 28.563,
+    "end": 28.783,
+    "score": 0.939
+  },
+  {
+    "word": " ",
+    "start": 28.783,
+    "end": 28.823
+  },
+  {
+    "word": "in",
+    "start": 28.823,
+    "end": 28.883,
+    "score": 0.81
+  },
+  {
+    "word": " ",
+    "start": 28.883,
+    "end": 28.923
+  },
+  {
+    "word": "the",
+    "start": 28.923,
+    "end": 28.983,
+    "score": 0.997
+  },
+  {
+    "word": " ",
+    "start": 28.983,
+    "end": 29.003
+  },
+  {
+    "word": "Stack",
+    "start": 29.003,
+    "end": 29.243,
+    "score": 0.889
+  },
+  {
+    "word": " ",
+    "start": 29.243,
+    "end": 29.303
+  },
+  {
+    "word": "Overflow",
+    "start": 29.303,
+    "end": 29.723,
+    "score": 0.844
+  },
+  {
+    "word": ".",
+    "start": 29.723,
+    "end": 30.064
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "I",
+    "start": 30.064,
+    "end": 30.124,
+    "score": 0.668
+  },
+  {
+    "word": " ",
+    "start": 30.124,
+    "end": 30.164
+  },
+  {
+    "word": "check",
+    "start": 30.164,
+    "end": 30.364,
+    "score": 0.916
+  },
+  {
+    "word": " ",
+    "start": 30.364,
+    "end": 30.404
+  },
+  {
+    "word": "GitHub",
+    "start": 30.404,
+    "end": 30.704,
+    "score": 0.839
+  },
+  {
+    "word": " ",
+    "start": 30.704,
+    "end": 30.744
+  },
+  {
+    "word": "issues",
+    "start": 30.744,
+    "end": 31.004,
+    "score": 0.839
+  },
+  {
+    "word": " ",
+    "start": 31.004,
+    "end": 31.044
+  },
+  {
+    "word": "and",
+    "start": 31.044,
+    "end": 31.124,
+    "score": 0.678
+  },
+  {
+    "word": " ",
+    "start": 31.124,
+    "end": 31.144
+  },
+  {
+    "word": "discussions",
+    "start": 31.144,
+    "end": 31.684,
+    "score": 0.787
+  },
+  {
+    "word": ",",
+    "start": 31.684,
+    "end": 31.984
+  },
+  {
+    "word": " ",
+    "start": 31.984,
+    "end": 31.984
+  },
+  {
+    "word": "or",
+    "start": 31.984,
+    "end": 32.084,
+    "score": 0.48
+  },
+  {
+    "word": " ",
+    "start": 32.084,
+    "end": 32.184
+  },
+  {
+    "word": "search",
+    "start": 32.184,
+    "end": 32.384,
+    "score": 0.869
+  },
+  {
+    "word": " ",
+    "start": 32.384,
+    "end": 32.424
+  },
+  {
+    "word": "in",
+    "start": 32.424,
+    "end": 32.484,
+    "score": 0.948
+  },
+  {
+    "word": " ",
+    "start": 32.484,
+    "end": 32.524
+  },
+  {
+    "word": "the",
+    "start": 32.524,
+    "end": 32.584,
+    "score": 0.997
+  },
+  {
+    "word": " ",
+    "start": 32.584,
+    "end": 32.604
+  },
+  {
+    "word": "Stack",
+    "start": 32.604,
+    "end": 32.824,
+    "score": 0.895
+  },
+  {
+    "word": " ",
+    "start": 32.824,
+    "end": 32.864
+  },
+  {
+    "word": "Overflow",
+    "start": 32.864,
+    "end": 33.284,
+    "score": 0.883
+  },
+  {
+    "word": ".",
+    "start": 33.284,
+    "end": 34.625
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "because",
+    "start": 34.625,
+    "end": 34.865,
+    "score": 0.808
+  },
+  {
+    "word": " ",
+    "start": 34.865,
+    "end": 34.905
+  },
+  {
+    "word": "in",
+    "start": 34.905,
+    "end": 34.965,
+    "score": 0.756
+  },
+  {
+    "word": " ",
+    "start": 34.965,
+    "end": 35.005
+  },
+  {
+    "word": "most",
+    "start": 35.005,
+    "end": 35.205,
+    "score": 0.827
+  },
+  {
+    "word": " ",
+    "start": 35.205,
+    "end": 35.265
+  },
+  {
+    "word": "cases",
+    "start": 35.265,
+    "end": 35.665,
+    "score": 0.804
+  },
+  {
+    "word": ",",
+    "start": 35.665,
+    "end": 35.965
+  },
+  {
+    "word": " ",
+    "start": 35.965,
+    "end": 35.965
+  },
+  {
+    "word": "someone",
+    "start": 35.965,
+    "end": 36.245,
+    "score": 0.95
+  },
+  {
+    "word": " ",
+    "start": 36.245,
+    "end": 36.285
+  },
+  {
+    "word": "has",
+    "start": 36.285,
+    "end": 36.405,
+    "score": 0.825
+  },
+  {
+    "word": " ",
+    "start": 36.405,
+    "end": 36.485
+  },
+  {
+    "word": "already",
+    "start": 36.485,
+    "end": 36.746,
+    "score": 0.855
+  },
+  {
+    "word": " ",
+    "start": 36.746,
+    "end": 36.846
+  },
+  {
+    "word": "faced",
+    "start": 36.846,
+    "end": 37.106,
+    "score": 0.909
+  },
+  {
+    "word": " ",
+    "start": 37.106,
+    "end": 37.186
+  },
+  {
+    "word": "and",
+    "start": 37.186,
+    "end": 37.246,
+    "score": 1.0
+  },
+  {
+    "word": " ",
+    "start": 37.246,
+    "end": 37.306
+  },
+  {
+    "word": "solved",
+    "start": 37.306,
+    "end": 37.526,
+    "score": 0.892
+  },
+  {
+    "word": " ",
+    "start": 37.526,
+    "end": 37.546
+  },
+  {
+    "word": "similar",
+    "start": 37.546,
+    "end": 37.826,
+    "score": 0.772
+  },
+  {
+    "word": " ",
+    "start": 37.826,
+    "end": 37.866
+  },
+  {
+    "word": "problems",
+    "start": 37.866,
+    "end": 38.266,
+    "score": 0.769
+  },
+  {
+    "word": ".",
+    "start": 38.266,
+    "end": 38.846
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "because",
+    "start": 38.846,
+    "end": 39.046,
+    "score": 0.878
+  },
+  {
+    "word": " ",
+    "start": 39.046,
+    "end": 39.086
+  },
+  {
+    "word": "in",
+    "start": 39.086,
+    "end": 39.146,
+    "score": 0.758
+  },
+  {
+    "word": " ",
+    "start": 39.146,
+    "end": 39.186
+  },
+  {
+    "word": "most",
+    "start": 39.186,
+    "end": 39.346,
+    "score": 0.919
+  },
+  {
+    "word": " ",
+    "start": 39.346,
+    "end": 39.386
+  },
+  {
+    "word": "cases",
+    "start": 39.386,
+    "end": 39.746,
+    "score": 0.829
+  },
+  {
+    "word": ",",
+    "start": 39.746,
+    "end": 39.946
+  },
+  {
+    "word": " ",
+    "start": 39.946,
+    "end": 39.946
+  },
+  {
+    "word": "someone",
+    "start": 39.946,
+    "end": 40.187,
+    "score": 0.943
+  },
+  {
+    "word": " ",
+    "start": 40.187,
+    "end": 40.227
+  },
+  {
+    "word": "has",
+    "start": 40.227,
+    "end": 40.347,
+    "score": 0.879
+  },
+  {
+    "word": " ",
+    "start": 40.347,
+    "end": 40.427
+  },
+  {
+    "word": "already",
+    "start": 40.427,
+    "end": 40.667,
+    "score": 0.919
+  },
+  {
+    "word": " ",
+    "start": 40.667,
+    "end": 40.727
+  },
+  {
+    "word": "faced",
+    "start": 40.727,
+    "end": 41.007,
+    "score": 0.892
+  },
+  {
+    "word": " ",
+    "start": 41.007,
+    "end": 41.087
+  },
+  {
+    "word": "and",
+    "start": 41.087,
+    "end": 41.167,
+    "score": 0.939
+  },
+  {
+    "word": " ",
+    "start": 41.167,
+    "end": 41.227
+  },
+  {
+    "word": "solved",
+    "start": 41.227,
+    "end": 41.527,
+    "score": 0.872
+  },
+  {
+    "word": " ",
+    "start": 41.527,
+    "end": 41.627
+  },
+  {
+    "word": "similar",
+    "start": 41.627,
+    "end": 41.927,
+    "score": 0.774
+  },
+  {
+    "word": " ",
+    "start": 41.927,
+    "end": 41.967
+  },
+  {
+    "word": "problems",
+    "start": 41.967,
+    "end": 42.387,
+    "score": 0.831
+  },
+  {
+    "word": ".",
+    "start": 42.387,
+    "end": 43.468
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "Finally",
+    "start": 43.468,
+    "end": 43.828,
+    "score": 0.807
+  },
+  {
+    "word": ",",
+    "start": 43.828,
+    "end": 43.848
+  },
+  {
+    "word": " ",
+    "start": 43.848,
+    "end": 43.848
+  },
+  {
+    "word": "I",
+    "start": 43.848,
+    "end": 43.868,
+    "score": 0.0
+  },
+  {
+    "word": " ",
+    "start": 43.868,
+    "end": 44.488
+  },
+  {
+    "word": "set",
+    "start": 44.488,
+    "end": 44.668,
+    "score": 0.835
+  },
+  {
+    "word": " ",
+    "start": 44.668,
+    "end": 44.708
+  },
+  {
+    "word": "a",
+    "start": 44.708,
+    "end": 44.748,
+    "score": 0.507
+  },
+  {
+    "word": " ",
+    "start": 44.748,
+    "end": 44.788
+  },
+  {
+    "word": "goal",
+    "start": 44.788,
+    "end": 45.028,
+    "score": 0.802
+  },
+  {
+    "word": " ",
+    "start": 45.028,
+    "end": 45.128
+  },
+  {
+    "word": "and",
+    "start": 45.128,
+    "end": 45.208,
+    "score": 0.837
+  },
+  {
+    "word": " ",
+    "start": 45.208,
+    "end": 45.248
+  },
+  {
+    "word": "build",
+    "start": 45.248,
+    "end": 45.468,
+    "score": 0.686
+  },
+  {
+    "word": " ",
+    "start": 45.468,
+    "end": 45.508
+  },
+  {
+    "word": "project",
+    "start": 45.508,
+    "end": 45.908,
+    "score": 0.972
+  },
+  {
+    "word": " ",
+    "start": 45.908,
+    "end": 45.968
+  },
+  {
+    "word": "based",
+    "start": 45.968,
+    "end": 46.228,
+    "score": 0.917
+  },
+  {
+    "word": " ",
+    "start": 46.228,
+    "end": 46.288
+  },
+  {
+    "word": "on",
+    "start": 46.288,
+    "end": 46.368,
+    "score": 0.693
+  },
+  {
+    "word": " ",
+    "start": 46.368,
+    "end": 46.408
+  },
+  {
+    "word": "real",
+    "start": 46.408,
+    "end": 46.588,
+    "score": 0.666
+  },
+  {
+    "word": " ",
+    "start": 46.588,
+    "end": 46.628
+  },
+  {
+    "word": "requirements",
+    "start": 46.628,
+    "end": 47.149,
+    "score": 0.867
+  },
+  {
+    "word": ".",
+    "start": 47.149,
+    "end": 48.029
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "Finally",
+    "start": 48.029,
+    "end": 48.429,
+    "score": 0.765
+  },
+  {
+    "word": ",",
+    "start": 48.429,
+    "end": 48.449
+  },
+  {
+    "word": " ",
+    "start": 48.449,
+    "end": 48.449
+  },
+  {
+    "word": "I",
+    "start": 48.449,
+    "end": 48.469,
+    "score": 0.0
+  },
+  {
+    "word": " ",
+    "start": 48.469,
+    "end": 48.989
+  },
+  {
+    "word": "set",
+    "start": 48.989,
+    "end": 49.149,
+    "score": 0.971
+  },
+  {
+    "word": " ",
+    "start": 49.149,
+    "end": 49.189
+  },
+  {
+    "word": "a",
+    "start": 49.189,
+    "end": 49.229,
+    "score": 0.5
+  },
+  {
+    "word": " ",
+    "start": 49.229,
+    "end": 49.269
+  },
+  {
+    "word": "goal",
+    "start": 49.269,
+    "end": 49.529,
+    "score": 0.725
+  },
+  {
+    "word": " ",
+    "start": 49.529,
+    "end": 49.649
+  },
+  {
+    "word": "and",
+    "start": 49.649,
+    "end": 49.729,
+    "score": 0.833
+  },
+  {
+    "word": " ",
+    "start": 49.729,
+    "end": 49.769
+  },
+  {
+    "word": "build",
+    "start": 49.769,
+    "end": 49.969,
+    "score": 0.791
+  },
+  {
+    "word": " ",
+    "start": 49.969,
+    "end": 50.009
+  },
+  {
+    "word": "project",
+    "start": 50.009,
+    "end": 50.39,
+    "score": 0.866
+  },
+  {
+    "word": " ",
+    "start": 50.39,
+    "end": 50.45
+  },
+  {
+    "word": "based",
+    "start": 50.45,
+    "end": 50.67,
+    "score": 0.9
+  },
+  {
+    "word": " ",
+    "start": 50.67,
+    "end": 50.73
+  },
+  {
+    "word": "on",
+    "start": 50.73,
+    "end": 50.81,
+    "score": 0.832
+  },
+  {
+    "word": " ",
+    "start": 50.81,
+    "end": 50.85
+  },
+  {
+    "word": "real",
+    "start": 50.85,
+    "end": 51.01,
+    "score": 0.866
+  },
+  {
+    "word": " ",
+    "start": 51.01,
+    "end": 51.05
+  },
+  {
+    "word": "requirements",
+    "start": 51.05,
+    "end": 51.57,
+    "score": 0.87
+  },
+  {
+    "word": ".",
+    "start": 51.57,
+    "end": 52.383
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "This",
+    "start": 52.383,
+    "end": 52.523,
+    "score": 0.999
+  },
+  {
+    "word": " ",
+    "start": 52.523,
+    "end": 52.604
+  },
+  {
+    "word": "way",
+    "start": 52.604,
+    "end": 52.784,
+    "score": 0.726
+  },
+  {
+    "word": ",",
+    "start": 52.784,
+    "end": 52.924
+  },
+  {
+    "word": " ",
+    "start": 52.924,
+    "end": 52.924
+  },
+  {
+    "word": "I",
+    "start": 52.924,
+    "end": 52.964,
+    "score": 0.992
+  },
+  {
+    "word": " ",
+    "start": 52.964,
+    "end": 53.004
+  },
+  {
+    "word": "can",
+    "start": 53.004,
+    "end": 53.125,
+    "score": 0.958
+  },
+  {
+    "word": " ",
+    "start": 53.125,
+    "end": 53.185
+  },
+  {
+    "word": "quickly",
+    "start": 53.185,
+    "end": 53.485,
+    "score": 0.748
+  },
+  {
+    "word": " ",
+    "start": 53.485,
+    "end": 53.546
+  },
+  {
+    "word": "learn",
+    "start": 53.546,
+    "end": 53.826,
+    "score": 0.665
+  },
+  {
+    "word": " ",
+    "start": 53.826,
+    "end": 53.926
+  },
+  {
+    "word": "and",
+    "start": 53.926,
+    "end": 54.007,
+    "score": 0.88
+  },
+  {
+    "word": " ",
+    "start": 54.007,
+    "end": 54.027
+  },
+  {
+    "word": "apply",
+    "start": 54.027,
+    "end": 54.307,
+    "score": 0.833
+  },
+  {
+    "word": " ",
+    "start": 54.307,
+    "end": 54.367
+  },
+  {
+    "word": "new",
+    "start": 54.367,
+    "end": 54.468,
+    "score": 1.0
+  },
+  {
+    "word": " ",
+    "start": 54.468,
+    "end": 54.508
+  },
+  {
+    "word": "technologies",
+    "start": 54.508,
+    "end": 55.049,
+    "score": 0.874
+  },
+  {
+    "word": " ",
+    "start": 55.049,
+    "end": 55.109
+  },
+  {
+    "word": "to",
+    "start": 55.109,
+    "end": 55.209,
+    "score": 0.828
+  },
+  {
+    "word": " ",
+    "start": 55.209,
+    "end": 55.249
+  },
+  {
+    "word": "real",
+    "start": 55.249,
+    "end": 55.43,
+    "score": 0.868
+  },
+  {
+    "word": " ",
+    "start": 55.43,
+    "end": 55.47
+  },
+  {
+    "word": "projects",
+    "start": 55.47,
+    "end": 55.931,
+    "score": 0.836
+  },
+  {
+    "word": ".",
+    "start": 55.931,
+    "end": 56.973
+  },
+  {
+    "role": "line-break",
+    "word": ""
+  },
+  {
+    "word": "This",
+    "start": 56.973,
+    "end": 57.153,
+    "score": 0.866
+  },
+  {
+    "word": " ",
+    "start": 57.153,
+    "end": 57.233
+  },
+  {
+    "word": "way",
+    "start": 57.233,
+    "end": 57.454,
+    "score": 0.83
+  },
+  {
+    "word": ",",
+    "start": 57.454,
+    "end": 57.474
+  },
+  {
+    "word": " ",
+    "start": 57.474,
+    "end": 57.474
+  },
+  {
+    "word": "I",
+    "start": 57.474,
+    "end": 57.494,
+    "score": 0.0
+  },
+  {
+    "word": " ",
+    "start": 57.494,
+    "end": 57.975
+  },
+  {
+    "word": "can",
+    "start": 57.975,
+    "end": 58.135,
+    "score": 0.736
+  },
+  {
+    "word": " ",
+    "start": 58.135,
+    "end": 58.175
+  },
+  {
+    "word": "quickly",
+    "start": 58.175,
+    "end": 58.476,
+    "score": 0.881
+  },
+  {
+    "word": " ",
+    "start": 58.476,
+    "end": 58.556
+  },
+  {
+    "word": "learn",
+    "start": 58.556,
+    "end": 58.857,
+    "score": 0.679
+  },
+  {
+    "word": " ",
+    "start": 58.857,
+    "end": 59.438
+  },
+  {
+    "word": "and",
+    "start": 59.438,
+    "end": 59.518,
+    "score": 0.835
+  },
+  {
+    "word": " ",
+    "start": 59.518,
+    "end": 59.558
+  },
+  {
+    "word": "apply",
+    "start": 59.558,
+    "end": 59.819,
+    "score": 0.916
+  },
+  {
+    "word": " ",
+    "start": 59.819,
+    "end": 59.879
+  },
+  {
+    "word": "new",
+    "start": 59.879,
+    "end": 59.999,
+    "score": 0.913
+  },
+  {
+    "word": " ",
+    "start": 59.999,
+    "end": 60.019
+  },
+  {
+    "word": "technologies",
+    "start": 60.019,
+    "end": 60.661,
+    "score": 0.841
+  },
+  {
+    "word": " ",
+    "start": 60.661,
+    "end": 60.721
+  },
+  {
+    "word": "to",
+    "start": 60.721,
+    "end": 60.801,
+    "score": 0.81
+  },
+  {
+    "word": " ",
+    "start": 60.801,
+    "end": 60.841
+  },
+  {
+    "word": "real",
+    "start": 60.841,
+    "end": 61.042,
+    "score": 0.832
+  },
+  {
+    "word": " ",
+    "start": 61.042,
+    "end": 61.082
+  },
+  {
+    "word": "projects",
+    "start": 61.082,
+    "end": 61.543,
+    "score": 0.81
+  },
+  {
+    "word": ".",
+    "start": 61.543,
+    "end": 61.553
+  }
+]

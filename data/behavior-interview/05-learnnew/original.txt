@@ -1,0 +1,17 @@
+first, I try to reading the official documentation or quick tutorials.
+first, I try to reading the official documentation or quick tutorials.
+Then, I usually build a small demo project or write some code to practice,
+Then, I usually build a small demo project or write some code to practice,
+I believe the best way to learn is by doing.
+I believe the best way to learn is by doing.
+
+If I have questions,
+I check GitHub issues and discussions, or search in the Stack Overflow.
+I check GitHub issues and discussions, or search in the Stack Overflow.
+because in most cases, someone has already faced and solved similar problems.
+because in most cases, someone has already faced and solved similar problems.
+
+Finally, I set a goal and build project based on real requirements.
+Finally, I set a goal and build project based on real requirements.
+This way, I can quickly learn and apply new technologies to real projects.
+This way, I can quickly learn and apply new technologies to real projects.

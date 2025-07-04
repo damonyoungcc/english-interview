@@ -99,15 +99,15 @@
       "path": "data/behavior-interview/04-mistake",
       "word_corrected_json": "04.corrected.word.json"
     },
-    "05-learship": {
-      "audio_file": "4.m4a",
-      "path": "data/behavior-interview/05-learship",
-      "word_corrected_json": "4.corrected.word.json"
+    "05-learnnew": {
+      "audio_file": "05.m4a",
+      "path": "data/behavior-interview/05-learnnew",
+      "word_corrected_json": "05.corrected.word.json"
     },
-    "07-learnnew": {
-      "audio_file": "7.m4a",
-      "path": "data/behavior-interview/07-learnnew",
-      "word_corrected_json": "7.corrected.word.json"
+    "06-learship": {
+      "audio_file": "4.m4a",
+      "path": "data/behavior-interview/06-learship",
+      "word_corrected_json": "4.corrected.word.json"
     },
     "08-proud": {
       "audio_file": "1.m4a",
