@@ -1,17 +1,28 @@
-One time, I design a solution to unify the user experience of our internal admin systems across teams.
-At my previous company, each team was building their own internal system separately, 
+One time, I designed a solution to unify the user experience of our internal admin systems across teams.
+At my previous company, each team was building their own internal system separately,
 so the user experience was inconsistent and confusing for the ops team.
 
 My task was to design a unified solution that different teams could adopt
 and then convince each team to migrate their projects to this new standard.
 
-First, I had a meeting with people from different teams to explain the goal.
-Then I spent time discussing with each team and tried to find out what everyone needed in common.
-Then, I summarized these needs into a clear list and designed a solution based on these needs.
+First, I had meetings with people from different teams to explain the goal.
+First, I had meetings with people from different teams to explain the goal.
+Then I discussed with each team to find out what everyone needed in common.
+Then I discussed with each team to find out what everyone needed in common.
+I summarized these needs into a clear list and designed a solution based on them,
+I summarized these needs into a clear list and designed a solution based on them,
+making sure it was easy to use and flexible enough to meet each team’s needs.
+making sure it was easy to use and flexible enough to meet each team’s needs.
 I also thought from their perspective – I knew they always had their own priorities,
-so I prepared clear migration guidelines and documentation
+I also thought from their perspective – I knew they always had their own priorities,
+so I provided clear migration guidelines and documentation,
+so I provided clear migration guidelines and documentation,
+and showed each team how easy it was to migrate their projects.
 and showed each team how easy it was to migrate their projects.
 By doing this, there was really no excuse not to cooperate.
+By doing this, there was really no excuse not to cooperate.
 
-After a few updates, we were able to unify the user experience.
-It showed me how powerful clear communication and practical solutions can be.
+Overall, after a few updates, we were able to unify the user experience.
+Overall, after a few updates, we were able to unify the user experience.
+This showed me how powerful clear communication and practical solutions can be.
+This showed me how powerful clear communication and practical solutions can be.
