@@ -1,30 +1,23 @@
-1. 场景，开始工作的时候，时间预估不足
-At the beginning of my career, I was full of eager to contribute.
-I took on a feature task but didn’t estimate the time properly.
-I thought I could finish it quickly, 
-but it turned out it more complicated than I expected.
+At the beginning of my career, I was eager to contribute,
+At the beginning of my career, I was eager to contribute,
+but I underestimated the time needed for a feature task.
+but I underestimated the time needed for a feature task.
 
-At the beginning of my career, I was full of eager to contribute.
-I took on a feature task but didn’t estimate the time properly.
-I thought I could finish it quickly, 
-but it turned out it more complicated than I expected.
+It turned out to be more complicated than I expected,
+It turned out to be more complicated than I expected,
+and I couldn’t deliver it on time, which delayed the team’s plan.
+and I couldn’t deliver it on time, which delayed the team’s plan.
 
-2. 导致的结果
-As a result, I didn’t done it on time,
-and the delivery was delayed. My team had to adjust the plan.
+I learned three things from that:
+first, plan ahead and break tasks into smaller steps;
+first, plan ahead and break tasks into smaller steps;
+second, set clear priorities, estimate each part carefully,
+second, set clear priorities, estimate each part carefully,
+and add buffer time for unexpected issues;
+and add buffer time for unexpected issues;
+third, keep good communication with my team
+third, keep good communication with my team
+to make sure stakeholders always know the progress.
+to make sure stakeholders always know the progress.
 
-As a result, I didn’t done it on time,
-and the delivery was delayed. My team had to adjust the plan.
-
-3. 总结
-with this experience,
-First thing I learned is break tasks into smaller steps,
-Second is plan by priority, focus on high-impact and time-sensitive tasks first.
-and always communicate with my team to make sure we’re always on the same page.
-It was a good lesson for me, and since then it never happened again.
-
-with this experience,
-First thing I learned is break tasks into smaller steps,
-Second is plan by priority, focus on high-impact and time-sensitive tasks first.
-and always communicate with my team to make sure we’re always on the same page.
-It was a good lesson for me, and since then it never happened again.
+I believe if I do these well, it will never happen again.

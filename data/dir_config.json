@@ -95,9 +95,9 @@
       "word_corrected_json": "03-1.corrected.word.json"
     },
     "04-mistake": {
-      "audio_file": "5.m4a",
+      "audio_file": "04.m4a",
       "path": "data/behavior-interview/04-mistake",
-      "word_corrected_json": "5.corrected.word.json"
+      "word_corrected_json": "04.corrected.word.json"
     },
     "05-learship": {
       "audio_file": "4.m4a",
