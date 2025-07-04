@@ -1,0 +1,42 @@
+One time, I was working on a new feature.
+One time, I was working on a new feature.
+We had a shared modal component.
+We had a shared modal component.
+My leader thought it would be faster to just copy it
+My leader thought it would be faster to just copy it
+and make some custom changes for that page,
+and make some custom changes for that page,
+but I thought creating duplicated code wasn’t a long-term solution.
+but I thought creating duplicated code wasn’t a long-term solution.
+
+We had different opinions, but I didn’t say no right away.
+We had different opinions, but I didn’t say no right away.
+Instead, I gave him an example: if the business logic changed later,
+Instead, I gave him an example: if the business logic changed later,
+we would have to fix the same code in multiple places,
+we would have to fix the same code in multiple places,
+which is easy to break and wastes time.
+which is easy to break and wastes time.
+That helped him understand the problem better.
+That helped him understand the problem better.
+
+Then I came up with a solution.
+Then I came up with a solution.
+I suggested making the modal component configuration-driven,
+I suggested making the modal component configuration-driven,
+using props to control the content, actions, and buttons.
+using props to control the content, actions, and buttons.
+He liked the idea, and after talking, we refactored it together.
+He liked the idea, and after talking, we refactored it together.
+
+One more thing – that conflict also made me realize we needed to add unit tests.
+One more thing – that conflict also made me realize we needed to add unit tests.
+If we change the component again later,
+If we change the component again later,
+we can just run the tests to make sure everything still works.
+we can just run the tests to make sure everything still works.
+It helps prevent regressions.
+It helps prevent regressions.
+
+So I think the conflict wasn’t a bad thing – it pushed us to build better solutions.
+So I think the conflict wasn’t a bad thing – it pushed us to build better solutions.
