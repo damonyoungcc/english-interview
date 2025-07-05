@@ -1,0 +1,15 @@
+I led the development of a modular,component-based admin system template with a plug-and-play architecture.
+The goal was to unify the admin system user experience and improve development efficiency.
+
+It included:
+a ready-to-use login page with permission control
+a layout module with a sidebar menu where developers could pass in their own routes
+reusable business components like tables and forms, all following our design standards
+
+My responsibilities included
+defining the system architecture,
+designing reusable components,
+reviewing code,
+and tracking feedback
+
+The result is unify internal admin system user experience and improved development efficiency by 50%.

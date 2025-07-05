@@ -1,0 +1,19 @@
+This system was to let users earn points by buying wealth products and then use them in the points mall.
+The core goal was to encourage user behavior and create a positive cycle.
+We built a mobile web points mall in the bank app where users could:
+  browse products
+  check and use points
+  view orders and history
+We also built an admin system to:
+  manage merchants and products
+  set redemption rules
+  view statistics and reports
+
+
+My responsibilities included leading the team to develop this system.
+I worked with the product manager and backend team to clarify requirements,
+reviewed code, and managed delivery progress and quality.
+
+
+Increased daily UV by 30% and boosted wealth product purchases by 15%,
+creating a positive user loyalty cycle.

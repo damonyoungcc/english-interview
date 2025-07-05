@@ -114,5 +114,17 @@
       "path": "data/behavior-interview/08-proud",
       "word_corrected_json": "1.corrected.word.json"
     }
+  },
+  "work-interview": {
+    "01-Fumin": {
+      "audio_file": "01.m4a",
+      "path": "data/work-interview/01-Fumin",
+      "word_corrected_json": "01.corrected.word.json"
+    },
+    "01-Fumin-1": {
+      "audio_file": "01-1.m4a",
+      "path": "data/work-interview/01-Fumin-1",
+      "word_corrected_json": "01-1.corrected.word.json"
+    }
   }
 }
