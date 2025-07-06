@@ -60,3 +60,86 @@ Develop new user-facing features.Build reusable components and front-end librari
 - 具备将前端应用迁移到 React 框架的能力。
 - 有 Docker 及容器化开发经验。
 - 熟悉响应式设计框架，例如 Bootstrap 或 MUI（Material UI）。
+
+
+
+
+1. 设计团队，后端团队，产品团队（沟通，以及使用的工具）
+2. 用户体验，性能优化
+3. 组件复用和前端库，优化性能
+4. 单元测试，jest，端到端测试
+5. 参与 CI/CD 流水线的搭建与维护，使用工具如 Jenkins
+6. 迁移升级老项目
+7. 前端安全，JWT
+8. 熟悉响应式设计框架，例如 Bootstrap 或 MUI（Material UI）。
+
+
+
+一、团队协作与沟通
+
+1. 设计团队 沟通 UI/UX 需求、设计稿交付流程、工具（Figma、Zeplin、Adobe XD）
+2. 与 后端团队 对接 API 接口规范、联调方式、mock 工具（如 Swagger、Postman、Mock Service Worker）
+3. 与 产品团队 沟通需求理解、敏捷流程、任务拆解（使用 JIRA, Trello, Notion 等）
+
+举例说明你如何通过主动沟通减少返工
+
+⚡️ 2. 用户体验 & 性能优化
+1. 用户体验：响应速度、交互流畅度、可访问性（ARIA）、移动端体验
+2.
+代码分割（Code Splitting）
+懒加载（Lazy Load）
+图片优化（压缩、webp 格式）
+SSR（Server Side Rendering）
+使用 Chrome DevTools 进行性能分析
+3. 组件复用与前端库
+组件复用：
+设计可配置、解耦的组件
+示例：表单输入、按钮、弹窗等
+前端库：
+使用 React/Vue 设计组件库经验
+Hooks / Composition API 的封装
+性能：
+虚拟列表（Virtualized List）
+React.memo / useMemo / useCallback 的使用场景
+
+✅ 4. 测试
+单元测试（Unit Test）：
+使用 Jest / React Testing Library
+mock 函数、快照测试
+端到端测试（E2E）：
+Cypress / Playwright
+测试用例设计思路
+持续集成中的测试集成方式
+
+5. CI/CD 流水线
+✅ 准备内容：
+CI/CD 基础概念
+具体使用：
+Jenkins pipeline 配置
+GitHub Actions（若公司使用）
+测试 -> 构建 -> 部署 流程
+在项目中遇到的部署或发布问题
+🔄 6. 迁移升级老项目
+
+jQuery -> React/Vue
+React class -> hooks
+Vue2 -> Vue3
+遇到的主要挑战（兼容性、性能、团队接受度）
+如何保证迁移的可控性（逐步迁移、feature flag）
+🔐 7. 前端安全
+JWT：
+工作原理
+与 session 的区别
+在前端如何安全存储（localStorage、cookie HttpOnly、XSS 风险）
+其他安全：
+XSS、CSRF 防护
+CSP (Content Security Policy)
+📱 8. 响应式设计与框架
+响应式设计原理（媒体查询、flex、grid）
+使用 Bootstrap：
+栅格系统
+组件使用
+使用 MUI：
+theme 定制
+styled components vs sx prop
+移动优先设计（Mobile First）

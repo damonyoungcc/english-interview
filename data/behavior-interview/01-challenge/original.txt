@@ -1,33 +1,31 @@
 The biggest challenge I faced was building a shared internal admin system template
 The biggest challenge I faced was building a shared internal admin system template
-and trying to unify the user experience across all internal systems.
-and trying to unify the user experience across all internal systems.
+to unify the user experience across all internal systems.
+to unify the user experience across all internal systems.
 Each team in my previous company was building their own internal admin systems separately,
 Each team in my previous company was building their own internal admin systems separately,
 without a shared standard. 
 As a result, the user experience was inconsistent and confusing.
 As a result, the user experience was inconsistent and confusing.
 
-The main challenge I faced was:
-The main challenge I faced was:
-First, I needed to design a solution that different teams could adopt,
-First, I needed to design a solution that different teams could adopt,
-and it had to be easy to use and flexible enough to meet each team’s needs.
-and it had to be easy to use and flexible enough to meet each team’s needs.
+I needed to design a solution that different teams could adopt,
+I needed to design a solution that different teams could adopt,
+and it had to be easy to use and flexible enough to match each team’s requirements.
+and it had to be easy to use and flexible enough to match each team’s requirements.
 
 So here’s what I did:
 First, I talked to people to find out what everyone really needed in common.
 First, I talked to people to find out what everyone really needed in common.
 
-I summarized these needs and designed a solution based on them.
-I summarized these needs and designed a solution based on them.
+I summarized these requirements and designed a solution based on them.
+I summarized these requirements and designed a solution based on them.
 The goal was simple:
-For new projects, I made it ready-to-use,
-For new projects, I made it ready-to-use,
-so each team could get started right away and focus on business development.
-so each team could get started right away and focus on business development.
-For old projects, I built reusable components and published them to our internal NPM,
-For old projects, I built reusable components and published them to our internal NPM,
+For new projects, 
+For new projects, 
+make it ready-to-use,so each team could focus on business development.
+make it ready-to-use,so each team could focus on business development.
+For existing projects, I built reusable components and published them to our internal NPM,
+For existing projects, I built reusable components and published them to our internal NPM,
 so old projects could install these packages and gradually update their UI.
 so old projects could install these packages and gradually update their UI.
 
