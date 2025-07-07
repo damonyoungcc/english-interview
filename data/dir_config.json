@@ -117,9 +117,9 @@
   },
   "work-interview": {
     "01-Fumin": {
-      "audio_file": "01.m4a",
+      "audio_file": "001.m4a",
       "path": "data/work-interview/01-Fumin",
-      "word_corrected_json": "01.corrected.word.json"
+      "word_corrected_json": "001.corrected.word.json"
     },
     "01-Fumin-1": {
       "audio_file": "01-1.m4a",

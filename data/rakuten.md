@@ -143,3 +143,36 @@ CSP (Content Security Policy)
 theme 定制
 styled components vs sx prop
 移动优先设计（Mobile First）
+
+
+
+
+
+
+
+
+Project background:
+I built a loan system using React.
+It was inside their banking app and helped companies apply for loans easily.
+The process included verification, approval, giving credit limits, and loan application.
+
+My responsibilities:
+I talked with other departments, managed progress and quality, and reviewed code to make sure we delivered smoothly.
+
+Result:
+The system supported loan applications for over 80 companies.
+
+
+
+
+
+First, I redeveloped the marketing website for both PC and mobile,
+migrating from jQuery to Vue + Nuxt to improve performance and SEO.
+Second, I built a SaaS tax management system to provide end-to-end tax services for corporate clients.
+
+My responsibilities:
+I mainly built pages and developed reusable components to improve development efficiency.
+
+Result:
+The website’s SEO rankings reached top positions, increasing daily user visits by 80%.
+The SaaS tax system tripled the customer base and increased annual revenue by 2.5 times.

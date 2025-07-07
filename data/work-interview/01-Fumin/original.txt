@@ -1,19 +1,20 @@
-This system was to let users earn points by buying wealth products and then use them in the points mall.
-The core goal was to encourage user behavior and create a positive cycle.
-We built a mobile web points mall in the bank app where users could:
-  browse products
-  check and use points
-  view orders and history
-We also built an admin system to:
-  manage merchants and products
-  set redemption rules
-  view statistics and reports
+At Fumin Bank, I was in charge of the Reward points system.
+Users could earn points by buying wealth products and then use them in the points mall.
 
+The Target was to encourage users to buy more wealth products and create a positive cycle.
+we develop the points mall web page inside the bank’s app
+users could:
+check and use their points
+browse products they can buy with points
+view orders and history
+and also build a admin system
+to manage merchants and products
+and view statistics and reports
 
-My responsibilities included leading the team to develop this system.
-I worked with the product manager and backend team to clarify requirements,
-reviewed code, and managed delivery progress and quality.
+My responsibilities is
+led the team to develop the reward points system.
+We worked with the product manager and backend team to confirm requirements
+reviewed code
+and managed progress and quality.
 
-
-Increased daily UV by 30% and boosted wealth product purchases by 15%,
-creating a positive user loyalty cycle.
+As a result, it's really creating a positive user cycle.

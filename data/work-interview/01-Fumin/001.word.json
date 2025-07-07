@@ -1,0 +1,782 @@
+[
+  {
+    "word": "At",
+    "start": 0.597,
+    "end": 0.677,
+    "score": 0.728
+  },
+  {
+    "word": "Fumon",
+    "start": 0.717,
+    "end": 0.997,
+    "score": 0.655
+  },
+  {
+    "word": "Bank,",
+    "start": 1.037,
+    "end": 1.297,
+    "score": 0.824
+  },
+  {
+    "word": "I",
+    "start": 1.777,
+    "end": 1.837,
+    "score": 0.939
+  },
+  {
+    "word": "was",
+    "start": 1.857,
+    "end": 1.997,
+    "score": 0.768
+  },
+  {
+    "word": "in",
+    "start": 2.038,
+    "end": 2.098,
+    "score": 0.809
+  },
+  {
+    "word": "charge",
+    "start": 2.138,
+    "end": 2.438,
+    "score": 0.706
+  },
+  {
+    "word": "of",
+    "start": 2.458,
+    "end": 2.518,
+    "score": 0.778
+  },
+  {
+    "word": "the",
+    "start": 2.558,
+    "end": 2.638,
+    "score": 0.832
+  },
+  {
+    "word": "reward",
+    "start": 2.678,
+    "end": 2.978,
+    "score": 0.903
+  },
+  {
+    "word": "points",
+    "start": 3.018,
+    "end": 3.238,
+    "score": 0.766
+  },
+  {
+    "word": "system.",
+    "start": 3.278,
+    "end": 3.638,
+    "score": 0.871
+  },
+  {
+    "word": "Users",
+    "start": 4.558,
+    "end": 4.818,
+    "score": 0.762
+  },
+  {
+    "word": "could",
+    "start": 4.838,
+    "end": 4.978,
+    "score": 0.801
+  },
+  {
+    "word": "earn",
+    "start": 5.019,
+    "end": 5.199,
+    "score": 0.75
+  },
+  {
+    "word": "points",
+    "start": 5.239,
+    "end": 5.539,
+    "score": 0.756
+  },
+  {
+    "word": "by",
+    "start": 5.639,
+    "end": 5.759,
+    "score": 0.822
+  },
+  {
+    "word": "buying",
+    "start": 5.799,
+    "end": 6.079,
+    "score": 0.78
+  },
+  {
+    "word": "wealth",
+    "start": 6.119,
+    "end": 6.339,
+    "score": 0.858
+  },
+  {
+    "word": "products",
+    "start": 6.379,
+    "end": 6.779,
+    "score": 0.755
+  },
+  {
+    "word": "and",
+    "start": 6.919,
+    "end": 6.999,
+    "score": 0.837
+  },
+  {
+    "word": "then",
+    "start": 7.019,
+    "end": 7.139,
+    "score": 0.88
+  },
+  {
+    "word": "use",
+    "start": 7.219,
+    "end": 7.319,
+    "score": 0.946
+  },
+  {
+    "word": "them",
+    "start": 7.339,
+    "end": 7.459,
+    "score": 0.837
+  },
+  {
+    "word": "in",
+    "start": 7.479,
+    "end": 7.539,
+    "score": 0.795
+  },
+  {
+    "word": "the",
+    "start": 7.559,
+    "end": 7.639,
+    "score": 0.833
+  },
+  {
+    "word": "Points",
+    "start": 7.679,
+    "end": 7.879,
+    "score": 0.829
+  },
+  {
+    "word": "Mall.",
+    "start": 7.96,
+    "end": 8.18,
+    "score": 0.988
+  },
+  {
+    "word": "The",
+    "start": 9.5,
+    "end": 9.62,
+    "score": 0.666
+  },
+  {
+    "word": "target",
+    "start": 9.66,
+    "end": 10.04,
+    "score": 0.902
+  },
+  {
+    "word": "was",
+    "start": 10.08,
+    "end": 10.2,
+    "score": 0.799
+  },
+  {
+    "word": "to",
+    "start": 10.24,
+    "end": 10.34,
+    "score": 0.818
+  },
+  {
+    "word": "encourage",
+    "start": 10.4,
+    "end": 10.86,
+    "score": 0.854
+  },
+  {
+    "word": "users",
+    "start": 10.941,
+    "end": 11.241,
+    "score": 0.797
+  },
+  {
+    "word": "to",
+    "start": 11.321,
+    "end": 11.401,
+    "score": 0.953
+  },
+  {
+    "word": "buy",
+    "start": 11.461,
+    "end": 11.641,
+    "score": 0.762
+  },
+  {
+    "word": "more",
+    "start": 11.701,
+    "end": 11.881,
+    "score": 0.785
+  },
+  {
+    "word": "wealth",
+    "start": 11.921,
+    "end": 12.141,
+    "score": 0.905
+  },
+  {
+    "word": "products",
+    "start": 12.181,
+    "end": 12.581,
+    "score": 0.818
+  },
+  {
+    "word": "and",
+    "start": 13.021,
+    "end": 13.181,
+    "score": 0.721
+  },
+  {
+    "word": "create",
+    "start": 13.321,
+    "end": 13.661,
+    "score": 0.821
+  },
+  {
+    "word": "a",
+    "start": 13.721,
+    "end": 13.761,
+    "score": 0.663
+  },
+  {
+    "word": "positive",
+    "start": 13.821,
+    "end": 14.242,
+    "score": 0.872
+  },
+  {
+    "word": "cycle.",
+    "start": 14.282,
+    "end": 14.602,
+    "score": 0.851
+  },
+  {
+    "word": "We",
+    "start": 15.262,
+    "end": 15.382,
+    "score": 0.794
+  },
+  {
+    "word": "developed",
+    "start": 15.402,
+    "end": 15.762,
+    "score": 0.766
+  },
+  {
+    "word": "the",
+    "start": 15.782,
+    "end": 15.862,
+    "score": 0.95
+  },
+  {
+    "word": "Points",
+    "start": 15.922,
+    "end": 16.162,
+    "score": 0.731
+  },
+  {
+    "word": "Mall",
+    "start": 16.202,
+    "end": 16.402,
+    "score": 0.742
+  },
+  {
+    "word": "web",
+    "start": 16.442,
+    "end": 16.622,
+    "score": 0.989
+  },
+  {
+    "word": "page",
+    "start": 16.642,
+    "end": 16.903,
+    "score": 0.905
+  },
+  {
+    "word": "inside",
+    "start": 16.983,
+    "end": 17.323,
+    "score": 0.952
+  },
+  {
+    "word": "the",
+    "start": 17.363,
+    "end": 17.423,
+    "score": 0.999
+  },
+  {
+    "word": "bank's",
+    "start": 17.463,
+    "end": 17.703,
+    "score": 0.869
+  },
+  {
+    "word": "app,",
+    "start": 17.883,
+    "end": 18.023,
+    "score": 0.923
+  },
+  {
+    "word": "Users",
+    "start": 18.303,
+    "end": 18.583,
+    "score": 0.706
+  },
+  {
+    "word": "Could.",
+    "start": 18.643,
+    "end": 18.903,
+    "score": 0.779
+  },
+  {
+    "word": "Check",
+    "start": 19.984,
+    "end": 20.184,
+    "score": 0.969
+  },
+  {
+    "word": "and",
+    "start": 20.244,
+    "end": 20.324,
+    "score": 0.774
+  },
+  {
+    "word": "use",
+    "start": 20.404,
+    "end": 20.524,
+    "score": 0.878
+  },
+  {
+    "word": "their",
+    "start": 20.544,
+    "end": 20.684,
+    "score": 0.902
+  },
+  {
+    "word": "points.",
+    "start": 20.724,
+    "end": 21.004,
+    "score": 0.792
+  },
+  {
+    "word": "Browse",
+    "start": 21.604,
+    "end": 21.884,
+    "score": 0.799
+  },
+  {
+    "word": "products",
+    "start": 21.924,
+    "end": 22.304,
+    "score": 0.834
+  },
+  {
+    "word": "they",
+    "start": 22.524,
+    "end": 22.624,
+    "score": 0.967
+  },
+  {
+    "word": "can",
+    "start": 22.664,
+    "end": 22.764,
+    "score": 0.908
+  },
+  {
+    "word": "buy",
+    "start": 22.785,
+    "end": 22.925,
+    "score": 0.908
+  },
+  {
+    "word": "with",
+    "start": 22.965,
+    "end": 23.085,
+    "score": 0.75
+  },
+  {
+    "word": "points,",
+    "start": 23.145,
+    "end": 23.425,
+    "score": 0.833
+  },
+  {
+    "word": "view",
+    "start": 23.865,
+    "end": 24.045,
+    "score": 0.75
+  },
+  {
+    "word": "orders",
+    "start": 24.105,
+    "end": 24.345,
+    "score": 0.861
+  },
+  {
+    "word": "and",
+    "start": 24.405,
+    "end": 24.465,
+    "score": 0.483
+  },
+  {
+    "word": "history,",
+    "start": 24.505,
+    "end": 24.905,
+    "score": 0.723
+  },
+  {
+    "word": "and",
+    "start": 25.245,
+    "end": 25.325,
+    "score": 0.879
+  },
+  {
+    "word": "also",
+    "start": 25.385,
+    "end": 25.645,
+    "score": 0.76
+  },
+  {
+    "word": "build",
+    "start": 25.705,
+    "end": 25.906,
+    "score": 0.768
+  },
+  {
+    "word": "an",
+    "start": 25.946,
+    "end": 26.006,
+    "score": 0.396
+  },
+  {
+    "word": "admin",
+    "start": 26.126,
+    "end": 26.426,
+    "score": 0.737
+  },
+  {
+    "word": "system",
+    "start": 26.466,
+    "end": 26.826,
+    "score": 0.846
+  },
+  {
+    "word": "to",
+    "start": 26.906,
+    "end": 27.006,
+    "score": 0.686
+  },
+  {
+    "word": "manage",
+    "start": 27.046,
+    "end": 27.346,
+    "score": 0.802
+  },
+  {
+    "word": "merchants",
+    "start": 27.406,
+    "end": 27.786,
+    "score": 0.861
+  },
+  {
+    "word": "and",
+    "start": 27.866,
+    "end": 27.946,
+    "score": 0.85
+  },
+  {
+    "word": "products",
+    "start": 27.986,
+    "end": 28.386,
+    "score": 0.799
+  },
+  {
+    "word": "and",
+    "start": 28.626,
+    "end": 28.707,
+    "score": 0.856
+  },
+  {
+    "word": "view",
+    "start": 28.727,
+    "end": 28.887,
+    "score": 0.928
+  },
+  {
+    "word": "statistics",
+    "start": 28.907,
+    "end": 29.407,
+    "score": 0.903
+  },
+  {
+    "word": "and",
+    "start": 29.467,
+    "end": 29.547,
+    "score": 0.833
+  },
+  {
+    "word": "reports.",
+    "start": 29.587,
+    "end": 29.947,
+    "score": 0.928
+  },
+  {
+    "word": "My",
+    "start": 31.664,
+    "end": 31.804,
+    "score": 0.787
+  },
+  {
+    "word": "responsibilities",
+    "start": 31.844,
+    "end": 32.685,
+    "score": 0.858
+  },
+  {
+    "word": "is",
+    "start": 32.765,
+    "end": 32.845,
+    "score": 0.954
+  },
+  {
+    "word": "led",
+    "start": 32.905,
+    "end": 33.086,
+    "score": 0.739
+  },
+  {
+    "word": "the",
+    "start": 33.126,
+    "end": 33.206,
+    "score": 0.84
+  },
+  {
+    "word": "team",
+    "start": 33.246,
+    "end": 33.466,
+    "score": 0.963
+  },
+  {
+    "word": "to",
+    "start": 33.546,
+    "end": 33.626,
+    "score": 0.984
+  },
+  {
+    "word": "develop",
+    "start": 33.666,
+    "end": 34.027,
+    "score": 0.808
+  },
+  {
+    "word": "the",
+    "start": 34.067,
+    "end": 34.147,
+    "score": 0.833
+  },
+  {
+    "word": "reward",
+    "start": 34.187,
+    "end": 34.487,
+    "score": 0.875
+  },
+  {
+    "word": "point",
+    "start": 34.527,
+    "end": 34.727,
+    "score": 0.877
+  },
+  {
+    "word": "system.",
+    "start": 34.787,
+    "end": 35.108,
+    "score": 0.899
+  },
+  {
+    "word": "We",
+    "start": 36.589,
+    "end": 36.71,
+    "score": 0.813
+  },
+  {
+    "word": "worked",
+    "start": 36.75,
+    "end": 36.93,
+    "score": 0.988
+  },
+  {
+    "word": "with",
+    "start": 36.95,
+    "end": 37.07,
+    "score": 0.853
+  },
+  {
+    "word": "the",
+    "start": 37.09,
+    "end": 37.17,
+    "score": 0.824
+  },
+  {
+    "word": "product",
+    "start": 37.21,
+    "end": 37.51,
+    "score": 0.899
+  },
+  {
+    "word": "manager",
+    "start": 37.53,
+    "end": 37.931,
+    "score": 0.851
+  },
+  {
+    "word": "and",
+    "start": 38.011,
+    "end": 38.091,
+    "score": 0.862
+  },
+  {
+    "word": "backend",
+    "start": 38.131,
+    "end": 38.511,
+    "score": 0.812
+  },
+  {
+    "word": "team",
+    "start": 38.532,
+    "end": 38.772,
+    "score": 0.816
+  },
+  {
+    "word": "to",
+    "start": 38.832,
+    "end": 38.932,
+    "score": 0.83
+  },
+  {
+    "word": "confirm",
+    "start": 38.972,
+    "end": 39.372,
+    "score": 0.899
+  },
+  {
+    "word": "requirements,",
+    "start": 39.412,
+    "end": 39.993,
+    "score": 0.837
+  },
+  {
+    "word": "reviewed",
+    "start": 40.494,
+    "end": 40.814,
+    "score": 0.877
+  },
+  {
+    "word": "code,",
+    "start": 40.874,
+    "end": 41.174,
+    "score": 0.775
+  },
+  {
+    "word": "and",
+    "start": 41.535,
+    "end": 41.615,
+    "score": 0.931
+  },
+  {
+    "word": "managed",
+    "start": 41.655,
+    "end": 41.995,
+    "score": 0.82
+  },
+  {
+    "word": "progress",
+    "start": 42.075,
+    "end": 42.496,
+    "score": 0.824
+  },
+  {
+    "word": "and",
+    "start": 42.696,
+    "end": 42.816,
+    "score": 0.799
+  },
+  {
+    "word": "quality.",
+    "start": 42.896,
+    "end": 43.317,
+    "score": 0.805
+  },
+  {
+    "word": "As",
+    "start": 44.358,
+    "end": 44.438,
+    "score": 0.677
+  },
+  {
+    "word": "a",
+    "start": 44.478,
+    "end": 44.518,
+    "score": 0.514
+  },
+  {
+    "word": "result,",
+    "start": 44.558,
+    "end": 44.918,
+    "score": 0.789
+  },
+  {
+    "word": "it's",
+    "start": 45.339,
+    "end": 45.439,
+    "score": 0.748
+  },
+  {
+    "word": "really",
+    "start": 45.499,
+    "end": 45.699,
+    "score": 0.908
+  },
+  {
+    "word": "creating",
+    "start": 45.739,
+    "end": 46.1,
+    "score": 0.748
+  },
+  {
+    "word": "a",
+    "start": 46.14,
+    "end": 46.18,
+    "score": 0.535
+  },
+  {
+    "word": "positive",
+    "start": 46.24,
+    "end": 46.62,
+    "score": 0.887
+  },
+  {
+    "word": "user",
+    "start": 46.7,
+    "end": 46.901,
+    "score": 0.844
+  },
+  {
+    "word": "cycle.",
+    "start": 46.941,
+    "end": 47.201,
+    "score": 0.97
+  }
+]
