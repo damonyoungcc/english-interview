@@ -1,0 +1,112 @@
+component:       (组件)            I built a reusable component for the user profile card.
+library:         (库)              We use React as our main library.
+framework:       (框架)            Next.js is a popular React framework.
+state:           (状态)            I manage the form state with useState.
+props:           (属性)            I passed the user data as props to the component.
+hook:            (钩子)            We use custom hooks to reuse logic.
+render:          (渲染)            The page will re-render when the state changes.
+performance:     (性能)            I optimized the performance by lazy loading images.
+optimize:        (优化)            We optimized the bundle size by code splitting.
+responsive:      (响应式)          The website is fully responsive.
+layout:          (布局)            I used Flexbox for the layout.
+style:           (样式)            I styled the button with CSS modules.
+deploy:          (部署)            We deploy the app on AWS.
+API:             (接口)            I called the backend API to get user data.
+endpoint:        (端点)            This is the login API endpoint.
+request:         (请求)            I sent a POST request to update the profile.
+response:        (响应)            The API returns a JSON response.
+error:           (错误)            I handled the error with try catch.
+debug:           (调试)            I debugged the issue using Chrome DevTools.
+console:         (控制台)          I checked the console for errors.
+function:        (函数)            I wrote a function to filter the list.
+variable:        (变量)            I declared a variable to store the data.
+constant:        (常量)            I used a constant for the API URL.
+immutable:       (不可变)          Props are immutable in React.
+mutable:         (可变)            The state is mutable inside the component.
+asynchronous:    (异步的)          I used async/await for asynchronous requests.
+promise:         (Promise)        The API call returns a promise.
+event:           (事件)            I added a click event to the button.
+handler:         (处理函数)        I wrote an event handler for form submit.
+DOM:             (DOM)           I accessed the DOM element using ref.
+refactor:        (重构)            I refactored the function to make it cleaner.
+review:          (审查)            We do code review before merging PRs.
+merge:           (合并)            I merged the feature branch into main.
+branch:          (分支)            I created a new branch for this feature.
+commit:          (提交)            I made a commit to fix the bug.
+push:            (推送)            I pushed the changes to GitHub.
+pull:            (拉取)            I pulled the latest code before starting.
+repository:      (仓库)            The code is in a private repository.
+build:           (构建)            I ran npm run build to build the app.
+test:            (测试)            I wrote unit tests for this function.
+coverage:        (覆盖率)          Our test coverage is over 80%.
+bug:             (漏洞)            I fixed a bug in the login logic.
+issue:           (问题)            There was an issue with the API request.
+feature:         (功能)            I implemented a new feature for user settings.
+deployment:      (部署)            The deployment process is automated.
+CI/CD:           (CI/CD)          We use CI/CD for automatic deployment.
+version:         (版本)            I upgraded the React version to 18.
+compatibility:   (兼容性)          The site has good browser compatibility.
+accessibility:   (可访问性)        I improved accessibility by adding labels.
+SEO:             (搜索优化)        I optimized the site for better SEO.
+token:           (令牌)            The user token is stored in localStorage.
+authentication:  (认证)            I implemented Google authentication.
+authorization:   (授权)            Only admins have authorization to delete users.
+comment:         (注释)            I wrote comments to explain the logic.
+hard code:       (硬编码)          I avoided hard coding values in the function.
+readable:        (可读性)          I refactored the code to make it more readable.
+maintainable:    (可维护性)        Clean code is always maintainable.
+scalable:        (可扩展)          This design is scalable for future features.
+extensible:      (可扩展)          The plugin system is very extensible.
+robust:          (健壮)            We made the API more robust by adding validations.
+coupling:        (耦合)            We keep low coupling between components.
+cohesion:        (内聚)            High cohesion makes the module easier to maintain.
+dependency:      (依赖)            This module has many external dependencies.
+refactor:        (重构)            I refactored the code to reduce duplication.
+modular:         (模块化)          We wrote modular CSS for this page.
+abstraction:     (抽象)            We use abstraction to hide complex logic.
+encapsulation:   (封装)            Encapsulation keeps data safe inside the class.
+inheritance:     (继承)            React components can use inheritance, but composition is preferred.
+composition:     (组合)            We used composition to build the layout.
+interface:       (接口)            I defined an interface for the props.
+implementation:  (实现)            I changed the implementation of this function.
+singleton:       (单例)            We used a singleton pattern for the config.
+pattern:         (模式)            Redux uses a unidirectional data flow pattern.
+pipeline:        (流水线)          We built a CI/CD pipeline for deployment.
+integration:     (集成)            I tested the integration with the backend API.
+configuration:   (配置)            I updated the Webpack configuration.
+environment:     (环境)            I set up the development environment yesterday.
+production:      (生产环境)        We deployed the app to production last week.
+testing:         (测试)            I wrote unit and integration tests for the feature.
+review:          (审查)            We did a design review before development.
+feedback:        (反馈)            I received feedback from the team.
+pull request (PR): (拉取请求)      I created a pull request for the new feature.
+approve:         (批准)            I approved the PR after testing.
+change request:  (变更请求)        I requested changes to improve readability.
+consistency:     (一致性)          We follow code style consistency in reviews.
+best practice:   (最佳实践)        I suggested using best practices for hooks.
+clean code:      (整洁代码)        He always writes clean code.
+design pattern:  (设计模式)        We used the observer design pattern.
+factory:         (工厂模式)        We created a factory function for components.
+dependency injection: (依赖注入)   Angular uses dependency injection a lot.
+middleware:      (中间件)          I added authentication middleware.
+service:         (服务)            We created a user service for API calls.
+controller:      (控制器)          The controller handles user requests.
+model:           (模型)            The model defines the data structure.
+view:            (视图)            The view renders the UI.
+separation of concerns: (关注点分离) MVC helps with separation of concerns.
+DRY:             (不要重复自己)    We follow the DRY principle to reduce duplication.
+lazy load:       (懒加载)          We lazy load the images below the fold.
+code splitting:  (代码分割)        We used code splitting to reduce bundle size.
+bundle size:     (包大小)          The bundle size is only 200KB after optimization.
+minify:          (压缩)            We minified the JS and CSS files.
+compress:        (压缩)            We compress images before uploading.
+cache:           (缓存)            We cache static assets for better performance.
+CDN:             (CDN)            We use a CDN to serve images faster.
+SSR:             (服务器渲染)      We use SSR to improve SEO and load time.
+hydration:       (水合)            React does hydration after SSR.
+re-render:       (重新渲染)        We reduced unnecessary re-renders.
+memoization:     (记忆化)          We used memoization to cache function results.
+throttle:        (节流)            I throttled the scroll event handler.
+debounce:        (防抖)            I added debounce to the input handler.
+FPS:             (帧率)            We aim for 60 FPS in animations.
+smooth:          (流畅)            The page scroll is very smooth now.

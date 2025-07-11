@@ -1,0 +1,57 @@
+throttling:       (限流)            We added throttling to limit API requests per second.
+debouncing:       (防抖)            I used debouncing to reduce input events.
+rate limiting:    (速率限制)        The server has rate limiting to avoid abuse.
+backoff:          (退避)            We implemented exponential backoff for retries.
+retry:            (重试)            I added retry logic for failed requests.
+circuit breaker:  (断路器)          We used a circuit breaker to prevent cascading failures.
+timeout:          (超时)            I set a timeout for the API call.
+queue:            (队列)            We added requests to a queue when rate limit is reached.
+
+agile:            (敏捷)            We follow agile methodology for development.
+scrum:            (Scrum)          Our team uses Scrum for project management.
+sprint:           (迭代)            We completed the task in this sprint.
+stand-up:         (站会)            We have daily stand-up meetings at 10 AM.
+backlog:          (待办事项)        We refined the backlog before sprint planning.
+story point:      (故事点)          We estimated the task as 3 story points.
+velocity:         (速度)            Our team velocity is 25 story points per sprint.
+retrospective:    (回顾)            We shared feedback in the sprint retrospective.
+planning poker:   (计划扑克)        We used planning poker to estimate tasks.
+epic:             (史诗)            This feature is part of a large epic.
+user story:       (用户故事)        I wrote user stories for the new feature.
+acceptance criteria: (验收标准)    We defined clear acceptance criteria for the task.
+kanban:           (看板)            We use Kanban board to track progress.
+board:            (看板)            I moved the task to Done on the board.
+
+bug:              (缺陷)            I fixed a bug in the login module.
+issue:            (问题)            I created an issue for the unexpected behavior.
+ticket:           (工单)            I resolved the support ticket yesterday.
+reproduce:        (复现)            I tried to reproduce the bug on my machine.
+root cause:       (根本原因)        I found the root cause of the crash.
+fix:              (修复)            I pushed a fix for the production bug.
+regression:       (回归)            We did regression testing after the fix.
+priority:         (优先级)          The bug has high priority to fix.
+severity:         (严重性)          The bug severity is critical.
+blocker:          (阻断)            This bug is a blocker for release.
+triage:           (分类)            We triaged the bugs before sprint planning.
+release note:     (发布说明)        I wrote release notes for version 1.2.
+hotfix:           (热修复)          We released a hotfix for the urgent bug.
+
+communication:    (沟通)            I improved communication with daily updates.
+alignment:        (对齐)            We aligned with design team on UI changes.
+feedback:         (反馈)            I asked for feedback after the demo.
+clarify:          (澄清)            I clarified the requirement with the PO.
+escalate:         (升级)            I escalated the issue to the manager.
+stakeholder:      (利益相关者)      I presented the proposal to stakeholders.
+collaboration:    (协作)            We collaborated closely with backend team.
+consensus:        (共识)            We reached consensus on the implementation.
+conflict:         (冲突)            We resolved the merge conflict quickly.
+facilitate:       (推动)            I facilitated the team meeting yesterday.
+sync:             (同步)            We synced with QA team on the test plan.
+handover:         (交接)            I prepared documentation for project handover.
+visibility:       (可见性)          I shared progress updates for visibility.
+transparency:     (透明度)          We maintained transparency with daily reports.
+ownership:        (责任感)          I took ownership of the deployment process.
+initiative:       (主动性)          I showed initiative to improve code quality.
+dependency:       (依赖)            We managed dependencies between tasks.
+risk:             (风险)            We identified risks during planning.
+mitigation:       (缓解)            We planned mitigation for the deployment risk.

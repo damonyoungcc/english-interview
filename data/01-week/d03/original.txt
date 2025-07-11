@@ -1,0 +1,86 @@
+component:         (组件)            I created a user profile component in React.
+props:             (属性)            I passed user data as props to the component.
+state:             (状态)            I managed form state using useState.
+hook:              (钩子)            I wrote a custom hook for fetching data.
+useEffect:         (副作用钩子)      I used useEffect to call the API on mount.
+context:           (上下文)          I used Context API for global state.
+provider:          (提供者)          I wrapped the app with the ThemeProvider.
+consumer:          (消费者)          I used Context consumer to get the value.
+ref:               (引用)            I used useRef to access the DOM element.
+key:               (key属性)         I added keys to list items in the map.
+fragment:          (片段)            I used React Fragment to group elements.
+portal:            (传送门)          I rendered the modal using React Portal.
+reconciliation:    (协调)            React uses reconciliation to update the DOM.
+virtual DOM:       (虚拟DOM)         React uses virtual DOM to improve performance.
+JSX:               (JSX)            I wrote the component using JSX syntax.
+render:            (渲染)            The component will re-render on state change.
+lifecycle:         (生命周期)        useEffect replaces lifecycle methods in hooks.
+higher order component: (高阶组件) I wrapped the component with a higher order component.
+render props:      (渲染属性)        I used render props for flexible rendering.
+controlled component: (受控组件)    The input is a controlled component with value and onChange.
+uncontrolled component: (非受控组件) I used ref for the uncontrolled component.
+prop drilling:     (属性传递)        Context can help reduce prop drilling.
+memo:              (记忆化)          I used React.memo to prevent unnecessary re-renders.
+lazy:              (懒加载)          I used React.lazy to load the component lazily.
+suspense:          (Suspense)        I used Suspense to wrap the lazy component.
+error boundary:    (错误边界)        I created an error boundary to catch errors.
+reducer:           (reducer函数)     I used useReducer for complex state logic.
+dispatch:          (派发)            I dispatched an action in useReducer.
+immutable:         (不可变)          State updates should be immutable in React.
+composition:       (组合)            We used composition to build UI from small components.
+
+type:              (类型)            I defined a type for user data in TypeScript.
+interface:         (接口)            I created an interface for props in TypeScript.
+enum:              (枚举)            I defined status using enum.
+generic:           (泛型)            I wrote a generic function in TypeScript.
+any:               (任意类型)        I used any when type was not clear.
+unknown:           (未知类型)        I used unknown for uncertain data types.
+never:             (never类型)       The function with throw has return type never.
+void:              (void类型)        The function returns void.
+extends:           (继承)            The interface extends the base interface.
+implements:        (实现)            The class implements the interface.
+type assertion:    (类型断言)        I used type assertion to tell TypeScript the type.
+union type:        (联合类型)        The parameter is a union type of string or number.
+intersection type: (交叉类型)        I created an intersection type for props.
+optional:          (可选)            I marked the prop as optional with ?.
+readonly:          (只读)            I declared the property as readonly.
+namespace:         (命名空间)        I used namespace to organize the code.
+module:            (模块)            I imported types from another module.
+decorator:         (装饰器)          I used a decorator for the class property.
+utility types:     (工具类型)        I used Partial and Pick as utility types.
+Record:            (Record类型)      I used Record to map keys to values.
+Partial:           (部分类型)        I used Partial to make properties optional.
+Pick:              (选择类型)        I used Pick to select specific fields.
+Omit:              (省略类型)        I used Omit to remove a field from type.
+
+jest:              (Jest)            I wrote unit tests using Jest.
+test case:         (测试用例)        I wrote multiple test cases for the function.
+mock:              (模拟)            I mocked the API call in Jest.
+spyOn:             (监视)            I used jest.spyOn to check function calls.
+snapshot:          (快照)            I used snapshot testing for the component.
+assertion:         (断言)            I used expect for assertions in Jest.
+describe:          (描述块)          I grouped tests using describe block.
+it:                (测试单元)        I wrote tests using it function.
+beforeEach:        (每次前)          I reset data in beforeEach.
+afterEach:         (每次后)          I cleaned up in afterEach.
+
+webpack:           (Webpack)         We used Webpack to bundle JS files.
+entry:             (入口)            I set index.js as the Webpack entry.
+output:            (输出)            I configured the output folder in Webpack.
+loader:            (加载器)          I used babel-loader in Webpack config.
+plugin:            (插件)            I added HtmlWebpackPlugin for index.html.
+dev server:        (开发服务器)      I used Webpack Dev Server for local development.
+hot module replacement: (热更新)   I enabled hot module replacement for faster dev.
+tree shaking:      (树摇)            Webpack does tree shaking to remove unused code.
+code splitting:    (代码分割)        We used code splitting in Webpack to reduce bundle size.
+bundling:          (打包)            Webpack does bundling for all assets.
+
+vite:              (Vite)            We use Vite as the build tool for React.
+dev server:        (开发服务器)      Vite has a fast dev server with HMR.
+hot module replacement: (热更新)   Vite supports hot module replacement by default.
+plugin:            (插件)            I used Vite plugin for TypeScript paths.
+build:             (构建)            I ran vite build to generate production files.
+optimizeDeps:      (依赖优化)        Vite optimizes dependencies on startup.
+SSR:               (服务器渲染)      Vite supports SSR for React apps.
+configuration:     (配置)            I updated vite.config.ts for aliases.
+alias:             (路径别名)        I set up @ as an alias for src folder in Vite.

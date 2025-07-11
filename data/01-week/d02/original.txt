@@ -1,0 +1,71 @@
+closure:         (闭包)            I used a closure to keep the counter value private.
+hoisting:        (提升)            Function declarations are hoisted in JavaScript.
+scope:           (作用域)          This variable is in the global scope.
+block scope:     (块级作用域)      let and const have block scope.
+global scope:    (全局作用域)      window is the global scope object in browsers.
+lexical scope:   (词法作用域)      JavaScript uses lexical scope.
+variable:        (变量)            I declared a variable to store the result.
+constant:        (常量)            I used a constant for the base URL.
+function:        (函数)            I wrote a function to sort the array.
+arrow function:  (箭头函数)        I used an arrow function for the map.
+callback:        (回调)            I passed a callback to handle the result.
+promise:         (Promise)        The API call returns a promise.
+async:           (异步)            I used async functions for API calls.
+await:           (等待)            I used await to wait for the API response.
+prototype:       (原型)            Methods are defined on the prototype.
+prototype chain: (原型链)          JavaScript uses prototype chain for inheritance.
+inheritance:     (继承)            We used inheritance for shared logic.
+encapsulation:   (封装)            Encapsulation keeps data private in objects.
+polymorphism:    (多态)            JavaScript supports polymorphism through overriding.
+this:            (this)           I used this to refer to the current object.
+bind:            (绑定)            I used bind to fix the value of this.
+call:            (调用)            I used call to invoke the function with a specific context.
+apply:           (应用)            I used apply to pass arguments as an array.
+constructor:     (构造函数)        I created a constructor function for users.
+class:           (类)             I defined a User class with methods.
+object:          (对象)            I created an object to store user info.
+array:           (数组)            I used an array to store the list.
+string:          (字符串)          I used template strings for better readability.
+number:          (数字)            I converted the string to a number.
+boolean:         (布尔值)          The function returns a boolean value.
+null:            (空值)            The API returns null when not found.
+undefined:       (未定义)          The variable is undefined before assignment.
+NaN:             (非数字)          parseInt('abc') returns NaN.
+type coercion:   (类型转换)        JavaScript does type coercion automatically.
+event loop:      (事件循环)        The event loop handles asynchronous callbacks.
+callback queue:  (回调队列)        The callback queue stores async callbacks.
+microtask:       (微任务)          Promises use microtasks for then callbacks.
+task:            (宏任务)          setTimeout adds tasks to the queue.
+setTimeout:      (定时器)          I used setTimeout to delay execution.
+setInterval:     (定时循环)        I used setInterval to run it every second.
+clearTimeout:    (清除定时器)      I used clearTimeout to stop the timer.
+JSON:            (JSON)          I parsed the JSON response from API.
+parse:           (解析)            I used JSON.parse to parse the string.
+stringify:       (字符串化)        I used JSON.stringify to convert the object.
+fetch:           (获取)            I used fetch to call the API.
+localStorage:    (本地存储)        I saved the token in localStorage.
+sessionStorage:  (会话存储)        I used sessionStorage for temporary data.
+cookie:          (Cookie)         I set a cookie for user login.
+event:           (事件)            I added a click event to the button.
+listener:        (监听器)          I added an event listener for scroll.
+dispatch:        (派发)            I dispatched an event after loading.
+bubbling:        (冒泡)            Event bubbling goes from child to parent.
+capturing:       (捕获)            Event capturing goes from parent to child.
+stopPropagation: (阻止冒泡)        I used stopPropagation to stop event bubbling.
+preventDefault:  (阻止默认)        I used preventDefault to stop form submission.
+DOMContentLoaded:(DOM加载完成)     I ran the script after DOMContentLoaded.
+defer:           (延迟执行)        I used defer to load the script after parsing.
+async attribute: (异步属性)        I used async to load the script asynchronously.
+module:          (模块)            I imported functions from another module.
+export:          (导出)            I exported the function for reuse.
+import:          (导入)            I imported the library in my script.
+webpack:         (Webpack)        We used Webpack to bundle the files.
+babel:           (Babel)          We used Babel to transpile ES6 code.
+transpile:       (转译)            Babel transpiles modern JS to older syntax.
+polyfill:        (Polyfill)       We used a polyfill for older browsers.
+ES6:             (ES6)            I used ES6 features like let and const.
+strict mode:     (严格模式)        I used strict mode to catch errors.
+try catch:       (异常处理)        I used try catch to handle errors.
+throw:           (抛出)            I throw an error if data is missing.
+error:           (错误)            I logged the error to console.
+debug:           (调试)            I debugged the code using breakpoints.
