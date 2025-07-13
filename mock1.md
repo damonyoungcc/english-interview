@@ -14,34 +14,44 @@
 
 ### 3. Tell me more about this company, and what kind of product and business are they launching. What's your responsibility there?
 
-**Fumin Bank** provides financial services like:
+Fumin Bank provides **financial services** like:
 - savings
-- wealth products
 - loan services
-- **reward points system**
+- wealth products
+- reward points system
+
+I was in charge of the banking **reward points system**.  
+When Users saving their money in bank or buying wealth products,
+they could earn points.
+and then use those points in a **points mall** (**e-commerce coupons**, **streaming membership**, and **mobile top-ups**).
+
+This system had two parts:
+- A web page points mall inside the Fumin Bank app.
+Users can check and use their points to get products or services.(**WebView-based page** inside the app)
+- An admin management project to ***manage merchants and products things like that.***
 
 **My responsibility:**  
-I was in charge of the banking **reward points system**.  
-Users could earn points by saving money or buying wealth products, and then use those points in a **points mall** (**e-commerce coupons**, **streaming memberships**, and **mobile top-ups**).
+Led the team to **develop the system**, **reviewed code**, and **managed progress and quality**.
+I worked closely with the **product** and **backend teams** to confirm requirements
+and deliver high-quality features on time.
 
-**This project had two parts:**
-- A **mobile web page** in the Fumin Bank app for users to check and use their points (**WebView-based page** inside the app)
-- An **admin system** to manage merchants and products
-
-I also built an **admin system template** based on our work, which improved the user experience across different teams in the company.
+## 进一步的讨论
+This admin system template came from our rewards system admin management project.
+We designed it with a good user experience in mind.
+After the product and operations teams used it, they loved it.
+So we decided to promote it across the company.
 
 **Features of the admin system template:**
-- **Modular**, **component-based**, **reusable**, ready to use out of the box
+- **Modular**, **component-based**, **reusable**, admin system template ready to use out of the box.
 - Includes:
-  1. A ready-to-use **login page** with **permission control**
   2. A **layout module** with a **sidebar menu** where developers could pass in their own **routes**
   3. **Reusable business components** like **tables** and **forms**, all following our design standards
 
-**My responsibility:**  
-Led the team to develop the system, **reviewed code**, and managed progress and quality.  
-Worked closely with the **product** and **backend teams** to confirm requirements and deliver high-quality features on time.
-
 ---
+### 3.1
+Our admin system had three subsystems: user management, points management, and report and order management.
+Since some changed frequently and others didn’t, we separated them to avoid side effects.
+
 
 ### 4. How many members in the team?
 
@@ -57,13 +67,22 @@ All of us were **front-end engineers**.
 ### 5. TypeScript, React, Redux 技术栈
 
 **Yes, that's right. I've used `TypeScript`, `React`, and `Redux` as my main stack.**
+Yes, I used React, Redux, and TypeScript in my daily development.
+
+React is for building UI.
+**`Redux`** is a global state management library.
+we also need React-Redux library that connects Redux to React.
+
+Redux is like an efficient elevator — it reads and updates state only where it’s needed.
+Compare to React Context can cause the whole component tree to re-render, even if only one part needs the change.
+
+TypeScript is JavaScript with types.
+It helps catch errors early and makes code easier to read and maintain.
 
 - We use **`React`** to build the UI
 - **`TypeScript`** helps keep the code clean and predictable
 - **`Redux`** to manage global state  
-  > **`Redux`** is a global state management library.  
-  > It's like an efficient elevator — any component can access or update state exactly where it's needed.  
-  > Compared to **`React Context`**, **`Redux`** avoids unnecessary re-renders.
+
 
 ---
 
@@ -91,8 +110,8 @@ All of us were **front-end engineers**.
 - Using **browser caching** with proper response headers
 
 **Second:** Reduce resource size  
+- **Minify JS and CSS files**
 - Enable **gzip**  
-- **Minify JS and CSS files**  
 - **Compress images**
 
 **Third:** Improving rendering performance  
@@ -106,14 +125,14 @@ All of us were **front-end engineers**.
 - Maybe didn’t store it in **state**
 - Maybe not use **`setState`** to update state
 - Or the **state** didn’t change, component didn’t **re-render**
-
 ---
 
 ### 9. 100,000 messages, the scroll speed is very slow, how to optimize it?
 
-**I would use virtual scrolling to only render visible items.**  
-Rendering all items at once is too heavy for the **DOM**.  
-Libraries like **`react-window`** or **`react-virtualized`** help render large lists efficiently.
+I would use virtual scrolling to only render visible items
+it calculate which items are in view, and update the DOM based on scroll position
+Rendering all items at once is too heavy for the **DOM**.
+Libraries like **`react-window`** or **`react-virtualized`** can do it.
 
 > **That’s the point of open source** — so we don’t have to repeat and build the wheel.  
 > I usually check the **documentation** if it matches our requirement or not, quickly go through the **source code**, and look at how fast **issues** are resolved and how active the **community** is.
@@ -123,18 +142,22 @@ Libraries like **`react-window`** or **`react-virtualized`** help render large l
 ### 10. Testing you done: unit testing, integration testing, performance testing
 
 - **Unit testing:** Mainly using **`Jest`** to test components and functions
-- **Integration testing:** Use **`React Testing Library`** to simulate user actions like clicks, trigger API calls, and check if the UI updates properly
+- **Integration testing:** 
+Use **`React Testing Library`** To test how different parts of the app work together
+to simulate user actions like clicks, trigger API calls, and check if the UI updates properly
 - **Performance testing:** Usually use **`Chrome DevTools`** to check load speed and render time
+
+We’re required to test shared components and utilities, to make sure they’re stable.
+For business logic, we also write tests whenever possible, especially for important features.
 
 ---
 
 ### 11. Principles of code review, what do you pay attention to when you review someone's code?
-
 **When I review code:**
-1. Focus on **readability** and consistency with our **coding style** (**Everyone must follow our coding standards**)
-2. Check for **performance issues**, **edge cases**, and whether the logic is easy to understand and maintain (**We should build a long-term solution**)
-3. Always suggest **reusing shared logic** instead of duplicating code
-
+We follow a consistent coding style — everyone needs to follow our coding standards.
+We check for readability and reusability, and avoid duplicated code.
+The goal is to build long-term, maintainable solutions.
+We also pay attention to performance issues and edge cases during reviews.
 ---
 
 ### 12. TypeScript: How does TypeScript help you in your work?
