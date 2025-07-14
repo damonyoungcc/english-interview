@@ -1,32 +1,20 @@
-## 第一次模拟面试总结
-**日期：2025年7月11号**  
-**面试者：anqi 和 shogo**
 
----
-
-### 1. Self Introduction
-
----
-
-### 2. Only a chill talk with my friends.
-
----
-
-### 3. Tell me more about this company, and what kind of product and business are they launching. What's your responsibility there?
-
+### 1. 自我介绍Self Introduction
+### 2. 为什么来日本
+### 3. Only a chill talk with my friends.
+### 4. Tell me more about Your last company and what kind of product and business are they launching. What's your responsibility there?
 Fumin Bank provides **financial services** like:
 - savings
 - loan services
 - wealth products
 - reward points system
-
 I was in charge of the banking **reward points system**.  
 When Users saving their money in bank or buying wealth products,
 they could earn points.
 and then use those points in a **points mall** (**e-commerce coupons**, **streaming membership**, and **mobile top-ups**).
 
 This system had two parts:
-- A web page points mall inside the Fumin Bank app.
+- A mobile web page points mall inside the Fumin Bank app.
 Users can check and use their points to get products or services.(**WebView-based page** inside the app)
 - An admin management project to ***manage merchants and products things like that.***
 
@@ -35,8 +23,8 @@ Led the team to **develop the system**, **reviewed code**, and **managed progres
 I worked closely with the **product** and **backend teams** to confirm requirements
 and deliver high-quality features on time.
 
-## 进一步的讨论
-This admin system template came from our rewards system admin management project.
+## 5.后台管理系统的模板 进一步的讨论
+This admin system template came from our rewards points system admin management project.
 We designed it with a good user experience in mind.
 After the product and operations teams used it, they loved it.
 So we decided to promote it across the company.
@@ -48,12 +36,17 @@ So we decided to promote it across the company.
   3. **Reusable business components** like **tables** and **forms**, all following our design standards
 
 ---
-### 3.1
+### 6.系统的构成进一步的回答
 Our admin system had three subsystems: user management, points management, and report and order management.
 Since some changed frequently and others didn’t, we separated them to avoid side effects.
 
 
-### 4. How many members in the team?
+7. 怎么做系统设计
+First, we need have a meeting to clarify and summarize the requirement. make sure we understand the task before we start.
+Second, plan the project structure ahead. frequently updated business are separated from stable business ones to avoid unnecessary side effects.
+Third, do technical selection, base on the user experience and project requirement. also consider the team members' background and the available resources.
+and Then set coding standards and plan for the long term, make sure the project clean and easy to maintain
+### 8. How many members in the team?
 
 **Four of us** on the team, including me.  
 All of us were **front-end engineers**.
@@ -73,17 +66,16 @@ React is for building UI.
 **`Redux`** is a global state management library.
 we also need React-Redux library that connects Redux to React.
 
-Redux is like an efficient elevator — it reads and updates state only where it’s needed.
-Compare to React Context can cause the whole component tree to re-render, even if only one part needs the change.
+Redux is like an efficient elevator
+Redux only updates components that use the changed state.
+Compare to React Context can cause the whole component tree to re-render, even if only part changes.
+So Redux is better for large apps with frequent state updates.
 
 TypeScript is JavaScript with types.
-It helps catch errors early and makes code easier to read and maintain.
-
-- We use **`React`** to build the UI
-- **`TypeScript`** helps keep the code clean and predictable
-- **`Redux`** to manage global state  
-
-
+**TypeScript helps me catch bugs early and makes the code more predictable.**  
+It also gives great **editor support** — like **auto-completion** and **type checking**.  
+The downside is that writing **types** can be time-consuming, especially for complex logic or third-party libraries.
+If a library doesn’t have built-in types, I have to install @types or write a type file by myself.
 ---
 
 ### 6. Have you had experience about server-side rendering?
@@ -98,6 +90,12 @@ It helps catch errors early and makes code easier to read and maintain.
 > **I like what Steve Jobs said:** we shouldn’t start from technology and push it into a product.  
 > Instead, we should start from the user’s needs and find the right tools to solve the problem.
 
+// hydration
+First, with SSR, the server sends a static HTML page to the browser, it can show the content quickly.
+Then, React runs on the client to attach event listeners and make the page interactive
+— this step is called hydration.
+So hydration connects the HTML to JavaScript logic, can enable full React features after the initial load.
+
 ---
 
 ### 7. Experience about upgrading and enhancing the system performance as a frontend engineer
@@ -106,17 +104,25 @@ It helps catch errors early and makes code easier to read and maintain.
 
 **First:** Reducing unnecessary requests  
 - **Lazy loading images** when they enter the viewport  
-- **Merging files** or avoiding duplicate code (**Don't repeat yourself**)  
+- **Merging files** to avoiding mutiple requests.
 - Using **browser caching** with proper response headers
 
 **Second:** Reduce resource size  
-- **Minify JS and CSS files**
-- Enable **gzip**  
-- **Compress images**
+use webpack or vite to enble compression, minify JS and CSS files
+compress images size used in the project
 
 **Third:** Improving rendering performance  
 - For **React** projects, use **`useMemo`**, **`useCallback`**, and **`shouldComponentUpdate`** to avoid unnecessary re-renders  
 - Use **`React.lazy()`** and **`Suspense`** to load components only when needed
+- use SSR to improve initial page load speed and SEO
+- use virtual scrolling to render only visible items in a long list
+
+
+## CDN
+A CDN is a content delivery network that stores static files like images, scripts, and HTML in servers around the world.
+When a user visits the site, the CDN serves files from the closest server to reduce load time.
+This improves performance and reduces the load on the main server.
+
 
 ---
 
@@ -130,8 +136,8 @@ It helps catch errors early and makes code easier to read and maintain.
 ### 9. 100,000 messages, the scroll speed is very slow, how to optimize it?
 
 I would use virtual scrolling to only render visible items
-it calculate which items are in view, and update the DOM based on scroll position
-Rendering all items at once is too heavy for the **DOM**.
+calculate which items are in viewport
+and update the DOM based on scroll position
 Libraries like **`react-window`** or **`react-virtualized`** can do it.
 
 > **That’s the point of open source** — so we don’t have to repeat and build the wheel.  
@@ -143,8 +149,8 @@ Libraries like **`react-window`** or **`react-virtualized`** can do it.
 
 - **Unit testing:** Mainly using **`Jest`** to test components and functions
 - **Integration testing:** 
-Use **`React Testing Library`** To test how different parts of the app work together
-to simulate user actions like clicks, trigger API calls, and check if the UI updates properly
+Use **`React Testing Library`** To test different parts can work together properly.
+For example: to simulate user actions like clicks, trigger API calls, and check if the UI updates properly
 - **Performance testing:** Usually use **`Chrome DevTools`** to check load speed and render time
 
 We’re required to test shared components and utilities, to make sure they’re stable.
@@ -155,24 +161,16 @@ For business logic, we also write tests whenever possible, especially for import
 ### 11. Principles of code review, what do you pay attention to when you review someone's code?
 **When I review code:**
 We follow a consistent coding style — everyone needs to follow our coding standards.
-We check for readability and reusability, and avoid duplicated code.
-The goal is to build long-term, maintainable solutions.
+We use ESLint and Prettier to enforce and check the code style.
+I focus on writing clear, easy-to-read code, with good naming and comments.
+I also make sure to split common logic into components or functions to avoid duplication code.
+make sure make the project easy to maintain in the long term.
 We also pay attention to performance issues and edge cases during reviews.
----
-
-### 12. TypeScript: How does TypeScript help you in your work?
-
-**TypeScript helps me catch errors early and makes the code more predictable.**  
-It improves **collaboration** and also gives great **editor support** — like **auto-completion** and **type hints**.  
-The downside is that writing **types** can be time-consuming, especially for complex logic or third-party libraries.
-
-> If a third-party library doesn’t have built-in **types**, I usually install the **`@types`** package or write a simple **type file** myself to get proper **TypeScript support**.
-
 ---
 
 ### 13. Microservices for frontend
 
-**Micro frontends** are a way to split a large app into smaller, independently developed and deployed modules.
+**Micro frontends** are a way to split a large app into smaller, individually developed and deployed modules.
 
 - In **Webpack**, use **`Module Federation`**
 - In **Vite**, use the plugin **`vite-plugin-federation`**
@@ -188,16 +186,18 @@ But there are challenges too — like slow **HMR** during local development, and
 
 **My process:**
 - Notice repeated patterns during development
-- Research and think
-- Coding
+- Research and think how to extract common logic into reusable components or hooks.
+- defined component APIs，like props and events
+- Coding tetsing and write documentation
 
 **When designing components, I focus on:**
-- **Easy to use** and **flexibility**
+- **Easy to use** and **flexibile**
 - Add **unit tests** to avoid regression
 - Always provide **clear documentation**
+- Listen to feedback and keep coding.
 
 **For example:**  
 I built a **responsive query filter component** — it adjusts the number of columns based on **screen width**.  
 In my previous company, this kind of feature was common, but the **user experience** wasn’t great.  
-So I took action: notice, think, and code.  
+So I took action: notice, think, define APIs and coding.
 This helped us unify the **user experience**.
