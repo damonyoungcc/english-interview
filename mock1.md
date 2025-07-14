@@ -43,9 +43,9 @@ Since some changed frequently and others didn’t, we separated them to avoid si
 
 7. 怎么做系统设计
 First, we need have a meeting to clarify and summarize the requirement. make sure we understand the task before we start.
-Second, plan the project structure ahead. frequently updated business are separated from stable business ones to avoid unnecessary side effects.
-Third, do technical selection, base on the user experience and project requirement. also consider the team members' background and the available resources.
-and Then set coding standards and plan for the long term, make sure the project clean and easy to maintain
+Second, plan the project structure ahead. let the frequently updated business separated from stable business, to avoid unnecessary side effects.
+Third, do technical selection, base on the user experience and project requirement. also consider the team members background and the available resources.
+and Then set coding standards and plan for the long term, make sure the project easy to maintain.
 ### 8. How many members in the team?
 
 **Four of us** on the team, including me.  
@@ -72,7 +72,7 @@ Compare to React Context can cause the whole component tree to re-render, even i
 So Redux is better for large apps with frequent state updates.
 
 TypeScript is JavaScript with types.
-**TypeScript helps me catch bugs early and makes the code more predictable.**  
+**TypeScript helps developer catch bugs early and makes the code more predictable.**  
 It also gives great **editor support** — like **auto-completion** and **type checking**.  
 The downside is that writing **types** can be time-consuming, especially for complex logic or third-party libraries.
 If a library doesn’t have built-in types, I have to install @types or write a type file by myself.
@@ -108,7 +108,9 @@ So hydration connects the HTML to JavaScript logic, can enable full React featur
 - Using **browser caching** with proper response headers
 
 **Second:** Reduce resource size  
-use webpack or vite to enble compression, minify JS and CSS files
+use webpack or vite to enble compression, 
+minify JS and CSS files
+and tree-shaking to remove unused code.
 compress images size used in the project
 
 **Third:** Improving rendering performance  
@@ -120,9 +122,8 @@ compress images size used in the project
 
 ## CDN
 A CDN is a content delivery network that stores static files like images, scripts, and HTML in servers around the world.
-When a user visits the site, the CDN serves files from the closest server to reduce load time.
-This improves performance and reduces the load on the main server.
-
+When a user visits the website, the CDN can return the static files from the closest server to reduce load time.
+This improves performance.
 
 ---
 
@@ -135,9 +136,9 @@ This improves performance and reduces the load on the main server.
 
 ### 9. 100,000 messages, the scroll speed is very slow, how to optimize it?
 
-I would use virtual scrolling to only render visible items
-calculate which items are in viewport
-and update the DOM based on scroll position
+Virtual scrolling only renders the items visible in the viewport
+When you scroll, it loads more items and removes the ones you don’t see.
+This makes the page faster, even with lots of data.
 Libraries like **`react-window`** or **`react-virtualized`** can do it.
 
 > **That’s the point of open source** — so we don’t have to repeat and build the wheel.  
@@ -151,7 +152,7 @@ Libraries like **`react-window`** or **`react-virtualized`** can do it.
 - **Integration testing:** 
 Use **`React Testing Library`** To test different parts can work together properly.
 For example: to simulate user actions like clicks, trigger API calls, and check if the UI updates properly
-- **Performance testing:** Usually use **`Chrome DevTools`** to check load speed and render time
+- **Performance testing:** Usually use **`Chrome DevTools`** to check load speed and render time，
 
 We’re required to test shared components and utilities, to make sure they’re stable.
 For business logic, we also write tests whenever possible, especially for important features.
