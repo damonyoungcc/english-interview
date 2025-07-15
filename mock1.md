@@ -202,3 +202,23 @@ I built a **responsive query filter component** — it adjusts the number of col
 In my previous company, this kind of feature was common, but the **user experience** wasn’t great.  
 So I took action: notice, think, define APIs and coding.
 This helped us unify the **user experience**.
+
+
+
+
+
+
+
+
+
+team add detail tech
+
+lazy loading detail
+
+put tech stack in the beginning
+and then talk about the
+
+redux
+
+SSR
+put 
