@@ -63,9 +63,8 @@ I always use IntersectionObserver API to do that.
 only load the component when visits the route.  
 3. use es module dynamic import to load the component only when needed.  
 In my project, I dynamically import a chart library component.  
-so it does not load the charting library until the user clicks the button to show the chart.  
-with lazy loading, can improve initial page load speed.  
-4. this three parts are what I think about lazy loading.  
+so it doesn't load the component until the user clicks the button to show the chart.  
+4. with lazy loading, can improve initial page load speed, this three parts are what I think about lazy loading.  
 
 ### 15.性能调优经验
 In our rewards points admin system, the ops team needed to download user order data as Excel files.  
@@ -75,18 +74,48 @@ Then I use Web Worker to create a separate thread for the export logic.
 I moved the export logic to a Web Worker.  
 Inside the worker, I did  
 Batch API requests for all pages.  
-Merging data inside the worker.  
-Generating Excel Blob inside the worker.  
+Merging all order data.  
+Generate Excel Blob inside the worker.  
 After the worker finished, it sent the Blob back to the main thread, which triggered the file download.  
-After doing this, the UI remained smooth and have a better user experience.  
+After doing this, the UI keep smooth and have a better user experience.  
 
 ## 前端架构
 
 ### 16. 你拿到一个项目后，你如何推进
+I usually follow three steps:  
 
-### 17. 从零开始的系统设计经验
+1. Understand the requirements before starting  
+I first have a meeting with product managers/ designers/ backend engineers/ to check the requirements.
+kepp everyone on the same page before starting the project.
+with product clarify the business 
+talk with designers to check the design and user experience.
+work with backend to understand the API and data structure.
 
-### 18. 你如何进行组件设计
+2. Plan the project structure and timeline
+for example seperate the stable and frequently changing parts,  
+do a technical selection, base on the requirements and team background,
+then set a timeline and Key milestones.
+
+3. then I Focus on quality and delivery
+use tools like ESLint and Prettier to ensure code quality,
+review code with team members to catch issues early
+and ensure everyone follows the same standards.
+
+I think do this three steps well, we can deliver a high-quality project on time.
+
+### 18. 你有过组件设计的经验么？你如何进行组件设计
+Yes, I'v always built a resuable component in my daily work.  
+I always design a components in three step.
+one is notice the repeat patterns during development.
+two think and research the best practices solutions.
+three design the component API like props, events.
+then coding and test.
+always add unit tests and provide clear documentation for the component.
+When I design our reward points admin systems, I noticed the table logic was always repeated.
+Every page required:
+fetching data,managing loading state,and then updating table state, and rendering the table.
+so I decided to extract these common logic into a reusable table component.developers only need to provide an API endpoint, and then the table component would handle everything else. it's pretty easy to use.
+that's how I designed the reusable table component in my admin system.
 
 ### 19. 你如何进行项目迁移或者重构
 
