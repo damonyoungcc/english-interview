@@ -146,22 +146,52 @@ CD pipeline deploys the code to staging for testing, and after validation, it is
 ## 四技术栈
 
 ### 25. 前端安全 csrf xss
+CSRF: CSRF happens because browsers trust cookies, not pages, and attackers abuse this behavior to forge cross-site requests.
+This allows attackers to use HTML tags like <img> or <form> to trigger fake requests to another site where you are already logged in.
+For example, when I am logged in on Site A, visiting a malicious Site B. In site B can trigger fake requests to Site A using simple HTML tags without my intention.
+I prevent it by using CSRF tokens, SameSite cookies, and double confirm on sensitive actions.
 
 ### 26. 你用过哪些 css 预处理器
 
 ### 27. 函数式组件和类组件的区别
 
+Function components use useState hook to manage state.
+Class components use this.state and this.setState to manage state.
+
+Function components use useEffect to handle side effects like data fetching.
+Class components use lifecycle methods like componentDidMount, componentDidUpdate, and componentWillUnmount.
+
 ### 28. 你做过响应式设计吗？你如何处理不同屏幕尺寸的适配
+Yes, I have worked on responsive projects.
+1. I use CSS media to adjust font sizes, padding, layouts, and component visibile or not for different breakpoints
+2. I use CSS Flexbox and Grid to create flexible layouts can handle different screen sizes.
 
 ### 29. 你的项目是如何处理组件的？
+I follow three key principles for component design:
+1. I split component by responsibility, some handle UI, some handle  data and logic. keep components small resuable and easy to test.
+2. build components use configuration driven props, make them easy to use and flixible to support different use cases.
+3.I use a clear folder structure: like pages, layouts, common and good naming conventions to make it easy to read and maintain.
 
 ### 30.Webpack 和 Vite 的差异和选择理由
+1.Vite is faster in development because it uses native ES modules and does on-demand loading. Webpack needs to bundle first, so dev server is slower.
+2.Vite uses Rollup for production builds, and webpack uses its own bundler. In most cases Vite's production build is faster and smaller.
+3. Vite has a simple configuration setting while Webpack has more complex settings, but Webpack has more plugins and loaders available.
 
+so I choose Vite for new projects because it is faster and easier to use.
+if I need complex custom config or specific plugins, I might choose Webpack.
 ### 31. 客户端渲染的缺点
+1. user will see a blank page until the JavaScript loads and renders the content.
+2. SEO is not good.
 
 ### 32. TypeScript 的优点和缺点
+1. TypeScript provides static type checking, which helps catch errors early in development.
+2. It has better IDE support like auto-completion and type checking.
+3. write type may be time-consuming, especially for complex logic.
+4. Third-party libraries may not have type definitions, which can lead to type errors, or require developers to write type files by themselves.
 
 ### 33. TypeScript 中的 interface 和 type 的区别
+interface is for object shapes, it can extend and merge.
+type supports unions, primitives, but cannot merge.
 
 ### 34. 你如何设计 Redux，如何设计 store，redux 运行的流程
 
@@ -174,24 +204,61 @@ CD pipeline deploys the code to staging for testing, and after validation, it is
 ### 38. useRef 的使用场景
 
 ### 39. useMemo 和 useCallback 的区别
+useMemo returns a memoized value.
+useCallback returns a memoized function.
+use useMemo to avoid expensive recalculations, like sorting data. use it to recalculate only when dependencies change.
+use useCallback to prevent unnecessary function re-creations, useful when passing callbacks function to child components. with useCallback, the function will recreate only when its dependencies change.
 
 ### 40. 你如何处理跨域问题
+Cross-origin happens when the protocol, domain, or port is different between frontend and backend.
+base the same-origin policy, browsers block cross-origin requests for security reasons.
+In development, I use proxy like Vite proxy or Webpack proxy to forward requests and avoid CORS issues.
+In peoject, set CORS headers on the backend to allow specific origins.
+Sometimes use JSONP for GET requests.
 
 ### 41. 你如何处理浏览器兼容性问题
+1.use Can I use website to check feature support.
+2. use polyfills like core-js for missing features
+3. use auto-prefixer to add prefixes for CSS properties.
+4. if the browser doesn't support a feature, I use a fallback solution.
 
 ### 42. 你如何处理浏览器缓存
-
+1. use HTTP cache headers, like Cache-Control and ETag, to control how browsers cache static files.
+2. use hash in file names to ensure when files change, browsers will load the new version.
 ### 43. 前端路由的原理，使用什么前端路由
+Front-end routing uses browser history or hash to change the URL without refreshing the page.
+It listens for URL changes and renders different components based on the current route.
+I use React Router for SPA routing,
+BrowserRouter has a clean URL without hash, and search engines can index it well.
+and HashRouter uses hash in the URL, and search engines may ignore it.
+If use HashRouter, it doesn't need server-side support,
+if use BrowserRouter need server-side support, it need to return the main HTML document for all routes.
 
-### 44.虚拟 DOM 的原理和实现
-
+### 44.虚拟 DOM 的原理和使用场景
+1. Virtual DOM is a JavaScript object that represents the real DOM in memory.
+2. When state changes, React creates a new virtual DOM, compares it with the previous one (diffing), and only updates the real DOM nodes that changed (patching).
+3. this can faster updates by reducing direct DOM operations,
 ### 45. 你用过 SSR 吗？有什么优点
+Yes, I have used SSR with frameworks like Nuxt.js. At my first company, we needed to improve initial page load speed and a better SEO, so we 
+upgrated the website to use SSR.
+1. SSR generates the HTML on the server side, so the browser can render the page right away. so it improves initial page load speed and SEO.
 
 ### 46.SSR 页面“水合”（hydration）是什么？浏览器中发生了什么？
-
+First, with SSR, the server sends a static HTML page to the browser.
+Then, React runs on the client to attach event listeners and make the page interactive
+— this step is called hydration.
+So hydration connects the HTML to JavaScript logic, enable full React features after the initial load.
 ### 47.Babel 是做什么的
+1. converts modern JavaScript code into older versions so it can run on more browsers.
+2. compiles JSX syntax into JavaScript functions.
 
 ### 48.浏览器渲染流程（Critical Rendering Path）
+1. The browser load HTML and builds the DOM tree.
+2. It loads CSS and builds the CSSOM tree.
+3. It combines the DOM and CSSOM to create the Render Tree.
+1. Layout: calculates each element’s position and size.
+2. Paint: fills in colors, borders, text.
+3. Composite: draws everything on the screen.
 
 ### 49.什么是 Repaint 和 Reflow（Layout thrashing 如何优化）
 
