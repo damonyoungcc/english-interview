@@ -12,7 +12,7 @@
 
 ### 6. 你觉得你的优势是什么
 
-### 7. 你遇到最大的挑战
+### 7. 你工作中遇到的最大的挑战
 
 ### 8. 你未来的职业规划是什么
 
@@ -97,31 +97,45 @@ do a technical selection, base on the requirements and team background,
 then set a timeline and Key milestones.
 
 3. then I Focus on quality and delivery
-use tools like ESLint and Prettier to ensure code quality,
-review code with team members to catch issues early
-and ensure everyone follows the same standards.
-
+use tools like ESLint and Prettier and git hooks to ensure code quality, build a standard code style make sure everyone follows it.
+use CI/CD to automate testing and deployment,
+and always do code reviews before merging code.
+and deliver the project on time.
 I think do this three steps well, we can deliver a high-quality project on time.
 
 ### 18. 你有过组件设计的经验么？你如何进行组件设计
-Yes, I'v always built a resuable component in my daily work.  
-I always design a components in three step.
-one is notice the repeat patterns during development.
-two think and research the best practices solutions.
-three design the component API like props, events.
+- Yes, I'v always built a resuable component in my daily work.  
+- I always design a components in three step.
+- one is notice the repeat patterns during development.
+- two think and research the best practices solutions.
+- three design the component API like props, events.
 then coding and test.
 always add unit tests and provide clear documentation for the component.
-When I design our reward points admin systems, I noticed the table logic was always repeated.
+- When I develop our reward points admin systems, I noticed the table logic was always repeated.  
 Every page required:
-fetching data,managing loading state,and then updating table state, and rendering the table.
-so I decided to extract these common logic into a reusable table component.developers only need to provide an API endpoint, and then the table component would handle everything else. it's pretty easy to use.
+- fetching data,managing loading state,and then updating table state, and rendering the table.
+- so I decided to extract these common logic into a reusable table component. developers only need to provide an API endpoint, and then the table component would handle everything else. it's pretty easy to use.
 that's how I designed the reusable table component in my admin system.
 
 ### 19. 你如何进行项目迁移或者重构
 
 ### 20. 你如何管理版本，你们上线的流程是怎样的
+we use Git for version control. and flow the trunk-based development model. 
+the process is like this:
+1. Development stage: Features are developed and tested on the develop branch.
+2. Integration testing stage: After development, features are merged into the test branch
+run a full integration testing.
+3. Code review stage: when finish the testing, we create a pull request with code review to ensure code quality.
+4. Pre-release stage: After code review, the code is merged into the master branch. and deployed to a staging environment, and stakeholders check the release.
+5. Production release: After stakeholder check complete,
+ the release is promoted to production, We check the production environment to ensure everything works as expected. and submit a final validation report to stakeholders.
 
 ### 21. CI/CD 的流程是怎样的
+we use GitLab CI/CD to automate the entire process from development to release.
+
+CI pipeline runs automatically to check code quality, run tests, and build the project.
+
+CD pipeline deploys the code to staging for testing, and after validation, it is deployed to production automatically.
 
 ### 22. 你如何进行敏捷管理,
 
