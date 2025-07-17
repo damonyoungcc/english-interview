@@ -261,12 +261,21 @@ So hydration connects the HTML to JavaScript logic, enable full React features a
 3. Composite: draws everything on the screen.
 
 ### 49.什么是 Repaint 和 Reflow（Layout thrashing 如何优化）
-
+Reflow happens when layout or size changes.The browser recalculates positions and sizes of elements. like changing width, margin, adding or removing elements.
+Repaint happens when only styles change, but layout stays the same.
+Example: changing color, background, visibility.
+I think reducing reflow improves performance.
 ### 50.浏览器输入 URL 后发生了什么？
-
+1. The browser resolves the domain to an IP address via DNS.
+2. opens a TCP connection with Three-way Handshake and sends an request to the server.
+3. The server responds with HTML, CSS, JS, and the browser starts building the DOM and CSSOM, combining them into a Render Tree.
+and then draws everything on the screen.
 ### 51.HTTP2, HTTP3 有哪些优势
 
 ### 52.什么时候选择 Context API，什么时候选择 Redux，什么时候用 Zustand？
+Context API is built-in React, good for simple global state like theme or user info. but it can cause the whole component tree to re-render, even if only part changes.
+Redux is a separate library, better for complex state and business logic across large apps. it only updates components that use the changed state.
+but it requires more setup and boilerplate code.
 
 ## 五代码质量
 
