@@ -280,25 +280,45 @@ but it requires more setup and boilerplate code.
 ## 五代码质量
 
 ### 53. 你如何保证代码质量
+I want to talk about this in three parts:
+1. In development stage, I use tools to enforce coding standards and style.
+For example, use ESLint to check code quality.
+Use prettier to ensure consistent code style.
+use Git Hooks with Husky to run checks before commits.
+2. In coding stage, write unit tests using Jest and use React Testing Library to do integration tests. and always extract common logic into components or functions to avoid duplication code.
+3. In review stage, to check performance and edge cases.
+In this way, I can ensure code quality in the long term.
 
 ### 54. 你如何做 review code
+We follow a consistent coding style — I foucs on everyone to follow our coding standards.
+I focus on writing clear, easy-to-read code, with good naming and comments.
+I also make sure to extract common logic into components or functions to avoid duplication code. make the project easy to maintain in the long term.
+We also pay attention to performance issues and edge cases during reviews.
 
 ### 55. 你有提出什么技术建议么给团队提升开发效率的么
+I introduced Vite instead of Webpack to improve development experience.
+we first tried vite in a less ungent project, we test the full development process, and it worked well. with this experience, we decided to use Vite in all new projects.
+It really helped the team improve development experience.
 
 ### 56.Git Hooks, Lint Staged, Commitlint 是否使用过
-
+Yes, I have used Git Hooks with Husky to automate checks during commits.
+I use lint-staged to run lint and format only on staged files, keeping code clean without slowing down the commit process.
+I also use commitlint to enforce commit message standards based on conventional commits.
 ### 57.ESLint, Prettier 配置细节
 
 ## 团队管理
 
 ### 58. 你有带过团队成员吗？你如何激励他们
-
+- I give team members respect by trusting them to take ownership of their work.
+- I guide them notice the repeat patterns when they write code, and encourage them thinking
+- and then let them to build resuable components or functions.
+- I think it's better than just let them following instructions.
 ### 59. 你如何进行质量管理
-
-### 60. 如何进行代码 review
-
-### 61. 如何确保代码质量
-
+I think we can do three things to ensure quality:
+1. make sure we konw the requirements well before starting the project.
+2. use tools like ESLint and Prettier to enforce coding standards and style.
+3. write unit tests using Jest and React Testing Library to do integration tests, to ensure code run smoothly.
+4. do code reviews to make sure code quality and performance.
 ## 测试
 
 ### 62.单元测试、集成测试、端到端测试（E2E）的区别和实际应用
@@ -312,16 +332,34 @@ but it requires more setup and boilerplate code.
 ### 65.你有监控系统的经验吗
 
 ### 66.你前端故障处理流程是怎样的，你如何处理
-
+First, we had a internal monitoring system to check frontend errors and sometimes we get bug reports from users.
+Then, I reproduce the issue in a local environment to location the problem.
+I always use browser developer tools like the Console to check errors and logs,
+and the Network tab to check API requests and responses is correct.
+and I also use debug tools to set breakpoints.
+After I location the problem, I fix it and test it in local environment.
 ### 67.解决一次故障大概多久
+it depends on the issue complexity, but usually I can fix it within a few hours.
 
 ## 学习与成长
 
 ### 68. 你是如何学习新技术的
+First, i start with read official documentation to understand the basics.
+Then, I try to build small projects to practice or use the new technology to build a side project.
+I share my knowledge with the team and sometimes I recommend new technologies to improve our workflow.
 
 ### 69. 你平时关注哪些技术社区或博客
+I follow several tech blogs and communities:
+- I follow the official React blog for updates and best practices.
+- I read CSS Tricks for CSS tips and tricks.
+- I follow JavaScript Weekly for the latest JavaScript news.
 
 ### 70. 你如何保持自己的技术更新
+I keep my skills up to date in two ways:
+Practice with side projects
+I often use new technologies in my side projects to quickly get experience.
+In my job, I always try to introduce new tools or techniques, as long as it make sure it doesn't affect code quality or deadlines.
+I think it’s important to leave the comfort zone.
 
 1. 请解释 JavaScript 的闭包机制，它是如何工作的？
 
