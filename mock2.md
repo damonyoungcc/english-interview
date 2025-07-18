@@ -7,7 +7,7 @@ I've built many web apps using React.
 I'm especially skilled at mobile web development
 and creating user-friendly interactions.
 
-I started my career during my internship at ZBJ,
+I started my career during my internship at ZBJ Network,
 the largest internet company in ChongQing, China.
 At that time, I helped upgrade their official website to version 2.0 from jQuery to Vue.
 Since then, I've worked in different industries like e-commerce platform and banking systems.
@@ -23,6 +23,8 @@ I helped fix UI bugs and improve test coverage.
 I'm looking forward to contributing to your team and projects. Thanks.
 ### 2. 你为什么想来日本
 
+I really want to live in here and consistently work in Japan.
+
 ### 3. 你觉得在日本工作挑战是什么
 I think One of my challenges is communication.
 In a international environment, I need to communicate with people from different backgrounds and cultures.
@@ -34,9 +36,9 @@ So I can overcome this challenge.
 Yes, I know that Rakuten is one of the major tech companies in Japan.
 It started as an e-commerce platform,
 now it offers many services like mobile networks, payments, and a points system.
-I often use Rakuten Points across different services,
-which I think creates strong user loyalty.
+I use Rakuten Points all the time,
 I think Rakuten's business is very broad and deeply connected to people's daily lives.
+which creates strong user loyalty.
 
 ### 5. 你为什么选择乐天
 I’ve actually wanted to apply for a job at Rakuten for a long time.
@@ -83,6 +85,8 @@ My responsibility:
 Led the team to develop the system make sure we delivered high-quality features on time.
 worked closely with the product and backend teams to confirm requirements
 reviewed code, make sure code quality in the long term.
+
+
 
 ### 11. 你有主导项目的经验么
 
