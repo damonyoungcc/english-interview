@@ -5,22 +5,65 @@
 ### 2. 你为什么想来日本
 
 ### 3. 你觉得在日本工作挑战是什么
+I think One of my challenges is communication.
+In a international environment, I need to communicate with people from different backgrounds and cultures.
+I must to make sure my communication is clear and efficient
+But I have confidence in my English skills, Also, I'm working on my Japanese language
+So I can overcome this challenge.
 
 ### 4. 你了解乐天么？
+Yes, I know that Rakuten is one of the major tech companies in Japan.
+It started as an e-commerce platform,
+now it offers many services like mobile networks, payments, and a points system.
+I often use Rakuten Points across different services,
+which I think creates strong user loyalty.
+I think Rakuten's business is very broad and deeply connected to people's daily lives.
 
 ### 5. 你为什么选择乐天
+I’ve actually wanted to apply for a job at Rakuten for a long time.
+I also have many friends working there, and they all speak very highly of Rakuten.
+I really like Rakuten's international environment
+and enjoy working with people from different backgrounds.
+I have experience in the e-commerce and banking industries.
+I believe my skills and experience make me a great match for this job.
 
 ### 6. 你觉得你的优势是什么
+I think my strengths are:
+1. I am a proactive person so I always face challenges with a positive attitude.
+2. I have strong problem-solving skills so I can make sure projects run smoothly.
+3. I have experience in building resuable components and ensure code quality in the long term.
+I have confidence contribute to the team and keep everything run smoothly.
 
 ### 7. 你工作中遇到的最大的挑战
 
 ### 8. 你未来的职业规划是什么
+In the short term, my goal is to let myself get used to the international environment and culture,
+In the long term, I want to become a system architect,
+helping the team and company succeed in the global market.
 
 ## 二项目介绍
 
 ### 9. 介绍一下你最近的项目
+Fumin Bank provides financial services like:
+- savings
+- loan services
+- wealth products
+- reward points system
+I was in charge of the banking reward points system.
+When Users saving their money in bank or buying wealth products,
+they could earn points.
+and then use those points in a points mall to get products or services.
+
+This system had two parts:
+- A mobile web page points mall inside the Fumin Bank app.(WebView-based page inside the app)
+Users can check and use their points to get products or services.
+- An admin management project to manage merchants and products things like that.
 
 ### 10. 你在项目中负责什么
+My responsibility:
+Led the team to develop the system make sure we delivered high-quality features on time.
+worked closely with the product and backend teams to confirm requirements
+reviewed code, make sure code quality in the long term.
 
 ### 11. 你有主导项目的经验么
 
@@ -140,6 +183,10 @@ CD pipeline deploys the code to staging for testing, and after validation, it is
 ### 22. 你如何进行敏捷管理,
 
 ### 23. 设计产品后端沟通的工具是什么，如何沟通 Swagger 如何生成类型定义
+we use Swagger to document our API endpoints.
+Swagger generates API documentation and provides a UI for testing endpoints.
+We use Swagger Codegen to generate TypeScript type definitions
+it really helps us keep the frontend and backend in sync.
 
 ### 24.你遇到过哪些后端接口设计不合理的情况，怎么处理？
 
@@ -152,6 +199,9 @@ For example, when I am logged in on Site A, visiting a malicious Site B. In site
 I prevent it by using CSRF tokens, SameSite cookies, and double confirm on sensitive actions.
 
 ### 26. 你用过哪些 css 预处理器
+I have used Sass and Less in my projects.
+Sass is a powerful CSS preprocessor that allows nesting, variables, mixins, and functions.
+It helps write cleaner and more maintainable CSS code.
 
 ### 27. 函数式组件和类组件的区别
 
@@ -411,8 +461,6 @@ then it moves to the next macro task.
   and useCallback to keep stable function references.
 
 如何实现可按需加载组件？请结合 React.lazy 和 import() 说明。
-
-SSR 页面“水合”（hydration）是什么？浏览器中发生了什么？
 
 Webpack 或 Vite 如何做代码分包？说明 manualChunks 或 chunk 名称生成机制。
 
