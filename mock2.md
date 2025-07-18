@@ -1,7 +1,26 @@
 ## 一自我介绍与职业规划
 
 ### 1. 请介绍一下你自己
+Hi, My name is Damon Young.
+I've been working as a front-end engineer for over 7 years.
+I've built many web apps using React.
+I'm especially skilled at mobile web development
+and creating user-friendly interactions.
 
+I started my career during my internship at ZBJ,
+the largest internet company in ChongQing, China.
+At that time, I helped upgrade their official website to version 2.0 from jQuery to Vue.
+Since then, I've worked in different industries like e-commerce platform and banking systems.
+
+At my last company, I was in charge of banking rewards systems.
+I also built a shared admin system template,
+to help unify the user experience across all our internal systems.
+
+I'm also a top 20 contributor to the open-source project Ant Design Mobile,
+which has 10,000 stars on github.
+I helped fix UI bugs and improve test coverage.
+
+I'm looking forward to contributing to your team and projects. Thanks.
 ### 2. 你为什么想来日本
 
 ### 3. 你觉得在日本工作挑战是什么
