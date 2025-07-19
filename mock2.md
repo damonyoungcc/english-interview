@@ -1,7 +1,7 @@
 ## 一自我介绍与职业规划
 
 ### 1. 请介绍一下你自己
-Hi, My name is Damon Young.
+Hi, I am Damon.
 I've been working as a front-end engineer for over 7 years.
 I've built many web apps using React.
 I'm especially skilled at mobile web development
@@ -22,23 +22,29 @@ I helped fix UI bugs and improve test coverage.
 
 I'm looking forward to contributing to your team and projects. Thanks.
 ### 2. 你为什么想来日本
-
+I'v been planning move to Japan for a long time.
+I really like here, it's very clean and People are kind.
+Another reason is I want to explore my new opportunities
+I'm a proactive person, and I not afraid to leave my comfort zone.
+So Last October, I came here and study at a Japanese language school.
 I really want to live in here and consistently work in Japan.
 
 ### 3. 你觉得在日本工作挑战是什么
 I think One of my challenges is communication.
-In a international environment, I need to communicate with people from different backgrounds and cultures.
-I must to make sure my communication is clear and efficient
+Especially in an international environment, I need to communicate with people from different backgrounds and cultures.
+I must to make sure my communication is clear and efficient.
 But I have confidence in my English skills, Also, I'm working on my Japanese language
-So I can overcome this challenge.
+With my effort and and my proactive attitude,
+I think I can overcome this challenge.
 
 ### 4. 你了解乐天么？
 Yes, I know that Rakuten is one of the major tech companies in Japan.
 It started as an e-commerce platform,
 now it offers many services like mobile networks, payments, and a points system.
-I use Rakuten Points all the time,
+I use Rakuten pay and points all the time,
 I think Rakuten's business is very broad and deeply connected to people's daily lives.
 which creates strong user loyalty.
+It's very impressive. That's what I konw about Rakuten so far.
 
 ### 5. 你为什么选择乐天
 I’ve actually wanted to apply for a job at Rakuten for a long time.
@@ -47,24 +53,57 @@ I really like Rakuten's international environment
 and enjoy working with people from different backgrounds.
 I have experience in the e-commerce and banking industries.
 I believe my skills and experience make me a great match for this job.
+That's why I choose Rakuten.
 
 ### 6. 你觉得你的优势是什么
 I think my strengths are:
 1. I am a proactive person so I always face challenges with a positive attitude.
 2. I have strong problem-solving skills so I can make sure projects run smoothly.
-3. I have experience in building resuable components and ensure code quality in the long term.
+3. I have experience in building resuable components and I can ensure code quality in the long term.
 I have confidence contribute to the team and keep everything run smoothly.
 
 ### 7. 你工作中遇到的最大的挑战
+The biggest challenge I faced was building a shared internal admin system template
+and trying to unify the user experience across all internal systems.
+Each team in my previous company was building their own internal admin systems separately,
+without a shared standard. 
+As a result, the user experience was inconsistent and confusing.
+
+The main challenge I faced was:
+First, I needed to design a solution that different teams could adopt,
+and it had to be easy to use and flexible enough to match each team’s requirements.
+
+So here’s what I did:
+First, I talked to people to find out what everyone really needed in common.
+I designed the solution based on them.
+The goal was simple:
+For new projects, I made it ready-to-use,
+so developer can focus on business development right away.
+For old projects, I built reusable components and published them to our internal NPM,
+so old projects could install these packages and gradually update their UI.
+
+After a few updates, we were able to unify the user experience,
+and I’m really proud of the result.
 
 ### 8. 你未来的职业规划是什么
 In the short term, my goal is to let myself get used to the international environment and culture,
 In the long term, I want to become a system architect,
+expecially to explore AI to imporve development efficiency and user experience.
 helping the team and company succeed in the global market.
+
+### 对AI的看法
+I'm optimistic and positive about AI.
+AI is a great tool to help developer improve efficiency.
+I know people say with AI, developers will lose their jobs,
+But I think this world still needs human emotions.
+what will happen after AGI arrives,
+I honestly don't know
+I think we just live in the moment and see what happens.
 
 ## 二项目介绍
 
 ### 9. 介绍一下你最近的项目
+My most recent project was at Fumin Bank,
 Fumin Bank provides financial services like:
 - savings
 - loan services
@@ -74,6 +113,8 @@ I was in charge of the banking reward points system.
 When Users saving their money in bank or buying wealth products,
 they could earn points.
 and then use those points in a points mall to get products or services.
+it's like rakuten points system, encouraging user to use bank services, the more they use, the more points they earn.
+the more benefits they get.
 
 This system had two parts:
 - A mobile web page points mall inside the Fumin Bank app.(WebView-based page inside the app)
@@ -81,14 +122,14 @@ Users can check and use their points to get products or services.
 - An admin management project to manage merchants and products things like that.
 
 ### 10. 你在项目中负责什么
+My role in this project was the team leader. we're a four front-end engineers team including me.
 My responsibility:
 Led the team to develop the system make sure we delivered high-quality features on time.
 worked closely with the product and backend teams to confirm requirements
-reviewed code, make sure code quality in the long term.
-
-
+reviewed code, ensure code quality in the long term.
 
 ### 11. 你有主导项目的经验么
+same as 16
 
 ## 三性能优化
 
@@ -103,7 +144,8 @@ use Network panel → check request size, time, and waterfall.
 use Coverage tab, check unused code size.  
 use Lighthouse to check score, SEO.  
 use webpack-bundle-analyzer to check bundle size. 
-I usally use this tool to check performance.
+I usally use this tool to check the metrics of performance
+and then base on this metrics to do performance optimization.
 
 ### 13.你在项目中做过哪些性能优化
 I want to talk about this in three parts:  
