@@ -109,7 +109,7 @@ I think I can overcome this challenge.
 In the short term, my goal is to let myself get used to the international environment and culture,
 In the long term, I want to become a system architect,
 expecially back-end design skills, I want to be a full-stack architect.
-I think I just need to keep learning.
+I think I have to keep learning.
 ```
 
 ### 11. 你平时怎么学习新东西，解决不擅长的任务
