@@ -77,6 +77,7 @@ About my weakness, Sometimes I have not realized my communication are too techni
 so I think I need to talk to product managers use word they get used to.
 To improve this, I try to explain my ideas in a simple way,
 like to wirte a document and ask them for feedback.
+I have confidence to overcome this challenge.
 ```
 
 ### 7. 你觉得前端开发中的挑战是什么
