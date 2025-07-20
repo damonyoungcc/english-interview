@@ -75,8 +75,8 @@ I have confidence contribute to the team and keep everything run smoothly.
 ```txt
 About my weakness, Sometimes I have not realized my communication are too technical,
 so I think I need to talk to product managers use laguage they familiar with.
-To improve this, I try to explain my ideas in a more simple way,
-like to wirte a article or a document and ask them for feedback.
+To improve this, I try to explain my ideas in a simple way,
+like to wirte a article or a documention and ask them for feedback.
 ```
 
 ### 7. 你觉得前端开发中的挑战是什么
