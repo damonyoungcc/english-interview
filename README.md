@@ -87,15 +87,8 @@ I think the chanllenges in front-end in two parts:
 1. the technology changes very fast, we need to keep learning and banlance between new technologies and business stable needs.
 2. Another big challenge is browser compatibility. in my previous job, I worked on mobile web page inside app. You konw in china we have many cell phone model, we need to support more devices and browsers. Sometimes it's difficult to balance user experience and graceful degradation for older devices.
 ```
-### 8. 你如何处理浏览器兼容性问题
-- How do you handle browser compatibility issues?
-```txt
-1.use Can I use website to check feature support.
-2. use polyfills like core-js to support new javascript features.
-3. use auto-prefixer to add prefixes for CSS properties.
-4. if the browser doesn't support a feature, do graceful degradation and always design a fallback solution.
-```
-### 9 你觉得在日本工作挑战是什么
+
+### 9 你觉得在日本工作挑战是什么 hardship
 ```txt
 I think One of my challenges is communication.
 Especially in an international environment, I need to communicate with people from different backgrounds and cultures.
@@ -120,9 +113,9 @@ I think I have to keep learning.
 For now, I learn new things by ChatGPT,
 First I will ask ChatGPT what is the best practice,
 Then I do some research base on the answer from ChatGPT
-like to read documentation on github or visit official website.
-Then I build a demo or project to practice.
-if If it works, I will apply it to my project.
+I always read documentation on github or visit official website.
+Then I build a demo or side project to practice.
+I ways think the best way to learn is to practice.
 For example, I recentlly build a side project website to help me learn Japanese. The target is to get the text from a audio file,
 and highlight the text when the audio is playing.
 with the hlep of ChatGPT, it just cost me 2 hours from idea to lunch the website.
@@ -134,7 +127,7 @@ with the hlep of ChatGPT, it just cost me 2 hours from idea to lunch the website
 In general, I'm optimistic and positive about AI.
 it's really a great tool to help developers improve efficiency.
 recently, I use AI to build a side project website to help me learn Japanese. it's just cost me 2 hours from idea to lunch the website.
-I think developers still need to know the knowledge and have a skill to check the AI's output to manage the risk.
+But I think developers still need to know the knowledge and to check the AI's output and to manage the risk.
 I think AI is a tool to help us, not replace us for now.
 But what will happen after real AGI arrives,
 honestly I don't know
@@ -145,17 +138,11 @@ I think we just live in the moment and see what happens.
 - Can you introduce your recent project?
 ```txt
 Sure, My most recent project was at Fumin Bank,Fumin Bank provides financial services like: savings,loan services,wealth products,reward points system
-I was led the team to develop rewards points system.
-When Users saving their money in bank or buying wealth products,
+I was in charge of the rewards points system.
+This project When Users saving their money in bank or buying wealth products,
 they could earn points.
 and then use those points in a points mall to get products or services.
 it's like rakuten pay points system, encourage user to use services, the more they use, the more points they earn, the more benefits they get.
-
-My role in this project was the team leader. we're a four front-end engineers team including me.
-My responsibility:
-Led the team to develop the system make sure we delivered features on time.
-worked closely with the product and backend teams to confirm requirements
-reviewed code, ensure develop quality in the long term.
 ```
 
 ### 2. 项目的构成
@@ -164,19 +151,50 @@ reviewed code, ensure develop quality in the long term.
 This system had two parts:
 A mobile web points mall inside the Fumin Bank app.(WebView-based page inside the app)
 Users can check and use their points.
-An admin management system.
+An admin management system to manage merchants and products.
 this admin management system has three subsystems: 
 1. merchant and product management syetstem, it's more like a CMS system, can add, edit, delete merchants and products.
 2. points management system to set the redem rules and manage points.
 3. report and order management to check the order history and points usage.
 ```
 
-### 3. 你们的主要技术栈是
+### 3. 你得角色和职责
+- What was your role and responsibilities in this project?
+```txt
+My role in this project was the team leader. we're a four front-end engineers team including me.
+My responsibility:
+Led the team to develop the system make sure we delivered features on time.
+worked closely with the product and backend teams to confirm requirements
+reviewed code, ensure develop quality in the long term.
+```
+
+### 4. 你们的主要技术栈是
 - What is your main tech stack?
 ```txt
-The main tech stack is React, Redux, React-router, and TypeScript in my daily development.
+The main tech stack is React, Redux, React-router, and TypeScript.
 ```
-### 4. 你是怎么设计推进这个项目的
+
+### 5. 这个项目中的难点是什么
+- What were the challenges in this project?
+```txt
+I think the biggesr is the browser compatibility.
+we build the point mall system use the mobile web page inside the Fumin Bank app.
+you know in China we have many cell phone models,
+we need to support more devices and browsers.
+Sometimes it's difficult to balance user experience and provide a fallback solution for older devices.
+I think this is the biggest challenge in this project.
+```
+
+### 6. 你如何处理浏览器兼容性问题
+- How do you handle browser compatibility issues?
+```txt
+1.use Can I use website to check feature support in different browsers.
+2. use polyfills like core-js to support new javascript features.
+3. use auto-prefixer like postcss to add prefixes for CSS.
+4. if the browser doesn't support a feature, do graceful degradation and always design a fallback solution.
+```
+
+### 7. 你是怎么设计推进这个项目的
 - How did you design and promote this project?
 ```txt
 I usually follow three steps:  
@@ -190,43 +208,71 @@ then set a timeline and Key milestones to make sure we can deliver the project o
 
 3. then I Focus on quality and delivery
 use tools like ESLint and Prettier and git hooks to ensure code quality, build a standard code style make sure everyone follows it.
+do unit tests and integration tests to ensure code run smoothly.
 and always do code reviews before merging code.
 and deliver the project on time.
-I think do this three steps well, we can deliver a high-quality project on time.
+I think do this three steps well, we can promote the project well.
 ```
-### 5. 你如何管理版本，你们上线的流程是怎样的
+### 8. 你如何管理版本，你们上线的流程是怎样的
 ```txt
 we use Git for version control. and flow the trunk-based development model. 
 the process is like this:
-1. Development stage: Features are developed and tested on the develop branch.
-2. Integration testing stage: After development, features are merged into the test branch
-run a full integration testing.
-3. Code review stage: when finish the testing, we create a pull request with code review to ensure code quality.
-4. Pre-release stage: After code review, the code is merged into the master branch. and deployed to a staging environment, and stakeholders check the release.
-5. Production release: After stakeholder check complete,
- the release is promoted to production, We check the production environment to ensure everything works as expected. and submit a final validation report to stakeholders.
+1. Development stage: we develop feature tested on the develop branch. after done
+2. testing stage: we merged branch into the test branch, so the QA team can test the code.
+3. Code review stage: when finish the testing, we do code review and create a pull request to the master branch.
+4. Pre-release stage: After code review, the code is merged into the master branch. and deployed to a staging environment,
+and stakeholders check the release.
+5. Production release: After stakeholder finsish checking, we promote the release to production.
+We also check the production environment to ensure everything works fine and submit a final report to stakeholders.
 ```
-### 6. 你如何进行质量管理
+### 9. 你如何进行质量管理
 - How do you ensure quality management?
 ```txt
-I think we can do three things to ensure quality:
-1. make sure we konw the requirements well before starting the project.
-2. use tools like ESLint and Prettier to enforce coding standards and style.
-3. write unit tests using Jest and React Testing Library to do integration tests, to ensure code run smoothly.
-4. do code reviews to make sure code quality and performance.
+1.I think first important thing is to clarify the requirements with stakeholders before starting,
+make sure everyone on the same page.
+2. use tools like ESLint and Prettier to make sure everyone follows the coding standards.
+3. write unit tests and do integration tests, to ensure code run smoothly.
+4. do code reviews to check the performance and edge cases.
 ```
 
-### 7. 你如何进行代码审查
+### 10. 你如何进行代码审查
 - How do you conduct code reviews?
 ```txt
-We built a consistent coding style — First I foucs on everyone to follow our coding standards.
+We built a standard code style, and enfore everyone follows it.
 I focus on writing clear, easy-to-read code, with good naming and comments.
-I also make sure to extract common logic into components or functions to avoid duplication code. make the project easy to maintain in the long term.
-We also pay attention to performance issues and edge cases during reviews.
+I also foucs on to extract common logic into components or functions to avoid duplication code. 
+make the project easy to maintain in the long term.
+and also pay attention to performance issues and edge cases to ensure the code runs smoothly.
+That's how I do code reviews.
 ```
- ### 8.你有带过团队成员吗？你如何激励他们
- - Do you have experience leading team members? How do you motivate them?
+
+### 11. 你如何进行开发进度管理
+- How do you manage development progress?
+```txt
+First, we separate the project into small tasks and set a 
+priority for each task.
+Then I set a timeline for each task.
+Then we use tools like Jira track the progress.
+every morning, we have a quick standup meeting to check the progress and confirm today's plan.
+in the end of each day, I report the progress to stakeholders.
+So I think with planning ahead, setting priorities, keep communication, we can run the project smoothly.
+```
+
+### 12.你有带过团队成员吗？你如何激励他们
+- Do you have experience leading team members? How do you motivate them?
+```txt
+- Do you have experience leading team members? How do you motivate them?
 - I give team members respect by trusting them to take ownership of their work.
-- I guide them notice the repeat patterns when they write code, and encourage them thinking
+- I guide them notice the repeat patterns during development.
+- and encourage them thinking and find a best practice solution.
 - and then let them to build resuable components or functions.
 - I think it's better than just let them following instructions.
+```
+
+### 13. 你如何处理组员之间的冲突
+- How do you handle conflicts between team members?
+```txt
+I think the first step is to listen to both sides and without judgment and understand the background.
+Then we had a open discussion together. I will guide the conversation to provide a solutions.
+I think we are all grown-ups, and we have a common goal, I believe we can find a solution by ourself.
+```
