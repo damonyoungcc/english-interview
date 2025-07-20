@@ -50,7 +50,7 @@ It's very impressive. That's what I konw about Rakuten so far.
 ```
 
 ### 4. 你为什么想来乐天工作
-- Why do you want to work at Rakuten?
+- Why do you want to work at Rakuten? firm
 ```txt
 I’ve actually wanted to apply for a job at Rakuten for a long time.
 I also have many friends working there, and they all speak very highly of Rakuten.
@@ -61,20 +61,22 @@ I believe my skills and experience make me a great match for this job descriptio
 That's why I want to work at Rakuten.
 ```
 ### 5. 你觉得你的优势是什么
-- What do you think are your strengths?
+- What do you think are your strengths? drawback flaws缺点
+pros and cons 优点缺点 I don't konw meaning about pros and cons, could you please explain a little bit?
 ```txt
 I think my strengths are:
 1. I am a proactive person so I always face challenges with a positive attitude.
 2. I have strong problem-solving skills so I can make sure projects run smoothly.
-3. I have experience in building resuable components and I can ensure code quality in the long term.
 I have confidence contribute to the team and keep everything run smoothly.
 ```
 ### 6. 你觉得你的劣势是什么
 - What do you think are your weaknesses?
-- What are your areas for improvement?
+- What are your areas for improvement? 
 ```txt
-I think my weakness is backend design experience. Sometimes it made it harder to suggest better API designs during discussions with backend engineers.
-To improve this, I’ve built a few side projects using Node.js,and I also joined an online Java course when I was in China. Actually, In my long term plan, I want to become a system architect. I will keep learning to overcome this weakness.
+About my weakness, Sometimes I have not realized my communication are too technical,
+so I think I need to talk to product managers use laguage they familiar with.
+To improve this, I try to explain my ideas in a more simple way,
+like to wirte a article or a document and ask them for feedback.
 ```
 
 ### 7. 你觉得前端开发中的挑战是什么
