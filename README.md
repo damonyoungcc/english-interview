@@ -107,7 +107,8 @@ I think I can overcome this challenge.
 ### 10 你未来的职业规划是什么
 - What are your future career plans?
 ```txt
-In the short term, my goal is to get used to the international environment and culture,
+In the short term, my goal is to get along well with my team to do the project smoothly
+comunicate with my team use a clear and efficient way.
 In the long term, I want to become a system architect,
 expecially back-end design skills, I want to be a full-stack system architect.
 I think I have to keep learning.
