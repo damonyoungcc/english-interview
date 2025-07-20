@@ -190,3 +190,39 @@ and always do code reviews before merging code.
 and deliver the project on time.
 I think do this three steps well, we can deliver a high-quality project on time.
 ```
+### 5. 你如何管理版本，你们上线的流程是怎样的
+```txt
+we use Git for version control. and flow the trunk-based development model. 
+the process is like this:
+1. Development stage: Features are developed and tested on the develop branch.
+2. Integration testing stage: After development, features are merged into the test branch
+run a full integration testing.
+3. Code review stage: when finish the testing, we create a pull request with code review to ensure code quality.
+4. Pre-release stage: After code review, the code is merged into the master branch. and deployed to a staging environment, and stakeholders check the release.
+5. Production release: After stakeholder check complete,
+ the release is promoted to production, We check the production environment to ensure everything works as expected. and submit a final validation report to stakeholders.
+```
+### 6. 你如何进行质量管理
+- How do you ensure quality management?
+```txt
+I think we can do three things to ensure quality:
+1. make sure we konw the requirements well before starting the project.
+2. use tools like ESLint and Prettier to enforce coding standards and style.
+3. write unit tests using Jest and React Testing Library to do integration tests, to ensure code run smoothly.
+4. do code reviews to make sure code quality and performance.
+```
+
+### 7. 你如何进行代码审查
+- How do you conduct code reviews?
+```txt
+We built a consistent coding style — First I foucs on everyone to follow our coding standards.
+I focus on writing clear, easy-to-read code, with good naming and comments.
+I also make sure to extract common logic into components or functions to avoid duplication code. make the project easy to maintain in the long term.
+We also pay attention to performance issues and edge cases during reviews.
+```
+ ### 8.你有带过团队成员吗？你如何激励他们
+ - Do you have experience leading team members? How do you motivate them?
+- I give team members respect by trusting them to take ownership of their work.
+- I guide them notice the repeat patterns when they write code, and encourage them thinking
+- and then let them to build resuable components or functions.
+- I think it's better than just let them following instructions.
