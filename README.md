@@ -208,25 +208,7 @@ First, In engineering solutions
 4. if the browser doesn't support a feature, do graceful degradation and always design a fallback solution.
 ```
 
-### 7. 你是怎么设计推进这个项目的
-- How did you design and promote this project?
-```txt
-I usually follow three steps:  
-1. Understand the requirements before starting
-I first have a meeting with product managers/ designers/ backend engineers/ to clarify and summarize the requirements,
 
-2. Plan the project structure and timeline
-For example, at perious company,I seperate the stable business and frequently updated business, to avoid side effects.
-do a technical selection, base on the requirements and team background,
-then set a timeline and Key milestones to make sure we can deliver the project on time.
-
-3. then I Focus on quality and delivery
-use tools like ESLint and Prettier and git hooks to ensure code quality, build a standard code style make sure everyone follows it.
-do unit tests and integration tests to ensure code run smoothly.
-and always do code reviews before merging code.
-and deliver the project on time.
-I think do this three steps well, we can promote the project well.
-```
 ### 8. 你如何管理版本，你们上线的流程是怎样的
 ```txt
 we use Git for version control. and flow the trunk-based development model. 
@@ -238,26 +220,6 @@ the process is like this:
 and stakeholders check the release.
 5. Production release: After stakeholder finsish checking, we promote the release to production.
 We also check the production environment to ensure everything works fine and submit a final report to stakeholders.
-```
-### 9. 你如何进行质量管理
-- How do you ensure quality management?
-```txt
-1.I think first important thing is to clarify the requirements with stakeholders before starting,
-make sure everyone on the same page.
-2. use tools like ESLint and Prettier to make sure everyone follows the same coding standards.
-3. write unit tests and do integration tests, to ensure code run smoothly.
-4. always do code reviews to check the performance and edge cases.
-```
-
-### 10. 你如何进行代码审查
-- How do you conduct code reviews?
-```txt
-We built a standard code style, and enforce everyone follows it.
-I focus on writing clear, easy-to-read code, with good naming and comments.
-I also foucs on to extract common logic into components or functions to avoid duplication code. 
-make the project easy to maintain in the long term.
-and also pay attention to performance and edge cases to ensure the code runs smoothly.
-That's how I do code reviews.
 ```
 
 ### 11. 你如何进行开发进度管理
