@@ -11,10 +11,10 @@ and creating user-friendly interactions.
 
 I started my career during my internship at ZBJ Network,
 the largest internet company in ChongQing, China.
-At that time, I helped upgrade their official website to version 2.0 from jQuery to server side render. and imporved the intial page load speed and a better SEO.
+At that time, I helped upgrade their official website to version 2.0 from jQuery to Vue.
 Since then, I've worked in different industries like e-commerce platform and banking systems.
 
-At my last company, I was in charge of banking rewards systems.
+At my last company, I was in charge of banking rewards points systems.
 I also built a shared admin system template,
 to help unify the user experience across all our internal systems.
 
@@ -46,6 +46,7 @@ now it offers many services like mobile networks, payments, and a points system.
 I use Rakuten pay and points all the time,
 I think Rakuten's business is very broad and deeply connected to people's daily lives.
 which creates strong user loyalty.
+and I admire Rakuten's international environment and Rakuten shugi, keep optimistic and proactive.
 It's very impressive. That's what I konw about Rakuten so far.
 ```
 
@@ -64,37 +65,36 @@ That's why I want to work at Rakuten.
 - What do you think are your strengths? drawback flaws缺点
 pros and cons 优点缺点 I don't konw meaning about pros and cons, could you please explain a little bit?
 ```txt
-I think my strengths are:
-1. I am a proactive person so I always face challenges with a positive attitude.
-2. I have strong problem-solving skills so I can make sure projects run smoothly.
-I have confidence contribute to the team and keep everything run smoothly.
+I am a proactive person so I always face challenges with a positive attitude. At my perious company, I always like to build reusable components to improve development efficiency.
+I like action and share, I think this is my biggest advantage.
 ```
 ### 6. 你觉得你的劣势是什么
 - What do you think are your weaknesses?
 - What are your areas for improvement? 
 ```txt
 About my weakness, Sometimes I have not realized my communication are too technical,
-so I think I need to talk to product managers use word they get used to.
+so I think I need to talk to people use word they get used to.
 To improve this, I try to explain my ideas in a simple way,
-like to wirte a document and ask them for feedback.
-I have confidence to overcome this challenge.
+Alos I like to wirte a document and ask them for feedback.
+I have confidence to overcome this weakness.
 ```
 
 ### 7. 你觉得前端开发中的挑战是什么
 - What do you think are the challenges in front-end development?
 ```txt
 I think the chanllenges in front-end in two parts:
-1. the technology changes very fast, we need to keep learning and banlance between new technologies and business stable needs.
+1. First I think challenges is the technology changes very fast, 
+we need to keep learning
+and banlance new technologies and business stable needs.
 2. Another big challenge is browser compatibility. in my previous job, I worked on mobile web page inside app. You konw in china we have many cell phone model, we need to support more devices and browsers. Sometimes it's difficult to balance user experience and graceful degradation for older devices.
 ```
 
 ### 9 你觉得在日本工作挑战是什么 hardship
 ```txt
 I think One of my challenges is communication.
-Especially in an international environment, I need to communicate with people from different backgrounds and cultures.
-I must to make sure my communication is clear and efficient.
+Especially in an international environment, I need to make sure my communication is clear and efficiently.
 But I have confidence in my English skills, Also, I'm working on my Japanese language
-With my effort and and my proactive attitude,
+With my effort and and my positive attitude,
 I think I can overcome this challenge.
 ```
 ### 10 你未来的职业规划是什么
@@ -116,9 +116,11 @@ Then I do some research base on the answer from ChatGPT
 I always read documentation on github or visit official website.
 Then I build a demo or side project to practice.
 I ways think the best way to learn is to practice.
+If it works, I will use it in my project.
 For example, I recentlly build a side project website to help me learn Japanese. The target is to get the text from a audio file,
 and highlight the text when the audio is playing.
 with the hlep of ChatGPT, it just cost me 2 hours from idea to lunch the website.
+Learning new things by ChatGPT is really efficient.
 ```
 
 ### 11 你对AI的看法
@@ -155,7 +157,7 @@ An admin management system to manage merchants and products.
 this admin management system has three subsystems: 
 1. merchant and product management syetstem, it's more like a CMS system, can add, edit, delete merchants and products.
 2. points management system to set the redem rules and manage points.
-3. report and order management to check the order history and points usage.
+3. report and order management system to check the order history.
 ```
 
 ### 3. 你得角色和职责
