@@ -65,7 +65,8 @@ That's why I want to work at Rakuten.
 - What do you think are your strengths? drawback flaws缺点
 pros and cons 优点缺点 I don't konw meaning about pros and cons, could you please explain a little bit?
 ```txt
-I am a proactive person so I always face challenges with a positive attitude. At my perious company, I always like to build reusable components to improve development efficiency.
+I am a proactive person so I always face challenges with a positive attitude.
+At my perious company, I always like to build reusable components to improve development efficiency.
 I like action and share, I think this is my biggest advantage.
 ```
 ### 6. 你觉得你的劣势是什么
@@ -75,7 +76,7 @@ I like action and share, I think this is my biggest advantage.
 About my weakness, Sometimes I have not realized my communication are too technical,
 so I think I need to talk to people use word they get used to.
 To improve this, I try to explain my ideas in a simple way,
-Alos I like to wirte a document and ask them for feedback.
+Also I like to wirte a document and ask them for feedback.
 I have confidence to overcome this weakness.
 ```
 
@@ -86,7 +87,7 @@ I think the chanllenges in front-end in two parts:
 1. First I think challenges is the technology changes very fast, 
 we need to keep learning
 and banlance new technologies and business stable needs.
-2. Another big challenge is browser compatibility. in my previous job, I worked on mobile web page inside app. You konw in china we have many cell phone model, we need to support more devices and browsers. Sometimes it's difficult to balance user experience and graceful degradation for older devices.
+2. Another big challenge is browser compatibility. in my previous job, I build a points mall use mobile web page inside app. You konw in china we have many cell phone model, we need to support more devices and browsers. Sometimes it's difficult to balance user experience and graceful degradation for older devices.
 ```
 
 ### 9 你觉得在日本工作挑战是什么 hardship
@@ -135,13 +136,22 @@ But what will happen after real AGI arrives,
 honestly I don't know
 I think we just live in the moment and see what happens.
 ```
+### 12.你过去收到过什么评价么
+- What feedback have you received in the past?
+```txt
+I think the feedback I most often received was proactive,
+At my perious company, I always take a lead to solve problems.
+At my perious company,
+I also build a resuable components to help improve development efficiency.
+I also got positive feedback for helping team members through code reviews.
+```
 ## 二、项目介绍
 ### 1. 介绍一下你最近的项目
 - Can you introduce your recent project?
 ```txt
 Sure, My most recent project was at Fumin Bank,Fumin Bank provides financial services like: savings,loan services,wealth products,reward points system
 I was in charge of the rewards points system.
-This project When Users saving their money in bank or buying wealth products,
+This project When Users saving their money in bank or buy wealth products,
 they could earn points.
 and then use those points in a points mall to get products or services.
 it's like rakuten pay points system, encourage user to use services, the more they use, the more points they earn, the more benefits they get.
@@ -167,7 +177,7 @@ My role in this project was the team leader. we're a four front-end engineers te
 My responsibility:
 Led the team to develop the system make sure we delivered features on time.
 worked closely with the product and backend teams to confirm requirements
-reviewed code, ensure develop quality in the long term.
+reviewed code, make sure code quality in the long term.
 ```
 
 ### 4. 你们的主要技术栈是
@@ -182,7 +192,7 @@ The main tech stack is React, Redux, React-router, and TypeScript.
 I think the biggesr is the browser compatibility.
 we build the point mall system use the mobile web page inside the Fumin Bank app.
 you know in China we have many cell phone models,
-we need to support more devices and browsers.
+we need to support many devices and browsers.
 Sometimes it's difficult to balance user experience and provide a fallback solution for older devices.
 I think this is the biggest challenge in this project.
 ```
@@ -190,6 +200,8 @@ I think this is the biggest challenge in this project.
 ### 6. 你如何处理浏览器兼容性问题
 - How do you handle browser compatibility issues?
 ```txt
+I think I can talk about this in two parts:
+First, In engineering solutions
 1.use Can I use website to check feature support in different browsers.
 2. use polyfills like core-js to support new javascript features.
 3. use auto-prefixer like postcss to add prefixes for CSS.
@@ -232,19 +244,19 @@ We also check the production environment to ensure everything works fine and sub
 ```txt
 1.I think first important thing is to clarify the requirements with stakeholders before starting,
 make sure everyone on the same page.
-2. use tools like ESLint and Prettier to make sure everyone follows the coding standards.
+2. use tools like ESLint and Prettier to make sure everyone follows the same coding standards.
 3. write unit tests and do integration tests, to ensure code run smoothly.
-4. do code reviews to check the performance and edge cases.
+4. always do code reviews to check the performance and edge cases.
 ```
 
 ### 10. 你如何进行代码审查
 - How do you conduct code reviews?
 ```txt
-We built a standard code style, and enfore everyone follows it.
+We built a standard code style, and enforce everyone follows it.
 I focus on writing clear, easy-to-read code, with good naming and comments.
 I also foucs on to extract common logic into components or functions to avoid duplication code. 
 make the project easy to maintain in the long term.
-and also pay attention to performance issues and edge cases to ensure the code runs smoothly.
+and also pay attention to performance and edge cases to ensure the code runs smoothly.
 That's how I do code reviews.
 ```
 
@@ -269,6 +281,7 @@ So I think with planning ahead, setting priorities, keep communication, we can r
 - and encourage them thinking and find a best practice solution.
 - and then let them to build resuable components or functions.
 - I think it's better than just let them following instructions.
+By doing this, I think everyone will do their work proactively.
 ```
 
 ### 13. 你如何处理组员之间的冲突
