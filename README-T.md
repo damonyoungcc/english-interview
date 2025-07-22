@@ -27,7 +27,7 @@ Then I use IntersectionObserver API create an observer to watch an image enters 
 When an image enters the viewport, and then load the image.
 it can reduce the unnecessary image loading, imporve the page load time.
 by doing this, we imporve the user experience a lot.
-``
+```
 
 ### 2. 怎么测量前端性能
 - how do you measure the system performance?
