@@ -141,7 +141,6 @@ I think we just live in the moment and see what happens.
 ```txt
 I think the feedback I most often received was proactive,
 At my perious company, I always take a lead to solve problems.
-At my perious company,
 I also build a resuable components to help improve development efficiency.
 I also got positive feedback for helping team members through code reviews.
 ```
@@ -183,7 +182,7 @@ reviewed code, make sure code quality in the long term.
 ### 4. 你们的主要技术栈是
 - What is your main tech stack?
 ```txt
-The main tech stack is React, Redux, React-router, and TypeScript.
+The main tech stack is React, Redux, and TypeScript.
 ```
 
 ### 5. 这个项目中的难点是什么
@@ -206,6 +205,7 @@ First, In engineering solutions
 2. use polyfills like core-js to support new javascript features.
 3. use auto-prefixer like postcss to add prefixes for CSS.
 4. if the browser doesn't support a feature, do graceful degradation and always design a fallback solution.
+Second, use real devices to test.
 ```
 
 

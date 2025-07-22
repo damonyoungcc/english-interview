@@ -9,7 +9,7 @@ I want to talk about this in three parts:
 when have a image List, only render when image enters the viewport
 use React.lazy() and Suspense to do route-based code splitting, we visit the route and then load the component when needed.
 use dynamic import to load component.
-- use browser cache by setting proper response headers.
+- use browser cache by setting proper response headers
 2. reduce resource size to improve load speed
 - use webpack or vite to enable compression, minify JS and CSS files
 - do tree-shaking to remove unused code
@@ -18,6 +18,17 @@ use dynamic import to load component.
 - use virtual scrolling if you need render a long list
 That's pretty much what I did at previous company.
 ```
+
+```txt
+In my perious company, I use lazy loading to improve the performance.
+we build a points mall, it has a long image list.
+At first, if we render all images at once, the load speed was very slow.
+Then I use IntersectionObserver API create an observer to watch an image enters the viewport.
+When an image enters the viewport, and then load the image.
+it can reduce the unnecessary image loading, imporve the page load time.
+by doing this, we imporve the user experience a lot.
+``
+
 ### 2. 怎么测量前端性能
 - how do you measure the system performance?
 ```txt
@@ -212,6 +223,16 @@ I think if have a long image list can use the lazy loading.
 - I use IntersectionObserver API create an observer to detect when an image enters the viewport.
 It can reduce the unnecessary image loading. imporve the page load time.
 ```
+### 虚拟滚动
+- What is virtual scrolling and how does it work?
+```txt
+Virtual scrolling used when you need rendering long lists.
+it's will be slow if you render all list items at once.
+Virtual scrolling only renders the items visible in the viewport
+When you scroll, it loads more items and removes the ones you don’t see.
+This makes the page faster, even with lots of data.
+```
+
 ### 21.怎么设置redux
 - How do you set up Redux?
 ```txt
@@ -227,7 +248,8 @@ In function components, I use useSelector and useDispatch from react-redux to ac
 - What is the difference between React and Redux?
 ```txt
 React is a JavaScript library build UI.
-Redux is a global state management library, it helps manage the state in a predictable way. also need to use React-Redux to connect Redux with React.
+Redux is a global state management library, it helps manage the state in a predictable way.
+also need to use React-Redux to connect Redux with React.
 ```
 ### 23. 有server-side rendering的经验么
 - Do you have experience with server-side rendering?
@@ -238,6 +260,7 @@ we use frameworks like Nuxt.js to do SSR
 it can build the HTML page on the server side and return to browser.
 And the browser to render the page right away.
 By doing this, we improve the initial page load speed and get a better SEO.
+it's very helpful for the business.
 ```
 ### 24 什么时候用客户端渲染，什么时候用服务端渲染
 - When do you use client-side rendering and when do you use server-side rendering?
