@@ -172,44 +172,46 @@ In my previous company, the QA team had many mobile devices, so we do real devic
 ### 10. 过去有没有推荐过技术或者策略
 - have you suggested any new technology or strategy in your past experience?
 ```txt
-I introduced Vite instead of Webpack to improve development experience.
-It helped the team reduce build time by 50%
+Yes, In my previous company, I suggested to use Vite instead of Webpack.
+Vite can improve development experience a lot.
+with the faster hot module replacement HMR,
+But I do this gradually,
+first I set up a Vite project for a new project,
+This project is not emergency, so we can try new technology.
+After we completed a full process from development to production,
+we confirmed the business run stale
+Then we gradually migrate the project to Vite.
+I think sometimes we need to balance new technology risk and benefit.
+if the benefit is big enough, we can try new technology.
 ```
 ### 11. 你是如何发现和定位前端问题的
 - For trouble shooting, how do you handle it
 ```txt
-- I use browser developer tools like the Console panel to console logs
-- and the Network tab panel to check API requests and responses.
-- I also use debug tools to set breakpoints.
-with these tools, I can easily locate the issues.
+About handle trouble shooting, I want to share my experience in my previous company.
+I think the first important thing is confirm and understand the issue before starting.
+make sure I understand what happend, and what the expected behavior is.
+Then I will reproduce the issue in my local environment.
+Then I use chrome dev tools to locate the bug,
+check the console panel to console logs
+use network panel to check API requests and responses.
+sometimes set breakpoints to debug the code.
+After I locate the bug,
+I will fix the bug and add unit tests cases to make sure code run smoothly.
+Then do code reviews with team to check the edge cases make sure code quality.
+If everything is ok, then commit the code and deploy test environment to stakeholders confirm.
+After the confirm the fix, I will deploy to production.
 ```
-### 12. 你处理问题的步骤是什么
-- What is the trouble handling flow
-```txt
-My flow is: 
-confirm and understand the issue before starting,
-reproduce in local environment,
-locate the bug in the code
-use chrome dev tools to console logs or debug.
-create a fix branch and fix the bug and test
-if everything is ok, then commit the code and deploy test environment to QA team.
-```
-### 13 你遇到问题的时候怎么处理和解决
-```txt
-My flow is: 
-confirm and understand the issue before starting,
-reproduce in local environment,
-locate the bug in the code
-use chrome dev tools to console logs or debug.
-create a fix branch and fix the bug and test
-if everything is ok, then commit the code and deploy test environment to QA team.
-```
+
 ### 14. 你处理问题一般需要多久
 - How long does it take to fix a bug?
 ```txt
 It depends on the situation.
 If it's a simple bug, I can fix it in a few minutes.
-I remember the longest time is 2 hours, we use a UI library, I need to check the source code and find the issue.
+I remember the longest time is 2 hours,
+In my previous company
+we use a open source UI library ant design mobile,
+I need to check the source code and find the issue.
+Although it was a big chanllenge But with my effort and patience, I finally fixed it.
 ```
 
 ### 15. 你项目中用过figma么？
@@ -227,32 +229,33 @@ make the page beautiful and have a good user experience.
 ### 17. 在CSS中用过函数么
 - Can you use a function for CSS?
 ```txt
-Yes, I can use CSS functions like calc() to calculate values like width and height,
-use var() to define and reuse css variables
+Yes, I can use CSS functions 
+like function calc() to calculate values like width and height,
+use function var() to define and reuse css variables
 ```
 ### 18. 你有监控系统的经验么
 - Do you have experience in monitoring systems?
 ```txt
 Yes, I have experience in monitoring systems.
 In my previous company, we had an internal monitoring system to check frontend errors.
-We tracked JavaScript errors, API request fail, and performance everyday.
-When an issue happened, we flowed a process:
+We tracked JavaScript errors, API request fail errors, and performance everyday.
+we always need to use this monitoring system to check the production errors.
 ```
 ### 19. 性能调优
 - How do you tunning performance?
 ```txt
 In my previous company we have a rewards points admin system,
 the ops team needed to download user order data as Excel files.
-For 30,000 rows, it's a big list
+For 30,000 rows data, it's a long list
 Then I use Web Worker to create a separate thread for the export logic.  
-I moved the export logic to a Web Worker.  
+I moved the export logic to a Web Worker created thread.
 // Inside the worker, I did
 // Batch API requests for all pages.  
 // Merging all order data.  
 // Generate Excel Blob inside the worker.  
-After the worker finished, it call back to the main thread, which triggered the file download.
-After doing this, we imporve the user experience a lot
-and the page run smoothly without blocking.
+After the worker finished, it call back to the main thread, and then triggered the file download.
+After doing this, the page run smoothly without blocking
+improve the user experience a lot.
 ```
 
 
@@ -261,16 +264,18 @@ and the page run smoothly without blocking.
 ```txt
 I think if have a long image list can use the lazy loading.
 - I use IntersectionObserver API create an observer to detect when an image enters the viewport.
-It can reduce the unnecessary image loading. imporve the page load time.
+It can reduce the unnecessary image loading. improve the page load time.
 ```
 ### 虚拟滚动
 - What is virtual scrolling and how does it work?
 ```txt
-Virtual scrolling used when you need rendering long lists.
+Virtual scrolling used when you need render a long lists.
 it's will be slow if you render all list items at once.
-Virtual scrolling only renders the items visible in the viewport
-When you scroll, it loads more items and removes the ones you don’t see.
+Virtual scrolling only renders the visible items in the viewport.
+When you scroll, it loads more new items and removes the previous items
 This makes the page faster, even with lots of data.
+we also use libraries like react-window or react-virtualized in my previous company
+to improve the performance of long lists.
 ```
 
 ### 21.怎么设置redux
