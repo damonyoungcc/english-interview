@@ -3,25 +3,31 @@
 ### 1. 你怎么优化前端性能
 - what did you implement and how did you improve the performance?
 ```txt
+In my previous company, I always need to do performance optimization.
 I want to talk about this in three parts:
 1. reduce unnecessary requests to improve load speed
-- the most used method is lazy loading,
-when have a image List, only render when image enters the viewport
-use React.lazy() and Suspense to do route-based code splitting, we visit the route and then load the component when needed.
-use dynamic import to load component.
-- use browser cache by setting proper response headers
+the most used method is lazy loading,
+when have a long image list,
+watch the images and only render when image enters the viewport
+use React.lazy() and Suspense to do route-based code splitting,
+load the component only when the user navigates to that route.
+use dynamic import to load components only when needed.
 2. reduce resource size to improve load speed
-- use webpack or vite to enable compression, minify JS and CSS files
-- do tree-shaking to remove unused code
+use webpack or vite to enable compression,
+minify JS and CSS files
+tree-shaking to remove unused code
 3. improve render performance
-- for React projects, use useMemo, useCallback, shouldComponentUpdate to avoid unnecessary re-renders
-- use virtual scrolling if you need render a long list
+for React projects,
+use useMemo,
+useCallback,
+shouldComponentUpdate to avoid unnecessary re-renders
+if you need render a long list use virtual scrolling.
 That's pretty much what I did at previous company.
 ```
 
 ```txt
-In my perious company, I use lazy loading to improve the performance.
-we build a points mall, it has a long image list.
+In my previous company, I use lazy loading to improve the performance.
+we build a points mall, it has a long product list.
 At first, if we render all images at once, the load speed was very slow.
 Then I use IntersectionObserver API create an observer to watch an image enters the viewport.
 When an image enters the viewport, and then load the image.
@@ -32,14 +38,16 @@ by doing this, we imporve the user experience a lot.
 ### 2. 怎么测量前端性能
 - how do you measure the system performance?
 ```txt
-- use Chrome DevTools to check load speed and render time.
-- use Performance panel focus on LCP, CLS, and INP to check the load speed and user experience.
-- LCP shows first screen loading speed, CLS checks layout stability, and INP reflects UI responsiveness after user actions.
+- I always use Chrome DevTools to check load speed and render time in my previous company.
+I always use Performance panel focus on
+LCP, CLS, and INP
+to check the load speed and user experience.
+// LCP shows first screen loading speed, CLS checks layout stable, and INP reflects user interaction speed.
 - use Rendering panel to monitor FPS to check rendering performance.
 - use Coverage tab panel check the unused code.
-- use network panel to check API requests and responses.
-- use webpack-bundle-analyzer to check bundle size.
+- use network panel to check API requests and responses time.
 - use lighthouse to check performance, and SEO.
+- use webpack-bundle-analyzer to check bundle size then do some optimization.
 - That’s pretty much based on these metrics.
 ```
 ### 3. 怎么管理代码质量
