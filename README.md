@@ -4,24 +4,26 @@
 - can you introduce yourself?
 ```txt
 Hi, I am Damon.
+I'm currently based in Tokyo, and study at a Japanese language school.
 I've been working as a front-end engineer for over 7 years.
-I've built many web apps using React.
-I'm especially skilled at mobile web development
-and creating user-friendly interactions.
+In the past seven years, I've built many web apps using React, Vue, and TypeScript.
+I'm especially skilled at mobile web development and build reusable components.
 
 I started my career during my internship at ZBJ Network,
-the largest internet company in ChongQing, China.
 At that time, I helped upgrade their official website to version 2.0 from jQuery to Vue.
-Since then, I've worked in different industries like e-commerce platform and banking systems.
+We use server-side rendering (SSR) to improve the initial page load speed and SEO.
+By doing this, we improved the user experience and search engine ranking.
 
 At my last company, I was in charge of banking rewards points systems.
+I led a four front-end engineers team to develop a rewards points system.
+I worked closely with the product manager and backend teams to confirm requirements.
+I do code reviews, and manage the progress and code quality.
 I also built a shared admin system template,
-to help unify the user experience across all our internal systems.
+to help unify the user experience and improve development efficiency.
 
 I'm also a top 20 contributor to the open-source project Ant Design Mobile,
 which has 10,000 stars on github.
-I helped fix UI bugs and improve test coverage.
-
+I helped fix issues and improve test coverage form 20% to 90%.
 I'm looking forward to contributing to your team and projects. Thanks.
 ```
 
@@ -63,11 +65,14 @@ That's why I want to work at Rakuten.
 ```
 ### 5. 你觉得你的优势是什么
 - What do you think are your strengths? drawback flaws缺点
-pros and cons 优点缺点 I don't konw meaning about pros and cons, could you please explain a little bit?
+pros and cons 优点缺点 I don't konw meaning about pros and cons,
+could you please explain a little bit?
 ```txt
 I am a proactive person so I always face challenges with a positive attitude.
-At my perious company, I always like to build reusable components to improve development efficiency.
-I like action and share, I think this is my biggest advantage.
+At my previous company, I always like to notice the repeat patterns during development,
+and build reusable components to improve development efficiency.
+I like action proactively and share my ideas with my team.
+I think this is my biggest advantage.
 ```
 ### 6. 你觉得你的劣势是什么
 - What do you think are your weaknesses?
@@ -76,7 +81,7 @@ I like action and share, I think this is my biggest advantage.
 About my weakness, Sometimes I have not realized my communication are too technical,
 so I think I need to talk to people use word they get used to.
 To improve this, I try to explain my ideas in a simple way,
-Also I like to wirte a document and ask them for feedback.
+and I also ask my colleagues for feedback.
 I have confidence to overcome this weakness.
 ```
 
@@ -87,41 +92,52 @@ I think the chanllenges in front-end in two parts:
 1. First I think challenges is the technology changes very fast, 
 we need to keep learning
 and banlance new technologies and business stable needs.
-2. Another big challenge is browser compatibility. in my previous job, I build a points mall use mobile web page inside app. You konw in china we have many cell phone model, we need to support more devices and browsers. Sometimes it's difficult to balance user experience and graceful degradation for older devices.
+2. Another big challenge is browser compatibility. in my previous job,
+I build a points mall use mobile web page inside app.
+You konw in china we have many cell phone model,
+we need to support more devices and browsers.
+Sometimes it's difficult to balance user experience and older devices browser.
 ```
 
 ### 9 你觉得在日本工作挑战是什么 hardship
 ```txt
 I think One of my challenges is communication.
-Especially in an international environment, I need to make sure my communication is clear and efficiently.
-But I have confidence in my English skills, Also, I'm working on my Japanese language
+Especially in an international environment,
+I need to make sure my communication is clear and efficient.
+I have confidence in my English skills,
+Also, I'm working on my Japanese language
 With my effort and and my positive attitude,
 I think I can overcome this challenge.
 ```
 ### 10 你未来的职业规划是什么
 - What are your future career plans?
 ```txt
-In the short term, my goal is to get along well with my team to do the project smoothly
-comunicate with my team use a clear and efficient way.
+In the short term,
+my goal is to get along well with my team to do the project smoothly
+communicate with my team use a clear and efficient way.
 In the long term, I want to become a system architect,
-expecially back-end design skills, I want to be a full-stack system architect.
+especially back-end design skills,
+I want to be a full-stack system architect.
 I think I have to keep learning.
 ```
 
 ### 11. 你平时怎么学习新东西，解决不擅长的任务
 - How do you usually learn new things and solve tasks that you are not good at?
 ```txt
-For now, I learn new things by ChatGPT,
-First I will ask ChatGPT what is the best practice,
+For now, I learn new things by ChatGPT, for sure.
+First I will ask ChatGPT what is the best way to do this task.
 Then I do some research base on the answer from ChatGPT
-I always read documentation on github or visit official website.
+like read documentation, read resoure code on github.
 Then I build a demo or side project to practice.
-I ways think the best way to learn is to practice.
+I always think the best way to learn is by doing.
 If it works, I will use it in my project.
-For example, I recentlly build a side project website to help me learn Japanese. The target is to get the text from a audio file,
-and highlight the text when the audio is playing.
-with the hlep of ChatGPT, it just cost me 2 hours from idea to lunch the website.
-Learning new things by ChatGPT is really efficient.
+For example, I recentlly build a side project website to help me learn Japanese.
+// The target is to get the text from a audio file,
+// and highlight the text when the audio is playing.
+with the help of ChatGPT,
+it just cost me 2 hours from idea to lunch the website.
+Learning new things by ChatGPT is really direct and efficient.
+if you want to have a quick look of this side project, I can show you the link.
 ```
 
 ### 11 你对AI的看法
@@ -129,31 +145,37 @@ Learning new things by ChatGPT is really efficient.
 ```txt
 In general, I'm optimistic and positive about AI.
 it's really a great tool to help developers improve efficiency.
-recently, I use AI to build a side project website to help me learn Japanese. it's just cost me 2 hours from idea to lunch the website.
-But I think developers still need to know the knowledge and to check the AI's output and to manage the risk.
+recently, I can use AI to build a side project very quickly.
+I use AI to build a side project website to help me learn Japanese.
+it's just cost me 2 hours from idea to lunch the website.
+But I think developers still need to know the knowledge
+and to check the AI's output and to manage the risk.
 I think AI is a tool to help us, not replace us for now.
 But what will happen after real AGI arrives,
 honestly I don't know
 I think we just live in the moment and see what happens.
 ```
+
 ### 12.你过去收到过什么评价么
 - What feedback have you received in the past?
 ```txt
 I think the feedback I most often received was proactive,
-At my perious company, I always take a lead to solve problems.
-I also build a resuable components to help improve development efficiency.
-I also got positive feedback for helping team members through code reviews.
+At my previous company, I always take a lead to solve problems.
+I also build a reusable components to help improve development efficiency.
+I think this is the reason I was promoted to team leader.
 ```
 ## 二、项目介绍
 ### 1. 介绍一下你最近的项目
 - Can you introduce your recent project?
 ```txt
-Sure, My most recent project was at Fumin Bank,Fumin Bank provides financial services like: savings,loan services,wealth products,reward points system
-I was in charge of the rewards points system.
-This project When Users saving their money in bank or buy wealth products,
-they could earn points.
-and then use those points in a points mall to get products or services.
-it's like rakuten pay points system, encourage user to use services, the more they use, the more points they earn, the more benefits they get.
+Sure, My most recent project was at Fumin Bank,
+Fumin Bank provides financial services like:
+savings,loan services,wealth products,reward points system
+I led a team to build this rewards points system.
+it's like rakuten pay points system,
+encourage user to use our services like savings, buy wealth products.
+the more they use, the more points they earn,
+then they can use points in the points mall to get products and services.
 ```
 
 ### 2. 项目的构成
@@ -162,9 +184,10 @@ it's like rakuten pay points system, encourage user to use services, the more th
 This system had two parts:
 A mobile web points mall inside the Fumin Bank app.(WebView-based page inside the app)
 Users can check and use their points.
-An admin management system to manage merchants and products.
+An admin management system to manage merchants and products and orders.
 this admin management system has three subsystems: 
-1. merchant and product management syetstem, it's more like a CMS system, can add, edit, delete merchants and products.
+1. merchant and product management syetstem,
+it's more like a CMS system, can add, edit, delete merchants and products.
 2. points management system to set the redem rules and manage points.
 3. report and order management system to check the order history.
 ```
@@ -172,10 +195,12 @@ this admin management system has three subsystems:
 ### 3. 你得角色和职责
 - What was your role and responsibilities in this project?
 ```txt
-My role in this project was the team leader. we're a four front-end engineers team including me.
+My role in this project was the team leader.
+we're a four front-end engineers team including me.
 My responsibility:
-Led the team to develop the system make sure we delivered features on time.
-worked closely with the product and backend teams to confirm requirements
+Led the team to develop the system use React, Redux, and TypeScript.
+I track progress to make sure we delivered features on time.
+worked closely with the product manager and backend teams to confirm requirements
 reviewed code, make sure code quality in the long term.
 ```
 
@@ -188,68 +213,86 @@ The main tech stack is React, Redux, and TypeScript.
 ### 5. 这个项目中的难点是什么
 - What were the challenges in this project?
 ```txt
-I think the biggesr is the browser compatibility.
+I think the biggest challenge is the browser compatibility.
 we build the point mall system use the mobile web page inside the Fumin Bank app.
 you know in China we have many cell phone models,
 we need to support many devices and browsers.
-Sometimes it's difficult to balance user experience and provide a fallback solution for older devices.
+Sometimes it's difficult to balance user experience and older devices.
 I think this is the biggest challenge in this project.
 ```
 
 ### 6. 你如何处理浏览器兼容性问题
 - How do you handle browser compatibility issues?
 ```txt
-I think I can talk about this in two parts:
-First, In engineering solutions
-1.use Can I use website to check feature support in different browsers.
-2. use polyfills like core-js to support new javascript features.
-3. use auto-prefixer like postcss to add prefixes for CSS.
-4. if the browser doesn't support a feature, do graceful degradation and always design a fallback solution.
-Second, use real devices to test.
+I think first thing is use
+can I use website to check feature support in different browsers.
+Then we use technical solutions to make sure the compatibility:
+use polyfills like core-js to support new javascript features.
+use postcss like autoprefixer to add prefixes for CSS properties.
+if the browser doesn't support a feature,
+do graceful degradation and provide a fallback solution.
+Also, our QA team had many real devices, we test the web page on real devices.
 ```
-
 
 ### 8. 你如何管理版本，你们上线的流程是怎样的
 ```txt
 we use Git for version control. and flow the trunk-based development model. 
 the process is like this:
-1. Development stage: we develop feature tested on the develop branch. after done
-2. testing stage: we merged branch into the test branch, so the QA team can test the code.
-3. Code review stage: when finish the testing, we do code review and create a pull request to the master branch.
-4. Pre-release stage: After code review, the code is merged into the master branch. and deployed to a staging environment,
+1. Development stage: we develop feature tested on the develop branch.
+after done
+2. testing stage: we merged branch into the test branch,
+so the QA team can test the code.
+3. Code review stage: when finish the testing,
+we do code review and create a pull request to the master branch.
+4. Pre-release stage: After code review,
+the code is merged into the master branch.
+and deployed to a staging environment,
 and stakeholders check the release.
-5. Production release: After stakeholder finsish checking, we promote the release to production.
-We also check the production environment to ensure everything works fine and submit a final report to stakeholders.
+5. Production release:
+After stakeholder finsish checking, we promote the release to production.
+We also check the production environment to ensure everything works fine
+and submit a final report to stakeholders.
 ```
 
 ### 11. 你如何进行开发进度管理
 - How do you manage development progress?
 ```txt
-First, we separate the project into small tasks and set a 
-priority for each task.
-Then I set a timeline for each task.
-Then we use tools like Jira track the progress.
-every morning, we have a quick standup meeting to check the progress and confirm today's plan.
-in the end of each day, I report the progress to stakeholders.
-So I think with planning ahead, setting priorities, keep communication, we can run the project smoothly.
+I can give you an example of how I manage development progress in my previous company.
+First, we separate the task into small steps.
+and set a priority for each task.
+Then I set a timeline for each task based on the priority.
+Then we use tools like Jira to track the progress.
+Every morning, we have a quick standup meeting
+to check the progress and confirm today's plan.
+In the end of each day, I report the progress to stakeholders.
+make sure everyone is on the same page during the development.
+So I think with
+planning ahead,
+setting priorities,
+keep communication,
+we can make sure run the project smoothly.
 ```
 
 ### 12.你有带过团队成员吗？你如何激励他们
 - Do you have experience leading team members? How do you motivate them?
 ```txt
-- Do you have experience leading team members? How do you motivate them?
-- I give team members respect by trusting them to take ownership of their work.
-- I guide them notice the repeat patterns during development.
-- and encourage them thinking and find a best practice solution.
-- and then let them to build resuable components or functions.
-- I think it's better than just let them following instructions.
-By doing this, I think everyone will do their work proactively.
+At my previous company,
+I give my teammates respect by trusting them to take ownership of their work.
+I guide them notice the repeat patterns during development.
+and encourage them thinking and find a best practice solution.
+and then trust them to let them to build resuable components or functions.
+Then we had a open discussion together to review the solution.
+I think it's better than just let them following instructions.
+By doing this, I think everyone will improve their skills and confidence.
 ```
 
 ### 13. 你如何处理组员之间的冲突
 - How do you handle conflicts between team members?
 ```txt
-I think the first step is to listen to both sides and without judgment and understand the background.
-Then we had a open discussion together. I will guide the conversation to provide a solutions.
-I think we are all grown-ups, and we have a common goal, I believe we can find a solution by ourself.
+I think the first step is to listen to both sides
+and without judgment and understand the background.
+Then we had a open discussion together.
+I will guide the conversation to provide a solutions.
+I think we have a common goal,
+I believe we can find a solution by ourself.
 ```
