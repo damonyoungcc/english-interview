@@ -15,7 +15,7 @@ use dynamic import to load components only when needed.
 2. reduce resource size to improve load speed
 use webpack or vite to enable compression,
 minify JS and CSS files
-tree-shaking to remove unused code
+do tree-shaking to remove unused code
 3. improve render performance
 for React projects,
 use useMemo,
@@ -27,10 +27,10 @@ That's pretty much what I did at previous company.
 
 ```txt
 In my previous company, I use lazy loading to improve the performance.
-we build a points mall, it has a long product list.
+we build a points mall, it has a long product image list.
 At first, if we render all images at once, the load speed was very slow.
 Then I use IntersectionObserver API create an observer to watch an image enters the viewport.
-When an image enters the viewport, and then load the image.
+When the image enter the viewport, and then load the image.
 it can reduce the unnecessary image loading, imporve the page load time.
 by doing this, we imporve the user experience a lot.
 ```
@@ -39,7 +39,7 @@ by doing this, we imporve the user experience a lot.
 - how do you measure the system performance?
 ```txt
 - I always use Chrome DevTools to check load speed and render time in my previous company.
-I always use Performance panel focus on
+I always use Performance panel focus on the following metrics:
 LCP, CLS, and INP
 to check the load speed and user experience.
 // LCP shows first screen loading speed, CLS checks layout stable, and INP reflects user interaction speed.
@@ -55,17 +55,34 @@ to check the load speed and user experience.
 ```txt
 we do this in three ways:
 1. use tools like ESLint and Prettier to make sure everyone follows the same coding standards.
-2. write unit tests and integration tests to ensure code run smoothly
-3. by code reviews, we check performance and edge cases to make sure the project easy to maintain in the long term.
+2. write unit tests and integration tests to ensure code run smoothly.
+3. by code reviews, we check
+performance
+edge cases
+good naming
+clear comments
+extract common logic 
+make sure the project easy to maintain in the long term.
 That's what I usually do.
 ```
 ### 4. 你如何进行质量管理
 - How do you ensure quality management?
 ```txt
-1.I think first important thing is to clarify the requirements with stakeholders before starting, make sure do the right thing.
-2. use tools like ESLint and Prettier to make sure everyone follows the same coding standards.
-3. write unit tests and do integration tests, to ensure code run smoothly.
-4. always do code reviews to check the performance and edge cases.
+1.I think first important thing is
+to clarify the requirements with stakeholders before starting,
+make sure do the right thing.
+2. use tools like ESLint and Prettier
+to make sure everyone follows the same coding standards.
+3. write unit tests and do integration tests,
+to ensure code run smoothly.
+4. always do code reviews to check the 
+performance
+edge cases
+good naming
+clear comments
+extract common logic
+make sure the project easy to maintain in the long term.
+That's what I usually do.
 ```
 ### 5. 你如何进行代码审查
 - How do you conduct code reviews?
@@ -90,8 +107,16 @@ That's how I do code reviews.
 - When I develop our reward points admin systems, I noticed the table logic was always repeated.
 Every page required:
 - fetching data, loading, set table state.
-- so I extract these common logic into a reusable table component. developers only need to provide an API endpoint, and then the resuable table component handle everything.
-with this resuable table component, impove the development efficiency and reduce duplicate code.
+- so I extract these common logic into a reusable table component.
+developers only need to provide an API endpoint,
+and then the resuable table component handle everything.
+By doing this, it can improve the development efficiency and reduce duplicate code.
+I can summarize this as following steps:
+1. notice the repeat patterns during development.
+2. do some research and design a best practices solutions to avoid duplicate development.
+3. design the component API make the component configuration-driven.
+4. then coding and add unit tests.
+5. In the end always provide clear document.
 that's how I designed the reusable table component in my previous company.
 ```
 ### 7. 从零开始的系统设计的经验
@@ -100,31 +125,38 @@ that's how I designed the reusable table component in my previous company.
 ```txt
 Yes, I have experience.
 In my previous company, I design the banking rewards points system.
-I think the first important thing is talk to stakeholders to understand the business requirements berfore starting. make suer we do the right thing and everyone is on the same page.
+I think the first important thing is talk to stakeholders
+to understand the business requirements berfore starting.
+make suer we do the right thing and everyone is on the same page.
 Then plan the project structure, and seperate the stable 
 business and frequently update business, to avoid side effects.
+like I sperate admin system to three sub-systems:
+- product management
+- rewards points management
+- order management
 Then do the technical selection base on the requirements and user experience.
 then design the system architecture, like api design, routs, and codebase.
-I also focus on build resuable components to make sure the system easy to maintain in the long term.
+then set a standard code style in the beginning,
+use tools like ESLint and Prettier to ensure code quality.
+and add CI/CD to automate the build and deployment process.
 ```
 ### 8. 你是怎么设计推进这个项目的
 - How did you design and promote this project?
 ```txt
-I usually follow three steps:  
-1. Understand the requirements before starting
-I first have a meeting with product managers/ designers/ backend engineers/ to clarify and summarize the requirements,
-
-2. Plan the project structure and timeline
-For example, at perious company,I seperate the stable business and frequently updated business, to avoid side effects.
-do a technical selection, base on the requirements and team background,
-then set a timeline and Key milestones to make sure we can deliver the project on time.
-
-3. then I Focus on quality and delivery
-use tools like ESLint and Prettier and git hooks to ensure code quality, build a standard code style make sure everyone follows it.
-do unit tests and integration tests to ensure code run smoothly.
-and always do code reviews before merging code.
-and deliver the project on time.
-I think do this three steps well, we can promote the project well.
+I can give you an example of how I manage development progress in my previous company.
+First, we separate the task into small steps.
+and set a priority for each task.
+Then I set a timeline for each task based on the priority.
+Then we use tools like Jira to track the progress.
+Every morning, we have a quick standup meeting
+to check the progress and confirm today's plan.
+In the end of each day, I report the progress to stakeholders.
+make sure everyone is on the same page during the development.
+So I think with
+planning ahead,
+setting priorities,
+keep communication,
+we can make sure run the project smoothly.
 ```
 ### 9. 你们实施过什么测试
 - What kind of tests have you implemented?
