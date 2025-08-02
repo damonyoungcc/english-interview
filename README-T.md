@@ -3,7 +3,7 @@
 ### 1. 你怎么优化前端性能
 - what did you implement and how did you improve the performance?
 ```txt
-In my previous company, I always need to do performance optimization.
+In my previous company, I foucs on three part to do performance optimization.
 I want to talk about this in three parts:
 1. reduce unnecessary requests to improve load speed
 the most used method is lazy loading,
@@ -43,7 +43,7 @@ I always use Performance panel focus on the following metrics:
 LCP, CLS, and INP
 to check the load speed and user experience.
 // LCP shows first screen loading speed, CLS checks layout stable, and INP reflects user interaction speed.
-- use Rendering panel to monitor FPS to check rendering performance.
+- use Rendering panel to monitor FPS to check rendering performance. frame per second should be 60 FPS.
 - use Coverage tab panel check the unused code.
 - use network panel to check API requests and responses time.
 - use lighthouse to check performance, and SEO.
