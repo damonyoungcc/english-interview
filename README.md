@@ -8,15 +8,13 @@ I'm especially skilled at mobile web development and build reusable components.
 
 I started my career during my internship at ZBJ Network,
 At that time, I helped upgrade their official website to version 2.0 from jQuery to Vue.
-We use server-side rendering (SSR) to improve the initial page load speed and SEO.
+We use nuxt.js to do server-side rendering (SSR)
+improve the initial page load speed and SEO.
 By doing this, we improved the user experience and search engine ranking.
 
-At my last company, I was in charge of banking rewards points systems.
-I led a four front-end engineers team to develop a rewards points system.
+At my last company, I was a front-end team leader, and I led a four-person team to develop a rewards points system.
 I worked closely with the product manager and backend teams to confirm requirements.
 I do code reviews, and manage the progress and code quality.
-I also built a shared admin system template,
-to help unify the user experience and improve development efficiency.
 
 I'm also a top 20 contributor to the open-source project Ant Design Mobile,
 which has 10,000 stars on github.
@@ -35,22 +33,17 @@ That's why I came to Japan.
 
 ## 3.What do you know about Rakuten?
 
-Yes, I know that Rakuten is one of the major tech companies in Japan.
-It started as an e-commerce platform,
-now it offers many services like mobile networks, payments, and a points system.
-I use Rakuten pay and points all the time,
-I think Rakuten's business is very broad and deeply connected to people's daily lives.
-which creates strong user loyalty.
-and I admire Rakuten's international environment and Rakuten shugi, keep optimistic and proactive.
-It's very impressive. That's what I konw about Rakuten so far.
+Yes, I know that Rakuten is one of the major tech companies in Japan. It started as an e-commerce platform, now it offers many services like mobile networks, payments, and a points system.I use Rakuten pay and points all the time
+
+I think Rakuten's business is very broad and deeply connected to people's daily lives.which creates strong user loyalty.
+
+I admire Rakuten's international environment and Rakuten shugi, keep optimistic and proactive. It's very impressive. That's what I konw about Rakuten so far.
 
 ## 4. Why do you want to work at Rakuten? firm
 I’ve actually wanted to apply for a job at Rakuten for a long time.
 I also have many friends working there, and they all speak very highly of Rakuten.
-I really like Rakuten's international environment
-and enjoy working with people from different backgrounds.
-I have experience in the e-commerce and banking industries.
-I believe my skills and experience make me a great match for this job description.
+
+I really like Rakuten's international environment and enjoy working with people from different backgrounds. I have experience in the e-commerce and banking industries. I believe my skills and experience make me a great match for this job description.
 That's why I want to work at Rakuten.
 
 ## 5. What do you think are your strengths?
@@ -231,22 +224,37 @@ I think the biggest challenge is the browser compatibility.
 we build the point mall system use the mobile web page inside the Fumin Bank app.
 you know in China we have many cell phone models,
 we need to support many devices and browsers.
+we must ensure consistent user experience across different devices.
+and provide a fallback solution for older browsers.
 Sometimes it's difficult to balance user experience and older devices.
 I think this is the biggest challenge in this project.
 
-## 3. your experience at Deloitte
+## 3. How did you solve the challenges about the browser compatibility?
+At my previous company, we had a standard solution to handle compatibility issues.
+First, we define a clear support policy for browsers and devices. and developers can use tools like Can I use website to check feature support, and Then we work closely with designers to apply progressive enhancement and graceful degradation
+
+Second, In technical solutions, We use PostCSS with plugins like Autoprefixer to handle vendor prefixes. use feature detection such as @supports to provide fallback options.
+For JavaScript, we use Babel to transpile modern JavaScript features to ES5, ensuring compatibility with older browsers. 
+we also use polyfills like core-js to support new JavaScript features.
+
+Third, we do real device testing across development and testing stages. Our QA team have many real devices models to test the web page.
+
+Finally, we have a monitor system. collecting error reports and data, we can quickly identify compatibility problems in production and adjust our support strategy.
+
+## 4. your experience at Deloitte
 
 I joined Deloitte and worked on a specific project
 in collaboration with three gorges bank.
-my work is to build a loan system using mobile web page inside their banking app. to helped companies apply for loans easily.
+my work is to build a loan system using mobile web page inside their banking app.
+to helped companies apply for loans easily.
 The process included verification, approval, giving credit limits, and loan application.
 
 // when the project is done, I think it's time to move on.
 
-## 4. your experience at ZBJ Network
+## 5. your experience at ZBJ Network
 ZBJ Network is my first company of my career.
 I really learned a lot there.
 ZBJ network has two main business: a freelancer platform
 and enterprise business solutions.
 I worked in the department focused on tax services for company.
-we have a marketing website and a tax service system.
+we have a marketing website and a tax saas service system.
