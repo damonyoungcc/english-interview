@@ -83,7 +83,7 @@ Also, I'm working on my Japanese language
 With my effort and and my positive attitude,
 I think I can overcome this challenge.
 
-## 8. what are your feature plans?
+## 8. what are your future career plans?
 
 In the short term,
 my goal is to get along well with my team to do the project smoothly
@@ -231,11 +231,15 @@ I think this is the biggest challenge in this project.
 
 ## 3. How did you solve the challenges about the browser compatibility?
 At my previous company, we had a standard solution to handle compatibility issues.
-First, we define a clear support policy for browsers and devices. and developers can use tools like Can I use website to check feature support, and Then we work closely with designers to apply progressive enhancement and graceful degradation
+First, we analyze which browsers and devices our customers use.
+and we we set a three-level support strategy.
+full support for major browsers and modern devices
+provide a fallback support for older versions
+and no support for very old browsers and devices.
+and always use tools like Can I use website to check feature support, Base on this strategy, we work closely with designers to apply progressive enhancement and graceful degradation before development.
 
-Second, In technical solutions, We use PostCSS with plugins like Autoprefixer to handle vendor prefixes. use feature detection such as @supports to provide fallback options.
-For JavaScript, we use Babel to transpile modern JavaScript features to ES5, ensuring compatibility with older browsers. 
-we also use polyfills like core-js to support new JavaScript features.
+Second, In technical solutions, We use PostCSS with plugins like Autoprefixer to handle vendor prefixes. use @supports to provide fallback options.
+For JavaScript, we use Babel to transpile modern JavaScript features to ES5, we also use polyfills like core-js to support new JavaScript features.
 
 Third, we do real device testing across development and testing stages. Our QA team have many real devices models to test the web page.
 

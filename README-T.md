@@ -42,7 +42,7 @@ by doing this, we imporve the user experience a lot.
 I always use Performance panel focus on the following metrics:
 LCP, CLS, and INP
 to check the load speed and user experience.
-// LCP shows first screen loading speed, CLS checks layout stable, and INP reflects user interaction speed.
+// LCP shows first screen loading speed, CLS checks layout stable, and INP reflects user interaction to next paint.
 - use Rendering panel to monitor FPS to check rendering performance. frame per second should be 60 FPS.
 - use Coverage tab panel check the unused code.
 - use network panel to check API requests and responses time.
