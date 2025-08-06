@@ -362,8 +362,9 @@ it can reduce direct DOM operations and update the real DOM efficiently.
 - Have you used TypeScript?
 ```txt
 Yes, I have used TypeScript in my daily development.
+TypeScript adds static types for JavaScript.
 1. TypeScript provides static type checking, which helps catch errors early in development.
-2. It has better IDE support like auto-completion and type checking.
+2. It has better IDE support like auto-completion and type suggestions.
 ```
 ### 31 TS不好的地方
 - What are the nagatives of TypeScript?

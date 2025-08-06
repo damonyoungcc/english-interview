@@ -229,19 +229,20 @@ and provide a fallback solution for older browsers.
 Sometimes it's difficult to balance user experience and older devices.
 I think this is the biggest challenge in this project.
 
+
 ## 3. How did you solve the challenges about the browser compatibility?
 At my previous company, we had a standard solution to handle compatibility issues.
 First, we analyze which browsers and devices our customers use.
 and we we set a three-level support strategy.
-full support for major browsers and modern devices
-provide a fallback support for older versions
-and no support for very old browsers and devices.
+for major browsers and modern devices provide full support,
+for older versions provide a fallback support,
+set a borderline for the no support version,
 and always use tools like Can I use website to check feature support, Base on this strategy, we work closely with designers to apply progressive enhancement and graceful degradation before development.
 
 Second, In technical solutions, We use PostCSS with plugins like Autoprefixer to handle vendor prefixes. use @supports to provide fallback options.
 For JavaScript, we use Babel to transpile modern JavaScript features to ES5, we also use polyfills like core-js to support new JavaScript features.
 
-Third, we do real device testing across development and testing stages. Our QA team have many real devices models to test the web page.
+Third, we do real device testing in the testing stages. Our QA team have many real devices models to test the mobile web page.
 
 Finally, we have a monitor system. collecting error reports and data, we can quickly identify compatibility problems in production and adjust our support strategy.
 
