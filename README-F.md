@@ -67,18 +67,67 @@ Number 5, I also use state management libraries like Pinia or Vuex to do global 
 Number 4, I set up tools like ESLint, Prettier to enforce code style, and Husky to run pre-commit and build CI pipelines to validate code quality before merging.
 
 ### Do you have any experience with cookies?
+we don't use cooike to persist data, it's not a good solution, actually, it's a bad solucation, we use cooike maintain the use's login state, we a user login in, the server will verifies them and creates a session. and then sends back a cookie to browswer that contains the session ID，then the broswer will carry the cookie in each request automictally.
+
 ### Which storage have you ever used?
+
 ### Are you familiar with module federation?
+Yes, I’m familiar with Module Federation.
+ It’s a Webpack 5 feature that allows different applications to share code and load modules from each other at runtime, 
+With you don't needing to rebuild everything together.
+ It’s often used in micro‑frontend architectures,
+increases build and deployment complexity, since different apps may use different versions of package.json
+debugging and testing become harder，and when use Typescript, the load module my don't have a type file, so it's need to difine it another time.
+
 ### Difference between synchronous and asynchronous function in JavaScript. Can you provide some examples of when we will use one over another?
+synchronous functions block the following code or other task until the function finish,
+asynchronous functions allow the following code or task to continue execute without waiting for the function to finish.
+We use asynchronous functions like fetching data, reading files, or waiting for timers.
+For example, when we fetch data from an API, use asynchronous functions to avoid blocking the UI 
+and allow the user to another interaction and wait for the data to be returned.
+
 ### Can you provide examples of when you use web accessibility and why it is important?
+yes, I have experience with web accessibility. it can help ensure that all users, including disabilities, can access and use the web page and have a good user experience. it's human rights to use the open web.
+
+We had a wheel picker component, sometimes it has a lot of items we used aria-hidden and aria-label on each list item.
+Only the currently selected item it can is read by screen readers, while the others are hidden.
+We also provided aria-label hints for the first and last items — for example, add additional text like “No previous item” or “No next item” to guide screen reader users clearly.
+
 ### How would you evaluate a new package into your project?
+First, I would check the package's popularity and  GitHub activity, and issues resolved time.
+
+Then I would check the package's documentation, make sure it can resolve my problem and easy to use.
+
+Then I would read the source code of the package see if it has good code quality, and check if it has good test coverage.
+
+Finally, I would try to use the package in a small demo to see if it works as expected and fit my project needs.
+
 ### How would you define unit testing? Have you done any other test than unit testing?
+About design the unit test, First is spearation of concerns, and make sure the component or function has a single responsibility.
+By doing this, it is easy to test and maintain.
+And I also use the integration test to test the interaction between components, ensuring they work together and run smoothly.
+I have contributed to the open-source project ant design mobile, I improved the unit test coverage from 20% to 90%,
+and always check the test coverage and focus on the highlighted lines that your test cases are not covering.
+and add test cases to cover the highlighted lines.
+
 ### Have you ever had any issues implementing SSR?（DDD）
+Yes, I think the most issue is the browser-only APIs like window or document, may caused errors during server-side rendering
+To fix this, I used it in the client side or moved the logic into onMounted.
+
+Another challenge was hydration mismatch, especially when using random IDs or timestamps, so avoid using them during initial render.
+
+Or some third-party libraries not designed for SSR, May cause issues.
 
 ## Design & Strategy
 
 ### What kind of design pattern and strategy are you following?
-When it comes to component design, we focus on high cohesion and low coupling. In other words, each component should focus on a single responsibility and maintain strong internal cohesion, while keeping its dependencies minimal.
+In the browser compatibility, we follow the progressive enhancement strategy and graceful degradation strategy.
+we analyze the browser used by our customers, and for the modern browsers, we use provide a full support and use the modern features.
+for the older devices, we use graceful degradation strategy, we provide a basic fallback solution.
+
+For the reusable components, we follow the high cohesion and low coupling principle. make sure the component and function have a single responsibility. by doing this, it easy to resue and test. also can maintain the project in the long term.
+
+For business logic, we follow the separation concerns principle. we separate the frquently changing business and the stable business logic. so it avoid the side effects when we change the business logic.
 
 ### Could you explain about the design of your project working at the previous company?
 
@@ -87,9 +136,15 @@ When it comes to component design, we focus on high cohesion and low coupling. I
 ## Problem-Solving & Challenges
 
 ### What kind of challenges did you face during the project?
+browser compatibility
+
 ### What kind of interesting problem/solution do you have experience?
+migration strategy, gradual migration
+
 ### What was your biggest achievement so far?
+
 ### What was most challenging?
+
 ### Can you give a specific example of when you faced a challenging situation? What was the reason? What did you determine your solution could fix the problem?
 
 
@@ -105,29 +160,65 @@ And about sacrifice we just focused on the core functionality. Only supported th
 
 so By planning ahead, set priorities, focusing on the most important features, and keeping communication open, we were able to deliver the coupon feature on time.
 
-* Specific examples of innovative things you have done? And what kind of problems have you solved?
-* Example of when you took a lead, but you took responsibility although it was not your responsibility?
-* Can you describe if there was a team member that is not aligning but working on same project. How did you solve the issue? Could you give specific example when you and your team solved a complex problem in innovative or simple way.
-* How was the volume of the migration system? And how did you approach?
+### Specific examples of innovative things you have done? And what kind of problems have you solved?
+web-worker
 
-### Leadership & Soft Skills
+### Example of when you took a lead, but you took responsibility although it was not your responsibility?
+we had a shared upload image component,
 
-* Do you have any experience of leading a team of engineers?
-* What did you learn from team leading experience and what would you do differently?
-* If you join our team, what can you contribute to our team?
-* Are you open to legacy system?
+### Can you describe if there was a team member that is not aligning but working on same project.How did you solve the issue? 
+
+### Could you give specific example when you and your team solved a complex problem in innovative or simple way.
+
+### How was the volume of the migration system? And how did you approach?
+we follow a gruadual migration strategy.
+
+
+
+## Leadership & Soft Skills
+
+### Do you have any experience of leading a team of engineers?
+
+### What did you learn from team leading experience and what would you do differently?
+About leadership, I think communication is the first important thing.
+have a open discussion, ask for feedback, and trust them and respect them.
+I always like to encourage them by taking ownership of their work, and give them the freedom to explore solutions.
+then we have a open discussion to share ideas review the solutions together.
+I think it's better than just let them follow the instructions.
+let them feel value and confident in their work is very important.
+
+### If you join our team, what can you contribute to our team?
+deliver high-quality features, build reusable components, strong problem-solving skills.
+I always like to build some tools to improve the development process and efficiency.
+I focus on code quality and I can make sure the project maintainable in the long term.
+I have strong experience in frontend architecture, I can help design a proper architecture for the project.
+
+### Are you open to legacy system?
+Yes, I’m open to working with old systems. I think it's a good chance to understand the business logic, and I also like to help refactor the system gradually when it possible.
+I want share my experience at my previous company, In one of my previous projects, we were using a legacy UED architecture where the dev server was very slow — it took over two minutes to start and didn’t support hot module replacement.
+
 
 ## Career & Learning
 
 ### What kind of skills do you want to focus on as a software engineer? Please elaborate.
 
-### How do you catch up with new technologies?
+I like to focus on frontend architecture.
+because I really like build tools to improve the develop process or efficiency. and it can grow my skills and let me leave my comfort zone.
+For example, I used Vite virtual modules to build a vite plugin, it can automatically generated route path from the folder structure. it's like Nuxt file-system routing.
+notice thinking pratice and share,These kinds of projects are what I really enjoy doing.
 
+### How do you catch up with new technologies?
+I always catch up with new technologies by github trending, social media to follow the software engineering and technology websites.
+Then I always like to build some side projects or tools to practice new technologies. 
+
+Recently, I built a side project website to help me learn Japanese, I use the openAI open source project Whisper to read a audio file and generate the text
+
+Sometimes I also like to explore how to use it to resolve some problems about my current work. Like I just said, I  use vite to improve our development experience.
 
 ### If you join our team what is your mid-term, long term career goals?
 In the mid term, First, I want to understand the business, work closely with the team to deliver high-quality features. I also like to notice the problems during development, and do some research build some tools or components to improve the development process.
-In the long term, I want to grow into a system architect role. I’m interested in expanding my skills beyond front-end, including backend, DevOps, and system design, so I can better understand and build systems end to end.
 
+In the long term, I want to grow into a system architect role. I’m interested in expanding my skills beyond front-end, including backend, DevOps, and system design, so I can better understand and build systems end to end.
 
 ## Miscellaneous
 
