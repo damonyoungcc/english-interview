@@ -34,13 +34,22 @@ review code, ensure code quality and project maintain in long term
 
 ### What % of your time do you spend for Front-end?
 ### How are you guys working as a team?
+I think the most important thing is keep communicating, 
+every morning we had a quick stand up meeting check the progress and confirm today's plan.
+I always encourage them to notice the repeat pattern during development, and do some research find out best practice, Then we had a open discussion to do technical share and review.
+By doing this, I think everyone will improve their skills and confidence. It’s important that they feel a value in their work. we support each other， and work closely with each other.
+
 ### How do you guys testing new features?
 unit test, integration test, jest, React Testing Library
 CI pipeline, make sure code validate before merge
 use devtools check the performance,
+also we have a QA team use tools like Cypress to do end-to-end testing.
 real device testing, browser compatibility
 
 ### Who deploys the system?
+We have a DevOps team responsible for deploying the project.
+First, we submit a request in our Jira system, we provide the requirement details, deployment plan, and rollback solution.
+After stakeholder testing and confirm in a staging environment, the DevOps team handles the deployment, which is executed through GitLab CI/CD pipelines. and then deploy automatically
 
 ### How are you guys doing code review?
 
@@ -54,23 +63,41 @@ code review
 ### Do you have any experiences with Typescript?
 ### Which version of VueJS are you using?
 ### Do you know what is Vite?
+yes, I have a lot of experience with Vite. and I really like it.
+it's build by Evan You, after he release Vue3.
+Vite is a modern frontend build tool.
+not like Webpack bundle everything at first, it uses native ES modules to load files on needed.
+During the development, it only compiles affected modules for fast HMR.
+use Rollup to build production bundles, which is very fast and efficient.
+and also have a powerful plugin system.
+In our single page application, I used Vite virtual modules to build a vite plugin, it can automatically generated route path from the folder structure. it's like Nuxt file-system routing.
+it's very easy to define the router configuration, and improve the development efficiency.
+
 ### What kind of architecture do you have experience?
 About the front-end architecture
 Number 1 about front-end style side, I use CSS variables to support theming, and sometimes CSS-in-JS for components with dynamic styles. I also use PostCSS plugins like Autoprefixer add vendor prefixes to CSS to handle browser compatibility.
 
 Number 2, design a proper routing, I use Vite’s virtual modules to build a plugin to support file-based routing. It automatically generates route paths from the file system, similar to how Nuxt.js file system routing.
 
-Number 3, I also focus on component reusability. During development, I try to identify repeating patterns and extract them into shared components.
-
-Number 5, I also use state management libraries like Pinia or Vuex to do global state management.
+Number 3, I also focus on component reusability. During development, I try to notice repeating patterns and extract the common logic into reusable components.
 
 Number 4, I set up tools like ESLint, Prettier to enforce code style, and Husky to run pre-commit and build CI pipelines to validate code quality before merging.
 
+Number 5, I also use state management libraries like Pinia or Vuex to do global state management.
+
+Number 6, I set up tools like ESLint, Prettier to enforce code style, and Husky to run pre-commit and build CI pipelines to validate code quality before merging.
+
 ### Do you have any experience with cookies?
-we don't use cooike to persist data, it's not a good solution, actually, it's a bad solucation, we use cooike maintain the use's login state, we a user login in, the server will verifies them and creates a session. and then sends back a cookie to browswer that contains the session ID，then the broswer will carry the cookie in each request automictally.
+we don't use cookies to persist data, it's not a good solution, actually, it's a bad solution, we use cookies maintain the user's login state, when a user logs in, the server verifies them and creates a session id. and then sends back a cookie to the browser that contains the session ID，then the browser will carry the cookie in each request automatically. and the server can identify the user by the cookie.
 
 ### Which storage have you ever used?
+In front-end, we use LocalStorage and SessionStorage to persist data in the browser.
+LocalStorage can persist data even after the browser is closed,
+while SessionStorage only lasts for the current tab session and
+it will be cleared once the tab is closed.
 
+sessionStorage is useful for temporary data and LocalStorage maybe used for theme settings record user preferences.
+I always create a function to handle the storage operations, like you need to persist objects, always use JSON.stringify before set, and use JSON.parse after get. so create a function can help check the edge cases and avoid errors.
 ### Are you familiar with module federation?
 Yes, I’m familiar with Module Federation.
  It’s a Webpack 5 feature that allows different applications to share code and load modules from each other at runtime, 
