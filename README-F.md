@@ -320,3 +320,17 @@ Negative snack is used to display messages need user to confirm or take action, 
 ### vue中计算属性和方法的区别
 - vue difference between computed properties and methods
 
+
+
+### What is CSRF and how do you prevent it?
+CSRF: CSRF happens because browsers trust cookies, not pages, and attackers abuse this behavior to forge cross-site requests.
+This allows attackers to use HTML tags like <img> or <form> to trigger fake requests to another site where you are already logged in.
+For example, when I am logged in on Site A, visiting a malicious Site B. In site B can trigger fake requests to Site A using simple HTML tags without my intention.
+I prevent it by using CSRF tokens, SameSite cookies, and double confirm on sensitive actions.
+
+### What is CORS and how do you handle it?
+Cross-origin happens when the protocol, domain, or port is different between frontend and backend.
+Based on the same-origin policy, browsers block cross-origin requests for security reasons.
+In development, I use proxy like Vite proxy or Webpack proxy to forward requests and avoid CORS issues.
+In production, set CORS headers on the backend to allow specific origins.
+Sometimes use JSONP for GET requests.
