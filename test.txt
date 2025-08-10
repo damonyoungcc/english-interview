@@ -247,14 +247,8 @@ In the long term, I want to grow into a system architect role. I’m interested 
 ## Miscellaneous
 
 ### Can you explain what is jsx and when is appropriate to use?
-JSX is a extension for JavaScript that lets you write HTML-like code in your JavaScript.
-It’s common in React, but Vue also supports JSX.
+
 
 ### When do you use snack in vue.js and when it is not appropriate to use?
 snack is a component that provides a way to display brief messages or notifications to users, typically used for feedback on user actions like form submit success or error messages. 
 Negative snack is used to display messages need user to confirm or take action, should use confirm dialog instead.
-
-
-### vue中计算属性和方法的区别
-- vue difference between computed properties and methods
-
