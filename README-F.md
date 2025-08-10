@@ -258,9 +258,10 @@ we had a shared upload image component,
 ### Can you describe if there was a team member that is not aligning but working on same project.How did you solve the issue? 
 
 ### Could you give specific example when you and your team solved a complex problem in innovative or simple way.
+web-worker
 
 ### How was the volume of the migration system? And how did you approach?
-we follow a gruadual migration strategy.
+we follow a gradual migration strategy.
 ## Leadership & Soft Skills
 
 ### Do you have any experience of leading a team of engineers?
