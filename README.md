@@ -202,7 +202,7 @@ it's like rakuten pay points system,
 encourage user to use our services like savings, buy wealth products.
 the more they use, the more points they earn,then they can use points in the points mall to get products and services.
 
-### project structure
+### project structure（TODO）
 What is the structure of the project?
 
 This system had two parts:
@@ -216,7 +216,9 @@ it's more like a CMS system, can add, edit, delete merchants and products.
 3. report and order management system to check the order history.
 
 ### main tech stack
-The main tech stack is React, Redux, and TypeScript.
+The main tech stack is React, Redux, and TypeScript Modern Javascript, Vite and Webpack.
+And we use SSG framework vitepress to do the documentation system.
+And we have some collaboration project with other company use vue3, vue-router and we need to maintain this project.
 
 ## 2. What were the challenges in this project?
 
@@ -228,7 +230,6 @@ we must ensure consistent user experience across different devices.
 and provide a fallback solution for older browsers.
 Sometimes it's difficult to balance user experience and older devices.
 I think this is the biggest challenge in this project.
-
 
 ## 3. How did you solve the challenges about the browser compatibility?
 At my previous company, we had a standard solution to handle compatibility issues.

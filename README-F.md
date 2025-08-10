@@ -143,9 +143,9 @@ I think sometimes if need to persist objects shape data, always use JSON.stringi
 
 ### Are you familiar with module federation?
 Yes, I’m familiar with Module Federation.
- It’s a Webpack 5 feature that allows different applications to share code and load modules from each other at runtime, 
+It’s a Webpack 5 feature that allows different applications to share code and load modules from each other at runtime, 
 With you don't needing to rebuild everything together.
- It’s often used in micro‑frontend architectures,
+It’s often used in micro‑frontend architectures,
 increases build and deployment complexity, since different apps may use different versions of package.json
 debugging and testing become harder，and when use Typescript, the load module my don't have a type file, so it's need to difine it another time.
 
@@ -173,12 +173,14 @@ Then I would read the source code of the package see if it has good code quality
 Finally, I would try to use the package in a small demo to see if it works as expected and fit my project needs.
 
 ### How would you define unit testing? Have you done any other test than unit testing?
-About design the unit test, First is spearation of concerns, and make sure the component or function has a single responsibility.
+About design the unit test, First I think is make sure code like the component or function has a single responsibility.
 By doing this, it is easy to test and maintain.
+then design the test cases around that responsibility. focus on one clear behavior, cover normal and edge cases,
+
 And I also use the integration test to test the interaction between components, ensuring they work together and run smoothly.
 I have contributed to the open-source project ant design mobile, I improved the unit test coverage from 20% to 90%,
-and always check the test coverage and focus on the highlighted lines that your test cases are not covering.
-and add test cases to cover the highlighted lines.
+also can use tools to check the test coverage and focus on the highlighted lines that your test cases are not covering.
+and add test cases to cover it.
 
 ### Have you ever had any issues implementing SSR?（DDD）
 Yes, I think the most issue is the browser-only APIs like window or document, may caused errors during server-side rendering
@@ -197,19 +199,36 @@ for the older devices, we use graceful degradation strategy, we provide a basic 
 
 For the reusable components, we follow the high cohesion and low coupling principle. make sure the component and function have a single responsibility. by doing this, it easy to resue and test. also can maintain the project in the long term.
 
+For the architecture, we follow the modular design principle. we separate the logic into modules, each module has a single responsibility. by doing this, it easy to test and maintain.
+
 For business logic, we follow the separation concerns principle. we separate the frquently changing business and the stable business logic. so it avoid the side effects when we change the business logic.
 
-### Could you explain about the design of your project working at the previous company?
+### Could you explain about the design of your project working at the previous company?(TODO)
+
 
 ### What you need to consider when you design e-commerce service.
+When designing an e-commerce service, I focus on several parts
+First, performance — optimizing initial page load speed with code splitting, tree shaking, lazy loading, and CDN caching, as well as preloading resources.
+Second, SEO — using server-side rendering, semantic HTML, and proper meta tags TDK to ensure pages are well indexed.
+Third, security — protecting user data, ensuring secure payments.
+Fourth, user experience — clear navigation, mobile first design, and accessibility.
+And finally, keeping the codebase modular, using reusable components, and adding test cases to support long-term growth.
+
 
 ## Problem-Solving & Challenges
 
 ### What kind of challenges did you face during the project?
-browser compatibility
+One challenge was browser compatibility, I remember in 2021, as we needed to support iOS 9. The project used modern features like CSS variables, which are not supported in iOS 9. To solve this, I implemented a Webpack plugin that generated a patch CSS file replacing variables with default values, 
+and the system automatically loaded this file when running in an iOS 9 environment.
+
+Another challenge was optimizing the initial page load speed for the points mall, especially because it was embedded in a mobile app WebView with limited performance. We solved it by applying code splitting, lazy loading non-critical components, and preloading essential assets.
 
 ### What kind of interesting problem/solution do you have experience?
-migration strategy, gradual migration
+
+One challenge was migrating our old Webpack-based architecture to Vite without changing any code.
+The old Webpack-based architecture had slow startup and no HMR, it slow down the development efficiency, but we also needed to keep the project stable and avoid any disruptions.
+I developed a new development command using Node.js CLI tools, and run a separate Vite server for development, and implemented the original architecture’s features, such as use vite plugin build a file-based routing and CSS module hot replacement. This greatly improved development speed.
+For testing and production, we still used the original Webpack build, so the migration was gradual and risk-free, improving efficiency while keeping the business stable.
 
 ### What was your biggest achievement so far?
 
@@ -263,7 +282,6 @@ I have strong experience in frontend architecture, I can help design a proper ar
 ### Are you open to legacy system?
 Yes, I’m open to working with old systems. I think it's a good chance to understand the business logic, and I also like to help refactor the system gradually when it possible.
 I want share my experience at my previous company, In one of my previous projects, we were using a legacy UED architecture where the dev server was very slow — it took over two minutes to start and didn’t support hot module replacement.
-
 
 ## Career & Learning
 
