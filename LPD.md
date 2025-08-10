@@ -142,3 +142,23 @@ Proficient in English, native level or TOEIC (or equivalent) score 800+
 ## Language: English and/or Japanese
 
 **语言要求：英语 和/或 日语**
+
+
+
+Shaped “progressive migration” from Vue 2 to Vue 3: gradual migration of components by keeping both versions in the same Laravel project using WebPack and Vite.
+设计并实施了从 Vue 2 到 Vue 3 的“渐进式迁移”：在同一个 Laravel 项目中同时保留两个版本，通过 WebPack 和 Vite 逐步迁移组件。
+
+Faced frontend performance enhancements utilizing SSR (Nuxt3), Redis caching, and Nitro server-based BFF pattern; Reached 50% performance improvement.
+通过 SSR（Nuxt3）、Redis 缓存以及基于 Nitro 服务器的 BFF 模式进行前端性能优化；性能提升达到 50%。
+
+Successfully transitioned a PHP Symphony-based auction platform to Nuxt 3, independently resolving documentation gaps and re-implementing UI features using Figma, resulting in a 90% UI overhaul.
+成功将基于 PHP Symphony 的拍卖平台迁移至 Nuxt 3，独立解决了文档缺失问题，并使用 Figma 重新实现 UI 功能，完成了 90% 的 UI 改版。
+
+Collaborated closely with international teams and stakeholders, maintaining clear communication, reporting, and driving UX/UI improvements.
+与国际团队和利益相关者紧密合作，保持清晰沟通和报告，并推动 UX/UI 改进。
+
+Maintained rigorous Unit Testing practices, ensuring coverage consistently above 80%.
+保持严格的单元测试实践，确保测试覆盖率始终在 80% 以上。
+
+Actively facilitated close communication within the team and with the QA team and maintained transparent reporting with management on ongoing tasks, potential issues, and suggestions for UX/UI improvements.
+积极促进团队内部及与 QA 团队的紧密沟通，并与管理层保持透明的任务进度、潜在问题及 UX/UI 改进建议的汇报。

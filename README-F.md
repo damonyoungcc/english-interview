@@ -31,6 +31,7 @@ talk with stakeholders set priorities, manage progress and timelines
 front-end architecture, build reusable components
 develop features, write code, test and debug
 review code, ensure code quality and project maintain in long term
+work with my team and support them and motivate them
 
 ### What % of your time do you spend for Front-end?
 ### How are you guys working as a team?
@@ -42,8 +43,8 @@ By doing this, I think everyone will improve their skills and confidence. It’s
 ### How do you guys testing new features?
 unit test, integration test, jest, React Testing Library
 CI pipeline, make sure code validate before merge
-use devtools check the performance,
 also we have a QA team use tools like Cypress to do end-to-end testing.
+use devtools check the performance,
 real device testing, browser compatibility
 
 ### Who deploys the system?
@@ -54,14 +55,50 @@ After stakeholder testing and confirm in a staging environment, the DevOps team 
 ### How are you guys doing code review?
 
 ### How do you keep the quality good?
-eslint and prettier
-test cases, unit test, integration test
-code review
+use tools like eslint and prettier or husky pre-commit hooks to enforce code style and quality
+write test cases, unit test, integration test， end-to-end test and we also do a real device testing
+code review check the code quality and best practices
 
 ## Skills & Technical Experience
 
 ### Do you have any experiences with Typescript?
+yes, I have a lot of experience with TypeScript, I have been working with TypeScript and build a lot of production projects.
+At my previous company,  I use Typescript in React projects to improve type safety, reduce runtime errors, and ensure the project easy to maintain in a long term.
+When I build resuable component, I use TypeScript features like generics, utility types like Pick and Partial Omit to create reusable components and APIs.
+Overall, TypeScript has helped me catch bugs earlier, improve code quality, and collaborate better with my team.
+
+### type and interface differences
+In TypeScript, both types and interfaces can be used to define the shape of an object, but the type is more flexible can define the unions and intersections. 
+Interfaces are generally preferred for defining object shapes
+
+###  unknown vs any difference
+any can be used for anything, unsafe.
+unknown requires type checking before use, more safer.
+
+### Generics
+Generics make types as parameters for reusability and make it not lose type information.
+For example, I wrote a generic function to remove duplicates from arrays,
+but you can early know the type of the elements in the array,
+and it works for numbers, strings, or even custom objects without losing type information.
+
+### utility
+Partial<T>: make all properties optional
+Pick<T,K>: keep only some properties
+Omit<T,K>: remove some properties
+
 ### Which version of VueJS are you using?
+In the beginning of my carrer, I used vue2 to build the ZBJ network official website. At that time we migrated the stack from jQuery to Vue2, and use framework Nuxt.js to improve the initial page load performance and SEO.
+
+At my previous company, we have many projects collaborate with other companies, and we used Vue 3 for those.
+Vue 3 has better performance, a smaller bundle size, and introduces the Composition API, which allows us to write many reusable functions to organize logic better. It also has better TypeScript support compared to Vue 2.
+
+### VueJS VS React differences
+1. Vue uses a template-based syntax, while React uses JSX
+2. React has a one-way data flow, and Vue supports both one-way and two-way binding
+3. The biggest difference is that Vue automatically tracks dependencies through its reactivity system, so developers don’t need to manually specify them. In React, you have to declare dependencies, like in the dependency array of useEffect. 
+This makes Vue less of a mental burden for developers.
+
+
 ### Do you know what is Vite?
 yes, I have a lot of experience with Vite. and I really like it.
 it's build by Evan You, after he release Vue3.
@@ -75,6 +112,9 @@ it's very easy to define the router configuration, and improve the development e
 
 ### What kind of architecture do you have experience?
 About the front-end architecture
+In tools side, I have experience with Vite, Webpack, and Rollup.
+
+
 Number 1 about front-end style side, I use CSS variables to support theming, and sometimes CSS-in-JS for components with dynamic styles. I also use PostCSS plugins like Autoprefixer add vendor prefixes to CSS to handle browser compatibility.
 
 Number 2, design a proper routing, I use Vite’s virtual modules to build a plugin to support file-based routing. It automatically generates route paths from the file system, similar to how Nuxt.js file system routing.
@@ -88,16 +128,19 @@ Number 5, I also use state management libraries like Pinia or Vuex to do global 
 Number 6, I set up tools like ESLint, Prettier to enforce code style, and Husky to run pre-commit and build CI pipelines to validate code quality before merging.
 
 ### Do you have any experience with cookies?
-we don't use cookies to persist data, it's not a good solution, actually, it's a bad solution, we use cookies maintain the user's login state, when a user logs in, the server verifies them and creates a session id. and then sends back a cookie to the browser that contains the session ID，then the browser will carry the cookie in each request automatically. and the server can identify the user by the cookie.
+we don't use cookies to persist data, it's not a good solution, actually, it's a bad solution, we use cookies maintain the user's login state, when a user logs in, the server verifies the user and creates a session id. 
+then server use Set-Cookie header to contains the session ID,  and send back this cookie to browser,
+then the browser will carry the cookie in each request automatically. so the server can identify the user by the cookie.
 
 ### Which storage have you ever used?
 In front-end, we use LocalStorage and SessionStorage to persist data in the browser.
 LocalStorage can persist data even after the browser is closed,
-while SessionStorage only lasts for the current tab session and
-it will be cleared once the tab is closed.
+while SessionStorage only lasts for the current browser tab session and
+it will be cleared when the tab is closed.
 
 sessionStorage is useful for temporary data and LocalStorage maybe used for theme settings record user preferences.
-I always create a function to handle the storage operations, like you need to persist objects, always use JSON.stringify before set, and use JSON.parse after get. so create a function can help check the edge cases and avoid errors.
+I think sometimes if need to persist objects shape data, always use JSON.stringify before set, and use JSON.parse after get. so create a function extract the logic can help check the edge cases and avoid errors.
+
 ### Are you familiar with module federation?
 Yes, I’m familiar with Module Federation.
  It’s a Webpack 5 feature that allows different applications to share code and load modules from each other at runtime, 
