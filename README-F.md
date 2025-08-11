@@ -7,20 +7,24 @@ currently, base tokyo, study school, 7years, build use, expecially .
 planning apply job, many friends, speak highly
 I admire culture, use rakuten pay, deep connection to daily life, have a global impact
 skill and experience great match
-I enjoy working background, one years japanese course finish, move on,
+I enjoy working background, 
+one years japanese course finish, move on,
 After one year living in Japan, I really like here, and I want work and live here.
 that's why I am looking for a job now.
 
 ### When you join the company, what kind of environment and requirement are you looking for?
-corporation, open environment, work close teammates, share technology knowledge, support each other.
-take challenge and learn new things,grow skills, build tools and components, and solve problems.
+corporation free and open environment, we work closely, we share tech knowledge, we support each other.
+About requirements, I expect we have a clear goal, opportunities to learn and grow my skills. and a culture focus on quality and efficiency.
+that's pretty much what I'm looking for.
 
 ### What do you expect from the new work environment?
 expect corporation, open environment, work close teammates, share technology knowledge, support each other.
 take challenge and learn new things,grow skills, build tools and components, and solve problems.
 
 ### What is your mid/long-term career goal?
+About mid term, I think the first important thing to me, is get along with my team and deliver the high-quality features on time. During this time, I will quickly get familiar with the business and technical architecture, and focus on analyzing and summarizing problems during development, I'd like to contribute my skills and experience and ideas to build tools and reusable components to improve our development efficiency and code quality.
 
+For long term, I want to become a system architect, I don't want to define myself be a front-end developer only. I want to expand my knowledge and skills to be a full-stack developer, I saw in the job description that your company need SSR skills. I already have some Nuxt.js experience in my previous company, I hope to start from the BFF layer, gradually expand my back-end knowledge, and become a full-stack engineer. I'm open to take on new challenges and I'm not afraid to leave my comfort zone.
 
 ## Current Role & Teamwork
 
@@ -76,10 +80,10 @@ any can be used for anything, unsafe.
 unknown requires type checking before use, more safer.
 
 ### Generics
-Generics make types as parameters for reusability and make it not lose type information.
-For example, I wrote a generic function to remove duplicates from arrays,
-but you can early know the type of the elements in the array,
-and it works for numbers, strings, or even custom objects without losing type information.
+For example, If I wrote a function to remove duplicates elements from arrays,
+but I can't early know the type of the elements in the array, I this case use TS generics to make it work for any type.
+Generics make types as parameters and make it not lose type information.
+it's very powerful and useful for building reusable components and functions.
 
 ### utility
 Partial<T>: make all properties optional
@@ -275,10 +279,11 @@ I think it's better than just let them follow the instructions.
 let them feel value and confident in their work is very important.
 
 ### If you join our team, what can you contribute to our team?
-deliver high-quality features, build reusable components, strong problem-solving skills.
-I always like to build some tools to improve the development process and efficiency.
-I focus on code quality and I can make sure the project maintainable in the long term.
-I have strong experience in frontend architecture, I can help design a proper architecture for the project.
+I can contribute my strong front-end skills at TypeScript Vue React, I focus on deliver high quality features on time, ensure the project run smoothly. I have strong skill to resolve problems and notice the problem during development, I can build reusable components and tools to improve the development efficiency.
+
+I have principle of code quality, I always write clean, easy to read code, and follow best practices. I can make sure the project maintainable in the long term.
+
+In the long term, I like to learn new things and expand my skills and share my knowledge with the team. so I can help the team grow and support each other to grow together.
 
 ### Are you open to legacy system?
 Yes, I’m open to working with old systems. I think it's a good chance to understand the business logic, and I also like to help refactor the system gradually when it possible.
