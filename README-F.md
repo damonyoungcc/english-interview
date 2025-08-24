@@ -12,10 +12,27 @@ one years japanese course finish, move on,
 After one year living in Japan, I really like here, and I want work and live here.
 that's why I am looking for a job now.
 
+```txt
+My one year course finish → move on
+1 year in Japan → like here → work & live
+planning apply job → many friends / speak highly
+Admire culture open environment ,enjoy-
+use Rakuten Pay → daily life connection
+Skills & experience match
+```
+
+
 ### When you join the company, what kind of environment and requirement are you looking for?
 corporation free and open environment, we work closely, we share tech knowledge, we support each other.
 About requirements, I expect we have a clear goal, opportunities to learn and grow my skills. and a culture focus on quality and efficiency.
 that's pretty much what I'm looking for.
+
+```txt
+corporation & Free & open environment
+Work closely / share knowledge / support each other
+Clear goals & opportunities Learning & growth skill
+Culture: quality + efficiency
+```
 
 ### What do you expect from the new work environment?
 expect corporation, open environment, work close teammates, share technology knowledge, support each other.
@@ -26,9 +43,33 @@ About mid term, I think the first important thing to me, is get along with my te
 
 For long term, I want to become a system architect, I don't want to define myself be a front-end developer only. I want to expand my knowledge and skills to be a full-stack developer, I saw in the job description that your company need SSR skills. I already have some Nuxt.js experience in my previous company, I hope to start from the BFF layer, gradually expand my back-end knowledge, and become a full-stack engineer. I'm open to take on new challenges and I'm not afraid to leave my comfort zone.
 
+```txt
+Mid-term: First,get along team → deliver high-quality features on time
+Quickly familiar business + technical architecture
+Analyze + summarize problems
+Contribute skills/experience/ideas → build tools + reusable components → improve efficiency & code quality
+Long-term: become system architect → not only front-end
+Expand knowledge & skills → full-stack engineer
+JD: need SSR → have Nuxt.js exp
+Start from BFF → focus performance and expand back-end knowledge
+Open to new challenges → not afraid comfort zone
+```
+
+
 ## Current Role & Teamwork
 
 ### What is your current role and responsibilities?
+```
+My Role Team leader (4 person FE engineers incl. me)
+led develop use React + Redux + TypeScript
+Front-end architecture + system design
+commuate Work closely → confirm requirements
+Track progress → deliver on time
+Code review → long-term quality
+lead my team → support & motivate
+```
+
+
 ### What kind of front end task are you handling?
 clarify and summarize requirements
 talk with stakeholders set priorities, manage progress and timelines
@@ -44,12 +85,29 @@ every morning we had a quick stand up meeting check the progress and confirm tod
 I always encourage them to notice the repeat pattern during development, and do some research find out best practice, Then we had a open discussion to do technical share and review.
 By doing this, I think everyone will improve their skills and confidence. It’s important that they feel a value in their work. we support each other， and work closely with each other.
 
+```txt
+1. Keep communicating
+Daily stand-up → check progress + confirm plan
+If have any blockers → Support each other → work closely
+2. Trust Encourage: notice repeat pattern → research → best practice
+Open discussion → tech share + review
+Improve skills + confidence feel Value in work
+```
+
 ### How do you guys testing new features?
 unit test, integration test, jest, React Testing Library
 CI pipeline, make sure code validate before merge
 also we have a QA team use tools like Cypress to do end-to-end testing.
 use devtools check the performance,
 real device testing, browser compatibility
+
+```
+Unit test + integration test → Jest + React Testing Library
+CI pipeline → validate before merge
+QA team → Cypress → E2E testing
+Real device testing → browser compatibility
+DevTools → check performance
+```
 
 ### Who deploys the system?
 We have a DevOps team responsible for deploying the project.
@@ -86,9 +144,9 @@ Generics make types as parameters and make it not lose type information.
 it's very powerful and useful for building reusable components and functions.
 
 ### utility
-Partial<T>: make all properties optional
-Pick<T,K>: keep only some properties
-Omit<T,K>: remove some properties
+Partial<T> makes all properties optional,
+Pick<T, K> keeps only the properties you choose and ignores the rest,
+Omit<T, K> removes the properties you don’t need and keeps everything else.
 
 ### Which version of VueJS are you using?
 In the beginning of my carrer, I used vue2 to build the ZBJ network official website. At that time we migrated the stack from jQuery to Vue2, and use framework Nuxt.js to improve the initial page load performance and SEO.
@@ -117,7 +175,6 @@ it's very easy to define the router configuration, and improve the development e
 ### What kind of architecture do you have experience?
 About the front-end architecture
 In tools side, I have experience with Vite, Webpack, and Rollup.
-
 
 Number 1 about front-end style side, I use CSS variables to support theming, and sometimes CSS-in-JS for components with dynamic styles. I also use PostCSS plugins like Autoprefixer add vendor prefixes to CSS to handle browser compatibility.
 
@@ -222,8 +279,29 @@ And finally, keeping the codebase modular, using reusable components, and adding
 ## Problem-Solving & Challenges
 
 ### What kind of challenges did you face during the project?
-One challenge was browser compatibility, I remember in 2021, as we needed to support iOS 9. The project used modern features like CSS variables, which are not supported in iOS 9. To solve this, I implemented a Webpack plugin that generated a patch CSS file replacing variables with default values, 
+One challenge was browser compatibility, I remember in 2021, as we needed to support iOS 9. The project used modern features like CSS variables, which are not supported in iOS 9. To solve this, I implemented a Webpack plugin that generated a patch CSS file replace css variables with default values, 
 and the system automatically loaded this file when running in an iOS 9 environment.
+
+
+```txt
+At my previous company, we had a standard solution to handle compatibility issues.
+First, we analyze which browsers and devices our customers use.
+and we we set a three-level support strategy.
+for major browsers and modern devices provide full support,
+for older versions provide a fallback support,
+set a borderline for the no support version,
+and always use tools like Can I use website to check feature support, Base on this strategy, we work closely with designers to apply progressive enhancement and graceful degradation before development.
+
+Second, In technical solutions, We use PostCSS with plugins like Autoprefixer to handle vendor prefixes. use @supports to provide fallback options.
+For JavaScript, we use Babel to transpile modern JavaScript features to ES5, we also use polyfills like core-js to support new JavaScript features.
+
+Third, we do real device testing in the testing stages. Our QA team have many real devices models to test the mobile web page.
+
+Finally, we have a monitor system. collecting error reports and data, we can quickly identify compatibility problems in production and adjust our support strategy.
+
+```
+
+
 
 Another challenge was optimizing the initial page load speed for the points mall, especially because it was embedded in a mobile app WebView with limited performance. We solved it by applying code splitting, lazy loading non-critical components, and preloading essential assets.
 
@@ -251,7 +329,7 @@ Every morning, we have a quick standup meeting to check the progress, and make s
 
 And about sacrifice we just focused on the core functionality. Only supported the most common coupon type, use a basic UI, and in the admin system we just added basic management functions.
 
-so By planning ahead, set priorities, focusing on the most important features, and keeping communication open, we were able to deliver the coupon feature on time.
+so By planning ahead, set priorities, focusing on the most important features, and keeping communication open, we deliver the coupon feature on time.
 
 ### Specific examples of innovative things you have done? And what kind of problems have you solved?
 web-worker
@@ -316,6 +394,8 @@ In the long term, I want to grow into a system architect role. I’m interested 
 ### Can you explain what is jsx and when is appropriate to use?
 JSX is a extension for JavaScript that lets you write HTML-like code in your JavaScript.
 It’s common in React, but Vue also supports JSX.
+
+I use JSX when I want to write components in a more declarative way, it makes the code more readable and easier to understand.
 
 ### When do you use snack in vue.js and when it is not appropriate to use?
 snack is a component that provides a way to display brief messages or notifications to users, typically used for feedback on user actions like form submit success or error messages. 
